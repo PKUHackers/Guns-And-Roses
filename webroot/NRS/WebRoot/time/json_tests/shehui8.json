@@ -1,0 +1,324 @@
+[
+{
+	"title":"深圳官员涉嫌猥亵女童",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2008-11-04 12:16:00",
+		"enddate":"2008-11-04 12:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2008-11-04\/121616585562.shtml\">read more<\/a>",
+		"title":"律师称深圳高官涉嫌猥亵女童缺乏直接证据",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-02 02:35:00",
+		"enddate":"2008-11-02 02:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2008-11-02\/023514665298s.shtml\">read more<\/a>",
+		"title":"林嘉祥已从上海返回深圳",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-06 14:34:00",
+		"enddate":"2008-11-06 14:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2008-11-06\/143416601707.shtml\">read more<\/a>",
+		"title":"官员猥亵案女童父亲对深圳警方结论持保留意见",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-03 19:13:00",
+		"enddate":"2008-11-03 19:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2008-11-03\/191316579944.shtml\">read more<\/a>",
+		"title":"交通运输部：林嘉祥被免职待问题查清后再严处",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-04 10:37:00",
+		"enddate":"2008-11-04 10:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2008-11-04\/103716585213.shtml\">read more<\/a>",
+		"title":"深圳海事局党组书记林嘉祥亲口认错音频曝光",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-01 14:21:00",
+		"enddate":"2008-11-01 14:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2008-11-01\/142116569587.shtml\">read more<\/a>",
+		"title":"受害人家长难以接受林嘉祥醉酒失态说法",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-10-31 09:09:00",
+		"enddate":"2008-10-31 09:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2008-10-31\/090916563109.shtml\">read more<\/a>",
+		"title":"自称与市长平级男子被指猥亵女童(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-19 02:33:00",
+		"enddate":"2008-11-19 02:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2008-11-19\/023316679512.shtml\">read more<\/a>",
+		"title":"官员涉嫌猥亵女童续：女童父母不接受警方结论",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-01 08:36:00",
+		"enddate":"2008-11-01 08:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2008-11-01\/083616568343.shtml\">read more<\/a>",
+		"title":"深圳海事局官员猥亵女童续：受害者父母拒调解",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-03 05:19:00",
+		"enddate":"2008-11-03 05:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2008-11-03\/051916575314.shtml\">read more<\/a>",
+		"title":"深圳官员涉嫌猥亵续：受害女童父亲拟起诉",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-01 04:15:00",
+		"enddate":"2008-11-01 04:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2008-11-01\/041514662205s.shtml\">read more<\/a>",
+		"title":"深圳海事局党组书记涉嫌猥亵女童被停职",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-01 02:04:00",
+		"enddate":"2008-11-01 02:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2008-11-01\/020416566305.shtml\">read more<\/a>",
+		"title":"林嘉祥对受害人及家属进行言语威胁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-06 14:05:00",
+		"enddate":"2008-11-06 14:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2008-11-06\/140516601632.shtml\">read more<\/a>",
+		"title":"交通部：林嘉祥事件反映个别干部作风问题突出",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-01 01:22:00",
+		"enddate":"2008-11-01 01:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2008-11-01\/012214661278s.shtml\">read more<\/a>",
+		"title":"深圳一高官被指猥亵女童遭停职",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-01 01:56:00",
+		"enddate":"2008-11-01 01:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2008-11-01\/015616565845.shtml\">read more<\/a>",
+		"title":"深圳官员涉嫌猥亵女童续:同事称此事不太可能",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-05 10:52:00",
+		"enddate":"2008-11-05 10:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2008-11-05\/105216593442.shtml\">read more<\/a>",
+		"title":"深圳公安局今日或公布林嘉祥涉嫌猥亵调查结果",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-01 07:47:00",
+		"enddate":"2008-11-01 07:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2008-11-01\/074716569491.shtml\">read more<\/a>",
+		"title":"专家建议家长要充分满足女孩的安全感需求",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-01 13:36:00",
+		"enddate":"2008-11-01 13:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2008-11-01\/133614664577s.shtml\">read more<\/a>",
+		"title":"深圳海事局党组书记涉嫌猥亵女童被停职",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-01 07:36:00",
+		"enddate":"2008-11-01 07:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2008-11-01\/073614663210s.shtml\">read more<\/a>",
+		"title":"深圳海事局党委书记林嘉祥被停职调查",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-10-31 19:04:00",
+		"enddate":"2008-10-31 19:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2008-10-31\/190414661032s.shtml\">read more<\/a>",
+		"title":"深圳海事局召开新闻发布会：林嘉祥已被停职调查",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_8_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shehui_type"},
+		"ypix":"0",
+		"id":"shehui8_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shehui8_type",
+	"size_importance":"true"
+}]

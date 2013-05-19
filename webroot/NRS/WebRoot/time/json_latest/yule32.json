@@ -1,0 +1,249 @@
+[
+{
+	"title":"电影《二次曝光》",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-25 15:04:00",
+		"enddate":"2012-09-25 15:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/p\/2012-09-25\/15043751867.shtml\">read more<\/a>",
+		"title":"图文：《二次曝光》首映-主创台下观礼",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_32_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 06:32:00",
+		"enddate":"2012-09-30 06:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-30\/06323756478.shtml\">read more<\/a>",
+		"title":"《二次曝光》冯绍峰演两个极端一度曾崩溃",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_32_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 16:25:00",
+		"enddate":"2012-10-15 16:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-10-15\/16253764077.shtml\">read more<\/a>",
+		"title":"电影《二次曝光》涉嫌抄袭陷入官司",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_32_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 23:56:00",
+		"enddate":"2012-09-20 23:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-20\/23563747721.shtml\">read more<\/a>",
+		"title":"《二次曝光》曝终极预告 范冰冰称假戏真做",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_32_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 09:56:00",
+		"enddate":"2012-10-04 09:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-10-04\/09563757433.shtml\">read more<\/a>",
+		"title":"《二次曝光》热映 孔维闯入范冰冰的幻觉世界",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_32_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-03 13:54:00",
+		"enddate":"2012-10-03 13:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-10-03\/13543757276.shtml\">read more<\/a>",
+		"title":"《二次曝光》冯绍峰粉丝助力票房",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_32_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 10:05:00",
+		"enddate":"2012-09-29 10:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-29\/10053755820.shtml\">read more<\/a>",
+		"title":"霍思燕《二次曝光》躺着中枪“被小三”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_32_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 18:23:00",
+		"enddate":"2012-09-20 18:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-20\/18233747578.shtml\">read more<\/a>",
+		"title":"范冰冰表现获李玉称赞：预见不到她的未来",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_32_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 11:09:00",
+		"enddate":"2012-09-30 11:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-30\/11093756544.shtml\">read more<\/a>",
+		"title":"《二次曝光》单日票房破千万 盗梦式结局",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_32_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 15:23:00",
+		"enddate":"2012-10-09 15:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-10-09\/15233759664_2.shtml\">read more<\/a>",
+		"title":"实录：范冰冰坦然面对吐槽 遇到李玉是缘分(2)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_32_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-06 09:39:00",
+		"enddate":"2012-10-06 09:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-10-06\/09393757924.shtml\">read more<\/a>",
+		"title":"孔维《二次曝光》挑战演绎出轨游戏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_32_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 10:57:00",
+		"enddate":"2012-09-25 10:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-25\/10573751558.shtml\">read more<\/a>",
+		"title":"《二次曝光》范冰冰感谢李玉成就演技质变",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_32_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 15:03:00",
+		"enddate":"2012-09-25 15:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/p\/2012-09-25\/15033751859.shtml\">read more<\/a>",
+		"title":"图文：《二次曝光》首映-主创祝福影片大卖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_32_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 03:39:00",
+		"enddate":"2012-10-08 03:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-10-08\/03393758326.shtml\">read more<\/a>",
+		"title":"范爷过度曝光影迷看吐  大假票房7700万",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_32_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 18:07:00",
+		"enddate":"2012-09-27 18:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-27\/18073754532.shtml\">read more<\/a>",
+		"title":"张艺谋评《曝光》：李玉野心大范冰冰自如",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_32_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule32_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule32_type",
+	"size_importance":"true"
+}]

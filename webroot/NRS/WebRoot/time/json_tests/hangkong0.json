@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012范堡罗航展",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-07-13 10:18:00",
+		"enddate":"2012-07-13 10:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-13\/101823525.html\">read more<\/a>",
+		"title":"爱尔兰Avolon飞机租赁承诺订购15架A320neo",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-10 11:43:00",
+		"enddate":"2012-07-10 11:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-10\/114323044.html\">read more<\/a>",
+		"title":"阿基亚以色列航空订购4架空客A321neo飞机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-06 10:28:00",
+		"enddate":"2012-07-06 10:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-06\/102822685.html\">read more<\/a>",
+		"title":"雷声公司将邀请Twitter关注者作航展嘉宾",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-12 09:28:00",
+		"enddate":"2012-07-12 09:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-12\/092823346.html\">read more<\/a>",
+		"title":"国产支线飞机ARJ21交付日期推迟至2013年",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-03 11:49:00",
+		"enddate":"2012-07-03 11:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-03\/114922348.html\">read more<\/a>",
+		"title":"俄罗斯勇士飞行表演队将参加范堡罗航展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-10 12:28:00",
+		"enddate":"2012-07-10 12:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-10\/122823055.html\">read more<\/a>",
+		"title":"ALC宣布订购价值19亿美元LEAP-1B发动机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-13 10:16:00",
+		"enddate":"2012-07-13 10:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-13\/101623524.html\">read more<\/a>",
+		"title":"俄UTair航空确认订购20架空客A321飞机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-06 12:15:00",
+		"enddate":"2012-07-06 12:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-06\/121522716.html\">read more<\/a>",
+		"title":"俄媒体称国际航空巨头将携多型新品亮相航展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-11 14:39:00",
+		"enddate":"2012-07-11 14:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-11\/143923265.html\">read more<\/a>",
+		"title":"阿古斯塔新一代直升机家族首次亮相范堡罗",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-13 10:14:00",
+		"enddate":"2012-07-13 10:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-13\/101423523.html\">read more<\/a>",
+		"title":"Synergy Aerospace确认订购9架空客A330",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-13 08:30:00",
+		"enddate":"2012-07-13 08:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-13\/083023468.html\">read more<\/a>",
+		"title":"海航获SKYTRAX评2012中国最佳航空公司",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-12 10:25:00",
+		"enddate":"2012-07-12 10:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-12\/102523373.html\">read more<\/a>",
+		"title":"中飞租赁意向订购36架空客A320系列飞机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-12 11:21:00",
+		"enddate":"2012-07-12 11:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-12\/112123383.html\">read more<\/a>",
+		"title":"爱尔兰Avolon租赁公司承诺购买25架737",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-09 17:01:00",
+		"enddate":"2012-07-09 17:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-09\/170122961.html\">read more<\/a>",
+		"title":"2012英国范堡罗航展今日正式开幕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-13 09:34:00",
+		"enddate":"2012-07-13 09:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-13\/093423483.html\">read more<\/a>",
+		"title":"海航东航深航范堡罗航展获SKYTRAX奖项",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-12 10:21:00",
+		"enddate":"2012-07-12 10:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-12\/102123370.html\">read more<\/a>",
+		"title":"安东诺夫在范保罗航展展示先进货机安-178",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-16 17:06:00",
+		"enddate":"2012-07-16 17:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-16\/170623803.html\">read more<\/a>",
+		"title":"英国范堡罗航展落幕成交订单达720亿美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-13 10:07:00",
+		"enddate":"2012-07-13 10:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-13\/100723520.html\">read more<\/a>",
+		"title":"俄将购72架外国无人机 候选国包括以色列",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-12 12:30:00",
+		"enddate":"2012-07-12 12:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-12\/123023400.html\">read more<\/a>",
+		"title":"上海航空公司签订三年期普惠发动机管理协议",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-10 12:44:00",
+		"enddate":"2012-07-10 12:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-07-10\/124423060.html\">read more<\/a>",
+		"title":"GEnx发动机运营9个月持续卓越的表现",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_0_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"hangkong_type"},
+		"ypix":"0",
+		"id":"hangkong0_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"hangkong0_type",
+	"size_importance":"true"
+}]

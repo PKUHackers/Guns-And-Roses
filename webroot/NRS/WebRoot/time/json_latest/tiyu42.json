@@ -1,0 +1,249 @@
+[
+{
+	"title":"王�被开除出国家队并禁赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-08-06 15:54:00",
+		"enddate":"2011-08-06 15:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2011-08-06\/15545691662.shtml\">read more<\/a>",
+		"title":"主任避谈宾馆监控录像 冬管中心：国家队大门未关死",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_42_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-07 09:54:00",
+		"enddate":"2011-08-07 09:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2011-08-07\/09545692709.shtml\">read more<\/a>",
+		"title":"认真反思自己 王�：无限期停赛让我面前没有光明",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_42_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-27 14:57:00",
+		"enddate":"2011-08-27 14:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2011-08-27\/14575721111.shtml\">read more<\/a>",
+		"title":"王�恢复训练开始上冰练习 李琰：希望她坚持下来",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_42_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-07 10:11:00",
+		"enddate":"2011-08-07 10:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2011-08-07\/10115692731.shtml\">read more<\/a>",
+		"title":"“老百姓”王��要死磕到底 欲开发布会揭露黑幕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_42_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-07 15:23:00",
+		"enddate":"2011-08-07 15:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2011-08-07\/15235692995.shtml\">read more<\/a>",
+		"title":"蒋效愚：王�事件绝对是坏事 运动队已必须做出改变",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_42_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-04 22:12:00",
+		"enddate":"2011-11-04 22:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2011-11-04\/22125816455.shtml\">read more<\/a>",
+		"title":"王�何时解禁传闻不断 冬管主任赵英刚：不好回答",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_42_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-07 11:40:00",
+		"enddate":"2011-08-07 11:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2011-08-07\/11405692829.shtml\">read more<\/a>",
+		"title":"王�：只在中国能实现3连冠 处罚结果让我没有光明",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_42_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-12 14:08:00",
+		"enddate":"2011-08-12 14:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2011-08-12\/14085699778.shtml\">read more<\/a>",
+		"title":"领队争权已不是特例 李琰王春露谁是短道队一把手？",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_42_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-11 14:42:00",
+		"enddate":"2011-08-11 14:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2011-08-11\/14425698504.shtml\">read more<\/a>",
+		"title":"出国吃不饱奖励玩失踪 队员暗示常遭王春露“克扣”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_42_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-10 07:55:00",
+		"enddate":"2011-08-10 07:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2011-08-10\/07555696306.shtml\">read more<\/a>",
+		"title":"兰立：短道队内讧风波趋平静 已恢复训练情况稳定",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_42_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-09 10:41:00",
+		"enddate":"2011-08-09 10:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2011-08-09\/10415695391.shtml\">read more<\/a>",
+		"title":"短道队冲突各方趋于冷静 部分背后真相已浮出水面",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_42_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-12 04:00:00",
+		"enddate":"2011-12-12 04:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2011-12-12\/04005864904.shtml\">read more<\/a>",
+		"title":"王�下赛季完全报销 冬季中心:状态不达标仍需反省",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_42_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-17 14:11:00",
+		"enddate":"2011-08-17 14:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2011-08-17\/14115706595.shtml\">read more<\/a>",
+		"title":"体育总局将以短道队事件为戒 集中开展专项教育整顿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_42_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-10 14:30:00",
+		"enddate":"2011-08-10 14:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2011-08-10\/14305696942.shtml\">read more<\/a>",
+		"title":"反兴奋剂中心监控王� 不论是否开发布会都会彻查",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_42_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-10 09:52:00",
+		"enddate":"2011-08-10 09:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2011-08-10\/09525696474.shtml\">read more<\/a>",
+		"title":"李琰反驳质疑：我不是幕后推手 爆我合同想干什么",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_42_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu42_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu42_type",
+	"size_importance":"true"
+}]

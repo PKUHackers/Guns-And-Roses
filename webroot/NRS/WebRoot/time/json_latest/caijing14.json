@@ -1,0 +1,249 @@
+[
+{
+	"title":"美联储第三轮定量宽松",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-27 03:20:00",
+		"enddate":"2012-09-27 03:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120927\/032013251631.shtml\">read more<\/a>",
+		"title":"纽约原油期货收盘下跌1.5% 报每桶89.98美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 03:16:00",
+		"enddate":"2012-09-20 03:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120920\/031613186131.shtml\">read more<\/a>",
+		"title":"纽约原油期货收盘重挫3.5%报每桶91.89美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 10:46:00",
+		"enddate":"2012-09-21 10:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/ggjj\/20120921\/104613203730.shtml\">read more<\/a>",
+		"title":"美联储皮亚纳托：QE3将有效扶助房产市场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 02:41:00",
+		"enddate":"2012-09-20 02:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120920\/024113185870.shtml\">read more<\/a>",
+		"title":"纽约黄金期货收盘上涨0.1%报1771.70美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 03:36:00",
+		"enddate":"2012-09-21 03:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120921\/033613197568.shtml\">read more<\/a>",
+		"title":"纽约原油期货收盘下跌0.1%报每桶91.87美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-05 02:14:00",
+		"enddate":"2012-10-05 02:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20121005\/021413292596.shtml\">read more<\/a>",
+		"title":"美联储会议纪要：就业萧条及经济不确定性促成QE3",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 10:28:00",
+		"enddate":"2012-09-25 10:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120925\/102813231357.shtml\">read more<\/a>",
+		"title":"20国集团同意采取更多措施促进经济复苏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 03:51:00",
+		"enddate":"2012-09-28 03:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120928\/035113264648.shtml\">read more<\/a>",
+		"title":"纽约原油期货收盘上涨2.1% 报每桶91.85美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 07:32:00",
+		"enddate":"2012-09-20 07:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120920\/073213188220.shtml\">read more<\/a>",
+		"title":"人民日报：美国第三轮量化宽松引发普遍担忧",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 03:38:00",
+		"enddate":"2012-09-29 03:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120929\/033813275785.shtml\">read more<\/a>",
+		"title":"纽约原油期货收盘上涨0.4%报每桶92.19美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 01:04:00",
+		"enddate":"2012-09-26 01:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20120926\/010413237957.shtml\">read more<\/a>",
+		"title":"QE3路线图渐清晰 美联储年底或加码国债购买",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 03:25:00",
+		"enddate":"2012-09-26 03:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120926\/032513239703.shtml\">read more<\/a>",
+		"title":"纽约原油期货收盘下跌0.6%报每桶91.37美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 03:03:00",
+		"enddate":"2012-09-29 03:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120929\/030313275734.shtml\">read more<\/a>",
+		"title":"纽约黄金期货收盘下跌0.4%报1773.90美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 02:44:00",
+		"enddate":"2012-09-27 02:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120927\/024413250940.shtml\">read more<\/a>",
+		"title":"纽约黄金期货收盘下跌0.7% 报1753.60美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 08:23:00",
+		"enddate":"2012-09-27 08:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120927\/082313254081.shtml\">read more<\/a>",
+		"title":"美联储的下一步：12月或推出QE3.5",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing14_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing14_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,324 @@
+[
+{
+	"title":"2009亚洲航展",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-09-10 10:48:00",
+		"enddate":"2009-09-10 10:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-09-10\/1048565422.html\">read more<\/a>",
+		"title":"励展博览集团全球总裁Mike Rusbridge致开幕辞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-10 10:49:00",
+		"enddate":"2009-09-10 10:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-09-10\/1049565423.html\">read more<\/a>",
+		"title":"美国松下航空电子公司宣布成立中国区总公司",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-05-21 08:33:00",
+		"enddate":"2008-05-21 08:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2008-05-21\/0833501479.html\">read more<\/a>",
+		"title":"2009亚洲航展将于2009年9月7日在香港举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-12-22 09:26:00",
+		"enddate":"2008-12-22 09:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2008-12-22\/0926535868.html\">read more<\/a>",
+		"title":"亚洲国际航展委员会：中国航空市场仍具潜力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-03-03 11:58:00",
+		"enddate":"2009-03-03 11:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-03-03\/1158544193.html\">read more<\/a>",
+		"title":"第15届亚洲国际航展暨论坛9月7日将在香港开幕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-03-27 10:04:00",
+		"enddate":"2009-03-27 10:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-03-27\/1004546761.html\">read more<\/a>",
+		"title":"励展携手亚洲商务航空协会打造亚洲商务航空展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-04-17 11:55:00",
+		"enddate":"2009-04-17 11:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-04-17\/1155549053.html\">read more<\/a>",
+		"title":"沈阳7月将办首届亚洲国际航空峰会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-21 17:34:00",
+		"enddate":"2009-05-21 17:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-05-21\/1734552472.html\">read more<\/a>",
+		"title":"2011亚洲国际航空展览会暨论坛将在香港举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-04 16:12:00",
+		"enddate":"2009-08-04 16:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-08-04\/1612561480.html\">read more<\/a>",
+		"title":"香港航展及论坛将吸引逾300位航空领域领军人物",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-25 09:33:00",
+		"enddate":"2009-08-25 09:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-08-25\/0933563683.html\">read more<\/a>",
+		"title":"首架国产大飞机外形样机9月上旬将在香港展出",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-02 17:39:00",
+		"enddate":"2009-09-02 17:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-09-02\/1739564509.html\">read more<\/a>",
+		"title":"波音公司将参加2009亚洲国际航展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-03 15:48:00",
+		"enddate":"2009-09-03 15:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-09-03\/1548564651.html\">read more<\/a>",
+		"title":"全球五大飞机制造商携手亮相2009亚洲国际航展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-03 16:24:00",
+		"enddate":"2009-09-03 16:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-09-03\/1624564655.html\">read more<\/a>",
+		"title":"巴西航空工业公司携莱格赛600参加2009亚洲航展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-03 22:22:00",
+		"enddate":"2009-09-03 22:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-09-03\/2222564663.html\">read more<\/a>",
+		"title":"国产大客机C919外形样机将亮相亚洲国际航展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-04 10:26:00",
+		"enddate":"2009-09-04 10:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-09-04\/1026564743.html\">read more<\/a>",
+		"title":"首架国产大客机机身外形将在香港亮相(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-09 15:21:00",
+		"enddate":"2009-09-09 15:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-09-09\/1521565305.html\">read more<\/a>",
+		"title":"法国媒体称中国C919外形样机亮相展示航空雄心",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-10 10:23:00",
+		"enddate":"2009-09-10 10:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-09-10\/1023565415.html\">read more<\/a>",
+		"title":"亚洲国际航空展览会三天预计万名业内人士参观",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-10 10:57:00",
+		"enddate":"2009-09-10 10:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-09-10\/1057565428.html\">read more<\/a>",
+		"title":"美国松下航空电子公司为上航A321安装娱乐系统",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-10 11:16:00",
+		"enddate":"2009-09-10 11:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-09-10\/1116565433.html\">read more<\/a>",
+		"title":"豪客比奇与亚飞携豪客4000公务机参加亚洲航展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-24 10:09:00",
+		"enddate":"2009-09-24 10:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-09-24\/1009567120.html\">read more<\/a>",
+		"title":"2009亚洲国际航展再续辉煌吸引超过万名观众",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi2_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi2_type",
+	"size_importance":"true"
+}]

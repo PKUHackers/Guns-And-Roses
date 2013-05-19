@@ -1,0 +1,249 @@
+[
+{
+	"title":"第八届中国CFO高峰论坛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-09 11:25:00",
+		"enddate":"2012-10-09 11:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20121009\/112513316457.shtml\">read more<\/a>",
+		"title":"吴江龙：CFO最清楚体系中哪块资源最需要优化和配置",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 11:52:00",
+		"enddate":"2012-10-09 11:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20121009\/115213316799.shtml\">read more<\/a>",
+		"title":"谭丽霞：“人单合一双赢”模式创造价值",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 11:56:00",
+		"enddate":"2012-10-09 11:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20121009\/115613316853.shtml\">read more<\/a>",
+		"title":"战略财务沙盘模拟推演实践对抗赛青岛上演",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 10:16:00",
+		"enddate":"2012-10-09 10:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20121009\/101613315338.shtml\">read more<\/a>",
+		"title":"图文：正兴车轮集团有限公司CFO李轶梵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 10:54:00",
+		"enddate":"2012-10-09 10:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20121009\/105413315974.shtml\">read more<\/a>",
+		"title":"图文：麦考林中国高级副总裁、CFO 张磅",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 10:47:00",
+		"enddate":"2012-10-09 10:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20121009\/104713315797.shtml\">read more<\/a>",
+		"title":"图文：东软集团高级副总裁、CFO 张晓鸥",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 10:46:00",
+		"enddate":"2012-10-09 10:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20121009\/104613315786.shtml\">read more<\/a>",
+		"title":"图文：光明食品（集团）董事、财务总监 曹晓风",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 10:48:00",
+		"enddate":"2012-10-09 10:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20121009\/104813315816.shtml\">read more<\/a>",
+		"title":"图文：中化石油副总经理 兰海",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 10:21:00",
+		"enddate":"2012-10-09 10:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20121009\/102113315399.shtml\">read more<\/a>",
+		"title":"图文：山东威高集团有限公司CFO崔谨",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 09:53:00",
+		"enddate":"2012-09-27 09:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20120927\/095313255714.shtml\">read more<\/a>",
+		"title":"图文：新理财杂志社社长兼总编陆晓平",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 09:59:00",
+		"enddate":"2012-10-09 09:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20121009\/095913314996.shtml\">read more<\/a>",
+		"title":"图文：战略财务专场：徐工集团财务魔方论坛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 10:44:00",
+		"enddate":"2012-10-09 10:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20121009\/104413315763.shtml\">read more<\/a>",
+		"title":"图文：北京诺亚舟财务咨询总经理韩向东",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 11:14:00",
+		"enddate":"2012-10-09 11:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20121009\/111413316287.shtml\">read more<\/a>",
+		"title":"图文：CIMA北亚区总裁 李颖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 11:08:00",
+		"enddate":"2012-10-09 11:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20121009\/110813316215.shtml\">read more<\/a>",
+		"title":"图文：主持人海尔集团人力资源总监王筱楠",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 10:10:00",
+		"enddate":"2012-10-09 10:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20121009\/101013315270.shtml\">read more<\/a>",
+		"title":"图文：宝龙集团发展有限公司CFO廖明舜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing8_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing8_type",
+	"size_importance":"true"
+}]

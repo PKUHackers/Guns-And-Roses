@@ -1,0 +1,324 @@
+[
+{
+	"title":"第二届农业产业化峰会",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-06-05 19:43:00",
+		"enddate":"2012-06-05 19:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120605\/194312229613.shtml\">read more<\/a>",
+		"title":"黄德钧：农业和食品行业不是获取暴利的行业",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 18:28:00",
+		"enddate":"2012-06-05 18:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120605\/182812229247.shtml\">read more<\/a>",
+		"title":"张天佐：我国农产品加工业面临很好的机遇期",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-21 16:28:00",
+		"enddate":"2012-05-21 16:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyzhxx\/20120521\/162812111656.shtml\">read more<\/a>",
+		"title":"2012辽宁省农业产业化峰会议程（拟）",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 10:59:00",
+		"enddate":"2012-06-05 10:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyzhxx\/20120605\/105912226057.shtml\">read more<\/a>",
+		"title":"辽宁省第二届农业产业化峰会发言集锦",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 19:38:00",
+		"enddate":"2012-06-05 19:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120605\/193812229597.shtml\">read more<\/a>",
+		"title":"崔成：投资农业的风险主要有三个方面",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 10:11:00",
+		"enddate":"2012-06-05 10:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyzhxx\/20120605\/101112225532_6.shtml\">read more<\/a>",
+		"title":"辽宁省第二届农业产业化峰会文字实录(6)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 10:11:00",
+		"enddate":"2012-06-05 10:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyzhxx\/20120605\/101112225532_10.shtml\">read more<\/a>",
+		"title":"辽宁省第二届农业产业化峰会文字实录(10)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 19:49:00",
+		"enddate":"2012-06-05 19:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120605\/194912229633.shtml\">read more<\/a>",
+		"title":"张天佐：休闲方便食品有很大的市场空间",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-06 10:58:00",
+		"enddate":"2012-06-06 10:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120606\/105812237017.shtml\">read more<\/a>",
+		"title":"陈政高：农产品加工业永远是一个朝阳产业",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 19:40:00",
+		"enddate":"2012-06-05 19:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120605\/194012229604.shtml\">read more<\/a>",
+		"title":"马天骄：投资农业领域进入的时点把握非常重要",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 19:46:00",
+		"enddate":"2012-06-05 19:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120605\/194612229624.shtml\">read more<\/a>",
+		"title":"王航：我国的最短版是农业现代化",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 10:11:00",
+		"enddate":"2012-06-05 10:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyzhxx\/20120605\/101112225532_12.shtml\">read more<\/a>",
+		"title":"辽宁省第二届农业产业化峰会文字实录(12)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 10:11:00",
+		"enddate":"2012-06-05 10:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyzhxx\/20120605\/101112225532_3.shtml\">read more<\/a>",
+		"title":"辽宁省第二届农业产业化峰会文字实录(3)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-04 10:17:00",
+		"enddate":"2012-05-04 10:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyzhxx\/20120504\/101711985679.shtml\">read more<\/a>",
+		"title":"2012辽宁农业产业化峰会将于5月30日召开",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 10:11:00",
+		"enddate":"2012-06-05 10:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyzhxx\/20120605\/101112225532_9.shtml\">read more<\/a>",
+		"title":"辽宁省第二届农业产业化峰会文字实录(9)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 10:11:00",
+		"enddate":"2012-06-05 10:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyzhxx\/20120605\/101112225532_4.shtml\">read more<\/a>",
+		"title":"辽宁省第二届农业产业化峰会文字实录(4)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 10:11:00",
+		"enddate":"2012-06-05 10:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyzhxx\/20120605\/101112225532_7.shtml\">read more<\/a>",
+		"title":"辽宁省第二届农业产业化峰会文字实录(7)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 10:11:00",
+		"enddate":"2012-06-05 10:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyzhxx\/20120605\/101112225532_11.shtml\">read more<\/a>",
+		"title":"辽宁省第二届农业产业化峰会文字实录(11)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 10:11:00",
+		"enddate":"2012-06-05 10:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyzhxx\/20120605\/101112225532_8.shtml\">read more<\/a>",
+		"title":"辽宁省第二届农业产业化峰会文字实录(8)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 10:11:00",
+		"enddate":"2012-06-05 10:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyzhxx\/20120605\/101112225532.shtml\">read more<\/a>",
+		"title":"辽宁省第二届农业产业化峰会文字实录",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing0_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing0_type",
+	"size_importance":"true"
+}]

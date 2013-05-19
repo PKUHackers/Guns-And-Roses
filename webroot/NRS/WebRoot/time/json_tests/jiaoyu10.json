@@ -1,0 +1,234 @@
+[
+{
+	"title":"雅思美国之行",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-01-30 11:28:00",
+		"enddate":"2012-01-30 11:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/a\/2012-01-30\/1128211713.shtml\">read more<\/a>",
+		"title":"走访最受国际学生欢迎的美国加州高校(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_10_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-30 11:40:00",
+		"enddate":"2012-01-30 11:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/a\/2012-01-30\/1140211717.shtml\">read more<\/a>",
+		"title":"哈佛等三千余所美国高校认可雅思(组图) ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_10_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-21 19:34:00",
+		"enddate":"2012-02-21 19:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/a\/2012-02-21\/1934212555.shtml\">read more<\/a>",
+		"title":"美国留学生活“委婉”雅思帮助大(组图) ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_10_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 13:44:00",
+		"enddate":"2012-02-22 13:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/yyks\/2012-02-21\/2000328145.shtml\">read more<\/a>",
+		"title":"美国加州河滨社区大学介绍(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_10_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 13:45:00",
+		"enddate":"2012-02-22 13:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/yyks\/2012-02-21\/2003328146.shtml\">read more<\/a>",
+		"title":"美国加州大学河滨分校简介及雅思认可(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_10_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 13:47:00",
+		"enddate":"2012-02-22 13:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/yyks\/2012-02-21\/2008328147.shtml\">read more<\/a>",
+		"title":"加利福尼亚大学欧文分校简介及雅思认可(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_10_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 13:47:00",
+		"enddate":"2012-02-22 13:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/yyks\/2012-02-21\/2009328148.shtml\">read more<\/a>",
+		"title":"拉文大学学校简介及访谈(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_10_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 13:48:00",
+		"enddate":"2012-02-22 13:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/yyks\/2012-02-21\/2011328149.shtml\">read more<\/a>",
+		"title":"南佛罗里达大学简介及雅思认可(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_10_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 13:49:00",
+		"enddate":"2012-02-22 13:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/yyks\/2012-02-21\/2014328150.shtml\">read more<\/a>",
+		"title":"美国高校个别专业只接受雅思成绩(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_10_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 13:50:00",
+		"enddate":"2012-02-22 13:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/yyks\/2012-02-21\/2029328152.shtml\">read more<\/a>",
+		"title":"采访：留美学生王一娇看“雅思”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_10_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 13:51:00",
+		"enddate":"2012-02-22 13:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/yyks\/2012-02-21\/2031328153.shtml\">read more<\/a>",
+		"title":"采访：留美学生冯宇看“雅思”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_10_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 13:54:00",
+		"enddate":"2012-02-22 13:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/yyks\/2012-02-21\/2034328154.shtml\">read more<\/a>",
+		"title":"采访：留美学生王耀看“雅思”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_10_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 13:54:00",
+		"enddate":"2012-02-22 13:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/yyks\/2012-02-21\/2035328155.shtml\">read more<\/a>",
+		"title":"采访：留美学生徐牧晨看“雅思”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_10_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 13:55:00",
+		"enddate":"2012-02-22 13:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/yyks\/2012-02-21\/2036328156.shtml\">read more<\/a>",
+		"title":"采访：留美学生文博看“雅思”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_10_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"jiaoyu_type"},
+		"ypix":"0",
+		"id":"jiaoyu10_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu10_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012委内瑞拉总统选举",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-08 10:48:00",
+		"enddate":"2012-10-08 10:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-08\/104825313297.shtml\">read more<\/a>",
+		"title":"委内瑞拉选举委员会宣布查韦斯赢得大选",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 17:31:00",
+		"enddate":"2012-09-06 17:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-06\/173125115735.shtml\">read more<\/a>",
+		"title":"查韦斯称在查出癌症后曾打算退出政坛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 17:27:00",
+		"enddate":"2012-10-08 17:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-10-08\/172725315096.shtml\">read more<\/a>",
+		"title":"中方祝贺查韦斯再次当选委内瑞拉总统",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 04:24:00",
+		"enddate":"2012-09-17 04:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-17\/042425187211.shtml\">read more<\/a>",
+		"title":"查韦斯竞选演讲落泪称无法如普通人般穿行全国",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 11:12:00",
+		"enddate":"2012-10-08 11:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-08\/111225313464.shtml\">read more<\/a>",
+		"title":"查韦斯连任委内瑞拉总统 执政时间将达20年",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-25 19:56:00",
+		"enddate":"2011-07-25 19:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2011-07-25\/195622874086.shtml\">read more<\/a>",
+		"title":"媒体称查韦斯有意参加2012年委内瑞拉总统大选",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-13 14:45:00",
+		"enddate":"2012-09-13 14:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2012-09-13\/144525165855.shtml\">read more<\/a>",
+		"title":"委内瑞拉大选两派民众爆发冲突25人受伤(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-11 11:38:00",
+		"enddate":"2012-09-11 11:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-11\/113825148238.shtml\">read more<\/a>",
+		"title":"查韦斯承诺为富人建立和平生活谋取三连任",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 08:53:00",
+		"enddate":"2012-10-08 08:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-10-08\/085325312687.shtml\">read more<\/a>",
+		"title":"委内瑞拉总统大选投票结束 统计结果尚未发布",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-25 11:18:00",
+		"enddate":"2011-09-25 11:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-09-25\/111823213790.shtml\">read more<\/a>",
+		"title":"委内瑞拉反对派领导人成功注册2012总统大选",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 09:32:00",
+		"enddate":"2012-10-12 09:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-12\/093225344601.shtml\">read more<\/a>",
+		"title":"金正恩电贺查韦斯连任委内瑞拉总统",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-06 21:42:00",
+		"enddate":"2012-08-06 21:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2012-08-06\/214224917391.shtml\">read more<\/a>",
+		"title":"查韦斯在竞选集会弹吉他造势(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 10:55:00",
+		"enddate":"2012-10-08 10:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-08\/105525313387.shtml\">read more<\/a>",
+		"title":"查韦斯赢得委内瑞拉总统选举 将连任至2020年",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 11:23:00",
+		"enddate":"2012-10-08 11:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-08\/112325313504.shtml\">read more<\/a>",
+		"title":"查韦斯对手卡普里莱斯祝贺其赢得大选",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-21 07:50:00",
+		"enddate":"2012-08-21 07:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-08-21\/075025005891.shtml\">read more<\/a>",
+		"title":"委内瑞拉总统大选前民调显示查韦斯支持率领先",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji2_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji2_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,189 @@
+[
+{
+	"title":"第五届中国高台人力飞行大赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2008-11-02 13:59:00",
+		"enddate":"2008-11-02 13:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2008-11-02\/1359527921.html\">read more<\/a>",
+		"title":"2008中国珠海航展期间重要活动安排时间表",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-08 09:44:00",
+		"enddate":"2008-11-08 09:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2008-11-08\/0944529281.html\">read more<\/a>",
+		"title":"中国第四届高台人力飞行大赛于珠海开赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-10 08:13:00",
+		"enddate":"2008-11-10 08:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2008-11-10\/0813529452.html\">read more<\/a>",
+		"title":"珠海航展鸟人大赛飞行方式异想天开令人捧腹",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-10 08:18:00",
+		"enddate":"2008-11-10 08:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2008-11-10\/0818529454.html\">read more<\/a>",
+		"title":"第四届高台人力飞行大赛闭幕“天翼弄人”夺冠",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-10 08:21:00",
+		"enddate":"2008-11-10 08:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2008-11-10\/0821529455.html\">read more<\/a>",
+		"title":"68岁老人获得第四届高台人力飞行大赛创意奖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-10 08:32:00",
+		"enddate":"2008-11-10 08:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2008-11-10\/0832529463.html\">read more<\/a>",
+		"title":"第四届高台人力飞行大赛精彩纷呈增色珠海航展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-12 17:17:00",
+		"enddate":"2009-10-12 17:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-10-12\/1717569795.html\">read more<\/a>",
+		"title":"第四届人力飞行大赛亮点：阿丘带你圆飞行梦",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-12 17:36:00",
+		"enddate":"2009-10-12 17:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-10-12\/1736569796.html\">read more<\/a>",
+		"title":"高台人力飞行大赛张启亮:大赛圆了我们飞行梦",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-15 15:55:00",
+		"enddate":"2009-09-15 15:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-09-15\/1555566010.html\">read more<\/a>",
+		"title":"冯如杯第五届高台人力飞行大赛10月在江门举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-19 09:37:00",
+		"enddate":"2009-10-19 09:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-10-19\/0937570592.html\">read more<\/a>",
+		"title":"华北电力大学备战第五届高台人力飞行大赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-23 14:50:00",
+		"enddate":"2009-10-23 14:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-10-23\/1450571173.html\">read more<\/a>",
+		"title":"第五届人力飞行大赛移师江门迎接中国航空百年",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi1_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi1_type",
+	"size_importance":"true"
+}]

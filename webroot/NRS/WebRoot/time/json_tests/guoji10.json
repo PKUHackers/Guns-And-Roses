@@ -1,0 +1,324 @@
+[
+{
+	"title":"泰国洪水肆虐",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-10-22 15:46:00",
+		"enddate":"2011-10-22 15:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2011-10-22\/154623345997.shtml\">read more<\/a>",
+		"title":"英拉称洪灾或持续一个多月 呼吁曼谷市民严防洪水",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-30 21:44:00",
+		"enddate":"2011-10-30 21:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-10-30\/214423386726.shtml\">read more<\/a>",
+		"title":"泰总理称曼谷洪水威胁未除 市民仍需高度戒备",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-19 16:58:00",
+		"enddate":"2011-10-19 16:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-10-19\/165823329469.shtml\">read more<\/a>",
+		"title":"曼谷多区遭洪水威胁 市长提醒民众储备食物",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-26 10:33:00",
+		"enddate":"2011-10-26 10:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/p\/2011-10-26\/103323364855.shtml\">read more<\/a>",
+		"title":"洪水冲破防洪提淹没跑道 曼谷廊曼机场关闭(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 10:17:00",
+		"enddate":"2011-11-08 10:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-11-08\/101723432586.shtml\">read more<\/a>",
+		"title":"泰国总理英拉否认被指抗洪不力将下台传言",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-31 14:42:00",
+		"enddate":"2011-10-31 14:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-10-31\/144223391038.shtml\">read more<\/a>",
+		"title":"泰国洪灾致381人亡 英拉誓言保卫曼谷中心",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-23 02:16:00",
+		"enddate":"2011-10-23 02:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-10-23\/021623346763.shtml\">read more<\/a>",
+		"title":"泰国总理亲自指挥抗洪 洪水逼近救灾指挥中心",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-11 08:36:00",
+		"enddate":"2011-11-11 08:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2011-11-11\/083623449854.shtml\">read more<\/a>",
+		"title":"泰国部分地区洪水开始消退(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-26 10:41:00",
+		"enddate":"2011-10-26 10:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2011-10-26\/104123364999.shtml\">read more<\/a>",
+		"title":"泰国曼谷附近居民自毁堤坝泄洪 洪水逼近首都",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-02 13:39:00",
+		"enddate":"2011-11-02 13:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-11-02\/133923402922.shtml\">read more<\/a>",
+		"title":"泰国洪灾已导致427人死亡 曼谷北区已被淹没",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-24 20:12:00",
+		"enddate":"2011-10-24 20:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2011-10-24\/201223354729.shtml\">read more<\/a>",
+		"title":"泰国曼谷三面遭洪水威胁 鳄鱼在北郊出没",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-03 15:24:00",
+		"enddate":"2011-11-03 15:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-11-03\/152423409482.shtml\">read more<\/a>",
+		"title":"北京市场涉及曼谷旅游产品全部暂停",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-30 04:35:00",
+		"enddate":"2011-10-30 04:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-10-30\/043523384324.shtml\">read more<\/a>",
+		"title":"新一波洪水将袭曼谷？",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-29 02:44:00",
+		"enddate":"2011-10-29 02:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-10-29\/024423380577.shtml\">read more<\/a>",
+		"title":"泰国首都数千居民出城躲避洪水",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-15 14:19:00",
+		"enddate":"2011-11-15 14:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-11-15\/141923469631.shtml\">read more<\/a>",
+		"title":"专家称洪水可能为泰国湾带来生态危害",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-31 02:15:00",
+		"enddate":"2011-10-31 02:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2011-10-31\/021523387061.shtml\">read more<\/a>",
+		"title":"泰请美军协助监测洪水",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-25 15:35:00",
+		"enddate":"2011-10-25 15:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2011-10-25\/153523360102.shtml\">read more<\/a>",
+		"title":"泰国洪水致366人身亡 第二大机场受影响",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-29 05:40:00",
+		"enddate":"2011-10-29 05:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-10-29\/054023381385.shtml\">read more<\/a>",
+		"title":"洪水潮水夹击 曼谷大撤退",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-10 09:54:00",
+		"enddate":"2011-11-10 09:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-11-10\/095423444459.shtml\">read more<\/a>",
+		"title":"泰国洪灾已致529人死亡 政府再投39亿救灾",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-27 09:25:00",
+		"enddate":"2011-10-27 09:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2011-10-27\/092523370208.shtml\">read more<\/a>",
+		"title":"洪水来袭曼谷面临被淹 市长要求民众紧急疏散",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_10_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji10_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji10_type",
+	"size_importance":"true"
+}]

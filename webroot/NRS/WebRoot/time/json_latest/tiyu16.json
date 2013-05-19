@@ -1,0 +1,249 @@
+[
+{
+	"title":"聚焦国青国少",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-25 16:39:00",
+		"enddate":"2012-09-25 16:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/n\/2012-09-25\/16396239226.shtml\">read more<\/a>",
+		"title":"U19国青集训名单:鲁能绿城各6将 裴帅入围仅1海归",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_16_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 12:23:00",
+		"enddate":"2012-10-18 12:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/n\/2012-10-18\/12236261967.shtml\">read more<\/a>",
+		"title":"U19国青圈定亚青赛名单 能否招齐人马要看中超脸色",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_16_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 10:11:00",
+		"enddate":"2012-10-15 10:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/n\/2012-10-15\/10116258526.shtml\">read more<\/a>",
+		"title":"国青也遇抢人难！主力回俱乐部踢中超 主帅怕受伤",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_16_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 18:48:00",
+		"enddate":"2012-09-25 18:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/n\/2012-09-25\/18486239302.shtml\">read more<\/a>",
+		"title":"国少仅51名适龄注册球员 比赛被迫以小打争创奇迹",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_16_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 10:19:00",
+		"enddate":"2012-10-18 10:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/n\/2012-10-18\/10196261717.shtml\">read more<\/a>",
+		"title":"足协公布亚青赛名单:鲁能绿城各6人 宿茂臻任助教",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_16_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 09:46:00",
+		"enddate":"2012-10-16 09:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/n\/2012-10-16\/09466259426.shtml\">read more<\/a>",
+		"title":"亚青赛国青打起“情报战” 目标4强里克林克信心足",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_16_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 03:44:00",
+		"enddate":"2012-09-28 03:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/c\/2012-09-28\/03446241717.shtml\">read more<\/a>",
+		"title":"足协公布亚青赛12人候补 为联赛冲突提前做准备",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_16_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-23 05:56:00",
+		"enddate":"2012-09-23 05:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/n\/2012-09-23\/05566235893.shtml\">read more<\/a>",
+		"title":"国青集训仅五名门将参加 球员出战联赛无法征调",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_16_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-02 08:14:00",
+		"enddate":"2012-10-02 08:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/c\/2012-10-02\/08146245818.shtml\">read more<\/a>",
+		"title":"国少女足0-2完败加纳出局 国字号球队今年全军覆没",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_16_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 05:24:00",
+		"enddate":"2012-10-11 05:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/n\/2012-10-11\/05246254118.shtml\">read more<\/a>",
+		"title":"国青集训强化力量 里克林克：重点提升队员体能",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_16_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-01 05:29:00",
+		"enddate":"2012-10-01 05:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/c\/2012-10-01\/05296245001.shtml\">read more<\/a>",
+		"title":"打平就出线对中国足球太难 U17世界杯女足遗憾出局",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_16_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 08:58:00",
+		"enddate":"2012-10-11 08:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/n\/2012-10-11\/08586254199.shtml\">read more<\/a>",
+		"title":"国青下月决战亚青赛 为世青赛名额死磕韩国伊拉克",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_16_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 10:05:00",
+		"enddate":"2012-10-16 10:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/n\/2012-10-16\/10056259453.shtml\">read more<\/a>",
+		"title":"国青与俱乐部“抢球员” 主力不完整参训备战受影响",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_16_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 04:40:00",
+		"enddate":"2012-09-21 04:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/n\/2012-09-21\/04406233440.shtml\">read more<\/a>",
+		"title":"足协表态国青不可能换主帅 否认邀请特鲁西埃执教",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_16_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 14:35:00",
+		"enddate":"2012-10-16 14:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/n\/2012-10-16\/14356259765.shtml\">read more<\/a>",
+		"title":"中超又和国青“抢夺球员” 备战亚青赛集训遇困难",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_16_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu16_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu16_type",
+	"size_importance":"true"
+}]

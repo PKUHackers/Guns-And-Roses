@@ -1,0 +1,324 @@
+[
+{
+	"title":"六一儿童节少儿保险策划",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-05-09 14:57:00",
+		"enddate":"2012-05-09 14:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/bxal\/20120509\/145712028015.shtml\">read more<\/a>",
+		"title":"儿童险保障最重要 莫为逐利投长期保险",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 17:04:00",
+		"enddate":"2012-05-03 17:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/tbrb\/20120503\/170411979035.shtml\">read more<\/a>",
+		"title":"六一儿童节临近 购买少儿险应重保障轻教育金",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 16:49:00",
+		"enddate":"2012-05-03 16:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/bxlc\/20120503\/164911978915.shtml\">read more<\/a>",
+		"title":"一份保险保全部 少儿保险投保的三大误区",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 16:56:00",
+		"enddate":"2012-05-03 16:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/bxsd\/20120503\/165611978984.shtml\">read more<\/a>",
+		"title":"怎样买少儿保险最划算",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 16:09:00",
+		"enddate":"2012-05-03 16:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/bxlc\/20120503\/160911978528.shtml\">read more<\/a>",
+		"title":"少儿理财规划 储蓄定投保险一个都别少",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 14:53:00",
+		"enddate":"2012-05-09 14:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/bxal\/20120509\/145312027990.shtml\">read more<\/a>",
+		"title":"轻重缓急买保险 不同年龄段孩子保障需求不同 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 16:19:00",
+		"enddate":"2012-05-03 16:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/bxlc\/20120503\/161911978613.shtml\">read more<\/a>",
+		"title":"零岁宝宝应该买什么保险",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 17:11:00",
+		"enddate":"2012-05-03 17:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/tbrb\/20120503\/171111979121.shtml\">read more<\/a>",
+		"title":"不同经济实力家庭购买的少儿保险",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 17:03:00",
+		"enddate":"2012-05-03 17:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/tbrb\/20120503\/170311979030.shtml\">read more<\/a>",
+		"title":"孩子要买保险的四大理由",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 16:55:00",
+		"enddate":"2012-05-03 16:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/bxsd\/20120503\/165511978975.shtml\">read more<\/a>",
+		"title":"少儿保险投保无须求全",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 17:09:00",
+		"enddate":"2012-05-03 17:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/tbrb\/20120503\/170911979099.shtml\">read more<\/a>",
+		"title":"少儿医保不等同于少儿医疗商业险",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 17:00:00",
+		"enddate":"2012-05-03 17:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/tbrb\/20120503\/170011979013.shtml\">read more<\/a>",
+		"title":"尽早准备子女教育金 教育费用不用愁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 16:59:00",
+		"enddate":"2012-05-03 16:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/tbrb\/20120503\/165911979003.shtml\">read more<\/a>",
+		"title":"为什么要为孩子购买医疗险与重疾险",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 16:52:00",
+		"enddate":"2012-05-03 16:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/bxsd\/20120503\/165211978961.shtml\">read more<\/a>",
+		"title":"购买少儿保险 别只重教育不重保障",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-18 13:52:00",
+		"enddate":"2012-04-18 13:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/bxsd\/20120418\/135211857063.shtml\">read more<\/a>",
+		"title":"保障储蓄是首选 购买儿童险的6大原则",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 11:05:00",
+		"enddate":"2012-02-09 11:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcgh\/20120209\/110511344546.shtml\">read more<\/a>",
+		"title":"年收入20万有房家庭 如何为儿子准备结婚费用",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 17:13:00",
+		"enddate":"2012-05-03 17:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/tbrb\/20120503\/171311979141.shtml\">read more<\/a>",
+		"title":"如何才能选择一份好的少儿保险",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 17:05:00",
+		"enddate":"2012-05-03 17:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/tbrb\/20120503\/170511979066.shtml\">read more<\/a>",
+		"title":"六一宝贝计划 按年龄配置不必一次全买",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 15:03:00",
+		"enddate":"2012-05-09 15:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/bxal\/20120509\/150312028088.shtml\">read more<\/a>",
+		"title":"孩子没有攒钱习惯 六成家长为子女买保险",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 16:29:00",
+		"enddate":"2012-05-03 16:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/bxsd\/20120503\/162911978736.shtml\">read more<\/a>",
+		"title":"三类儿童保险品种简介",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_10_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing10_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing10_type",
+	"size_importance":"true"
+}]

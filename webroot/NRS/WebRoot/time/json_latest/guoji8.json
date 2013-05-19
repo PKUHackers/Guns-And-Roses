@@ -1,0 +1,249 @@
+[
+{
+	"title":"柬埔寨前国王西哈努克逝世",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-16 01:59:00",
+		"enddate":"2012-10-16 01:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-10-16\/015925363493.shtml\">read more<\/a>",
+		"title":"西哈努克于万隆会议上与中国结缘",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 09:55:00",
+		"enddate":"2012-10-16 09:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-16\/095525367774.shtml\">read more<\/a>",
+		"title":"美国对西哈努克辞世表达哀悼",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 10:46:00",
+		"enddate":"2012-10-17 10:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-10-17\/104625376568.shtml\">read more<\/a>",
+		"title":"仪仗兵护送西哈努克灵柩登机 评论称史无前例",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 23:59:00",
+		"enddate":"2012-10-15 23:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/sd\/2012-10-15\/235925363347.shtml\">read more<\/a>",
+		"title":"西哈努克个人命运贯穿见证中柬两国友好关系",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 04:17:00",
+		"enddate":"2012-10-17 04:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-17\/041725373172.shtml\">read more<\/a>",
+		"title":"柬埔寨下半旗送别老国王 全国上下戴黑丝表哀悼",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 07:41:00",
+		"enddate":"2012-10-15 07:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-15\/074125358822.shtml\">read more<\/a>",
+		"title":"柬埔寨前国王西哈努克在北京逝世 享年90岁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 13:09:00",
+		"enddate":"2012-10-15 13:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-15\/130925361004.shtml\">read more<\/a>",
+		"title":"西哈努克三度击退癌症 曾赞中国医护无以伦比",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 22:24:00",
+		"enddate":"2012-10-15 22:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-10-15\/222425363229.shtml\">read more<\/a>",
+		"title":"温家宝看望柬埔寨太后和国王",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 07:59:00",
+		"enddate":"2012-10-15 07:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-15\/075925359092.shtml\">read more<\/a>",
+		"title":"西哈努克生平：曾创作多首赞颂中柬友好歌曲",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 10:50:00",
+		"enddate":"2012-10-15 10:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-15\/105025360288.shtml\">read more<\/a>",
+		"title":"西哈努克曾与西方记者辩论其后宫问题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 04:19:00",
+		"enddate":"2012-10-16 04:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-16\/041925364425.shtml\">read more<\/a>",
+		"title":"西哈努克曾给周恩来写信介绍儿子来华",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 03:54:00",
+		"enddate":"2012-10-18 03:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-10-18\/035425380923.shtml\">read more<\/a>",
+		"title":"胡锦涛温家宝等出席西哈努克遗体告别仪式",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 11:30:00",
+		"enddate":"2012-10-15 11:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-15\/113025360525.shtml\">read more<\/a>",
+		"title":"柬埔寨太皇西哈努克生平",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 09:20:00",
+		"enddate":"2012-10-17 09:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-17\/092025375867.shtml\">read more<\/a>",
+		"title":"柬埔寨成立西哈努克太皇治丧委员会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 19:45:00",
+		"enddate":"2012-10-16 19:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-16\/194525371008.shtml\">read more<\/a>",
+		"title":"柬埔寨民众17日将迎接西哈努克灵柩回国",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji8_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji8_type",
+	"size_importance":"true"
+}]

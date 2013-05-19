@@ -1,0 +1,324 @@
+[
+{
+	"title":"欧盟征收航空碳排放税",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-03-09 16:34:00",
+		"enddate":"2012-03-09 16:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-03-09\/163414088.html\">read more<\/a>",
+		"title":"南航副总经理:民航企业坚决反对欧盟单边碳税",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-23 09:23:00",
+		"enddate":"2011-12-23 09:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2011-12-23\/09239350.html\">read more<\/a>",
+		"title":"美国败诉欧盟碳税案 中航协正研究反制措施",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-22 09:33:00",
+		"enddate":"2012-03-22 09:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-03-22\/093314827.html\">read more<\/a>",
+		"title":"26位美国经济学家呼吁政府支持碳税替代方案",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-07 10:01:00",
+		"enddate":"2012-02-07 10:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-02-07\/100112111.html\">read more<\/a>",
+		"title":"欧盟回应称中国航空公司必须支付碳排放税",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-05 15:45:00",
+		"enddate":"2012-01-05 15:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-01-05\/154510069.html\">read more<\/a>",
+		"title":"中国或出台反制措施应对欧盟开征航空碳税",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-26 16:39:00",
+		"enddate":"2011-12-26 16:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2011-12-26\/16399501.html\">read more<\/a>",
+		"title":"欧盟将可对进出欧洲机场航班征收碳排放税",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-28 09:56:00",
+		"enddate":"2012-05-28 09:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-05-28\/095619051.html\">read more<\/a>",
+		"title":"印度称若航空业遭制裁将禁欧盟航班飞印度",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-24 09:50:00",
+		"enddate":"2012-02-24 09:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-02-24\/095013023.html\">read more<\/a>",
+		"title":"中国等29国签署宣言反对欧盟强征碳排放税",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-02 12:10:00",
+		"enddate":"2012-03-02 12:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-03-02\/121013607.html\">read more<\/a>",
+		"title":"英国开始向本国航企分配航空碳税配额 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-03 10:23:00",
+		"enddate":"2012-02-03 10:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-02-03\/102311945.html\">read more<\/a>",
+		"title":"欧盟将向注册航企发放1.81亿吨免费碳排放额",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-12 09:45:00",
+		"enddate":"2012-06-12 09:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-06-12\/094520375.html\">read more<\/a>",
+		"title":"国航董事长:欧盟碳税为中国民航增负180亿元 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-21 09:22:00",
+		"enddate":"2012-06-21 09:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-06-21\/092221289.html\">read more<\/a>",
+		"title":"国际民航组织明年3月或推解决碳排放草案",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-04 16:21:00",
+		"enddate":"2012-01-04 16:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-01-04\/162110019.html\">read more<\/a>",
+		"title":"德国汉莎航空或上调机票价格转嫁碳税成本",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-02 12:42:00",
+		"enddate":"2012-03-02 12:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-03-02\/124213609.html\">read more<\/a>",
+		"title":"外交部：中方坚决反对欧盟强征航空碳排放税 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-13 09:23:00",
+		"enddate":"2012-09-13 09:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-09-13\/092326699.html\">read more<\/a>",
+		"title":"德法英西四国反对欧盟单独征收航空碳税",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-23 10:34:00",
+		"enddate":"2011-12-23 10:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2011-12-23\/10349364.html\">read more<\/a>",
+		"title":"外媒：欧盟征航空碳税恐引发全球贸易战",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-13 09:41:00",
+		"enddate":"2011-12-13 09:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2011-12-13\/09418850.html\">read more<\/a>",
+		"title":"中航协：中国航企明年将多缴8亿“航空碳税”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-21 23:38:00",
+		"enddate":"2011-12-21 23:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2011-12-21\/23389301.html\">read more<\/a>",
+		"title":"欧盟宣布明年起对入境航空公司征收碳排放费",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-31 09:48:00",
+		"enddate":"2012-01-31 09:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-01-31\/094811631.html\">read more<\/a>",
+		"title":"欧盟成员国威胁航企力挺征收航空碳税 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-23 09:30:00",
+		"enddate":"2012-03-23 09:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-03-23\/093014908.html\">read more<\/a>",
+		"title":"专家称欧盟征收碳税不能真正减少碳排放 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_1_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"hangkong_type"},
+		"ypix":"0",
+		"id":"hangkong1_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"hangkong1_type",
+	"size_importance":"true"
+}]

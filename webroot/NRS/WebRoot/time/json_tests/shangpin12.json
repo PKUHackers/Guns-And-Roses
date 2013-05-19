@@ -1,0 +1,249 @@
+[
+{
+	"title":"如何消遣不去旅行的长假",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2010-09-27 17:33:00",
+		"enddate":"2010-09-27 17:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/cul\/books\/2010-09-27\/173368063.shtml\">read more<\/a>",
+		"title":"长假沙龙：大师云集“理想国”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_12_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-27 17:44:00",
+		"enddate":"2010-09-27 17:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/cul\/books\/2010-09-27\/174468064.shtml\">read more<\/a>",
+		"title":"长假阅读与艺展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_12_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-26 17:53:00",
+		"enddate":"2010-09-26 17:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/cul\/movies\/2010-09-26\/175368005.shtml\">read more<\/a>",
+		"title":"长假娱情：大师亮剑 江湖很乱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_12_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-26 18:02:00",
+		"enddate":"2010-09-26 18:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/cul\/movies\/2010-09-26\/180268008.shtml\">read more<\/a>",
+		"title":"长假电影：三位昔日旧友 一座大师江湖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_12_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-26 18:10:00",
+		"enddate":"2010-09-26 18:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/cul\/movies\/2010-09-26\/181068010.shtml\">read more<\/a>",
+		"title":"大师的江湖之《精武风云-陈真》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_12_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-26 18:27:00",
+		"enddate":"2010-09-26 18:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/cul\/movies\/2010-09-26\/182768012.shtml\">read more<\/a>",
+		"title":"大师的江湖之《通天帝国狄仁杰》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_12_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-26 18:33:00",
+		"enddate":"2010-09-26 18:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/cul\/movies\/2010-09-26\/183468013.shtml\">read more<\/a>",
+		"title":"大师的江湖之《剑雨》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_12_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-27 17:52:00",
+		"enddate":"2010-09-27 17:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/cul\/movies\/2010-09-27\/175268066.shtml\">read more<\/a>",
+		"title":"长假电视：荧屏达人要抢明星风头",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_12_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-27 17:57:00",
+		"enddate":"2010-09-27 17:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/cul\/movies\/2010-09-27\/175768068.shtml\">read more<\/a>",
+		"title":"秋高气爽 美剧回归",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_12_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-26 18:54:00",
+		"enddate":"2010-09-26 18:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/cul\/music\/2010-09-26\/185468018.shtml\">read more<\/a>",
+		"title":"长假音乐：人在音乐节 就是人在江湖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_12_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-26 18:58:00",
+		"enddate":"2010-09-26 18:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/cul\/music\/2010-09-26\/185868022.shtml\">read more<\/a>",
+		"title":"品评音乐节 乌托邦残留的最后美好时光",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_12_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-26 19:05:00",
+		"enddate":"2010-09-26 19:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/cul\/music\/2010-09-26\/190568024.shtml\">read more<\/a>",
+		"title":"闲话江湖 80后的音乐节真心话大冒险",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_12_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-26 19:11:00",
+		"enddate":"2010-09-26 19:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/cul\/music\/2010-09-26\/191168025.shtml\">read more<\/a>",
+		"title":"江湖小史 有关音乐节值得铭记的时间点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_12_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-27 17:08:00",
+		"enddate":"2010-09-27 17:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/cul\/music\/2010-09-27\/170868060.shtml\">read more<\/a>",
+		"title":"长假戏剧：大师曹禺 何惧江湖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_12_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-27 17:21:00",
+		"enddate":"2010-09-27 17:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/cul\/music\/2010-09-27\/172168062.shtml\">read more<\/a>",
+		"title":"长假戏剧：金秋演出不罢休",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_12_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shangpin_type"},
+		"ypix":"0",
+		"id":"shangpin12_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shangpin12_type",
+	"size_importance":"true"
+}]

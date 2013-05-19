@@ -1,0 +1,324 @@
+[
+{
+	"title":"日本本州岛发生7.3级地震",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-07-10 09:49:00",
+		"enddate":"2011-07-10 09:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2011-07-10\/094922787950.shtml\">read more<\/a>",
+		"title":"图文：日本东部沿海地区城市街道在地震中摇晃",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-10 11:11:00",
+		"enddate":"2011-07-10 11:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-07-10\/111122788183.shtml\">read more<\/a>",
+		"title":"日本气象厅解除海啸警报",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-10 09:46:00",
+		"enddate":"2011-07-10 09:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-07-10\/094622787941.shtml\">read more<\/a>",
+		"title":"日本向岩手、宫城和福岛地区发布海啸警报",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-10 10:25:00",
+		"enddate":"2011-07-10 10:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-07-10\/102522788046.shtml\">read more<\/a>",
+		"title":"日本7.1级地震东京震感明显",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-10 09:57:00",
+		"enddate":"2011-07-10 09:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-07-10\/095722787973.shtml\">read more<\/a>",
+		"title":"日本东部发生7.1级地震 新干线部分路段停运",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-10 10:08:00",
+		"enddate":"2011-07-10 10:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-07-10\/100822788002.shtml\">read more<\/a>",
+		"title":"东电称福岛核电站未受7.1级地震影响",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-10 13:04:00",
+		"enddate":"2011-07-10 13:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-07-10\/130422788468.shtml\">read more<\/a>",
+		"title":"日本7.3级地震暂无人员伤亡报告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-10 09:54:00",
+		"enddate":"2011-07-10 09:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2011-07-10\/095422787964.shtml\">read more<\/a>",
+		"title":"图文：日本东部地震地理位置示意图",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-10 12:55:00",
+		"enddate":"2011-07-10 12:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-07-10\/125522788443.shtml\">read more<\/a>",
+		"title":"日本将地震震级修正为7.3级",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-28 02:24:00",
+		"enddate":"2011-12-28 02:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-12-28\/022423705640.shtml\">read more<\/a>",
+		"title":"日本核事故独立调查报告严责政府",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-10 09:58:00",
+		"enddate":"2011-07-10 09:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-07-10\/095822788031.shtml\">read more<\/a>",
+		"title":"日本7.1级地震震动时间长达1分钟以上",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-10 11:17:00",
+		"enddate":"2011-07-10 11:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-07-10\/111722788172.shtml\">read more<\/a>",
+		"title":"日本东部沿海出现10厘米海啸 预警已解除",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-10 10:27:00",
+		"enddate":"2011-07-10 10:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-07-10\/102722788125.shtml\">read more<\/a>",
+		"title":"东电宣布福岛第一第二核电站未出现异常",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-10 10:35:00",
+		"enddate":"2011-07-10 10:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-07-10\/103522788069.shtml\">read more<\/a>",
+		"title":"日本7.1级地震为3-11大地震余震",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-25 05:33:00",
+		"enddate":"2011-09-25 05:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-09-25\/053323212723.shtml\">read more<\/a>",
+		"title":"日本前后已有18000名工人参加福岛核电站抢险",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-23 15:58:00",
+		"enddate":"2011-07-23 15:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-07-23\/155822864372.shtml\">read more<\/a>",
+		"title":"日本东北地区发生6.3级地震",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-10 09:28:00",
+		"enddate":"2011-07-10 09:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-07-10\/092822787889.shtml\">read more<\/a>",
+		"title":"日本本州岛发生7.1级地震 当局发布海啸预警",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-11 02:10:00",
+		"enddate":"2011-07-11 02:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-07-11\/021022789769.shtml\">read more<\/a>",
+		"title":"日本再遭7.3级强余震袭击 新干线一度短暂停运",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-10 12:08:00",
+		"enddate":"2011-07-10 12:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-07-10\/120822788313.shtml\">read more<\/a>",
+		"title":"日本7.1级地震引发海啸不会对我国造成影响",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-17 04:54:00",
+		"enddate":"2011-12-17 04:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-12-17\/045423647412.shtml\">read more<\/a>",
+		"title":"日本首相再次就核泄漏向国民及受影响国家谢罪",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji4_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji4_type",
+	"size_importance":"true"
+}]

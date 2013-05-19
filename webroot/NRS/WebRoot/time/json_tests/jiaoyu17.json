@@ -1,0 +1,204 @@
+[
+{
+	"title":"南京大学110周年校庆",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-05-29 17:12:00",
+		"enddate":"2012-05-29 17:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-05-29\/1712340006.shtml\">read more<\/a>",
+		"title":"南大校董会暨110周年校庆捐赠仪式举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_17_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-30 17:48:00",
+		"enddate":"2012-05-30 17:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-05-30\/1748340170.shtml\">read more<\/a>",
+		"title":"南京大学“牛顿园”正式落成",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_17_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-30 17:50:00",
+		"enddate":"2012-05-30 17:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-05-30\/1750340171.shtml\">read more<\/a>",
+		"title":"南大历史学系110周年庆典大会隆重举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_17_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-30 17:52:00",
+		"enddate":"2012-05-30 17:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-05-30\/1752340173.shtml\">read more<\/a>",
+		"title":"央视新闻联播播报南大校庆与办学成就",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_17_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-30 17:53:00",
+		"enddate":"2012-05-30 17:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-05-30\/1753340175.shtml\">read more<\/a>",
+		"title":"南大陈骏校长会见校际交流学校校长代表团",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_17_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-30 17:57:00",
+		"enddate":"2012-05-30 17:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-05-30\/1757340176.shtml\">read more<\/a>",
+		"title":"南京大学第五次全球校友代表大会举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_17_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-30 17:59:00",
+		"enddate":"2012-05-30 17:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-05-30\/1759340179.shtml\">read more<\/a>",
+		"title":"记南京大学庆祝建校110周年文艺晚会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_17_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-30 18:01:00",
+		"enddate":"2012-05-30 18:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-05-30\/1801340180.shtml\">read more<\/a>",
+		"title":"南京大学举办化学学科高峰论坛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_17_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-30 18:14:00",
+		"enddate":"2012-05-30 18:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-05-30\/1814340182.shtml\">read more<\/a>",
+		"title":"南京大学举办“中国文化与世界高层论坛”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_17_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-30 18:15:00",
+		"enddate":"2012-05-30 18:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-05-30\/1815340183.shtml\">read more<\/a>",
+		"title":"北京八位校友捐塑“孔子像”伫立南大",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_17_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-30 18:18:00",
+		"enddate":"2012-05-30 18:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-05-30\/1818340184.shtml\">read more<\/a>",
+		"title":"南大110周年校庆“思想之光”大型报告会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_17_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-30 18:34:00",
+		"enddate":"2012-05-30 18:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-05-30\/1834340185.shtml\">read more<\/a>",
+		"title":"南京大学建校110周年庆祝大会隆重举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_17_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"jiaoyu_type"},
+		"ypix":"0",
+		"id":"jiaoyu17_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu17_type",
+	"size_importance":"true"
+}]

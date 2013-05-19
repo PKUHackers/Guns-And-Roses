@@ -1,0 +1,324 @@
+[
+{
+	"title":"2011年黑莓亚洲开发者大会",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-11-23 10:04:00",
+		"enddate":"2011-11-23 10:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2011-11-23\/10041942031.shtml\">read more<\/a>",
+		"title":"黑莓Playbook平板原生邮件客户端曝光",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-17 08:30:00",
+		"enddate":"2011-11-17 08:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2011-11-17\/08306333450.shtml\">read more<\/a>",
+		"title":"黑莓公布最新全触屏手机Curve 9380",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 16:06:00",
+		"enddate":"2011-12-07 16:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2011-12-07\/16066445180.shtml\">read more<\/a>",
+		"title":"黑莓亚洲开发者大会开幕:BBX更名为黑莓10",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 05:00:00",
+		"enddate":"2011-12-07 05:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-12-07\/05006439998.shtml\">read more<\/a>",
+		"title":"平板电脑拖累业绩 高库存压坏黑莓",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-25 20:32:00",
+		"enddate":"2011-11-25 20:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-11-25\/20326386534.shtml\">read more<\/a>",
+		"title":"印尼数千名消费者排队购买黑莓Bold 9790(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-23 11:25:00",
+		"enddate":"2011-11-23 11:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/pad\/2011-11-23\/11256370569.shtml\">read more<\/a>",
+		"title":"传黑莓平板在美国亏本甩卖清仓",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-28 09:00:00",
+		"enddate":"2011-11-28 09:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-11-28\/09006392839.shtml\">read more<\/a>",
+		"title":"燃烧的黑莓衰落的RIM 或成另一家诺基亚",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-02 12:23:00",
+		"enddate":"2011-12-02 12:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2011-12-02\/12236415150.shtml\">read more<\/a>",
+		"title":"1.5GHz双核处理器 黑莓Surfboard现身",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-11 21:28:00",
+		"enddate":"2011-12-11 21:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2011-12-11\/21286474786.shtml\">read more<\/a>",
+		"title":"RIM：转向BlackBerry 10平台全面支持HTML5",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-22 11:43:00",
+		"enddate":"2011-11-22 11:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-11-22\/11436364090.shtml\">read more<\/a>",
+		"title":"黑莓手机厄运连连需技术创新解围",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-17 08:39:00",
+		"enddate":"2011-11-17 08:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2011-11-17\/08396333492.shtml\">read more<\/a>",
+		"title":"超越黑莓 开发者对Windows Phone更感兴趣",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-29 08:21:00",
+		"enddate":"2011-11-29 08:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2011-11-29\/08216397847.shtml\">read more<\/a>",
+		"title":"纯白色调难抗拒 白色旗舰黑莓9900图赏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-11 22:12:00",
+		"enddate":"2011-12-11 22:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2011-12-11\/22126474816.shtml\">read more<\/a>",
+		"title":"RIM开发者：黑莓用户付费习惯好",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-24 08:23:00",
+		"enddate":"2011-11-24 08:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2011-11-24\/08236379311.shtml\">read more<\/a>",
+		"title":"全键盘旗舰 白色版黑莓Bold 9900将上市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-06 15:18:00",
+		"enddate":"2011-12-06 15:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-12-06\/15186435203.shtml\">read more<\/a>",
+		"title":"《福布斯》调查称柯达黑莓四年内要消失",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 15:57:00",
+		"enddate":"2011-12-07 15:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-12-07\/15576445068.shtml\">read more<\/a>",
+		"title":"RIM将BBX系统更名为黑莓10",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 02:47:00",
+		"enddate":"2011-12-07 02:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-12-07\/02476439367.shtml\">read more<\/a>",
+		"title":"黑莓遭遇多重困境业绩预期难实现",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-17 08:05:00",
+		"enddate":"2011-11-17 08:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2011-11-17\/08056333089.shtml\">read more<\/a>",
+		"title":"1GHz/BlackberryOS 7 新Bold黑莓9790试玩",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 10:14:00",
+		"enddate":"2011-12-07 10:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2011-12-07\/10141958191.shtml\">read more<\/a>",
+		"title":"黑莓Playbook平板越狱工具测试版发布",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-30 10:59:00",
+		"enddate":"2011-11-30 10:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2011-11-30\/10591950042.shtml\">read more<\/a>",
+		"title":"视频：黑莓Playbook平板电脑成功Root",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_10_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji10_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji10_type",
+	"size_importance":"true"
+}]

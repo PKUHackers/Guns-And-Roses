@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012年1月经济数据",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-02-02 18:08:00",
+		"enddate":"2012-02-02 18:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120202\/180811301037.shtml\">read more<\/a>",
+		"title":"1月PMI指标高出预期 分析称经济将实现软着陆",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 10:22:00",
+		"enddate":"2012-02-09 10:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/hgjj\/20120209\/102211344032.shtml\">read more<\/a>",
+		"title":"2012年1月CPI同比上涨4.5％ 稍高于市场预期",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-10 11:24:00",
+		"enddate":"2012-02-10 11:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/hgjj\/20120210\/112411353061.shtml\">read more<\/a>",
+		"title":"海关总署：1月中西部地区出口呈现快速增长",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 17:24:00",
+		"enddate":"2012-02-09 17:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/hgjj\/20120209\/172411346801.shtml\">read more<\/a>",
+		"title":"1月份CPI反弹至4.5% 专家预计2月回落到3%左右",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-04 02:03:00",
+		"enddate":"2012-02-04 02:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20120204\/020311311041.shtml\">read more<\/a>",
+		"title":"1月非制造业PMI季节性回落至52.9%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-02 09:46:00",
+		"enddate":"2012-02-02 09:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/jrxw\/20120202\/094611297376.shtml\">read more<\/a>",
+		"title":"1月PMI超预期推迟宽松 存准率下调或因此迟到",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-10 05:54:00",
+		"enddate":"2012-02-10 05:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/hgjj\/20120210\/055411350191.shtml\">read more<\/a>",
+		"title":"分析称1月CPI季节性反弹难改回落大势",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-07 06:45:00",
+		"enddate":"2012-02-07 06:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120207\/064511325550.shtml\">read more<\/a>",
+		"title":"1月份CPI或小幅反弹 假期因素是主因",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-10 08:20:00",
+		"enddate":"2012-02-10 08:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120210\/082011351264.shtml\">read more<\/a>",
+		"title":"猪肉拉动1月CPI上涨4.5% 加重楼市观望情绪",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-03 10:23:00",
+		"enddate":"2012-02-03 10:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20120203\/102311306769.shtml\">read more<\/a>",
+		"title":"1月非制造业PMI回落至52.9% 产业经济增速放缓",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-10 08:07:00",
+		"enddate":"2012-02-10 08:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/jrxw\/20120210\/080711351159.shtml\">read more<\/a>",
+		"title":"1月CPI同比增4.5%超预期 存准率或推迟下调",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 10:07:00",
+		"enddate":"2012-02-09 10:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/hgjj\/20120209\/100711343846.shtml\">read more<\/a>",
+		"title":"2012年1月份食品价格上涨10.5%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-08 06:41:00",
+		"enddate":"2012-02-08 06:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/review\/jcgc\/20120208\/064111332996.shtml\">read more<\/a>",
+		"title":"林伯强：此次油价上调幅度小 不会影响到CPI",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 23:54:00",
+		"enddate":"2012-02-09 23:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120209\/235411348053.shtml\">read more<\/a>",
+		"title":"PPI与用电量均现负增长：制造业放缓信号乍现",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 06:54:00",
+		"enddate":"2012-02-09 06:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/hgjj\/20120209\/065411341944.shtml\">read more<\/a>",
+		"title":"1月部分经济数据今公布 机构预测CPI涨幅为4.1%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing13_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing13_type",
+	"size_importance":"true"
+}]

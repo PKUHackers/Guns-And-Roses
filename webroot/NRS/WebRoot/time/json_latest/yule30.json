@@ -1,0 +1,249 @@
+[
+{
+	"title":"英国音乐排行榜",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-10-24 15:35:00",
+		"enddate":"2011-10-24 15:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2011-10-24\/15353459180.shtml\">read more<\/a>",
+		"title":"绿洲吉他手个人唱片登顶英国榜 选秀冠军获亚军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_30_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-05 16:05:00",
+		"enddate":"2011-12-05 16:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2011-12-05\/16053499371.shtml\">read more<\/a>",
+		"title":"奥利-莫斯空降英国榜冠军 美声男伶新碟第六",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_30_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-04 21:03:00",
+		"enddate":"2011-10-04 21:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2011-10-04\/21033433550.shtml\">read more<\/a>",
+		"title":"詹姆斯-莫里森空降英国榜冠军 涅�名盘第五",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_30_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-25 15:20:00",
+		"enddate":"2012-04-25 15:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-04-25\/15203615036.shtml\">read more<\/a>",
+		"title":"阿黛尔蝉联英国榜冠军 Jason Mraz新碟亚军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_30_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 15:56:00",
+		"enddate":"2012-09-17 15:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-09-17\/15563744113.shtml\">read more<\/a>",
+		"title":"The XX新碟英国榜夺冠 鲍勃-迪伦获季军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_30_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-06 17:01:00",
+		"enddate":"2012-02-06 17:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-02-06\/17013547192.shtml\">read more<\/a>",
+		"title":"新人德尔-蕾获英国榜冠军 莱纳德-科恩获亚军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_30_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-14 18:03:00",
+		"enddate":"2011-11-14 18:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2011-11-14\/18033481114.shtml\">read more<\/a>",
+		"title":"苏珊大妈新碟英国榜夺冠 收获连续三张冠军专辑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_30_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-10 17:30:00",
+		"enddate":"2011-10-10 17:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2011-10-10\/17303437323.shtml\">read more<\/a>",
+		"title":"蕾哈娜英国榜夺冠 收获个人第六首冠军单曲",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_30_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-26 16:25:00",
+		"enddate":"2011-07-26 16:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2011-07-26\/16253369494.shtml\">read more<\/a>",
+		"title":"阿黛尔英国榜第18周夺冠 怀恩豪斯专辑重新上榜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_30_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-02 10:59:00",
+		"enddate":"2011-06-02 10:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2011-06-02\/10593324150.shtml\">read more<\/a>",
+		"title":"lady Gaga新碟夺英国榜冠军 首周销量今年最高",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_30_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-28 14:05:00",
+		"enddate":"2011-11-28 14:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2011-11-28\/14053493399.shtml\">read more<\/a>",
+		"title":"蕾哈娜包揽英国榜冠军 西城男孩告别精选第四",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_30_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-13 14:22:00",
+		"enddate":"2012-08-13 14:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-13\/14223710137.shtml\">read more<\/a>",
+		"title":"蕾哈娜重回英国榜榜首 B计划仍排第二",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_30_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-16 15:36:00",
+		"enddate":"2012-04-16 15:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-04-16\/15363606876.shtml\">read more<\/a>",
+		"title":"阿黛尔英国榜创造新纪录 夺冠时间超大卫-鲍伊",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_30_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-02 17:51:00",
+		"enddate":"2012-04-02 17:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-04-02\/17513596577.shtml\">read more<\/a>",
+		"title":"麦当娜新碟空降英国榜榜首 冠军专辑数超猫王",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_30_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-07 16:30:00",
+		"enddate":"2011-11-07 16:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2011-11-07\/16303474015.shtml\">read more<\/a>",
+		"title":"Florence the Machine新专辑获英国榜冠军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_30_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule30_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule30_type",
+	"size_importance":"true"
+}]

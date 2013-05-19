@@ -1,0 +1,294 @@
+[
+{
+	"title":"2012年中国大学生就业报告",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-06-12 10:05:00",
+		"enddate":"2012-06-12 10:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-12\/1005216228.shtml\">read more<\/a>",
+		"title":"57万大学生失业 70万毕业生“学非所用”  ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-12 13:54:00",
+		"enddate":"2012-06-12 13:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-12\/1354216232.shtml\">read more<\/a>",
+		"title":"毕业三年后薪资较高的20大本科专业(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-12 15:15:00",
+		"enddate":"2012-06-12 15:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-12\/1515216236.shtml\">read more<\/a>",
+		"title":"2012年度就业前景最不看好的本科专业(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-13 13:38:00",
+		"enddate":"2012-06-13 13:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-13\/1338216268.shtml\">read more<\/a>",
+		"title":"揭秘2012年大学女生毕业年薪最高十大行业",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 10:56:00",
+		"enddate":"2012-06-14 10:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-14\/1056216293.shtml\">read more<\/a>",
+		"title":"2011届毕业生就业率最高的50大专业(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 11:02:00",
+		"enddate":"2012-06-14 11:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-14\/1102216295.shtml\">read more<\/a>",
+		"title":"2011届毕业生就业率最低的十大本科专业(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 11:04:00",
+		"enddate":"2012-06-14 11:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-14\/1104216296.shtml\">read more<\/a>",
+		"title":"2008届毕业生薪资增长最快的十大本科专业",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 11:06:00",
+		"enddate":"2012-06-14 11:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-14\/1106216297.shtml\">read more<\/a>",
+		"title":"2011届就业满意度较高的50大本科专业(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 11:08:00",
+		"enddate":"2012-06-14 11:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-14\/1108216298.shtml\">read more<\/a>",
+		"title":"揭秘十大最受毕业生欢迎的行业(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 11:16:00",
+		"enddate":"2012-06-14 11:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-14\/1116216300.shtml\">read more<\/a>",
+		"title":"本科生50大高薪职业出炉 互联网开发师列榜首",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 11:18:00",
+		"enddate":"2012-06-14 11:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-14\/1118216301.shtml\">read more<\/a>",
+		"title":"本科生毕业三年后从事薪资较高十大行业",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 11:20:00",
+		"enddate":"2012-06-14 11:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-14\/1120216302.shtml\">read more<\/a>",
+		"title":"读研比例较高的20大本科专业(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 11:22:00",
+		"enddate":"2012-06-14 11:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-14\/1122216303.shtml\">read more<\/a>",
+		"title":"毕业三年内职位晋升比例较高的十大本科专业",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 11:23:00",
+		"enddate":"2012-06-14 11:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-14\/1123216304.shtml\">read more<\/a>",
+		"title":"社会需求量最大的50大本科专业(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 14:32:00",
+		"enddate":"2012-06-14 14:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-14\/1432216312.shtml\">read more<\/a>",
+		"title":"大学毕业生填报志愿时首要理由",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 14:38:00",
+		"enddate":"2012-06-14 14:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-14\/1438216315.shtml\">read more<\/a>",
+		"title":"各类型院校毕业生的校友推荐度",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 14:47:00",
+		"enddate":"2012-06-14 14:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-14\/1447216316.shtml\">read more<\/a>",
+		"title":"毕业半年后就业率较低的十大本科专业",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 14:49:00",
+		"enddate":"2012-06-14 14:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/l\/2012-06-14\/1449216317.shtml\">read more<\/a>",
+		"title":"毕业半年后薪资较低的十大本科专业",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_7_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"jiaoyu_type"},
+		"ypix":"0",
+		"id":"jiaoyu7_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu7_type",
+	"size_importance":"true"
+}]

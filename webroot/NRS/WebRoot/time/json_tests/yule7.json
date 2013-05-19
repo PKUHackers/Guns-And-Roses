@@ -1,0 +1,324 @@
+[
+{
+	"title":"Vee live演唱会",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-08-05 14:25:00",
+		"enddate":"2012-08-05 14:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-08-05\/14253703445.shtml\">read more<\/a>",
+		"title":"Vee Live第二场将演 武艺备战魔术彩排",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-29 11:44:00",
+		"enddate":"2012-08-29 11:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/x\/2012-08-29\/11443725156.shtml\">read more<\/a>",
+		"title":"Vee Live演唱会初战告捷 曾轶可11月接棒",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-17 19:38:00",
+		"enddate":"2012-07-17 19:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-07-17\/19383687558.shtml\">read more<\/a>",
+		"title":"天娱艺人打造Vee Live小型个唱 低票价吸睛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-24 18:17:00",
+		"enddate":"2012-07-24 18:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-07-24\/18173693764.shtml\">read more<\/a>",
+		"title":"天娱首场VEE LIVE掀抢票热潮",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-30 01:00:00",
+		"enddate":"2012-07-30 01:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-07-30\/01003697644.shtml\">read more<\/a>",
+		"title":"Vee Live首场火力全开 刘忻将分享小秘密",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-30 13:05:00",
+		"enddate":"2012-07-30 13:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-07-30\/13053698184.shtml\">read more<\/a>",
+		"title":"Vee Live火热来袭  刘忻武艺全面开票",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-31 09:58:00",
+		"enddate":"2012-07-31 09:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-07-31\/09583698827.shtml\">read more<\/a>",
+		"title":"刘忻Vee Live个唱将唱响 现身五棵松排练",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-02 07:33:00",
+		"enddate":"2012-08-02 07:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-02\/07333700904.shtml\">read more<\/a>",
+		"title":"歌迷力邀阿Sa加盟Vee Live武艺坦言压力大",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-03 10:15:00",
+		"enddate":"2012-08-03 10:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-03\/10153702149.shtml\">read more<\/a>",
+		"title":"武艺Vee Live个唱将演绎纯爱音乐剧",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-03 12:23:00",
+		"enddate":"2012-08-03 12:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-03\/12233702343.shtml\">read more<\/a>",
+		"title":"洪辰Vee Live个唱将上演 首次合乐队排练",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-03 17:12:00",
+		"enddate":"2012-08-03 17:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-03\/17123702688.shtml\">read more<\/a>",
+		"title":"洪辰个唱下周登陆五棵松 好姐妹杨洋助阵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-04 07:53:00",
+		"enddate":"2012-08-04 07:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-04\/07533702977.shtml\">read more<\/a>",
+		"title":"Vee Live武艺周日晚开唱 谭杰希友情助阵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-04 11:45:00",
+		"enddate":"2012-08-04 11:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-04\/11453703069.shtml\">read more<\/a>",
+		"title":"Vee Live演唱会快女齐上阵拍主题海报",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-06 00:21:00",
+		"enddate":"2012-08-06 00:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-06\/00213703532.shtml\">read more<\/a>",
+		"title":"武艺Vee Live个唱温馨落幕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-06 10:52:00",
+		"enddate":"2012-08-06 10:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-06\/10523703870.shtml\">read more<\/a>",
+		"title":"快女拍摄Vee Live演唱会主题海报(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-06 15:20:00",
+		"enddate":"2012-08-06 15:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-06\/15203704192.shtml\">read more<\/a>",
+		"title":"武艺Vee Live个唱落幕 魔术首秀引尖叫",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-07 09:33:00",
+		"enddate":"2012-08-07 09:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-07\/09333704711.shtml\">read more<\/a>",
+		"title":"Vee Live洪辰个唱搭档姜潮演绎悲情音乐剧",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-14 07:27:00",
+		"enddate":"2012-08-14 07:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-14\/07273710725.shtml\">read more<\/a>",
+		"title":"Vee Live演唱会反响热烈 苏妙玲接棒开唱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-20 11:55:00",
+		"enddate":"2012-08-20 11:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-20\/11553716427.shtml\">read more<\/a>",
+		"title":"苏妙玲Vee Live海报曝光 唱响五棵松",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-11 18:21:00",
+		"enddate":"2012-09-11 18:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-09-11\/18213738681.shtml\">read more<\/a>",
+		"title":"Vee live演唱会11月精彩升级",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_7_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule7_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule7_type",
+	"size_importance":"true"
+}]

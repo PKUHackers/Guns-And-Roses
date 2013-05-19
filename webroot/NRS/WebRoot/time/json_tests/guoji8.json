@@ -1,0 +1,324 @@
+[
+{
+	"title":"印尼发生7.3级地震",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-09-03 08:07:00",
+		"enddate":"2009-09-03 08:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-09-03\/080718571020.shtml\">read more<\/a>",
+		"title":"印尼地震已致42死400余伤(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-02 17:10:00",
+		"enddate":"2009-09-02 17:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2009-09-02\/171018566057.shtml\">read more<\/a>",
+		"title":"印尼发生7.3级地震发布海啸预警(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-04 03:53:00",
+		"enddate":"2009-09-04 03:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-09-04\/035316237405s.shtml\">read more<\/a>",
+		"title":"印尼强震至少110人因受伤被送医",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-03 17:06:00",
+		"enddate":"2009-09-03 17:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-09-03\/170618574321.shtml\">read more<\/a>",
+		"title":"印尼地震致46人死亡42人失踪",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-02 18:23:00",
+		"enddate":"2009-09-02 18:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2009-09-02\/182316229118s.shtml\">read more<\/a>",
+		"title":"印尼西爪哇省发生7.3级地震 6人死亡 1清真寺倒塌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-03 13:13:00",
+		"enddate":"2009-09-03 13:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-09-03\/131318573096.shtml\">read more<\/a>",
+		"title":"外交部：暂无中国公民在印尼地震中伤亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-03 00:31:00",
+		"enddate":"2009-09-03 00:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-09-03\/003118567060.shtml\">read more<\/a>",
+		"title":"印尼地震已造成34人死亡305人受伤",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-03 05:10:00",
+		"enddate":"2009-09-03 05:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-09-03\/051018568770.shtml\">read more<\/a>",
+		"title":"印尼地震不会引发大规模海啸 警方正疏散村民",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-03 18:03:00",
+		"enddate":"2009-09-03 18:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-09-03\/180318574528.shtml\">read more<\/a>",
+		"title":"印尼地震造成57人死亡上万栋房屋被毁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-02 18:08:00",
+		"enddate":"2009-09-02 18:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-09-02\/180818566158.shtml\">read more<\/a>",
+		"title":"印尼7.3级地震致6人死亡1座清真寺倒塌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-03 05:47:00",
+		"enddate":"2009-09-03 05:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-09-03\/054718569131.shtml\">read more<\/a>",
+		"title":"印尼地震灾情一览",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-03 03:27:00",
+		"enddate":"2009-09-03 03:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-09-03\/032716230439s.shtml\">read more<\/a>",
+		"title":"印尼7.3级强震致700栋建筑物损毁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-04 08:05:00",
+		"enddate":"2009-09-04 08:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-09-04\/080518579326.shtml\">read more<\/a>",
+		"title":"印尼地震救灾面临困难：灾区下雨道路阻断(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-02 16:31:00",
+		"enddate":"2009-09-02 16:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-09-02\/163118565869.shtml\">read more<\/a>",
+		"title":"印尼发生7.4级强烈地震 首都有震感",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-03 07:31:00",
+		"enddate":"2009-09-03 07:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-09-03\/073118570928.shtml\">read more<\/a>",
+		"title":"记者亲历印尼强震：20层大楼剧烈摇晃",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-04 16:50:00",
+		"enddate":"2009-09-04 16:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-09-04\/165016242489s.shtml\">read more<\/a>",
+		"title":"印尼强震死亡人数升至63人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-02 19:27:00",
+		"enddate":"2009-09-02 19:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2009-09-02\/192716229260s.shtml\">read more<\/a>",
+		"title":"印尼海啸预警发布半小时后撤除",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-02 18:57:00",
+		"enddate":"2009-09-02 18:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2009-09-02\/185716229238s.shtml\">read more<\/a>",
+		"title":"印尼强烈地震迫使约5000人撤离",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-03 17:06:00",
+		"enddate":"2009-09-03 17:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-09-03\/170618574332.shtml\">read more<\/a>",
+		"title":"中方对印尼地震表示同情慰问",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-03 21:26:00",
+		"enddate":"2009-09-03 21:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-09-03\/212618575107.shtml\">read more<\/a>",
+		"title":"印尼地震死亡人数升至57人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_8_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji8_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji8_type",
+	"size_importance":"true"
+}]

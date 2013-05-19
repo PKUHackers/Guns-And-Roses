@@ -1,0 +1,309 @@
+[
+{
+	"title":"2013年研究生考试报名指南",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-08-27 10:53:00",
+		"enddate":"2012-08-27 10:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-08-27\/1053353333.shtml\">read more<\/a>",
+		"title":"2013年考研考试提早大半月 网友惊呼真早",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-28 09:56:00",
+		"enddate":"2012-08-28 09:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-08-28\/0956353433.shtml\">read more<\/a>",
+		"title":"进行自主确定复试分数线改革试点的高校名单(34所)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-28 16:26:00",
+		"enddate":"2012-08-28 16:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-08-28\/1626353492.shtml\">read more<\/a>",
+		"title":"2013年考研考试时间确定：1月5日至6日举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-04 14:48:00",
+		"enddate":"2012-09-04 14:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-04\/1448354312.shtml\">read more<\/a>",
+		"title":"2013年考研时间提前 网上报名从10月10开始",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-04 14:48:00",
+		"enddate":"2012-09-04 14:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-04\/1448354313.shtml\">read more<\/a>",
+		"title":"2013年硕士研究生推免信息发布",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-12 11:07:00",
+		"enddate":"2012-09-12 11:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-12\/1107355244.shtml\">read more<\/a>",
+		"title":"考研报名也讲究“门当户对”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-14 10:02:00",
+		"enddate":"2012-09-14 10:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-14\/1002355507.shtml\">read more<\/a>",
+		"title":"2013全国硕士研究生招生网上报名即将开始",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-14 10:06:00",
+		"enddate":"2012-09-14 10:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-14\/1006355509.shtml\">read more<\/a>",
+		"title":"2013年将调减学硕招生计划 增加专业学位",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-14 11:05:00",
+		"enddate":"2012-09-14 11:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-14\/1105355547.shtml\">read more<\/a>",
+		"title":"2013研究生招生网上咨询：9月16日至18日",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-14 14:07:00",
+		"enddate":"2012-09-14 14:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-14\/1407355612.shtml\">read more<\/a>",
+		"title":"南京部分高校明年研招计划出炉",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-14 16:15:00",
+		"enddate":"2012-09-14 16:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-14\/1615355679.shtml\">read more<\/a>",
+		"title":"2013研考报名将开始：有关部门组织咨询",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-14 19:11:00",
+		"enddate":"2012-09-14 19:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-14\/1911355819.shtml\">read more<\/a>",
+		"title":"上海报考少数民族骨干考生领取校验码通知",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-14 19:13:00",
+		"enddate":"2012-09-14 19:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-14\/1913355820.shtml\">read more<\/a>",
+		"title":"2013上海硕士研究生招生考试报考点设置",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-15 13:26:00",
+		"enddate":"2012-09-15 13:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-15\/1326355830.shtml\">read more<\/a>",
+		"title":"兰州大学2013年计划招收硕士研究生3060人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-15 15:51:00",
+		"enddate":"2012-09-15 15:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-15\/1551355860.shtml\">read more<\/a>",
+		"title":"2013硕士研究生 9月28日至29日预报名",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 11:00:00",
+		"enddate":"2012-09-18 11:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-18\/1100356117.shtml\">read more<\/a>",
+		"title":"2013年驻威两高校计划招583名研究生(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 11:08:00",
+		"enddate":"2012-09-18 11:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-18\/1108356119.shtml\">read more<\/a>",
+		"title":"甘肃17家招研单位明年预计招收硕士9727人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-19 10:51:00",
+		"enddate":"2012-09-19 10:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-19\/1051356229.shtml\">read more<\/a>",
+		"title":"2013年研究生考试28日网上预报名",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-19 11:40:00",
+		"enddate":"2012-09-19 11:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-09-19\/1140356257.shtml\">read more<\/a>",
+		"title":"2013年考研报名工作10月启动",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_5_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"jiaoyu_type"},
+		"ypix":"0",
+		"id":"jiaoyu5_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu5_type",
+	"size_importance":"true"
+}]

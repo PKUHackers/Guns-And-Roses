@@ -1,0 +1,249 @@
+[
+{
+	"title":"电视剧《天仙配后传》",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-19 15:30:00",
+		"enddate":"2012-09-19 15:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-19\/15303746222.shtml\">read more<\/a>",
+		"title":"《天仙配后传》天宫戏热拍 娟子曹颖演母女",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_22_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 18:24:00",
+		"enddate":"2012-09-30 18:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-30\/18243756653.shtml\">read more<\/a>",
+		"title":"《天仙配后传》迎中秋 七仙女一家齐聚庆祝",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_22_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 15:50:00",
+		"enddate":"2012-10-11 15:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-11\/15503761617.shtml\">read more<\/a>",
+		"title":"《天仙配后传》关机 万潼剧中演仙女",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_22_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-13 17:20:00",
+		"enddate":"2012-08-13 17:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-08-13\/17203710413.shtml\">read more<\/a>",
+		"title":"《天仙配后传》开机 曹颖领衔传世神话",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_22_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 17:39:00",
+		"enddate":"2012-10-09 17:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-09\/17393759845.shtml\">read more<\/a>",
+		"title":"《天仙配后传》杀青 姚刚版董永引争议",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_22_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-08 20:45:00",
+		"enddate":"2012-08-08 20:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-08-08\/20453706617.shtml\">read more<\/a>",
+		"title":"神话剧《天仙配后传》在东平影视城开机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_22_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 14:14:00",
+		"enddate":"2012-10-08 14:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-08\/14143758700.shtml\">read more<\/a>",
+		"title":"《天仙配后传》杀青 曹颖姚刚回味拍摄艰辛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_22_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 16:57:00",
+		"enddate":"2012-09-20 16:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-20\/16573747455.shtml\">read more<\/a>",
+		"title":"《天仙配后传》热拍 赵文浩演技突破大",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_22_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 14:34:00",
+		"enddate":"2012-10-09 14:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-09\/14343759564.shtml\">read more<\/a>",
+		"title":"《天仙配后传》杀青 看点众多趣事无穷",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_22_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-20 15:38:00",
+		"enddate":"2012-08-20 15:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-08-20\/15383716708.shtml\">read more<\/a>",
+		"title":"《天仙配后传》热拍 七仙女挑战酷暑炎热",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_22_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-16 15:59:00",
+		"enddate":"2012-09-16 15:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-16\/15593743291.shtml\">read more<\/a>",
+		"title":"《天仙配后传》探班 曹颖抱怨法力太低",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_22_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-23 15:06:00",
+		"enddate":"2012-08-23 15:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-08-23\/15063720006.shtml\">read more<\/a>",
+		"title":"《天仙配后传》过七夕 曹颖姚刚剧组送祝福",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_22_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 11:36:00",
+		"enddate":"2012-09-28 11:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-28\/11363755018.shtml\">read more<\/a>",
+		"title":"《天仙配后传》热拍 曹颖江西圆“神仙”梦",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_22_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-20 14:44:00",
+		"enddate":"2012-08-20 14:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-08-20\/14443716568.shtml\">read more<\/a>",
+		"title":"《天仙配后传》韩东演反派苦恋七仙女",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_22_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-23 16:07:00",
+		"enddate":"2012-08-23 16:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-08-23\/16073720078.shtml\">read more<\/a>",
+		"title":"《天仙配后传》七仙女20年后相约七夕节",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_22_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule22_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule22_type",
+	"size_importance":"true"
+}]

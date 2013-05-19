@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012莱德杯",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-29 11:33:00",
+		"enddate":"2012-09-29 11:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-09-29\/11336243273.shtml\">read more<\/a>",
+		"title":"福瑞克第十洞小球移动被罚杆 相信不会改变战局",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 09:45:00",
+		"enddate":"2012-09-30 09:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-09-30\/09456244203.shtml\">read more<\/a>",
+		"title":"美国职业高协号召球迷穿红衣 为美国队呐喊助威",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-03 09:54:00",
+		"enddate":"2012-10-03 09:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-03\/09546246939.shtml\">read more<\/a>",
+		"title":"莱德杯最后一分重要与否 伍兹与莫里纳利意见分歧",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-01 10:21:00",
+		"enddate":"2012-10-01 10:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-01\/10216245237.shtml\">read more<\/a>",
+		"title":"拉夫三世让火爆选手休息被质疑 菲尔主动承担责任",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 10:33:00",
+		"enddate":"2012-10-04 10:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-04\/10336247967.shtml\">read more<\/a>",
+		"title":"劳列批评芝加哥观众表现 打球时乱喊乱叫没有礼貌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-01 15:24:00",
+		"enddate":"2012-10-01 15:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-01\/15246245463.shtml\">read more<\/a>",
+		"title":"美媒:美国队应稳胜 欧洲队大逆转难度如小麦长直发",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 22:19:00",
+		"enddate":"2012-09-28 22:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-09-28\/22196242675.shtml\">read more<\/a>",
+		"title":"奥拉查宝开球车不敢大意 自嘲不想超速再收罚款单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-01 06:33:00",
+		"enddate":"2012-10-01 06:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-01\/06336245022.shtml\">read more<\/a>",
+		"title":"莱德杯欧洲队神奇逆转卫冕 美国队伍兹四战无胜绩",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 09:35:00",
+		"enddate":"2012-10-04 09:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-04\/09356247876.shtml\">read more<\/a>",
+		"title":"米克尔森创莱德杯参赛场次纪录 个人赛五负为最差",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 12:39:00",
+		"enddate":"2012-09-30 12:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-09-30\/12396244419.shtml\">read more<\/a>",
+		"title":"美巡官网预测单人对决赛 美国队大比分胜利没悬念",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 04:45:00",
+		"enddate":"2012-09-30 04:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-09-30\/04456243942.shtml\">read more<\/a>",
+		"title":"考赛茨开球下水无法扭转败局 首秀体验双重滋味",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 18:48:00",
+		"enddate":"2012-09-28 18:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-09-28\/18486242592.shtml\">read more<\/a>",
+		"title":"小麦惊讶美国队新人打头阵 保尔特料中对决伍兹组合",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 10:34:00",
+		"enddate":"2012-10-04 10:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-04\/10346247968.shtml\">read more<\/a>",
+		"title":"卡波斯测量血压被错误解读 身体无恙只是寻开心",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 09:11:00",
+		"enddate":"2012-09-30 09:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-09-30\/09116244146.shtml\">read more<\/a>",
+		"title":"莱德杯第三日巴巴沃森打先锋 伍兹被放到最后一组",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-02 09:08:00",
+		"enddate":"2012-10-02 09:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-02\/09086245883.shtml\">read more<\/a>",
+		"title":"莱德杯最后一日收视率在美表现佳 创99年以来最好",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu10_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu10_type",
+	"size_importance":"true"
+}]

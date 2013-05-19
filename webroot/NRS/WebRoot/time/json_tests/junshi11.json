@@ -1,0 +1,324 @@
+[
+{
+	"title":"2011亚洲航展",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2010-12-10 17:37:00",
+		"enddate":"2010-12-10 17:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-12-10\/1737623006.html\">read more<\/a>",
+		"title":"2011亚洲航展助力西安航空产业迈向国际舞台",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-10 19:45:00",
+		"enddate":"2011-03-10 19:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-03-10\/1945637017.html\">read more<\/a>",
+		"title":"国航在亚洲航展宣布购买五架波音747-8洲际客机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-09 00:31:00",
+		"enddate":"2011-03-09 00:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-03-09\/0031636636.html\">read more<\/a>",
+		"title":"亚洲国际航空展在港开幕 国产大飞机备受关注",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-09 08:55:00",
+		"enddate":"2011-03-09 08:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-03-09\/0855636733.html\">read more<\/a>",
+		"title":"亚洲航展规模再迈新高 21架公务机亮相静态展示",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-09 00:41:00",
+		"enddate":"2011-03-09 00:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-03-09\/0041636637.html\">read more<\/a>",
+		"title":"美国媒体称C919将打破波音空客双雄称霸局面",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-02 10:28:00",
+		"enddate":"2011-03-02 10:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-03-02\/1028635538.html\">read more<\/a>",
+		"title":"中国引领亚洲商务航空业快速增长",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-05 12:11:00",
+		"enddate":"2010-07-05 12:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-07-05\/1211599284.html\">read more<\/a>",
+		"title":"从吉祥模式看国有航空的经营策略",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-03 14:36:00",
+		"enddate":"2011-03-03 14:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-03-03\/1436635826.html\">read more<\/a>",
+		"title":"波音将亮相2011亚洲航展阐述民机行业发展趋势",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-10 19:47:00",
+		"enddate":"2011-03-10 19:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-03-10\/1947637018.html\">read more<\/a>",
+		"title":"香港国泰航空将购买15架A330客机约33亿美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-09 09:21:00",
+		"enddate":"2011-03-09 09:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-03-09\/0921636735.html\">read more<\/a>",
+		"title":"中国C919大客机进展顺利 将转入工程发展阶段",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-10 09:56:00",
+		"enddate":"2010-07-10 09:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-07-10\/0956600047.html\">read more<\/a>",
+		"title":"亚洲航空公司：全力打造新时代网络服务系统",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-10 19:53:00",
+		"enddate":"2011-03-10 19:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-03-10\/1953637020.html\">read more<\/a>",
+		"title":"香港财政司司长：举办亚洲航展将促进香港旅游",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-07 15:01:00",
+		"enddate":"2011-03-07 15:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-03-07\/1501636434.html\">read more<\/a>",
+		"title":"空客预测未来20年亚太民机需求量将达到8560架",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-02-18 15:30:00",
+		"enddate":"2011-02-18 15:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-02-18\/1530633569.html\">read more<\/a>",
+		"title":"2011年亚洲航展将吸引众多航空制造商参展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-09 14:46:00",
+		"enddate":"2011-03-09 14:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-03-09\/1446636798.html\">read more<\/a>",
+		"title":"中国商飞在亚洲航展透露C919客机拟2014年首飞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-08 09:55:00",
+		"enddate":"2011-03-08 09:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-03-08\/0955636555.html\">read more<\/a>",
+		"title":"国航订购5架波音747-8客机成国内首家用户(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-10 13:07:00",
+		"enddate":"2011-03-10 13:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-03-10\/1307636972.html\">read more<\/a>",
+		"title":"国泰订购10架波音777-300ER飞机 总价28亿美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-12-17 12:45:00",
+		"enddate":"2010-12-17 12:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-12-17\/1245624096.html\">read more<\/a>",
+		"title":"亚洲航空展览会参展商和参观人数将再创新高",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-10 19:51:00",
+		"enddate":"2011-03-10 19:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-03-10\/1951637019.html\">read more<\/a>",
+		"title":"波音中国销售副总裁：为中国提供最新747客机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-10 09:45:00",
+		"enddate":"2011-03-10 09:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-03-10\/0945636943.html\">read more<\/a>",
+		"title":"俄称香港航展是航空巨头进军中国市场最佳平台",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_11_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi11_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi11_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,96 @@
+[
+{
+	"title":"教育",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-20 11:02:00",
+		"enddate":"2012-09-29 12:07:00",
+		"description":"2013年全国高校硕士研究生招生简章",
+		"title":"2013年全国高校硕士研究生招生简章",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/jiaoyu0.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"jiaoyu0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 10:53:00",
+		"enddate":"2012-10-18 11:58:00",
+		"description":"2013年国家公务员考试报考指南",
+		"title":"2013年国家公务员考试报考指南",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/jiaoyu1.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"jiaoyu1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 14:23:00",
+		"enddate":"2012-09-28 11:44:00",
+		"description":"中国人民大学建校七十五周年",
+		"title":"中国人民大学建校七十五周年",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/jiaoyu2.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"jiaoyu2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 09:52:00",
+		"enddate":"2012-10-16 14:23:00",
+		"description":"初三生及家长备战中考全攻略",
+		"title":"初三生及家长备战中考全攻略",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/jiaoyu3.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"jiaoyu3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"type"},
+		"ypix":"0",
+		"id":"jiaoyu_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu_type",
+	"size_importance":"true"
+}]

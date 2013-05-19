@@ -1,0 +1,249 @@
+[
+{
+	"title":"中国女排征战2012赛季",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-24 09:52:00",
+		"enddate":"2012-09-24 09:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-24\/09526237575.shtml\">read more<\/a>",
+		"title":"中国女排的奥运周期奥运年:平淡且略带失望收场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_33_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 05:32:00",
+		"enddate":"2012-09-21 05:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-21\/05326233457.shtml\">read more<\/a>",
+		"title":"俞觉敏叹女排太急功近利 执教压力曾让人生不如死",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_33_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 08:09:00",
+		"enddate":"2012-10-16 08:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-16\/08096259260.shtml\">read more<\/a>",
+		"title":"女排亚少赛中国3-0哈萨克斯坦 王云�14分冠全场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_33_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 11:11:00",
+		"enddate":"2012-10-12 11:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-12\/11116255540.shtml\">read more<\/a>",
+		"title":"天津女排抵达多哈备战世俱杯 二传米杨将打主力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_33_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 04:11:00",
+		"enddate":"2012-10-12 04:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-12\/04116255216.shtml\">read more<\/a>",
+		"title":"徐利：女排主帅明年初才确定 阎世铎接我班太好笑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_33_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 12:15:00",
+		"enddate":"2012-10-12 12:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-12\/12156255644.shtml\">read more<\/a>",
+		"title":"徐利：目前还没启动选帅程序 选拔标准办法还没出台",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_33_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-02 16:16:00",
+		"enddate":"2012-10-02 16:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-02\/16166246304.shtml\">read more<\/a>",
+		"title":"亚洲青年女排锦标赛泰国开幕 中国横扫蒙古获开门红",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_33_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 06:27:00",
+		"enddate":"2012-10-14 06:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-14\/06276257320.shtml\">read more<\/a>",
+		"title":"世界女排俱乐部杯赛开幕 鹰眼系统首次进入排球赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_33_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 09:06:00",
+		"enddate":"2012-10-15 09:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-15\/09066258354.shtml\">read more<\/a>",
+		"title":"国少女排平均身高超成年队 主帅：要高度也要基本功",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_33_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 22:30:00",
+		"enddate":"2012-10-09 22:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-09\/22306253073.shtml\">read more<\/a>",
+		"title":"女排亚青赛中国轻取中华台北成功卫冕 朱婷荣膺MVP",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_33_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 06:23:00",
+		"enddate":"2012-10-04 06:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-04\/06236247689.shtml\">read more<\/a>",
+		"title":"前国手批中国女排缺凝聚力 场上6人看上去各打各的",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_33_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 10:17:00",
+		"enddate":"2012-09-25 10:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-25\/10176238742.shtml\">read more<\/a>",
+		"title":"女排黄金一代华丽转身 李珊任天津体工大队副大队长",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_33_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 11:35:00",
+		"enddate":"2012-09-27 11:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-27\/11356241189.shtml\">read more<\/a>",
+		"title":"女排新帅热门候选很避讳 名宿：不要光盯着外教看",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_33_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 01:55:00",
+		"enddate":"2012-10-17 01:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-17\/01556260132.shtml\">read more<\/a>",
+		"title":"上海主帅执教中国女排? 张立明:不可能 我只是绿叶",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_33_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 15:34:00",
+		"enddate":"2012-09-27 15:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-27\/15346241403.shtml\">read more<\/a>",
+		"title":"汪大昭：中国女排还没到谷底 女排选帅应改变机制",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_33_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu33_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu33_type",
+	"size_importance":"true"
+}]

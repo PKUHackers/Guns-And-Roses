@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts-config PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 1.2//EN" "http://struts.apache.org/dtds/struts-config_1_2.dtd">
+
+<struts-config>
+  <data-sources />
+  
+  <form-beans >
+      <form-bean name="IndexForm" type="org.pku.wip.NRS.form.IndexForm">
+      </form-bean>
+   <!--  <form-bean name="searchForm" type="org.pku.wip.NRS.form.SearchForm" />   -->
+  </form-beans>
+  
+  <global-exceptions />
+  <global-forwards />
+  
+  <action-mappings>
+  	<action validate="false" attribute="IndexForm" name="IndexForm"
+			scope="request" path="/IndexAction"
+			type="org.pku.wip.NRS.action.IndexAction" parameter="method">
+			<forward name="ShowDetail" path="/time/details.jsp" />
+	</action>
+	
+  </action-mappings>
+  
+  <message-resources parameter="org.pku.wip.NRS.struts.ApplicationResources" />
+</struts-config>
+

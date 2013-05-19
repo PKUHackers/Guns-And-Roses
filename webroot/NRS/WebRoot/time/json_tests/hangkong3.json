@@ -1,0 +1,204 @@
+[
+{
+	"title":"国航北京飞纽约航班受威胁返航",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-08-29 21:43:00",
+		"enddate":"2012-08-29 21:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-08-29\/214326138.html\">read more<\/a>",
+		"title":"国航飞纽约航班受威胁返航 补发航班今夜起飞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_3_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-29 22:21:00",
+		"enddate":"2012-08-29 22:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-08-29\/222126140.html\">read more<\/a>",
+		"title":"国航航班受到威胁已安全返回首都机场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_3_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-29 23:21:00",
+		"enddate":"2012-08-29 23:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-08-29\/232126143.html\">read more<\/a>",
+		"title":"国航受威胁返航航班安全抵京 晚23时55分补飞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_3_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 00:19:00",
+		"enddate":"2012-08-30 00:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-08-30\/001926144.html\">read more<\/a>",
+		"title":"国航受威胁返航的CA981航班正在准备起飞 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_3_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 00:32:00",
+		"enddate":"2012-08-30 00:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-08-30\/003226145.html\">read more<\/a>",
+		"title":"国航受威胁返航航班更换波音747正准备起飞 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_3_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 00:38:00",
+		"enddate":"2012-08-30 00:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-08-30\/003826146.html\">read more<\/a>",
+		"title":"国航受威胁返航航班更换飞机后起飞赴纽约",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_3_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 03:25:00",
+		"enddate":"2012-08-30 03:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-08-30\/032526147.html\">read more<\/a>",
+		"title":"国航受威胁客机着陆后才告知乘客返航原因",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_3_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 04:29:00",
+		"enddate":"2012-08-30 04:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-08-30\/042926148.html\">read more<\/a>",
+		"title":"媒体称国航航班受到威胁消息来自美方(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_3_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 07:05:00",
+		"enddate":"2012-08-30 07:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-08-30\/070526149.html\">read more<\/a>",
+		"title":"机场公安透露国航航班所收威胁信息由美方发出",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_3_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 08:11:00",
+		"enddate":"2012-08-30 08:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-08-30\/081126150.html\">read more<\/a>",
+		"title":"国航飞纽约航班受威胁返航 排查无异常换机执飞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_3_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 15:15:00",
+		"enddate":"2012-08-30 15:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-08-30\/151526192.html\">read more<\/a>",
+		"title":"首都机场警方否认受威胁航班上有外逃贪官",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_3_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 05:02:00",
+		"enddate":"2012-08-31 05:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-08-31\/050226201.html\">read more<\/a>",
+		"title":"国航航班受威胁返航因美方称机上存危险品",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_3_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"hangkong_type"},
+		"ypix":"0",
+		"id":"hangkong3_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"hangkong3_type",
+	"size_importance":"true"
+}]

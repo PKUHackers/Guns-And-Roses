@@ -1,0 +1,324 @@
+[
+{
+	"title":"第11届迪拜国际航空展",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-11-17 14:44:00",
+		"enddate":"2009-11-17 14:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-17\/1444574188.html\">read more<\/a>",
+		"title":"中航技副总经理称L-15教练机市场前景看好",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-17 14:23:00",
+		"enddate":"2009-11-17 14:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-17\/1423574183.html\">read more<\/a>",
+		"title":"欧洲虎式直升机将在迪拜航展公开飞行表演(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-19 10:58:00",
+		"enddate":"2009-11-19 10:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-11-19\/1058574441.html\">read more<\/a>",
+		"title":"Comlux公司购买第三架庞巴迪挑战者605公务机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-16 14:56:00",
+		"enddate":"2009-11-16 14:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-16\/1456574030.html\">read more<\/a>",
+		"title":"中国L-15猎鹰高教机在迪拜飞行表演赢得喝彩",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-17 11:12:00",
+		"enddate":"2009-11-17 11:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-17\/1112574170.html\">read more<\/a>",
+		"title":"中航工业战斗机无人机等模型亮相迪拜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-18 08:04:00",
+		"enddate":"2009-11-18 08:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-11-18\/0804574262.html\">read more<\/a>",
+		"title":"迪拜航展交易额将达数十亿美元 我国L15成明星",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-19 07:44:00",
+		"enddate":"2009-11-19 07:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-19\/0744574411.html\">read more<\/a>",
+		"title":"美国空军F-22和F-16战机将临时部署阿联酋(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-20 08:51:00",
+		"enddate":"2009-11-20 08:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-20\/0851574528.html\">read more<\/a>",
+		"title":"中国猎鹰高教机性能高成本低具备市场竞争优势",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-18 08:39:00",
+		"enddate":"2009-11-18 08:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-18\/0839574267.html\">read more<\/a>",
+		"title":"美称中国公司官员介绍L15教练机时表现非常自信",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-17 09:38:00",
+		"enddate":"2009-11-17 09:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-17\/0938574152.html\">read more<\/a>",
+		"title":"俄罗斯新型米格-35苏35战机亮相迪拜航展(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-16 07:52:00",
+		"enddate":"2009-11-16 07:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-16\/0752573978.html\">read more<\/a>",
+		"title":"美国飞行员体验模拟机称赞中国L-15高教机性能",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-19 11:03:00",
+		"enddate":"2009-11-19 11:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-11-19\/1103574443.html\">read more<\/a>",
+		"title":"阿联酋ETIHAD航空与IAE签订2亿美元售后协议",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-17 10:03:00",
+		"enddate":"2009-11-17 10:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-17\/1003574160.html\">read more<\/a>",
+		"title":"美借航展展示空战能力 欲加强在阿联酋军事存在",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-16 07:38:00",
+		"enddate":"2009-11-16 07:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-16\/0738573977.html\">read more<\/a>",
+		"title":"我国L15高教机在迪拜飞行表演展示机动性能",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-17 14:34:00",
+		"enddate":"2009-11-17 14:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-17\/1434574185.html\">read more<\/a>",
+		"title":"总设计师称L-15教练机低空飞行性能独特(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-20 08:44:00",
+		"enddate":"2009-11-20 08:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-11-20\/0844574526.html\">read more<\/a>",
+		"title":"阿提哈德航空投资7.5亿美元升级软硬件设施",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-17 11:08:00",
+		"enddate":"2009-11-17 11:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-17\/1108574169.html\">read more<\/a>",
+		"title":"韩国KAI公司欲向中东推销T-50金鹰教练机(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-17 10:24:00",
+		"enddate":"2009-11-17 10:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-17\/1024574162.html\">read more<\/a>",
+		"title":"中国L-15飞行表演展示大迎角飞行等机动性能",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-19 07:25:00",
+		"enddate":"2009-11-19 07:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-19\/0725574386.html\">read more<\/a>",
+		"title":"巴基斯坦拓展K-8教练机市场 希望外销JF17战机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-17 10:31:00",
+		"enddate":"2009-11-17 10:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-11-17\/1031574165.html\">read more<\/a>",
+		"title":"中航工业参加迪拜航展全力开拓中东非洲市场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_18_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi18_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi18_type",
+	"size_importance":"true"
+}]

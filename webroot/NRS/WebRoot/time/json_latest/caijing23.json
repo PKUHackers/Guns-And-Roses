@@ -1,0 +1,249 @@
+[
+{
+	"title":"中海油收购加拿大Nexen公司",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-28 01:06:00",
+		"enddate":"2012-09-28 01:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20120928\/010613262959.shtml\">read more<\/a>",
+		"title":"中海油收购尼克森欲寻求约60亿美元外部融资",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_23_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 09:55:00",
+		"enddate":"2012-10-08 09:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20121008\/095513303310.shtml\">read more<\/a>",
+		"title":"中海油收购Nexen加拿大政府面临阻力 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_23_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 14:16:00",
+		"enddate":"2012-09-21 14:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20120921\/141613204021.shtml\">read more<\/a>",
+		"title":"中海油将收购加拿大能源企业 溢价高达61%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_23_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 23:17:00",
+		"enddate":"2012-09-20 23:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120920\/231713196078.shtml\">read more<\/a>",
+		"title":"尼克森股东99%压倒多数批准被中海油收购",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_23_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 10:38:00",
+		"enddate":"2012-09-27 10:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20120927\/103813256462.shtml\">read more<\/a>",
+		"title":"中海油尼克森收购案现曙光 互惠互利被指是关键",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_23_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 03:03:00",
+		"enddate":"2012-09-25 03:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/hkstock\/ggscyd\/20120925\/030313226893.shtml\">read more<\/a>",
+		"title":"中海油购尼克森进关键期四名美国议员反对",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_23_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 08:56:00",
+		"enddate":"2012-09-21 08:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20120921\/085613201037.shtml\">read more<\/a>",
+		"title":"中海油收购尼克森协议获股东高比例投票通过",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_23_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 17:09:00",
+		"enddate":"2012-09-21 17:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20120921\/170913205783.shtml\">read more<\/a>",
+		"title":"中海油收购加拿大尼克森公司获得批准",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_23_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 17:13:00",
+		"enddate":"2012-09-21 17:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20120921\/171313205814.shtml\">read more<\/a>",
+		"title":"中海油收购尼克森公司获加法院及尼克森股东批准",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_23_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 09:45:00",
+		"enddate":"2012-09-21 09:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/hkstock\/ggscyd\/20120921\/094513201622.shtml\">read more<\/a>",
+		"title":"中海油收购尼克森计划获加拿大法院批准",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_23_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-22 03:23:00",
+		"enddate":"2012-09-22 03:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20120922\/032313208858.shtml\">read more<\/a>",
+		"title":"中海油收购尼克森最快下月完成",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_23_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 17:34:00",
+		"enddate":"2012-10-08 17:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/mzjj\/20121008\/173413307746.shtml\">read more<\/a>",
+		"title":"加拿大10月中旬决定是否批准中海油收购Nexen",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_23_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 09:39:00",
+		"enddate":"2012-09-21 09:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20120921\/093913201529.shtml\">read more<\/a>",
+		"title":"中海油收购尼克森获股东批准 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_23_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 10:58:00",
+		"enddate":"2012-09-25 10:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/yjsy\/20120925\/105813231841.shtml\">read more<\/a>",
+		"title":"中国大使：勿将中海油收购尼克森政治化 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_23_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 04:23:00",
+		"enddate":"2012-10-10 04:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20121010\/042313323958.shtml\">read more<\/a>",
+		"title":"中海油等美加并购尼克森裁决 优尼科阴影恐再现",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_23_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing23_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing23_type",
+	"size_importance":"true"
+}]

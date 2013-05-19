@@ -1,0 +1,249 @@
+[
+{
+	"title":"解放军总参谋长陈炳德访美",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-05-19 11:05:00",
+		"enddate":"2011-05-19 11:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-19\/1105647927.html\">read more<\/a>",
+		"title":"美军鸣放19响礼炮欢迎陈炳德 赞中方将领年轻",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-20 10:38:00",
+		"enddate":"2011-05-20 10:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-20\/1038648101.html\">read more<\/a>",
+		"title":"陈炳德称美国在军事现代化方面是中国的榜样",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-16 10:00:00",
+		"enddate":"2011-05-16 10:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-16\/1000647301.html\">read more<\/a>",
+		"title":"解放军少将呼吁中美两军加强沟通免陷安全困境",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-30 10:16:00",
+		"enddate":"2011-05-30 10:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-30\/1016649668.html\">read more<\/a>",
+		"title":"香港媒体称中美军事关系冷淡一时还难逆转",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-23 16:54:00",
+		"enddate":"2011-05-23 16:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-23\/1654648520.html\">read more<\/a>",
+		"title":"朱成虎：4方面原因使媒体关注陈炳德访美",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-16 09:41:00",
+		"enddate":"2011-05-16 09:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-16\/0941647297.html\">read more<\/a>",
+		"title":"美媒体称美国军方将给予陈炳德高级别礼遇(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-17 03:58:00",
+		"enddate":"2011-05-17 03:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-17\/0358647395.html\">read more<\/a>",
+		"title":"二炮政委及三大军区高级军官随陈炳德访问美国",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-20 15:00:00",
+		"enddate":"2011-05-20 15:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-20\/1500648129.html\">read more<\/a>",
+		"title":"中美军事交流尚处初级阶段 美开放基地展示姿态",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-20 14:02:00",
+		"enddate":"2011-05-20 14:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-20\/1402648118.html\">read more<\/a>",
+		"title":"专家称中美建立新型军事关系须解决3大障碍",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-21 16:23:00",
+		"enddate":"2011-05-21 16:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-21\/1623648265.html\">read more<\/a>",
+		"title":"解读中美新军事关系特征：双方处于平等地位",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-19 10:38:00",
+		"enddate":"2011-05-19 10:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-19\/1038647916.html\">read more<\/a>",
+		"title":"陈炳德回应歼20战机试飞 否认针对美国说法",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-16 04:14:00",
+		"enddate":"2011-05-16 04:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-16\/0414647234.html\">read more<\/a>",
+		"title":"陈炳德访问美国将推动中美建立新型军事关系",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-19 17:26:00",
+		"enddate":"2011-05-19 17:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-19\/1726648005.html\">read more<\/a>",
+		"title":"总参谋长陈炳德在美会见美国国务卿希拉里",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-17 10:31:00",
+		"enddate":"2011-05-17 10:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-17\/1031647505.html\">read more<\/a>",
+		"title":"专家称陈炳德访美议题共识和交锋可能并存",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-19 14:18:00",
+		"enddate":"2011-05-19 14:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-19\/1418647959.html\">read more<\/a>",
+		"title":"日媒体称中美军方明年将在亚丁湾举行联合演习",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi0_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi0_type",
+	"size_importance":"true"
+}]

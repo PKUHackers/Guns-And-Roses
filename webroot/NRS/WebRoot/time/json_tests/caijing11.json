@@ -1,0 +1,324 @@
+[
+{
+	"title":"巴克莱深陷利率操纵丑闻",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-07-07 08:45:00",
+		"enddate":"2012-07-07 08:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/ozjj\/20120707\/084512504940.shtml\">read more<\/a>",
+		"title":"巴克莱银行：操纵Libor是因担心被国有",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-27 22:53:00",
+		"enddate":"2012-08-27 22:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/gjjj\/20120827\/225312967893.shtml\">read more<\/a>",
+		"title":"欧美银行操纵利率案持续发酵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-28 01:44:00",
+		"enddate":"2012-08-28 01:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/usstock\/c\/20120828\/014412968379.shtml\">read more<\/a>",
+		"title":"Libor报价背后的机制漏洞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-24 03:21:00",
+		"enddate":"2012-07-24 03:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120724\/032112648642.shtml\">read more<\/a>",
+		"title":"Libor潜规则：美财长盖特纳卷入操纵门",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-27 01:21:00",
+		"enddate":"2012-07-27 01:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20120727\/012112684084.shtml\">read more<\/a>",
+		"title":"Libor案牵出带头大哥 涉案行寻集体解决方案",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-10 18:39:00",
+		"enddate":"2012-07-10 18:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/ozjj\/20120710\/183912528763.shtml\">read more<\/a>",
+		"title":"巴克莱前CEO博达文同意放弃奖金及股票激励",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-17 01:59:00",
+		"enddate":"2012-08-17 01:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120817\/015912873340.shtml\">read more<\/a>",
+		"title":"美对七大机构发Libor操纵案传票",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-05 13:50:00",
+		"enddate":"2012-07-05 13:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20120705\/135012485994.shtml\">read more<\/a>",
+		"title":"巴克莱：如何交易欧英央行利率决议",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-08 11:50:00",
+		"enddate":"2012-08-08 11:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/ozjj\/20120808\/115012792017.shtml\">read more<\/a>",
+		"title":"丑闻使英国银行业声誉受损",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-06 04:05:00",
+		"enddate":"2012-07-06 04:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120706\/040512492971.shtml\">read more<\/a>",
+		"title":"巴克莱操纵Libor案烧至英国政坛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-18 22:49:00",
+		"enddate":"2012-07-18 22:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/mzjj\/20120718\/224912603333.shtml\">read more<\/a>",
+		"title":"美国银行因涉嫌操控Libor遭调查",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-13 08:10:00",
+		"enddate":"2012-07-13 08:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/usstock\/c\/20120713\/081012557694.shtml\">read more<\/a>",
+		"title":"美参议员呼吁加大LIBOR操纵案调查力度",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-27 05:19:00",
+		"enddate":"2012-07-27 05:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120727\/051912684647.shtml\">read more<\/a>",
+		"title":"Libor操控事件继续发酵 巴克莱第四名高管辞职",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-19 10:15:00",
+		"enddate":"2012-07-19 10:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/usstock\/c\/20120719\/101512611779.shtml\">read more<\/a>",
+		"title":"全球央行行长将聚焦Libor是否有必要废除",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-05 10:48:00",
+		"enddate":"2012-07-05 10:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20120705\/104812485463.shtml\">read more<\/a>",
+		"title":"巴克莱银行操纵Libor丑闻大事记",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-27 01:36:00",
+		"enddate":"2012-07-27 01:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120727\/013612682585.shtml\">read more<\/a>",
+		"title":"Libor涉案大行寻求集体解决方案",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-20 10:47:00",
+		"enddate":"2012-07-20 10:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/mzjj\/20120720\/104712625743.shtml\">read more<\/a>",
+		"title":"传Libor操纵案涉案银行考虑达成集体和解",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-27 02:19:00",
+		"enddate":"2012-07-27 02:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120727\/021912683205.shtml\">read more<\/a>",
+		"title":"巴克莱利率操纵案折射混业经营之困",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-23 10:12:00",
+		"enddate":"2012-07-23 10:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120723\/101212641638.shtml\">read more<\/a>",
+		"title":"20多家银行卷入Libor案 全球银行争相切割",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-12 01:29:00",
+		"enddate":"2012-07-12 01:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120712\/012912542970.shtml\">read more<\/a>",
+		"title":"巴克莱LIBOR风波升级 巴尔的摩市成原告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing11_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing11_type",
+	"size_importance":"true"
+}]

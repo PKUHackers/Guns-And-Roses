@@ -1,0 +1,324 @@
+[
+{
+	"title":"2009俄罗斯航展",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-08-19 14:26:00",
+		"enddate":"2009-08-19 14:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-19\/1426563075.html\">read more<\/a>",
+		"title":"俄2011年初将发射联盟1号新式轻型运载火箭",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-19 14:23:00",
+		"enddate":"2009-08-19 14:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-19\/1423563074.html\">read more<\/a>",
+		"title":"中航工业拟融入世界航空产业链 借航展推介产品",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-17 11:41:00",
+		"enddate":"2009-08-17 11:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-17\/1141562767.html\">read more<\/a>",
+		"title":"俄失事战机弹射降落伞空中起火致飞行员死亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-17 23:09:00",
+		"enddate":"2009-08-17 23:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-17\/2309562793.html\">read more<\/a>",
+		"title":"俄空军称撞机主因系高难度下人为操作失误",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-18 09:48:00",
+		"enddate":"2009-08-18 09:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-18\/0948562885.html\">read more<\/a>",
+		"title":"俄罗斯军事保险公司称失事苏-27战机未投保",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-18 03:41:00",
+		"enddate":"2009-08-18 03:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-18\/0341562795.html\">read more<\/a>",
+		"title":"俄罗斯调查人员称操作失误为战机相撞主因",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-19 07:45:00",
+		"enddate":"2009-08-19 07:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-19\/0745563007.html\">read more<\/a>",
+		"title":"普京称发展航空航天业为俄政府优先目标之一",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-21 09:54:00",
+		"enddate":"2009-08-21 09:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-21\/0954563300.html\">read more<\/a>",
+		"title":"俄称中国战机与苏27只是外形相似内部可能不同",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-17 13:42:00",
+		"enddate":"2009-08-17 13:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-17\/1342562773.html\">read more<\/a>",
+		"title":"苏-27相撞细节曝光：僚机突撞长机酿悲剧(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-24 10:08:00",
+		"enddate":"2009-08-24 10:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-24\/1008563561.html\">read more<\/a>",
+		"title":"印度购买俄制RD-33发动机 可能装备米格35战机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-22 08:54:00",
+		"enddate":"2009-08-22 08:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-22\/0854563408.html\">read more<\/a>",
+		"title":"我特技飞行专家评勇士撞机：机械故障可能性大",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-20 08:21:00",
+		"enddate":"2009-08-20 08:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-20\/0821563161.html\">read more<\/a>",
+		"title":"俄米格-35战机用雷达成功捕获148千米外目标",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-20 08:27:00",
+		"enddate":"2009-08-20 08:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-20\/0827563162.html\">read more<\/a>",
+		"title":"俄空军将在近期装备超过25架卡-52攻击直升机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-26 07:34:00",
+		"enddate":"2009-08-26 07:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-26\/0734563780.html\">read more<\/a>",
+		"title":"俄称双座型第五代战机正在研制中 印度将参与",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-18 18:11:00",
+		"enddate":"2009-08-18 18:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-18\/1811562938.html\">read more<\/a>",
+		"title":"中航工业携猎鹰教练机亮相莫斯科航展(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-17 07:42:00",
+		"enddate":"2009-08-17 07:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-17\/0742562729.html\">read more<\/a>",
+		"title":"俄相撞苏-27战机黑匣子找到 表演队队长身亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-20 09:27:00",
+		"enddate":"2009-08-20 09:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-20\/0927563172.html\">read more<\/a>",
+		"title":"俄展示新型战机寻找客户 目前正在等待中国回复",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-21 09:16:00",
+		"enddate":"2009-08-21 09:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-21\/0916563291.html\">read more<\/a>",
+		"title":"俄乌签署协议重启安-70军用运输机研制计划(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-19 14:07:00",
+		"enddate":"2009-08-19 14:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-19\/1407563072.html\">read more<\/a>",
+		"title":"中航工业借助俄航展向独联体国家推销新舟60",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-08-19 08:49:00",
+		"enddate":"2009-08-19 08:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2009-08-19\/0849563024.html\">read more<\/a>",
+		"title":"普京将参加莫斯科航展观看特技飞行队表演(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_0_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi0_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi0_type",
+	"size_importance":"true"
+}]

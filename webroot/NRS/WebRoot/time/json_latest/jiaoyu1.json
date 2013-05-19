@@ -1,0 +1,249 @@
+[
+{
+	"title":"2013年国家公务员考试报考指南",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-17 18:44:00",
+		"enddate":"2012-10-17 18:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-10-17\/1844358775.shtml\">read more<\/a>",
+		"title":"2013国考报名合格人数最多十大部门(17日)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 11:45:00",
+		"enddate":"2012-10-16 11:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-10-16\/1145358447.shtml\">read more<\/a>",
+		"title":"“国考”报名专科学历可选职位较少",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 11:35:00",
+		"enddate":"2012-10-16 11:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-10-16\/1135358441.shtml\">read more<\/a>",
+		"title":"国考报名中央党群全国妇联把头(16日8时)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 10:45:00",
+		"enddate":"2012-10-17 10:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-10-17\/1045358620.shtml\">read more<\/a>",
+		"title":"国考恶意报名者5年不得报考",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 11:32:00",
+		"enddate":"2012-10-16 11:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-10-16\/1132358437.shtml\">read more<\/a>",
+		"title":"2013年国考网友点击最热50部门(16日)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 11:25:00",
+		"enddate":"2012-10-16 11:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-10-16\/1125358434.shtml\">read more<\/a>",
+		"title":"2013年国考报名16日8时31970人通过审核",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 12:04:00",
+		"enddate":"2012-10-17 12:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-10-17\/1204358663.shtml\">read more<\/a>",
+		"title":"正视公务员“金饭碗”的含“金”量",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 09:43:00",
+		"enddate":"2012-10-17 09:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-10-17\/0943358590.shtml\">read more<\/a>",
+		"title":"国考报名第二天迎“小高潮” 最热职407:1",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 18:31:00",
+		"enddate":"2012-10-17 18:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-10-17\/1831358771.shtml\">read more<\/a>",
+		"title":"国考报名第三日：辽宁职位报考数达8375",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 17:29:00",
+		"enddate":"2012-10-17 17:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-10-17\/1729358753.shtml\">read more<\/a>",
+		"title":"国考“最苦金饭碗”引热议",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 10:39:00",
+		"enddate":"2012-10-18 10:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-10-18\/1039358822.shtml\">read more<\/a>",
+		"title":"国考报名第三天：安徽国税报名近3000人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 10:44:00",
+		"enddate":"2012-10-17 10:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-10-17\/1044358618.shtml\">read more<\/a>",
+		"title":"2013国考公共科目笔试11月25日举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 11:37:00",
+		"enddate":"2012-10-16 11:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-10-16\/1137358443.shtml\">read more<\/a>",
+		"title":"国考点击最冷最热部门及职位汇总(日更)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 10:56:00",
+		"enddate":"2012-10-16 10:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-10-16\/1056358413.shtml\">read more<\/a>",
+		"title":"国考报名首日近8成岗位无人问津",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 12:01:00",
+		"enddate":"2012-10-17 12:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-10-17\/1201358661.shtml\">read more<\/a>",
+		"title":"调查显示公务员考试竞争过烈 吓退七成网友",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"jiaoyu_type"},
+		"ypix":"0",
+		"id":"jiaoyu1_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu1_type",
+	"size_importance":"true"
+}]

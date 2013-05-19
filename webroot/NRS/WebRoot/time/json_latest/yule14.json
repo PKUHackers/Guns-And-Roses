@@ -1,0 +1,249 @@
+[
+{
+	"title":"电视剧《不是钱的事》",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-15 16:26:00",
+		"enddate":"2012-10-15 16:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-15\/16263764078.shtml\">read more<\/a>",
+		"title":"《不是钱的事》赵本山：人不能掉在钱眼里",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 11:37:00",
+		"enddate":"2012-10-12 11:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-12\/11373762261.shtml\">read more<\/a>",
+		"title":"赵本山隔空喊话：春晚导演组放宽审查次数",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 18:07:00",
+		"enddate":"2012-10-11 18:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-11\/18073761825.shtml\">read more<\/a>",
+		"title":"《不是钱的事》崔永元赵本山升级小崔说事",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 18:47:00",
+		"enddate":"2012-10-16 18:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-16\/18473765149.shtml\">read more<\/a>",
+		"title":"赵本山《不是钱的事》大妈范儿秒杀众人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 17:48:00",
+		"enddate":"2012-10-12 17:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-12\/17483762649.shtml\">read more<\/a>",
+		"title":"《不是钱的事》小崔损老赵 观众跟着笑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 17:58:00",
+		"enddate":"2012-10-12 17:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-12\/17583762661.shtml\">read more<\/a>",
+		"title":"赵本山新剧即将开播：不要太把钱当回事",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 11:46:00",
+		"enddate":"2012-10-15 11:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-15\/11463763725.shtml\">read more<\/a>",
+		"title":"《不是钱的事》赵家班爆笑登陆山东卫视",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 12:05:00",
+		"enddate":"2012-10-17 12:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-17\/12053765658.shtml\">read more<\/a>",
+		"title":"赵本山：不排斥与周立波合作也不排斥新事物",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 17:08:00",
+		"enddate":"2012-10-16 17:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-16\/17083765066.shtml\">read more<\/a>",
+		"title":"赵本山《不是钱的事》演旦角老艺术家",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 02:30:00",
+		"enddate":"2012-10-11 02:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-11\/02303760989.shtml\">read more<\/a>",
+		"title":"《不是钱的事》赵本山喊话春晚别找麻烦",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 11:16:00",
+		"enddate":"2012-10-15 11:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-15\/11163763671.shtml\">read more<\/a>",
+		"title":"《不是钱的事》开播小沈阳改演高富帅",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 18:18:00",
+		"enddate":"2012-10-11 18:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-11\/18183761837.shtml\">read more<\/a>",
+		"title":"赵本山新剧将播 谈金钱观：淡化欲望",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 11:45:00",
+		"enddate":"2012-10-15 11:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-15\/11453763724.shtml\">read more<\/a>",
+		"title":"《不是钱的事》江苏今播 赵本山扮潮爱挑刺",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 17:27:00",
+		"enddate":"2012-10-15 17:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-15\/17273764153.shtml\">read more<\/a>",
+		"title":"《不是钱的事》山东卫视今晚开播",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 11:48:00",
+		"enddate":"2012-10-15 11:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-15\/11483763728.shtml\">read more<\/a>",
+		"title":"《不是钱的事》天津今播 赵本山重出江湖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule14_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule14_type",
+	"size_importance":"true"
+}]

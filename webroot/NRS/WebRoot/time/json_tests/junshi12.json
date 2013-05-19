@@ -1,0 +1,204 @@
+[
+{
+	"title":"2011年中巴联合军演",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-11-08 12:00:00",
+		"enddate":"2011-11-08 12:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-11-08\/1200672744.html\">read more<\/a>",
+		"title":"中国巴基斯坦将在靠近印度边境地带举行军演",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_12_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-09 07:59:00",
+		"enddate":"2011-11-09 07:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-11-09\/0759672851.html\">read more<\/a>",
+		"title":"国防部：中国与巴基斯坦联合军演不针对第三国",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_12_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-14 14:34:00",
+		"enddate":"2011-11-14 14:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-11-14\/1434673558.html\">read more<\/a>",
+		"title":"中巴陆军今起开展反恐联合训练",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_12_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-14 14:50:00",
+		"enddate":"2011-11-14 14:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-11-14\/1450673562.html\">read more<\/a>",
+		"title":"解放军直升机从新疆飞赴巴基斯坦参加联训(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_12_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-16 14:43:00",
+		"enddate":"2011-11-16 14:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-11-16\/1443673878.html\">read more<\/a>",
+		"title":"中国与巴基斯坦特种部队开始联合演习",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_12_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-16 15:38:00",
+		"enddate":"2011-11-16 15:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-11-16\/1538673890.html\">read more<\/a>",
+		"title":"美媒体称解放军特种部队借军演向巴基斯坦取经",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_12_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-16 17:34:00",
+		"enddate":"2011-11-16 17:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-11-16\/1734673916.html\">read more<\/a>",
+		"title":"分析称印度媒体对中巴联合军演反应过激(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_12_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-18 00:20:00",
+		"enddate":"2011-11-18 00:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-11-18\/0020674092.html\">read more<\/a>",
+		"title":"中国巴基斯坦友谊-2011反恐联合训练在巴开幕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_12_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-18 07:19:00",
+		"enddate":"2011-11-18 07:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-11-18\/0719674135.html\">read more<\/a>",
+		"title":"巴基斯坦中将称巴中友谊经历考验始终坚如磐石",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_12_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-24 03:42:00",
+		"enddate":"2011-11-24 03:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-11-24\/0342674828.html\">read more<\/a>",
+		"title":"我军副总参谋长称中巴陆海空军均有务实合作",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_12_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-24 22:26:00",
+		"enddate":"2011-11-24 22:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-11-24\/2226674955.html\">read more<\/a>",
+		"title":"中巴联合反恐演习首次实现两军混编作战",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_12_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-25 09:58:00",
+		"enddate":"2011-11-25 09:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-11-25\/0958675021.html\">read more<\/a>",
+		"title":"中国巴基斯坦反恐联训指挥层次提升至旅级",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_12_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi12_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi12_type",
+	"size_importance":"true"
+}]

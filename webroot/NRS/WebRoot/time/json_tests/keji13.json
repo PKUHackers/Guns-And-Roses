@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012黑莓世界大会",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-04-28 08:11:00",
+		"enddate":"2012-04-28 08:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2012-04-28\/08117035918.shtml\">read more<\/a>",
+		"title":"商务全键盘 黑莓Curve 9320效果图曝光",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-01 22:38:00",
+		"enddate":"2012-05-01 22:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-05-01\/22387042909.shtml\">read more<\/a>",
+		"title":"黑莓世界大会今日正式开幕 RIM CEO展示黑莓10",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-25 03:59:00",
+		"enddate":"2012-04-25 03:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2012-04-25\/03592107965.shtml\">read more<\/a>",
+		"title":"最帅全键盘BB机 黑莓9000软解版920元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 05:35:00",
+		"enddate":"2012-05-03 05:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-05-03\/05357051326.shtml\">read more<\/a>",
+		"title":"RIM确认黑莓手机将继续配备物理键盘",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-26 06:39:00",
+		"enddate":"2012-04-26 06:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2012-04-26\/06392109955.shtml\">read more<\/a>",
+		"title":"千元全键盘商务机 黑莓8520行货仅售1088元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-02 07:36:00",
+		"enddate":"2012-05-02 07:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-05-02\/07367044686.shtml\">read more<\/a>",
+		"title":"分析称RIM迟迟未推出黑莓10硬件令人失望",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-02 08:28:00",
+		"enddate":"2012-05-02 08:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-05-02\/08287045040.shtml\">read more<\/a>",
+		"title":"RIM展示黑莓10系统 输入和摄像头应用获关注",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-19 14:17:00",
+		"enddate":"2012-04-19 14:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-04-19\/14176985636.shtml\">read more<\/a>",
+		"title":"黑莓手机受印尼用户热捧 成功经验恐难复制",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-01 14:52:00",
+		"enddate":"2012-05-01 14:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-05-01\/14527042563.shtml\">read more<\/a>",
+		"title":"探营2012黑莓世界大会：参会规模5000人(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-26 11:02:00",
+		"enddate":"2012-04-26 11:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2012-04-26\/11022110201.shtml\">read more<\/a>",
+		"title":"黑莓Curve 9320现身越南 键盘手感更好",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-21 08:00:00",
+		"enddate":"2012-04-21 08:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2012-04-21\/08002104043.shtml\">read more<\/a>",
+		"title":"受老用户亲睐 黑莓9900商务神机降价",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-26 12:09:00",
+		"enddate":"2012-04-26 12:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-04-26\/12097024959.shtml\">read more<\/a>",
+		"title":"传黑莓10手机今年10月发售(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-20 03:24:00",
+		"enddate":"2012-04-20 03:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2012-04-20\/03242102228.shtml\">read more<\/a>",
+		"title":"RIM也学诺基亚黑莓Curve9220印度上市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-28 08:04:00",
+		"enddate":"2012-04-28 08:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-04-28\/08047035820.shtml\">read more<\/a>",
+		"title":"RIM确认下周不会推新手机：仅公布黑莓10系统",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 03:09:00",
+		"enddate":"2012-05-03 03:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-05-03\/03097051035.shtml\">read more<\/a>",
+		"title":"RIM新CEO首谈中国市场：很兴奋将黑莓10带入",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-21 04:19:00",
+		"enddate":"2012-04-21 04:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-04-21\/04196995776.shtml\">read more<\/a>",
+		"title":"女子翻新旧黑莓手机售卖：每台只赚几十元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-02 09:01:00",
+		"enddate":"2012-05-02 09:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2012-05-02\/09012115492.shtml\">read more<\/a>",
+		"title":"触控操作 黑莓BlackBerry10原型机亮相",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-02 06:26:00",
+		"enddate":"2012-05-02 06:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-05-02\/06267044566.shtml\">read more<\/a>",
+		"title":"RIM承诺黑莓10高质量应用最低可赚1万美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-27 04:01:00",
+		"enddate":"2012-04-27 04:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2012-04-27\/04012111200.shtml\">read more<\/a>",
+		"title":"双核奢华黑莓 保时捷P9981报价仅售14800元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-02 03:07:00",
+		"enddate":"2012-05-02 03:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-05-02\/03077044100.shtml\">read more<\/a>",
+		"title":"RIM推黑莓10软件工具以吸引开发者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_13_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji13_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji13_type",
+	"size_importance":"true"
+}]

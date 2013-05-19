@@ -1,0 +1,249 @@
+[
+{
+	"title":"孟京辉话剧《活着》",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-13 09:12:00",
+		"enddate":"2012-10-13 09:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-10-13\/09123762860.shtml\">read more<\/a>",
+		"title":"孟京辉话剧《活着》忠原著 余华看哭",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-04 09:43:00",
+		"enddate":"2012-09-04 09:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-04\/09433730861.shtml\">read more<\/a>",
+		"title":"话剧《活着》上演 黄渤：特给劲儿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 10:47:00",
+		"enddate":"2012-10-15 10:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-10-15\/10473763608.shtml\">read more<\/a>",
+		"title":"孟京辉：即使身处苦难也保持一种昂扬",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 23:54:00",
+		"enddate":"2012-10-15 23:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-10-15\/23543764266.shtml\">read more<\/a>",
+		"title":"孟京辉：没人能比黄渤更适合演“福贵”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-12 18:37:00",
+		"enddate":"2012-09-12 18:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-12\/18373739943.shtml\">read more<\/a>",
+		"title":"孟京辉透露为国际戏剧节选戏标准 推荐最爱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 08:19:00",
+		"enddate":"2012-10-16 08:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-10-16\/08193764392.shtml\">read more<\/a>",
+		"title":"孟京辉：余华的小说像一口深井",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-07 09:58:00",
+		"enddate":"2012-09-07 09:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-07\/09583734440.shtml\">read more<\/a>",
+		"title":"黄渤通过话剧《活着》提高演技",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 10:14:00",
+		"enddate":"2012-09-24 10:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-24\/10143750262.shtml\">read more<\/a>",
+		"title":"《活着》献演广州 黄渤更会耍贫嘴不学葛优",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-05 15:02:00",
+		"enddate":"2012-09-05 15:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-05\/15023732435.shtml\">read more<\/a>",
+		"title":"话剧《活着》看哭余华 濮存昕猛赞孟京辉",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-07 10:33:00",
+		"enddate":"2012-09-07 10:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-07\/10333734542.shtml\">read more<\/a>",
+		"title":"《活着》拉开第四届国话之秋演出季序幕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-04 10:42:00",
+		"enddate":"2012-09-04 10:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-04\/10423730991.shtml\">read more<\/a>",
+		"title":"话剧《活着》将首演 福贵出彩成焦点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 09:45:00",
+		"enddate":"2012-10-10 09:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-10-10\/09453760161.shtml\">read more<\/a>",
+		"title":"对话孟京辉：我一看《活着》就要流眼泪",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 10:18:00",
+		"enddate":"2012-09-24 10:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-24\/10183750285.shtml\">read more<\/a>",
+		"title":"话剧《活着》舞台颠覆 余华：改不好骂他们",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-07 10:06:00",
+		"enddate":"2012-09-07 10:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-07\/10063734469.shtml\">read more<\/a>",
+		"title":"黄渤对话袁泉演《活着》：我俩是被忽悠来的",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-07 09:39:00",
+		"enddate":"2012-09-07 09:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/r\/m\/2012-09-07\/09393734383.shtml\">read more<\/a>",
+		"title":"余华：《活着》首演 我看得掉了眼泪",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule1_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule1_type",
+	"size_importance":"true"
+}]

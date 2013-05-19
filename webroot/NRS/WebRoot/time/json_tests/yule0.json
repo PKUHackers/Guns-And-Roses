@@ -1,0 +1,309 @@
+[
+{
+	"title":"电影《搞定岳父大人》",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-07-23 11:44:00",
+		"enddate":"2012-07-23 11:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-07-23\/11443692168.shtml\">read more<\/a>",
+		"title":"《搞定岳父大人》喜剧元素升级搞笑剧照曝光",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-24 10:59:00",
+		"enddate":"2012-07-24 10:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-07-24\/10593693180.shtml\">read more<\/a>",
+		"title":"电影《搞定岳父大人》发导演版预告片",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-24 13:32:00",
+		"enddate":"2012-07-24 13:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-07-24\/13323693372.shtml\">read more<\/a>",
+		"title":"《搞定岳父大人》网友赞既搞笑又温情",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-26 14:24:00",
+		"enddate":"2012-07-26 14:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-07-26\/14243695373.shtml\">read more<\/a>",
+		"title":"《搞定岳父》曝海报 毛脚女婿PK恶魔岳父",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-26 19:37:00",
+		"enddate":"2012-07-26 19:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-07-26\/19373695720.shtml\">read more<\/a>",
+		"title":"《搞定岳父》做客 徐峥林鹏玩�婚",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-26 19:37:00",
+		"enddate":"2012-07-26 19:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-07-26\/19373695720_2.shtml\">read more<\/a>",
+		"title":"《搞定岳父》主创谈贫贱夫妻百日哀",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-26 19:37:00",
+		"enddate":"2012-07-26 19:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-07-26\/19373695720_3.shtml\">read more<\/a>",
+		"title":"《搞定岳父》徐铮监制主演身兼双职",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-27 15:37:00",
+		"enddate":"2012-07-27 15:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-07-27\/15373696529.shtml\">read more<\/a>",
+		"title":"林鹏《搞定岳父大人》演绎“晕婚女”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-30 21:57:00",
+		"enddate":"2012-07-30 21:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-07-30\/21573698599.shtml\">read more<\/a>",
+		"title":"《搞定岳父》提前上映 徐峥再度搞笑出击",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-31 11:13:00",
+		"enddate":"2012-07-31 11:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-07-31\/11133699058.shtml\">read more<\/a>",
+		"title":"《搞定岳父大人》改映期提前上映",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-01 14:59:00",
+		"enddate":"2012-08-01 14:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-01\/14593700354.shtml\">read more<\/a>",
+		"title":"徐峥提前四天《搞定岳父大人》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-03 09:58:00",
+		"enddate":"2012-08-03 09:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-03\/09583702122.shtml\">read more<\/a>",
+		"title":"《搞定岳父》首映式 徐铮自称将是难搞岳父",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-03 19:38:00",
+		"enddate":"2012-08-03 19:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-03\/19383702773.shtml\">read more<\/a>",
+		"title":"《搞定岳父》北京首映林鹏现场获准嫁徐峥",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-04 08:17:00",
+		"enddate":"2012-08-04 08:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-04\/08173702982.shtml\">read more<\/a>",
+		"title":"《搞定岳父大人》情侣场 林鹏许绍雄支招",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-06 12:23:00",
+		"enddate":"2012-08-06 12:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-06\/12233704005.shtml\">read more<\/a>",
+		"title":"《搞定岳父》发布何炅MV《手贴手的约定》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-07 10:52:00",
+		"enddate":"2012-08-07 10:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-07\/10523704916.shtml\">read more<\/a>",
+		"title":"《搞定岳父》笑料多 新晋女导演大发力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-07 12:34:00",
+		"enddate":"2012-08-07 12:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-07\/12343705118.shtml\">read more<\/a>",
+		"title":"《搞定岳父》林鹏首拍床戏遭徐峥调侃",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-08 10:47:00",
+		"enddate":"2012-08-08 10:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-08\/10473706060.shtml\">read more<\/a>",
+		"title":"《搞定岳父》首周票房口碑双赢 逆袭暑期档",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-09 10:14:00",
+		"enddate":"2012-08-09 10:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-09\/10143706995.shtml\">read more<\/a>",
+		"title":"小地包苏茂洋《搞定岳父大人》变迷糊片警",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_0_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule0_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule0_type",
+	"size_importance":"true"
+}]

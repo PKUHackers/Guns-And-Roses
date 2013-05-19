@@ -1,0 +1,264 @@
+[
+{
+	"title":"尼克松访华40周年",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-02-20 13:12:00",
+		"enddate":"2012-02-20 13:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-20\/131223961180.shtml\">read more<\/a>",
+		"title":"学者：尼克松访华开启中美最高层直接接触局面",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-20 13:12:00",
+		"enddate":"2012-02-20 13:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-20\/131223961184.shtml\">read more<\/a>",
+		"title":"美国媒体称尼克松访华是最伟大政治成就之一",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-20 14:15:00",
+		"enddate":"2012-02-20 14:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-20\/141523961450.shtml\">read more<\/a>",
+		"title":"2月21日10:00外交部前官员谈尼克松访华40周年",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-21 17:17:00",
+		"enddate":"2012-02-21 17:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-21\/171723968417.shtml\">read more<\/a>",
+		"title":"学者称中美关系历经风雨 友好合作是大势所趋",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-21 17:17:00",
+		"enddate":"2012-02-21 17:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-21\/171723968417_2.shtml\">read more<\/a>",
+		"title":"当事人回忆称毛泽东会见令尼克松一行猝不及防",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-21 17:25:00",
+		"enddate":"2012-02-21 17:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-21\/172523968446.shtml\">read more<\/a>",
+		"title":"美国企业家称中美相互依赖会越来越强",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-21 17:27:00",
+		"enddate":"2012-02-21 17:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-21\/172723968458.shtml\">read more<\/a>",
+		"title":"中国外交官回忆秘密准备尼克松访华经历",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-21 17:29:00",
+		"enddate":"2012-02-21 17:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-21\/172923968463.shtml\">read more<\/a>",
+		"title":"赴美留学生：维护中美关系是全家责任",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-21 17:32:00",
+		"enddate":"2012-02-21 17:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-21\/173223968482.shtml\">read more<\/a>",
+		"title":"美国男子学习推广汉字几十年获誉文化行者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-21 19:40:00",
+		"enddate":"2012-02-21 19:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-21\/194023968779.shtml\">read more<\/a>",
+		"title":"外交部：中美排除干扰做朋友是唯一正确选项",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 19:28:00",
+		"enddate":"2012-02-22 19:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-22\/192823975069.shtml\">read more<\/a>",
+		"title":"踏访美国前总统理查德・尼克松故居",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 21:09:00",
+		"enddate":"2012-02-22 21:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-22\/210923975323.shtml\">read more<\/a>",
+		"title":"纪录片讲述尼克松访华 同行记者回忆背后故事",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-28 11:27:00",
+		"enddate":"2012-02-28 11:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-28\/112724022357.shtml\">read more<\/a>",
+		"title":"《上海公报》发表四十年 中美求同存异默契仍在",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-21 07:00:00",
+		"enddate":"2012-02-21 07:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-02-21\/070023964755.shtml\">read more<\/a>",
+		"title":"尼克松访华之旅回顾:所用筷子被随行记者拿走",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-27 12:00:00",
+		"enddate":"2012-02-27 12:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-02-27\/120024009975.shtml\">read more<\/a>",
+		"title":"基辛格：走出新型大国关系之路是美中两国责任",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-21 13:22:00",
+		"enddate":"2012-02-21 13:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/sd\/2012-02-21\/132223967355.shtml\">read more<\/a>",
+		"title":"美国大使馆披露尼克松访华史料",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_19_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji19_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji19_type",
+	"size_importance":"true"
+}]

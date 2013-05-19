@@ -1,0 +1,264 @@
+[
+{
+	"title":"柯达申请破产保护",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-01-18 09:51:00",
+		"enddate":"2012-01-18 09:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/digi\/dc\/2012-01-18\/09516650518.shtml\">read more<\/a>",
+		"title":"柯达破产传闻带动胶卷旺：粉丝大量采购囤货",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-12 18:01:00",
+		"enddate":"2012-01-12 18:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-01-12\/18016632784.shtml\">read more<\/a>",
+		"title":"柯达胶卷冲洗出的历史",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-19 13:19:00",
+		"enddate":"2012-01-19 13:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-01-19\/13196654556.shtml\">read more<\/a>",
+		"title":"传柯达将任命首席重组官负责破产流程",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-19 13:46:00",
+		"enddate":"2012-01-19 13:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-01-19\/13466654594.shtml\">read more<\/a>",
+		"title":"柯达申请破产保护 达成9.5亿美元破产融资方案",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-19 15:37:00",
+		"enddate":"2012-01-19 15:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-01-19\/15376654773.shtml\">read more<\/a>",
+		"title":"柯达CEO称提交破产保护申请非常必要",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-19 15:51:00",
+		"enddate":"2012-01-19 15:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-01-19\/15516654796.shtml\">read more<\/a>",
+		"title":"柯达筹措9.5亿美元自救 欲2013年结束破产保护",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-19 16:54:00",
+		"enddate":"2012-01-19 16:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-01-19\/16546654863.shtml\">read more<\/a>",
+		"title":"柯达与富士：胶片双雄的冰火两重天",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-19 19:01:00",
+		"enddate":"2012-01-19 19:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-01-19\/19016654976.shtml\">read more<\/a>",
+		"title":"柯达破产后解答疑问：股票将从纽交所摘牌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-20 00:34:00",
+		"enddate":"2012-01-20 00:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-01-20\/00346655180.shtml\">read more<\/a>",
+		"title":"纽交所宣布停止柯达股票交易",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-22 15:20:00",
+		"enddate":"2012-01-22 15:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-01-22\/15206659962.shtml\">read more<\/a>",
+		"title":"苹果要求法庭冻结柯达争议专利索赔",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-24 07:42:00",
+		"enddate":"2012-01-24 07:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-01-24\/07426660932.shtml\">read more<\/a>",
+		"title":"柯达任命新首席重组官助公司走出破产保护",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-03 04:19:00",
+		"enddate":"2012-02-03 04:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-02-03\/04196679571.shtml\">read more<\/a>",
+		"title":"柯达为降低重组成本欲放弃奥斯卡颁奖地冠名权",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-03 09:41:00",
+		"enddate":"2012-02-03 09:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-02-03\/09416680889.shtml\">read more<\/a>",
+		"title":"柯达剧院重组“差钱”面临改名",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 23:13:00",
+		"enddate":"2012-02-09 23:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-02-09\/23136703840.shtml\">read more<\/a>",
+		"title":"柯达宣布将停产数码相机以削减成本",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-16 14:46:00",
+		"enddate":"2012-02-16 14:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-02-16\/14466732484.shtml\">read more<\/a>",
+		"title":"柯达获准借贷9.5亿美元以维持运营",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-27 14:33:00",
+		"enddate":"2012-08-27 14:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-08-27\/14337550663.shtml\">read more<\/a>",
+		"title":"柯达放弃立业根基：欲出售消费胶片业务",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_14_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji14_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji14_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,249 @@
+[
+{
+	"title":"BMW大师赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-08-03 16:02:00",
+		"enddate":"2012-08-03 16:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-08-03\/16026166549.shtml\">read more<\/a>",
+		"title":"宝马大师赛资格赛将于8月17在山东南山举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_11_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-25 09:24:00",
+		"enddate":"2012-04-25 09:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-25\/09246037161.shtml\">read more<\/a>",
+		"title":"700万美元总奖金打造高尔夫大师赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_11_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 14:36:00",
+		"enddate":"2012-09-25 14:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-09-25\/14366239050.shtml\">read more<\/a>",
+		"title":"BMW大师赛吹响欧巡集结号 莱德杯战将悉数来沪",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_11_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-01 00:38:00",
+		"enddate":"2012-09-01 00:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-09-01\/00386209118.shtml\">read more<\/a>",
+		"title":"BMW大师赛中高协获14个名额 梁文冲领衔中国军团",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_11_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-24 10:04:00",
+		"enddate":"2012-04-24 10:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-24\/10046035907.shtml\">read more<\/a>",
+		"title":"宝马高尔夫大师赛将在沪举行 总奖金700万美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_11_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-05 10:01:00",
+		"enddate":"2012-09-05 10:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-09-05\/10016214538.shtml\">read more<\/a>",
+		"title":"BMW大师赛为奖金王关键一役 罗斯誓言反超麦克罗伊",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_11_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-23 19:29:00",
+		"enddate":"2012-04-23 19:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-23\/19296035350.shtml\">read more<\/a>",
+		"title":"BMW大师赛总奖金700万美元 小麦克拉克剑指美兰湖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_11_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-20 18:12:00",
+		"enddate":"2012-08-20 18:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-08-20\/18126196073.shtml\">read more<\/a>",
+		"title":"麦克罗伊挟PGA锦标赛胜利 十月沪上挑战BMW大师赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_11_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 17:59:00",
+		"enddate":"2012-09-06 17:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-09-06\/17596216348.shtml\">read more<\/a>",
+		"title":"麦克罗伊稳坐世界第一 BMW大师赛摘桂被寄予厚望",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_11_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-01 12:54:00",
+		"enddate":"2012-09-01 12:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-09-01\/12546209864.shtml\">read more<\/a>",
+		"title":"梁文冲张新军领衔中国球手 十月出征高尔夫大师赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_11_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 21:36:00",
+		"enddate":"2012-09-26 21:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-09-26\/21366240449.shtml\">read more<\/a>",
+		"title":"BMW大师赛赛场-上海美兰湖高尔夫球会行车路线",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_11_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 09:43:00",
+		"enddate":"2012-09-28 09:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-09-28\/09436241949.shtml\">read more<\/a>",
+		"title":"上海BMW高尔夫大师赛10月25日开战 世界前四3人出战",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_11_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-25 10:15:00",
+		"enddate":"2012-04-25 10:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-25\/10156037283.shtml\">read more<\/a>",
+		"title":"全新世界级高尔夫赛事将于10月25日在上海举办",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_11_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 16:52:00",
+		"enddate":"2012-09-21 16:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-09-21\/16526234296.shtml\">read more<\/a>",
+		"title":"唐纳德白老虎出战BMW大师赛 3位世界前四确认参赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_11_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-29 08:55:00",
+		"enddate":"2012-08-29 08:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-08-29\/08556205816.shtml\">read more<\/a>",
+		"title":"麦克罗伊到上海淘金 布拉德利顶替打PGA大满贯赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_11_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu11_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu11_type",
+	"size_importance":"true"
+}]

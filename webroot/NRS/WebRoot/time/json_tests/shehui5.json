@@ -1,0 +1,324 @@
+[
+{
+	"title":"李双江之子无照驾车打人",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-09-08 14:34:00",
+		"enddate":"2011-09-08 14:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2011-09-08\/143423126728.shtml\">read more<\/a>",
+		"title":"李双江之子涉嫌殴打他人 李双江梦鸽尚无回应",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-09 09:37:00",
+		"enddate":"2011-09-09 09:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2011-09-09\/093723131514.shtml\">read more<\/a>",
+		"title":"奥迪车主母亲要跪地道歉 伤者称医疗费自己负担",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-08 08:25:00",
+		"enddate":"2011-09-08 08:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2011-09-08\/082523125067.shtml\">read more<\/a>",
+		"title":"李双江儿子疑打人 欲驾车逃逸被围观者围车阻止",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-15 21:40:00",
+		"enddate":"2011-09-15 21:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-09-15\/214023162179.shtml\">read more<\/a>",
+		"title":"李双江之子驾车打人被收容教养1年",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-08 11:17:00",
+		"enddate":"2011-09-08 11:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-09-08\/111723125963.shtml\">read more<\/a>",
+		"title":"李双江：我舍不得打孩子 这代人是中国人的希望",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-09 07:18:00",
+		"enddate":"2011-09-09 07:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2011-09-09\/07163411967.shtml\">read more<\/a>",
+		"title":"李天一未成年可能不追究刑责 李家可能仅赔钱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-11 04:09:00",
+		"enddate":"2011-09-11 04:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-09-11\/040923138762.shtml\">read more<\/a>",
+		"title":"李双江儿子涉嫌寻衅滋事罪并未解除刑拘",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-09 21:20:00",
+		"enddate":"2011-09-09 21:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-09-09\/212023134446.shtml\">read more<\/a>",
+		"title":"山西警方：在京肇事奥迪车所挂公安牌为假牌照",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-09 15:14:00",
+		"enddate":"2011-09-09 15:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/s\/m\/2011-09-09\/11413412260.shtml\">read more<\/a>",
+		"title":"李双江近期不接专访 校方建议谨慎处理(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-09 20:04:00",
+		"enddate":"2011-09-09 20:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-09-09\/200423134304.shtml\">read more<\/a>",
+		"title":"李双江之子打人事件伤者称会坚持走司法程序",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-08 04:00:00",
+		"enddate":"2011-09-08 04:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/p\/2011-09-08\/040023123101.shtml\">read more<\/a>",
+		"title":"李双江之子无照驾车打人 高喊谁敢打110(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-09 03:59:00",
+		"enddate":"2011-09-09 03:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2011-09-09\/035923129427.shtml\">read more<\/a>",
+		"title":"律师称李双江夫妇需为儿子打人承担连带责任",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-08 14:25:00",
+		"enddate":"2011-09-08 14:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2011-09-08\/142523126682.shtml\">read more<\/a>",
+		"title":"李双江之子打人遭警方羁押",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-08 18:04:00",
+		"enddate":"2011-09-08 18:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/s\/m\/2011-09-08\/17563411660.shtml\">read more<\/a>",
+		"title":"快讯：李天一仍在拘留所 李双江留京处理事件",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-09 15:17:00",
+		"enddate":"2011-09-09 15:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/s\/m\/2011-09-09\/10383412163.shtml\">read more<\/a>",
+		"title":"伤者称被打后很无助 李双江承诺负责未提赔偿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-08 02:59:00",
+		"enddate":"2011-09-08 02:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2011-09-08\/025923122842.shtml\">read more<\/a>",
+		"title":"李双江儿子疑打人 欲驾车逃逸被围观者围车阻止",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-13 06:27:00",
+		"enddate":"2011-09-13 06:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-09-13\/062723145685.shtml\">read more<\/a>",
+		"title":"山西公安副厅长苏浩:苏楠之母谎称我是苏楠大伯",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-08 08:24:00",
+		"enddate":"2011-09-08 08:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/p\/2011-09-08\/082423125070.shtml\">read more<\/a>",
+		"title":"歌唱家李双江儿子无照驾车打人(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-08 18:42:00",
+		"enddate":"2011-09-08 18:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-09-08\/184223127903.shtml\">read more<\/a>",
+		"title":"北京警方证实李双江之子驾无牌宝马打人被刑拘",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-12 17:50:00",
+		"enddate":"2011-09-12 17:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-09-12\/175023143860.shtml\">read more<\/a>",
+		"title":"李双江之子打人事件追踪:奥迪车司机父亲被拘",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_5_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shehui_type"},
+		"ypix":"0",
+		"id":"shehui5_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shehui5_type",
+	"size_importance":"true"
+}]

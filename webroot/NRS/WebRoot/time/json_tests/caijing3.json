@@ -1,0 +1,324 @@
+[
+{
+	"title":"希腊全民公投",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-11-11 04:11:00",
+		"enddate":"2011-11-11 04:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/ozjj\/20111111\/041110795946.shtml\">read more<\/a>",
+		"title":"欧央行前副行长当选希腊新总理",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 08:01:00",
+		"enddate":"2011-11-08 08:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20111108\/080110773068.shtml\">read more<\/a>",
+		"title":"欧洲银行业危机已现 意大利将“接棒”希腊？",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-03 17:04:00",
+		"enddate":"2011-11-03 17:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20111103\/170410749993.shtml\">read more<\/a>",
+		"title":"希腊纾困方案公投 财长与总理不同调",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 06:52:00",
+		"enddate":"2011-11-08 06:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20111108\/065210772853.shtml\">read more<\/a>",
+		"title":"希腊有望按计划获得第六批救助贷款",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-05 07:59:00",
+		"enddate":"2011-11-05 07:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20111105\/075910760765.shtml\">read more<\/a>",
+		"title":"美学者:中国救助将会帮希腊很大的忙",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-05 01:53:00",
+		"enddate":"2011-11-05 01:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/usstock\/c\/20111105\/015310759582.shtml\">read more<\/a>",
+		"title":"希腊政局短期仍将左右市场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-05 01:52:00",
+		"enddate":"2011-11-05 01:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20111105\/015210759563.shtml\">read more<\/a>",
+		"title":"希腊有意取消公投  亚太股市大涨相迎",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-07 06:39:00",
+		"enddate":"2011-11-07 06:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20111107\/063910764586.shtml\">read more<\/a>",
+		"title":"希腊准备成立联合政府 现总理帕潘德里欧将下台",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 08:04:00",
+		"enddate":"2011-11-08 08:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20111108\/080410773052.shtml\">read more<\/a>",
+		"title":"欧元集团会议今召开 希腊坏榜样易向他国扩散",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-07 02:05:00",
+		"enddate":"2011-11-07 02:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20111107\/020510763800.shtml\">read more<\/a>",
+		"title":"希腊筹组联合政府以确保留在欧元区",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-05 22:23:00",
+		"enddate":"2011-11-05 22:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20111105\/222310761745.shtml\">read more<\/a>",
+		"title":"希腊总理开始筹组联合政府",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-04 00:52:00",
+		"enddate":"2011-11-04 00:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/usstock\/c\/20111104\/005210751290.shtml\">read more<\/a>",
+		"title":"希腊总理帕潘德里欧称其不会辞职",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-03 14:15:00",
+		"enddate":"2011-11-03 14:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20111103\/141510748782.shtml\">read more<\/a>",
+		"title":"希腊财长:去留欧元区不能靠公投决定",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-11 07:47:00",
+		"enddate":"2011-11-11 07:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/future\/20111111\/074710797006.shtml\">read more<\/a>",
+		"title":"标准银行:意大利希腊政局恐致危机恶化",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-07 04:25:00",
+		"enddate":"2011-11-07 04:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20111107\/042510764302.shtml\">read more<\/a>",
+		"title":"希腊债务危机为何重回原点？",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-10 16:27:00",
+		"enddate":"2011-11-10 16:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/ozjj\/20111110\/162710791886.shtml\">read more<\/a>",
+		"title":"希腊总理今晨辞职 欧债危机击倒来帕潘德里欧 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 06:21:00",
+		"enddate":"2011-11-08 06:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/usstock\/c\/20111108\/062110772384.shtml\">read more<\/a>",
+		"title":"希腊将可获得第一项援助计划第六笔款项",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-04 01:20:00",
+		"enddate":"2011-11-04 01:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/usstock\/c\/20111104\/012010751689.shtml\">read more<\/a>",
+		"title":"公投引发希腊政坛震荡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-03 17:30:00",
+		"enddate":"2011-11-03 17:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/j\/20111103\/173010750156.shtml\">read more<\/a>",
+		"title":"欧盟宣布暂停向希腊发放80亿欧元贷款",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-07 01:02:00",
+		"enddate":"2011-11-07 01:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20111107\/010210763455.shtml\">read more<\/a>",
+		"title":"希腊危机或推倒多米诺 部分银行开始割肉",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing3_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing3_type",
+	"size_importance":"true"
+}]

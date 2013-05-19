@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012年全国各地高考状元",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-06-28 11:48:00",
+		"enddate":"2012-06-28 11:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-28\/1148346267.shtml\">read more<\/a>",
+		"title":"湖南状元晒经验：从未参加过辅导班(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-05 09:30:00",
+		"enddate":"2012-07-05 09:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-07-05\/0930347249.shtml\">read more<\/a>",
+		"title":"2012年广东文理状元都报考清华(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-22 21:16:00",
+		"enddate":"2012-06-22 21:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-22\/2116344903.shtml\">read more<\/a>",
+		"title":"2006年-2011年浙江高考状元大盘点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-25 14:57:00",
+		"enddate":"2012-06-25 14:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-25\/1457345466.shtml\">read more<\/a>",
+		"title":"2012年陕西高考文科状元为张诗佳(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-24 11:30:00",
+		"enddate":"2012-06-24 11:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-24\/1130345135.shtml\">read more<\/a>",
+		"title":"2012年北京高考文理科状元全落人大附中 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-23 15:50:00",
+		"enddate":"2012-06-23 15:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-23\/1550345048.shtml\">read more<\/a>",
+		"title":"吉林高考理科状元耿天毅：超前学习超越他人 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-25 12:44:00",
+		"enddate":"2012-06-25 12:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-25\/1244345380.shtml\">read more<\/a>",
+		"title":"河南文科状元于成亮：错题本是“法宝”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-26 11:54:00",
+		"enddate":"2012-06-26 11:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-26\/1154345695.shtml\">read more<\/a>",
+		"title":"湖南2012高考文科状元：喜爱偶像剧和武术",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-23 17:04:00",
+		"enddate":"2012-06-23 17:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-23\/1704345067.shtml\">read more<\/a>",
+		"title":"四川2012文理状元出炉 两个女娃同一学校",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-01 13:18:00",
+		"enddate":"2012-06-01 13:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-01\/1318340462.shtml\">read more<\/a>",
+		"title":"高考状元谈考前一周：适度放松别过度放纵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-25 17:46:00",
+		"enddate":"2012-06-25 17:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-25\/1746345552.shtml\">read more<\/a>",
+		"title":"川南文理第一名都出自泸州 两人曾是同桌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-25 09:24:00",
+		"enddate":"2012-06-25 09:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-25\/0924345226.shtml\">read more<\/a>",
+		"title":"安徽高考理科状元：自主招生选清华(图) ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-26 12:05:00",
+		"enddate":"2012-06-26 12:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-26\/1205345701.shtml\">read more<\/a>",
+		"title":"内蒙古高考理科状元祝凌霄：很阳光的大男孩",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-26 15:31:00",
+		"enddate":"2012-06-26 15:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-26\/1531345824.shtml\">read more<\/a>",
+		"title":"海南理科状元周怿：向往去香港读大学(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-25 10:58:00",
+		"enddate":"2012-06-25 10:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-25\/1058345306.shtml\">read more<\/a>",
+		"title":"江西高考文状元周碧瑶：对父母最好的报答",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-23 14:54:00",
+		"enddate":"2012-06-23 14:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-23\/1454345029.shtml\">read more<\/a>",
+		"title":"浙江高考文科状元杨纯子：我是“排球女将”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-25 11:04:00",
+		"enddate":"2012-06-25 11:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-25\/1104345316.shtml\">read more<\/a>",
+		"title":"贵州高考理状元：我不是巴神暂不思考人生",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-24 23:41:00",
+		"enddate":"2012-06-24 23:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-24\/2341345218.shtml\">read more<\/a>",
+		"title":"江苏2012年高考状元出炉 文科三人并列",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-05 11:37:00",
+		"enddate":"2012-06-05 11:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-05\/1137340974.shtml\">read more<\/a>",
+		"title":"传陕西高考状元遭北大退学",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-07 09:52:00",
+		"enddate":"2012-06-07 09:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-07\/0952341437.shtml\">read more<\/a>",
+		"title":"高考状元回忆：那一年他们经历的高考",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_12_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"jiaoyu_type"},
+		"ypix":"0",
+		"id":"jiaoyu12_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu12_type",
+	"size_importance":"true"
+}]

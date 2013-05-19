@@ -1,0 +1,324 @@
+[
+{
+	"title":"电影《普罗米修斯》",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-08-09 14:49:00",
+		"enddate":"2012-08-09 14:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-08-09\/14493707408.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》确定引进 有望9月中国上映",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-01-19 03:11:00",
+		"enddate":"2011-01-19 03:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2011-01-19\/03113212745.shtml\">read more<\/a>",
+		"title":"《异形前传》成泡影 斯科特改拍《普罗米修斯》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-09 14:21:00",
+		"enddate":"2012-08-09 14:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-08-09\/14213707341.shtml\">read more<\/a>",
+		"title":"科幻片《普罗米修斯》九月进京",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-07 11:40:00",
+		"enddate":"2012-08-07 11:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-08-07\/11403705030.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》确定引进 有望9月上映",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 03:00:00",
+		"enddate":"2012-08-30 03:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-08-30\/03003726009.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》再发特辑 9月上映网友热议",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 17:20:00",
+		"enddate":"2012-08-30 17:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-08-30\/17203726825.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》抛出更大谜团 有望拍续集",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-06 11:50:00",
+		"enddate":"2012-07-06 11:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/e\/2012-07-06\/11503678123.shtml\">read more<\/a>",
+		"title":"暑期大片《普罗米修斯》10月发行三碟蓝光",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-03 02:19:00",
+		"enddate":"2012-09-03 02:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-09-03\/02193729642.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》上映 3D效果被批太暗",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-11 05:58:00",
+		"enddate":"2012-09-11 05:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-09-11\/05583737705.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》引科学家及网友吐槽热议",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-03 08:33:00",
+		"enddate":"2012-09-03 08:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-09-03\/08333729797.shtml\">read more<\/a>",
+		"title":"斯科特：制造惊悚只要一小勺生物细菌”(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-04 16:49:00",
+		"enddate":"2012-09-04 16:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/r\/m\/2012-09-04\/16493731454.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》：噩梦中的每个细节都真实",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-04 16:02:00",
+		"enddate":"2012-09-04 16:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-09-04\/16023731405.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》零点首映场爆棚",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-05 14:29:00",
+		"enddate":"2012-09-05 14:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-09-05\/14293732368.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》上映 情侣观看吓得抱团",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-11 17:03:00",
+		"enddate":"2012-06-11 17:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-06-11\/17033654456.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》有望引进 揭开异形之谜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-22 20:55:00",
+		"enddate":"2012-08-22 20:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-08-22\/20553719275.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》发病毒视频 法鲨变生化机器人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-24 11:11:00",
+		"enddate":"2012-08-24 11:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-08-24\/11113720821.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》可能改档期 避开“双侠”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-11 02:42:00",
+		"enddate":"2012-06-11 02:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-06-11\/02423653776.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》领跑北美票房 最快8月内地映",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-04 11:48:00",
+		"enddate":"2012-09-04 11:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-09-04\/11483731112.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》势头猛 斯科特颠覆了什么",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-15 10:14:00",
+		"enddate":"2012-08-15 10:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-08-15\/10143711992.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》曝特辑 龙纹身女孩与异形死磕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-07 11:40:00",
+		"enddate":"2012-08-07 11:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/f\/2012-08-07\/11403705028.shtml\">read more<\/a>",
+		"title":"《普罗米修斯》再现重磅科幻",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule2_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule2_type",
+	"size_importance":"true"
+}]

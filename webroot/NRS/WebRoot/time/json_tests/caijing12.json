@@ -1,0 +1,324 @@
+[
+{
+	"title":"李书福危局报道引发媒体与吉利明战",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-11-15 10:01:00",
+		"enddate":"2011-11-15 10:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20111115\/100110817131.shtml\">read more<\/a>",
+		"title":"传李书福海外放高利贷 吉利发律师信斥不实传闻",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-18 16:03:00",
+		"enddate":"2011-11-18 16:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20111118\/160310842739.shtml\">read more<\/a>",
+		"title":"吉利致证券市场周刊公开信称5点内容全虚假",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-17 13:28:00",
+		"enddate":"2011-11-17 13:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20111117\/132810834990.shtml\">read more<\/a>",
+		"title":"高盛澄清称未为吉利安排海外高息债券融资",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-18 03:12:00",
+		"enddate":"2011-11-18 03:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20111118\/031210838837.shtml\">read more<\/a>",
+		"title":"吉利与证券市场周刊明战：极力否认高利贷勒脖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-30 23:00:00",
+		"enddate":"2011-10-30 23:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20111030\/230010719760.shtml\">read more<\/a>",
+		"title":"沃尔沃被指借吉利翻牌 蛇吞象前景尚难预测",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-15 18:29:00",
+		"enddate":"2011-11-15 18:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20111115\/182910820629.shtml\">read more<\/a>",
+		"title":"吉利发布律师声明称高利贷困局报道不实",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-14 18:03:00",
+		"enddate":"2011-11-14 18:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20111114\/180310811701.shtml\">read more<\/a>",
+		"title":"吉利律师声明称“李书福危局”为虚假报道",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-15 11:16:00",
+		"enddate":"2011-11-15 11:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/leadership\/20111115\/111610817854.shtml\">read more<\/a>",
+		"title":"李书福不舒服：吉利否认陷入海外高利贷危机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-19 13:43:00",
+		"enddate":"2011-11-19 13:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20111119\/134310846728.shtml\">read more<\/a>",
+		"title":"吉利就证券市场周刊报道回应被指情绪化缺严谨",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-15 14:40:00",
+		"enddate":"2011-11-15 14:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20111115\/144010819030.shtml\">read more<\/a>",
+		"title":"吉利比亚迪负面缠身 民营车企车市寒冬不好过",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-23 05:05:00",
+		"enddate":"2011-11-23 05:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20111123\/050510864957.shtml\">read more<\/a>",
+		"title":"吉利洗清高息借债之冤 《证券市场周刊》认错 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-17 13:48:00",
+		"enddate":"2011-11-17 13:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20111117\/134810835056.shtml\">read more<\/a>",
+		"title":"李书福危局：海外高利贷勒紧吉利脖子",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-17 17:03:00",
+		"enddate":"2011-11-17 17:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20111117\/170310836494.shtml\">read more<\/a>",
+		"title":"高盛发声明否认为吉利集团安排债券相关融资",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-24 13:57:00",
+		"enddate":"2011-11-24 13:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20111124\/135710875830.shtml\">read more<\/a>",
+		"title":"吉利因失实报道遭重大损失 市值缩水超17亿港元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-18 03:12:00",
+		"enddate":"2011-11-18 03:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20111118\/031210838834.shtml\">read more<\/a>",
+		"title":"证券市场周刊向吉利发律师函：李书福危局报道确凿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-18 04:10:00",
+		"enddate":"2011-11-18 04:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/hkstock\/ggscyd\/20111118\/041010839160.shtml\">read more<\/a>",
+		"title":"高盛否认向吉利提供顾问服务 吉利股价连跌三日",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-21 07:29:00",
+		"enddate":"2011-11-21 07:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20111121\/072910850435.shtml\">read more<\/a>",
+		"title":"吉利汽车否认面临资金困境说法",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-21 17:44:00",
+		"enddate":"2011-11-21 17:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20111121\/174410854490.shtml\">read more<\/a>",
+		"title":"吉利坚持法律途径解决报道纠纷：除非对方公开道歉",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-24 05:19:00",
+		"enddate":"2011-11-24 05:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/hkstock\/ggscyd\/20111124\/051910872347.shtml\">read more<\/a>",
+		"title":"港证监会：未发现吉利股价异动 不会采取特别措施",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-15 10:03:00",
+		"enddate":"2011-11-15 10:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20111115\/100310817170.shtml\">read more<\/a>",
+		"title":"吉利发律师函表态不差钱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_12_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing12_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing12_type",
+	"size_importance":"true"
+}]

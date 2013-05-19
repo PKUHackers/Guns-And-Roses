@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012NBA中国赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-11 22:22:00",
+		"enddate":"2012-10-11 22:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/nba\/2012-10-11\/22226255051.shtml\">read more<\/a>",
+		"title":"调查-您如何评价中国赛北京站?本场最佳球员是谁?",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_17_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 00:49:00",
+		"enddate":"2012-10-12 00:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/nba\/2012-10-12\/00496255151.shtml\">read more<\/a>",
+		"title":"詹韦迟到遭主持无意吐槽 情侣装搭配基情无限(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_17_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 16:38:00",
+		"enddate":"2012-10-14 16:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/nba\/2012-10-14\/16386257816.shtml\">read more<\/a>",
+		"title":"韦德赛后搞笑模仿球迷呐喊 DW：我们这季还能夺冠",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_17_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 19:47:00",
+		"enddate":"2012-10-14 19:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/nba\/2012-10-14\/19476257936.shtml\">read more<\/a>",
+		"title":"NBA中国赛上海站姚明“抢镜” 詹姆斯感叹其影响力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_17_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 16:35:00",
+		"enddate":"2012-10-14 16:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/nba\/2012-10-14\/16356257815.shtml\">read more<\/a>",
+		"title":"斯帅：对待韦德不愿太心急 给阿伦刘易斯信任票",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_17_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 15:08:00",
+		"enddate":"2012-10-14 15:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/nba\/2012-10-14\/15086257727.shtml\">read more<\/a>",
+		"title":"中国赛落幕2万观众不过瘾 震耳欲聋齐喊:换姚明！",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_17_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-07 11:11:00",
+		"enddate":"2012-10-07 11:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/nba\/2012-10-07\/11116250363.shtml\">read more<\/a>",
+		"title":"热火新季解析：AJ连线没问题 两角色球员作用关键",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_17_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 22:34:00",
+		"enddate":"2012-10-11 22:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/nba\/2012-10-11\/22346255060.shtml\">read more<\/a>",
+		"title":"詹皇暴扣揽最佳全场高呼MVP 场边与波什演拳击秀",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_17_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-07 05:18:00",
+		"enddate":"2012-10-07 05:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/nba\/2012-10-07\/05186250154.shtml\">read more<\/a>",
+		"title":"季前赛首战詹姆斯将亮相 韦德逐日观察仍有望出场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_17_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 14:29:00",
+		"enddate":"2012-10-10 14:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/nba\/2012-10-10\/14296253690.shtml\">read more<\/a>",
+		"title":"快船VS热火前瞻：巨星打响中国赛 詹韦格里芬领衔",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_17_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 14:55:00",
+		"enddate":"2012-10-14 14:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/nba\/2012-10-14\/14556257716.shtml\">read more<\/a>",
+		"title":"乔丹18+9保罗复出快船复仇 Big3仅得29分热火失利",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_17_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-13 18:52:00",
+		"enddate":"2012-10-13 18:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/nba\/2012-10-13\/18526257022.shtml\">read more<\/a>",
+		"title":"韦德：不会太在意个人数据 做好防守端找回状态",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_17_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 10:51:00",
+		"enddate":"2012-10-15 10:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/nba\/2012-10-15\/10516258601.shtml\">read more<\/a>",
+		"title":"要卫冕热火强调牺牲精神 詹皇：保持饥饿感很重要",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_17_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 15:53:00",
+		"enddate":"2012-10-14 15:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/nba\/2012-10-14\/15536257777.shtml\">read more<\/a>",
+		"title":"热火赛后连夜返美 巴蒂尔：中国之行让全队更团结",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_17_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 12:42:00",
+		"enddate":"2012-10-11 12:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/nba\/2012-10-11\/12426254562.shtml\">read more<\/a>",
+		"title":"詹姆斯用5年兑现邓肯预言：冠军没改变我继续努力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_17_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu17_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu17_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,22 @@
+TG_Mediator.js:					$(".timeglider-timeline-event").removeClass("tg-event-selected");
+TG_Mediator.js:					$(".timeglider-timeline-event#" + ev.id).addClass("tg-event-selected");
+TG_Mediator.js:					$(".timeglider-timeline-event").removeClass("tg-event-selected");
+TG_Mediator.js:					$(".timeglider-timeline-event#" + ev.id).addClass("tg-event-selected");
+TG_Org.js:							html += "<div id='" + b.id + "' class='timeglider-timeline-event tg-event-overflow' style='left:" + b.left  + "px;" + p_overf + "'>" + p_icon + "</div>";
+TG_Org.js:								html += "<div class='timeglider-timeline-event " 
+TG_OrgList.js:			html += "<li class='tg-list-li timeglider-timeline-event clearfix" 
+TG_TimelineView.js:	.delegate(CONTAINER + " .timeglider-timeline-event", CLICKORTOUCH, function () { 
+TG_TimelineView.js:	.delegate(".timeglider-timeline-event", "mouseover", function () { 
+TG_TimelineView.js:	.delegate(".timeglider-timeline-event", "mouseout", function () { 
+TG_TimelineView.js:			$(".timeglider-timeline-event").removeClass("tg-event-hovered");
+TG_TimelineView.js:      			"' class='timeglider-timeline-event tg-event-collapsed' style='top:" + 
+TG_TimelineView.js:						f.fn($(".timeglider-timeline-event#" + ev_id));
+TG_TimelineViewListTest.js:	.delegate(CONTAINER + " .timeglider-timeline-event", CLICKORTOUCH, function () { 
+TG_TimelineViewListTest.js:	.delegate(".timeglider-timeline-event", "mouseover", function () { 
+TG_TimelineViewListTest.js:	.delegate(".timeglider-timeline-event", "mouseout", function () { 
+TG_TimelineViewListTest.js:			$(".timeglider-timeline-event").removeClass("tg-event-hovered");
+TG_TimelineViewListTest.js:					var $ev = $(this).closest(".timeglider-timeline-event");
+TG_TimelineViewListTest.js:      			"' class='timeglider-timeline-event tg-event-collapsed' style='top:" + 
+TG_TimelineViewListTest.js:						f.fn($(".timeglider-timeline-event#" + ev_id));
+Timeglider.css:.timeglider-timeline-event {
+Timeglider.css:.timeglider-timeline-event:hover .timeglider-event-image-inline img {

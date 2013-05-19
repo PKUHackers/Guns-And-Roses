@@ -1,0 +1,324 @@
+[
+{
+	"title":"和平使命2010上合军演",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2010-09-14 14:30:00",
+		"enddate":"2010-09-14 14:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-14\/1430610785.html\">read more<\/a>",
+		"title":"上合军演中国出动常态化装备反映真实战力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-25 06:26:00",
+		"enddate":"2010-09-25 06:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-25\/0626612047.html\">read more<\/a>",
+		"title":"中国空军预警指挥等作战能力实现历史性突破",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-12 06:42:00",
+		"enddate":"2010-09-12 06:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-12\/0642610406.html\">read more<\/a>",
+		"title":"上合军演中方军机将直接从国内赴境外实施轰炸",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-13 06:34:00",
+		"enddate":"2010-09-13 06:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-13\/0634610498.html\">read more<\/a>",
+		"title":"哈萨克斯坦军人注重礼节遇军车经过会立正行礼",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-15 10:10:00",
+		"enddate":"2010-09-15 10:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-15\/1010610908.html\">read more<\/a>",
+		"title":"驻哈中资机构携月饼等慰问中方演习部队(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-14 15:14:00",
+		"enddate":"2010-09-14 15:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-14\/1514610793.html\">read more<\/a>",
+		"title":"上合军演俄军看点：改革后指挥体系引人关注",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-13 11:08:00",
+		"enddate":"2010-09-13 11:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-13\/1108610579.html\">read more<\/a>",
+		"title":"上合军演中方营区自备淋浴车 俱乐部配设卡拉OK",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-18 23:44:00",
+		"enddate":"2010-09-18 23:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-18\/2344611349.html\">read more<\/a>",
+		"title":"上合军演进行首次实弹全程陆空综合演练(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-13 12:13:00",
+		"enddate":"2010-09-13 12:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-13\/1213610597.html\">read more<\/a>",
+		"title":"上合组织和平使命-2010反恐军演开训仪式举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-14 05:51:00",
+		"enddate":"2010-09-14 05:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-14\/0551610648.html\">read more<\/a>",
+		"title":"上海成员国联合反恐军演开训 五国部队受阅",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-27 18:05:00",
+		"enddate":"2010-09-27 18:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-27\/1805612499.html\">read more<\/a>",
+		"title":"直击上合军演：中国陆军99式坦克担当重任(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-17 14:10:00",
+		"enddate":"2010-09-17 14:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-17\/1410611245.html\">read more<\/a>",
+		"title":"上合军演坚持不针对第三方 中方部队不断进步",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-19 11:24:00",
+		"enddate":"2010-09-19 11:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-19\/1124611428.html\">read more<\/a>",
+		"title":"我军少将称上合军演参演军人出入境不必办护照",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-13 17:00:00",
+		"enddate":"2010-09-13 17:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-13\/1700610636.html\">read more<\/a>",
+		"title":"上合军演开训5国部队受阅 演习进入第二阶段",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-10-01 12:12:00",
+		"enddate":"2010-10-01 12:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-10-01\/1212613064.html\">read more<\/a>",
+		"title":"解放军参加和平使命-2010演习部队全部回国",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-10-13 09:41:00",
+		"enddate":"2010-10-13 09:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-10-13\/0941614261.html\">read more<\/a>",
+		"title":"外国称解放军借上合军演打造干预中亚危机能力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-19 08:24:00",
+		"enddate":"2010-09-19 08:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-19\/0824611394.html\">read more<\/a>",
+		"title":"上合军演实弹演练出动战机防空导弹等多种装备",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-24 13:12:00",
+		"enddate":"2010-09-24 13:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-24\/1312612025.html\">read more<\/a>",
+		"title":"和平使命2010反恐军演正式开始 呈现六大亮点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-23 19:34:00",
+		"enddate":"2010-09-23 19:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-23\/1934611948.html\">read more<\/a>",
+		"title":"解放军少将：上合组织不会发展成军事同盟",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-24 12:24:00",
+		"enddate":"2010-09-24 12:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-09-24\/1224612023.html\">read more<\/a>",
+		"title":"上合军演中方陆军参演部队实现三大突破(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_5_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi5_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi5_type",
+	"size_importance":"true"
+}]

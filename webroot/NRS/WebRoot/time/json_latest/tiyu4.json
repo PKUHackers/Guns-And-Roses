@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012围甲联赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-30 09:54:00",
+		"enddate":"2012-09-30 09:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/go\/2012-09-30\/09546244219.shtml\">read more<\/a>",
+		"title":"围甲第16轮鲁黔德州对垒 曹大元：最大障碍疲劳",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 17:53:00",
+		"enddate":"2012-09-30 17:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/go\/2012-09-30\/17536244590.shtml\">read more<\/a>",
+		"title":"围甲第16轮金志锡胜古力达成8连胜 重庆告负仍领跑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 16:37:00",
+		"enddate":"2012-09-28 16:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/go\/2012-09-28\/16376242504.shtml\">read more<\/a>",
+		"title":"围甲第15轮时越速胜赵汉乘 助贵州百灵主将胜辽宁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 17:52:00",
+		"enddate":"2012-09-28 17:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/go\/2012-09-28\/17526242576.shtml\">read more<\/a>",
+		"title":"围甲联赛15轮后积分：重庆高分领跑 贵州杭州随后",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 21:05:00",
+		"enddate":"2012-09-29 21:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/go\/2012-09-29\/21056243608.shtml\">read more<\/a>",
+		"title":"安徽华亿摆擂芜湖迎战杭州 聂卫平孔令文陈盈助阵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 16:32:00",
+		"enddate":"2012-09-30 16:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/go\/2012-09-30\/16326244558.shtml\">read more<\/a>",
+		"title":"安徽华亿元晟溱蔡竞发威 主将胜杭州赢保级关键分",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 17:01:00",
+		"enddate":"2012-09-28 17:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/go\/2012-09-28\/17016242542.shtml\">read more<\/a>",
+		"title":"围甲联赛第15轮赛果：古力胜连笑 重庆主将胜杭州",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 18:12:00",
+		"enddate":"2012-09-28 18:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/go\/2012-09-28\/18126242587.shtml\">read more<\/a>",
+		"title":"围甲第15轮清一色2比2 古力主将胜连笑重庆遥遥领先",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 09:59:00",
+		"enddate":"2012-09-29 09:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/go\/2012-09-29\/09596243139.shtml\">read more<\/a>",
+		"title":"苏泊尔杭州再战重庆遭主将负 古力一路倒虎妙手取势",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 16:48:00",
+		"enddate":"2012-09-30 16:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/go\/2012-09-30\/16486244569.shtml\">read more<\/a>",
+		"title":"围棋甲级联赛战况激烈 古力助重庆队领跑积分榜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 11:53:00",
+		"enddate":"2012-09-29 11:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/go\/2012-09-29\/11536243300.shtml\">read more<\/a>",
+		"title":"围甲联赛第16轮对阵：古力战金志锡 檀啸对垒崔哲瀚",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 23:51:00",
+		"enddate":"2012-09-27 23:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/go\/2012-09-27\/23516241656.shtml\">read more<\/a>",
+		"title":"围甲第15轮对阵：时越VS赵汉乘 江维杰VS金志锡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 11:50:00",
+		"enddate":"2012-10-11 11:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/go\/2012-10-11\/11506254494.shtml\">read more<\/a>",
+		"title":"2012金立智能手机杯围甲10月辽宁分站赛补充通知",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 09:21:00",
+		"enddate":"2012-09-29 09:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/go\/2012-09-29\/09216243059.shtml\">read more<\/a>",
+		"title":"檀啸柔化“元大锤” 聂卫平：宁国获胜托河北老乡福",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 09:19:00",
+		"enddate":"2012-10-08 09:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/go\/2012-10-08\/09196251458.shtml\">read more<\/a>",
+		"title":"安徽宁国竭力调整状态力争保级 老聂檀啸师徒情深",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu4_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu4_type",
+	"size_importance":"true"
+}]

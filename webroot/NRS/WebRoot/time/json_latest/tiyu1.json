@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012中国方程式大奖赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-29 09:42:00",
+		"enddate":"2012-09-29 09:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/f1\/2012-09-29\/09426243102.shtml\">read more<\/a>",
+		"title":"CFGP天马站练习车手感言：或者悲惨 或者精彩",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_1_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 09:53:00",
+		"enddate":"2012-10-18 09:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/f1\/2012-10-18\/09536261651.shtml\">read more<\/a>",
+		"title":"品酒客车队之星崔岳：力助车队重回顶尖行列",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_1_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 10:06:00",
+		"enddate":"2012-10-16 10:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/f1\/2012-10-16\/10066259459.shtml\">read more<\/a>",
+		"title":"CFGP揭开白热化下半赛季 崔岳与孙正两强争霸",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_1_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 09:18:00",
+		"enddate":"2012-09-30 09:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/f1\/2012-09-30\/09186244163.shtml\">read more<\/a>",
+		"title":"CFGP上海站次回合：崔岳扳回一局 孙正收获亚军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_1_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 09:25:00",
+		"enddate":"2012-09-28 09:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/f1\/2012-09-28\/09256241901.shtml\">read more<\/a>",
+		"title":"BRT车队出战CFGP上海天马站 再度派出4部赛车出战",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_1_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 09:22:00",
+		"enddate":"2012-09-28 09:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/f1\/2012-09-28\/09226241895.shtml\">read more<\/a>",
+		"title":"CFGP赛车杀手天马弯 群虎共食非“生”即“亡”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_1_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 09:31:00",
+		"enddate":"2012-09-28 09:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/f1\/2012-09-28\/09316241917.shtml\">read more<\/a>",
+		"title":"SSR车队出战CFGP上海天马站 力争拿下年度车手冠军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_1_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 09:32:00",
+		"enddate":"2012-09-27 09:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/f1\/2012-09-27\/09326240890.shtml\">read more<\/a>",
+		"title":"中国方程式上海天马站即将上演 三大看点值得关注",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_1_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 09:25:00",
+		"enddate":"2012-09-29 09:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/f1\/2012-09-29\/09256243066.shtml\">read more<\/a>",
+		"title":"CFGP天马站第1阶段排位：周梓博杆位 SSR包揽前两位",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_1_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 09:28:00",
+		"enddate":"2012-09-28 09:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/f1\/2012-09-28\/09286241911.shtml\">read more<\/a>",
+		"title":"CFGP第三站登陆上海滩 周梓博积分领跑孙正状态正佳",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_1_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 09:55:00",
+		"enddate":"2012-10-18 09:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/f1\/2012-10-18\/09556261658.shtml\">read more<\/a>",
+		"title":"聚焦车迷：孙正车迷小宇 只因为你",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_1_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 09:15:00",
+		"enddate":"2012-09-28 09:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/f1\/2012-09-28\/09156241881.shtml\">read more<\/a>",
+		"title":"CFGP上海滩极速争雄悬念重重 崔岳主场作战被看好",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_1_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 09:32:00",
+		"enddate":"2012-09-29 09:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/f1\/2012-09-29\/09326243072.shtml\">read more<\/a>",
+		"title":"CFGP上海天马站排位：BRT车队孙正再夺杆位(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_1_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 09:58:00",
+		"enddate":"2012-10-18 09:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/f1\/2012-10-18\/09586261668.shtml\">read more<\/a>",
+		"title":"2012中国方程式大奖赛积分榜(截止10月1日)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_1_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 10:08:00",
+		"enddate":"2012-10-16 10:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/f1\/2012-10-16\/10086259463.shtml\">read more<\/a>",
+		"title":"有得有失 SSR车队继续追逐CFGP速度",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_1_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu1_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu1_type",
+	"size_importance":"true"
+}]

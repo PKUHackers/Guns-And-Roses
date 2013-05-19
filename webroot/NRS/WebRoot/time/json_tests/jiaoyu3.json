@@ -1,0 +1,324 @@
+[
+{
+	"title":"武书连2012年中国大学排行榜",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-04-16 17:18:00",
+		"enddate":"2012-04-16 17:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-04-16\/1718334631.shtml\">read more<\/a>",
+		"title":"武书连2012中国大学医学排行榜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-16 17:25:00",
+		"enddate":"2012-04-16 17:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-04-16\/1725334635.shtml\">read more<\/a>",
+		"title":"武书连2012中国大学法学排行榜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-21 15:04:00",
+		"enddate":"2012-02-21 15:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-02-21\/1504328080.shtml\">read more<\/a>",
+		"title":"武书连2012中国大学前350强排行榜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-27 10:38:00",
+		"enddate":"2011-12-27 10:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2011-12-27\/1038322045.shtml\">read more<\/a>",
+		"title":"2012中国大学教师水平教师绩效100强浅析",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-21 11:27:00",
+		"enddate":"2011-12-21 11:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2011-12-21\/1127321602.shtml\">read more<\/a>",
+		"title":"武书连2012中国36所研究型大学综合实力排行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-16 17:11:00",
+		"enddate":"2012-04-16 17:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-04-16\/1711334627.shtml\">read more<\/a>",
+		"title":"武书连2012中国大学社会科学排行榜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-21 18:32:00",
+		"enddate":"2012-02-21 18:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-02-21\/1832328134.shtml\">read more<\/a>",
+		"title":"武书连2012中国大学教师学术水平前350名",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-21 18:46:00",
+		"enddate":"2012-02-21 18:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-02-21\/1846328137.shtml\">read more<\/a>",
+		"title":"武书连2012中国大学教师绩效前350名",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-18 17:19:00",
+		"enddate":"2012-06-18 17:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-18\/1719344119.shtml\">read more<\/a>",
+		"title":"武书连2012中国大学244个本科专业排行榜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-16 17:34:00",
+		"enddate":"2012-04-16 17:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-04-16\/1734334642.shtml\">read more<\/a>",
+		"title":"武书连2012中国大学管理学排行榜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-25 10:46:00",
+		"enddate":"2012-06-25 10:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-25\/1046345285.shtml\">read more<\/a>",
+		"title":"2012中国华北各省大学本科毕业生质量排行榜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-25 10:57:00",
+		"enddate":"2012-06-25 10:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-25\/1057345304.shtml\">read more<\/a>",
+		"title":"2012中国中南地区大学本科毕业生质量排行榜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-25 10:48:00",
+		"enddate":"2012-06-25 10:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-25\/1048345291.shtml\">read more<\/a>",
+		"title":"2012中国东北各省大学本科毕业生质量排行榜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-21 15:19:00",
+		"enddate":"2012-02-21 15:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-02-21\/1519328088.shtml\">read more<\/a>",
+		"title":"武书连2012中国大学前350名学科实力纵览",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-16 17:28:00",
+		"enddate":"2012-04-16 17:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-04-16\/1728334636.shtml\">read more<\/a>",
+		"title":"武书连2012中国大学教育学排行榜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-21 11:29:00",
+		"enddate":"2011-12-21 11:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2011-12-21\/1129321604.shtml\">read more<\/a>",
+		"title":"2012中国大学教师学术水平100强：复旦第一",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-25 11:06:00",
+		"enddate":"2012-06-25 11:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-25\/1106345319.shtml\">read more<\/a>",
+		"title":"清华大学问鼎中国大学本科毕业生质量100强榜首",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-21 11:31:00",
+		"enddate":"2011-12-21 11:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2011-12-21\/1131321608.shtml\">read more<\/a>",
+		"title":"武书连2012大学毕业生质量前10名：清华夺魁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-16 17:19:00",
+		"enddate":"2012-04-16 17:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-04-16\/1719334633.shtml\">read more<\/a>",
+		"title":"武书连2012中国大学哲学排行榜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-16 17:31:00",
+		"enddate":"2012-04-16 17:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-04-16\/1731334637.shtml\">read more<\/a>",
+		"title":"武书连2012中国大学文学排行榜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_3_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"jiaoyu_type"},
+		"ypix":"0",
+		"id":"jiaoyu3_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu3_type",
+	"size_importance":"true"
+}]

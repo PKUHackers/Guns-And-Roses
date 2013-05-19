@@ -1,0 +1,249 @@
+[
+{
+	"title":"聚焦伯南克杰克逊豪尔会议讲话",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-08-30 08:50:00",
+		"enddate":"2012-08-30 08:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20120830\/085012997932.shtml\">read more<\/a>",
+		"title":"DAILYFX：市场震荡等待伯南克讲话指明方向",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 05:43:00",
+		"enddate":"2012-08-31 05:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20120831\/054313008190.shtml\">read more<\/a>",
+		"title":"华尔街预期QE3箭在弦上 索罗斯鲍尔森重仓押注",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 22:47:00",
+		"enddate":"2012-08-31 22:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/usstock\/c\/20120831\/224713016691.shtml\">read more<\/a>",
+		"title":"伯南克未暗示立即QE美股骤跌后回升",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 08:54:00",
+		"enddate":"2012-08-30 08:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20120830\/085412998043.shtml\">read more<\/a>",
+		"title":"渣打：QE3不会是美联储的主打措施",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-01 06:21:00",
+		"enddate":"2012-09-01 06:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120901\/062113018930.shtml\">read more<\/a>",
+		"title":"笔夫：伯南克的QE3与刘翔的伤",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-02 13:43:00",
+		"enddate":"2012-09-02 13:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120902\/134313022790.shtml\">read more<\/a>",
+		"title":"伯南克：美联储将在必要时采取行动刺激经济",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-29 11:09:00",
+		"enddate":"2012-08-29 11:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20120829\/110912987632.shtml\">read more<\/a>",
+		"title":"德拉吉将缺席央行年会 美QE3或引而不发",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 03:19:00",
+		"enddate":"2012-08-31 03:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120831\/031913005751.shtml\">read more<\/a>",
+		"title":"美经济继续扩张 伯南克言辞备受关注",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-03 08:33:00",
+		"enddate":"2012-09-03 08:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/nmetal\/20120903\/083313026796.shtml\">read more<\/a>",
+		"title":"QE3推出预期升温 国际金价大幅拉升",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-03 00:59:00",
+		"enddate":"2012-09-03 00:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120903\/005913023778.shtml\">read more<\/a>",
+		"title":"QE3：最后的量化宽松？",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-03 07:18:00",
+		"enddate":"2012-09-03 07:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20120903\/071813026210.shtml\">read more<\/a>",
+		"title":"全球央行年会伯南克老调重弹 QE3若隐若现",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 22:29:00",
+		"enddate":"2012-08-31 22:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/gjjj\/20120831\/222913016619.shtml\">read more<\/a>",
+		"title":"伯南克：QE曾经并还会起作用",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-03 08:03:00",
+		"enddate":"2012-09-03 08:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20120903\/080313026536.shtml\">read more<\/a>",
+		"title":"伯南克不排除QE3 焦点转向欧银购债",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-03 05:39:00",
+		"enddate":"2012-09-03 05:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120903\/053913025805.shtml\">read more<\/a>",
+		"title":"QE3对中国利大于弊",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-03 03:39:00",
+		"enddate":"2012-09-03 03:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20120903\/033913025340.shtml\">read more<\/a>",
+		"title":"伯南克老调重弹 QE3若隐若现",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing18_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing18_type",
+	"size_importance":"true"
+}]

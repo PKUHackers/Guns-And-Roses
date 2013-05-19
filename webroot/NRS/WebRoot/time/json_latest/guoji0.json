@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012年美国大选",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-17 11:35:00",
+		"enddate":"2012-10-17 11:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-17\/113525377089.shtml\">read more<\/a>",
+		"title":"奥巴马吸取首辩教训火力十足 多次打断对手讲话",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 16:15:00",
+		"enddate":"2012-10-16 16:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-16\/161525369988.shtml\">read more<\/a>",
+		"title":"奥巴马现身儿童新闻节目拉选票 分享失恋感悟",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 13:24:00",
+		"enddate":"2012-10-15 13:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-15\/132425361085.shtml\">read more<\/a>",
+		"title":"美遇难大使父亲称儿子之死不应成为选举话题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 06:36:00",
+		"enddate":"2012-10-12 06:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-12\/063625342682.shtml\">read more<\/a>",
+		"title":"美共和党人要求调查奥巴马竞选团队网上筹款",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-06 13:18:00",
+		"enddate":"2012-10-06 13:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-06\/131825305985.shtml\">read more<\/a>",
+		"title":"美大选前夕突袭拉登电影上映 或提升奥巴马选情",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 04:39:00",
+		"enddate":"2012-10-09 04:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-09\/043925317493.shtml\">read more<\/a>",
+		"title":"美国大选首辩后奥巴马被罗姆尼反超2个百分点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 12:31:00",
+		"enddate":"2012-10-12 12:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-12\/123125345517.shtml\">read more<\/a>",
+		"title":"美国副总统辩论拜登在瑞安发言时插话发笑被批",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 07:19:00",
+		"enddate":"2012-10-11 07:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-11\/071925334709.shtml\">read more<\/a>",
+		"title":"奥巴马夫人回应干政说法:很少去白宫办公室",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-06 09:16:00",
+		"enddate":"2012-10-06 09:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-06\/091625305631.shtml\">read more<\/a>",
+		"title":"美独立调查员称罗姆尼辩论曾歪曲事实",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 07:32:00",
+		"enddate":"2012-10-14 07:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-14\/073225354066.shtml\">read more<\/a>",
+		"title":"奥巴马竞选办公室遇枪击",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 09:16:00",
+		"enddate":"2012-10-10 09:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-10\/091625328073.shtml\">read more<\/a>",
+		"title":"媒体称罗姆尼软化中东立场抢夺奥巴马支持者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 10:45:00",
+		"enddate":"2012-10-11 10:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-11\/104525336945.shtml\">read more<\/a>",
+		"title":"民调显示美国大选首轮辩论后罗姆尼反超奥巴马",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 10:26:00",
+		"enddate":"2012-10-12 10:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-12\/102625344800.shtml\">read more<\/a>",
+		"title":"美国大选副总统候选人辩论",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 09:45:00",
+		"enddate":"2012-10-17 09:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-17\/094525376110.shtml\">read more<\/a>",
+		"title":"美总统候选人第2场辩论开始 奥巴马欲打翻身仗",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 10:13:00",
+		"enddate":"2012-10-17 10:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-17\/101325376342.shtml\">read more<\/a>",
+		"title":"媒体称奥巴马在美大选第2轮辩论更有攻击性",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji0_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji0_type",
+	"size_importance":"true"
+}]

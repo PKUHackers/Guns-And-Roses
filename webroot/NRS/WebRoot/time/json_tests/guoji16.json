@@ -1,0 +1,324 @@
+[
+{
+	"title":"俄罗斯载44人客机在印尼失踪",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-05-16 16:50:00",
+		"enddate":"2012-05-16 16:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-16\/165024426637.shtml\">read more<\/a>",
+		"title":"俄罗斯在印尼失事客机黑匣子破损 记忆模块完好",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-30 17:26:00",
+		"enddate":"2012-07-30 17:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-30\/172624872135.shtml\">read more<\/a>",
+		"title":"印尼要求推迟发布俄罗斯客机失事报告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-25 07:53:00",
+		"enddate":"2012-05-25 07:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-25\/075324477095.shtml\">read more<\/a>",
+		"title":"俄侦查委员会在印尼提审俄失事客机首位证人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-15 16:37:00",
+		"enddate":"2012-05-15 16:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-15\/163724419955.shtml\">read more<\/a>",
+		"title":"印尼空难遇难者家属将获5400美元赔偿金",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-15 10:20:00",
+		"enddate":"2012-05-15 10:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-15\/102024418207.shtml\">read more<\/a>",
+		"title":"俄罗斯客机在印尼失踪续:18具遗体已经发现",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-11 04:39:00",
+		"enddate":"2012-05-11 04:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-11\/043924399482.shtml\">read more<\/a>",
+		"title":"俄罗斯坠毁客机上人数尚无统一说法遭质疑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-11 13:39:00",
+		"enddate":"2012-05-11 13:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-11\/133924402342.shtml\">read more<\/a>",
+		"title":"俄罗斯在印尼失事客机销售计划暂停",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-10 10:58:00",
+		"enddate":"2012-05-10 10:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-10\/105824395725.shtml\">read more<\/a>",
+		"title":"印尼找到俄罗斯失踪客机残骸 机上人员生死不明",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-14 10:20:00",
+		"enddate":"2012-05-14 10:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-14\/102024412177.shtml\">read more<\/a>",
+		"title":"媒体称俄失事客机发动机及起落架已被找到",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-11 15:11:00",
+		"enddate":"2012-05-11 15:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-11\/151124402703.shtml\">read more<\/a>",
+		"title":"普京和印尼总统同电话欲联合调查失事客机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-16 05:19:00",
+		"enddate":"2012-05-16 05:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-16\/051924422985.shtml\">read more<\/a>",
+		"title":"俄罗斯在印尼坠毁客机系起飞前被更换飞机(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-17 09:06:00",
+		"enddate":"2012-05-17 09:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2012-05-17\/090624431010.shtml\">read more<\/a>",
+		"title":"印尼称俄失事客机1名遇难者身份得到证实(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-10 01:45:00",
+		"enddate":"2012-05-10 01:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-10\/014524392626.shtml\">read more<\/a>",
+		"title":"俄罗斯载44人客机在印尼失踪 搜救行动已经展开",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 14:53:00",
+		"enddate":"2012-06-08 14:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-06-08\/145324559807.shtml\">read more<\/a>",
+		"title":"俄罗斯客机在印尼失事疑因飞行员表演特技",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 19:45:00",
+		"enddate":"2012-05-09 19:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-09\/194524392025.shtml\">read more<\/a>",
+		"title":"印尼空管局:俄罗斯失踪客机可能遭劫持或已坠毁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-16 13:43:00",
+		"enddate":"2012-05-16 13:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-16\/134324425496.shtml\">read more<\/a>",
+		"title":"俄罗斯空姐因嘲讽苏霍伊坠机事故被解雇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-23 15:57:00",
+		"enddate":"2012-05-23 15:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2012-05-23\/155724465428.shtml\">read more<\/a>",
+		"title":"印尼移交俄坠毁客机45名遇难者遗体(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-13 08:57:00",
+		"enddate":"2012-05-13 08:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-13\/085724408018.shtml\">read more<\/a>",
+		"title":"俄心理专家为坠机事故遇难者家属提供心理援助",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-11 07:31:00",
+		"enddate":"2012-05-11 07:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-11\/073124400484.shtml\">read more<\/a>",
+		"title":"俄失事客机所属公司称不会放弃运营此类飞机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 10:32:00",
+		"enddate":"2012-06-08 10:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-06-08\/103224558710.shtml\">read more<\/a>",
+		"title":"俄罗斯客机在印尼失事可能因人为因素",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_16_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji16_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji16_type",
+	"size_importance":"true"
+}]

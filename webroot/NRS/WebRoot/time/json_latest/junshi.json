@@ -1,0 +1,78 @@
+[
+{
+	"title":"军事",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-12-31 00:00:00",
+		"enddate":"2011-05-30 10:16:00",
+		"description":"解放军总参谋长陈炳德访美",
+		"title":"解放军总参谋长陈炳德访美",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/junshi0.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"junshi0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-12-31 00:00:00",
+		"enddate":"2011-09-30 15:39:00",
+		"description":"美国宣布58亿对台军售",
+		"title":"美国宣布58亿对台军售",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/junshi1.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"junshi1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-10 06:32:00",
+		"enddate":"2011-09-07 11:36:00",
+		"description":"中国海军首艘航母平台",
+		"title":"中国海军首艘航母平台",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/junshi2.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"junshi2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"type"},
+		"ypix":"0",
+		"id":"junshi_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,324 @@
+[
+{
+	"title":"2011莫斯科航展",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-08-19 07:33:00",
+		"enddate":"2011-08-19 07:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-19\/0733662157.html\">read more<\/a>",
+		"title":"俄罗斯T-50第五代战机隐形性能好起降距离短",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-18 09:34:00",
+		"enddate":"2011-08-18 09:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-18\/0934662037.html\">read more<\/a>",
+		"title":"媒体称我C919客机国际竞争力强将生产近千架",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-12 12:05:00",
+		"enddate":"2011-08-12 12:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-08-12\/1205661318.html\">read more<\/a>",
+		"title":"莫斯科航展即将开幕 俄T-50亮相值得期待",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-15 17:39:00",
+		"enddate":"2011-08-15 17:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-08-15\/1739661622.html\">read more<\/a>",
+		"title":"第十届莫斯科航展签约总额有望突破100亿美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-24 11:41:00",
+		"enddate":"2011-08-24 11:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-24\/1141662789.html\">read more<\/a>",
+		"title":"俄媒披露T50喷火原因是发动机燃油加注失控导致",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-18 09:45:00",
+		"enddate":"2011-08-18 09:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-18\/0945662040.html\">read more<\/a>",
+		"title":"俄空军司令宣布将装备120架苏-34战斗轰炸机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-16 11:20:00",
+		"enddate":"2011-08-16 11:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-16\/1120661726.html\">read more<\/a>",
+		"title":"洛马对日本开出批发价 每架F-35仅6500万美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-18 09:39:00",
+		"enddate":"2011-08-18 09:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-18\/0939662038.html\">read more<\/a>",
+		"title":"俄称因市场需求巨大已恢复生产伊尔-76运输机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-16 09:41:00",
+		"enddate":"2011-08-16 09:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-16\/0941661704.html\">read more<\/a>",
+		"title":"乌克兰称中国再增购40台AI-222发动机用于L15",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-20 12:54:00",
+		"enddate":"2011-08-20 12:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-20\/1254662321.html\">read more<\/a>",
+		"title":"俄罗斯为T-50战机专门研制武器 数量多达14种",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-20 10:15:00",
+		"enddate":"2011-08-20 10:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-20\/1015662310.html\">read more<\/a>",
+		"title":"俄五代机将装备射程200公里新型远程空空导弹",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-20 09:23:00",
+		"enddate":"2011-08-20 09:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-08-20\/0923662307.html\">read more<\/a>",
+		"title":"俄罗斯公司制造私人商用直升机与美国竞争",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-21 10:59:00",
+		"enddate":"2011-08-21 10:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-21\/1059662377.html\">read more<\/a>",
+		"title":"俄将装备4代半战机米格-35D 称性能与F-35类似",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-17 09:45:00",
+		"enddate":"2011-08-17 09:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-17\/0945661851.html\">read more<\/a>",
+		"title":"乌克兰总理建议中乌两国合作开发重型运输机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-20 13:40:00",
+		"enddate":"2011-08-20 13:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-20\/1340662324.html\">read more<\/a>",
+		"title":"俄军火巨头称不怕在国际市场与中国产品竞争",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-17 09:25:00",
+		"enddate":"2011-08-17 09:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-17\/0925661847.html\">read more<\/a>",
+		"title":"俄媒体称中国向泰国推销Z-9EC舰载反潜直升机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-19 08:24:00",
+		"enddate":"2011-08-19 08:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-19\/0824662160.html\">read more<\/a>",
+		"title":"中航工业组织优秀技能人才参观莫斯科航展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-17 09:25:00",
+		"enddate":"2011-08-17 09:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-17\/0925661846.html\">read more<\/a>",
+		"title":"俄媒体称T-50将不在展台展出仅进行飞行演示",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-19 07:19:00",
+		"enddate":"2011-08-19 07:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-19\/0719662156.html\">read more<\/a>",
+		"title":"俄海军将采购24架米格29K代替苏33装备航母",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-17 10:54:00",
+		"enddate":"2011-08-17 10:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-08-17\/1054661871.html\">read more<\/a>",
+		"title":"俄空军司令称米格-35能与F-35媲美",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_9_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi9_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi9_type",
+	"size_importance":"true"
+}]

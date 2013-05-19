@@ -1,0 +1,324 @@
+[
+{
+	"title":"2010新加坡航展",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2010-02-02 11:39:00",
+		"enddate":"2010-02-02 11:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-02-02\/1139582975.html\">read more<\/a>",
+		"title":"世界著名钢琴家郎朗出任庞巴迪公务机品牌大使",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-02 09:41:00",
+		"enddate":"2010-02-02 09:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-02-02\/0941582957.html\">read more<\/a>",
+		"title":"新加坡航展今日开幕 中国商飞携C919首次参展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-02 17:40:00",
+		"enddate":"2010-02-02 17:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-02-02\/1740583028.html\">read more<\/a>",
+		"title":"空客展出最新民品军品 A330-200F货机静态展示",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-01 11:37:00",
+		"enddate":"2010-02-01 11:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-02-01\/1137582837.html\">read more<\/a>",
+		"title":"新加坡空军航展期间将首次展示湾流G550预警机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-05 11:15:00",
+		"enddate":"2010-02-05 11:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-02-05\/1115583388.html\">read more<\/a>",
+		"title":"以色列IAI将与亚洲国家合作生产90座级飞机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-04 11:48:00",
+		"enddate":"2010-02-04 11:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-02-04\/1148583277.html\">read more<\/a>",
+		"title":"外国记者称新加坡航展上中国参展公司拒绝采访",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-03 09:30:00",
+		"enddate":"2010-02-03 09:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-02-03\/0930583101.html\">read more<\/a>",
+		"title":"中国最先进外销型枭龙模型亮相新加坡航展(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-03 09:47:00",
+		"enddate":"2010-02-03 09:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-02-03\/0947583108.html\">read more<\/a>",
+		"title":"美雷神公司将向阿联酋出售500枚幼畜空地导弹",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-01-30 12:00:00",
+		"enddate":"2010-01-30 12:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-01-30\/1200582650.html\">read more<\/a>",
+		"title":"美B-52轰炸机将在新加坡航展上进行飞行表演",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-02 11:20:00",
+		"enddate":"2010-02-02 11:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-02-02\/1120582970.html\">read more<\/a>",
+		"title":"中国大飞机研发有序推进 航空市场将成新格局",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-02 13:30:00",
+		"enddate":"2010-02-02 13:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-02-02\/1330582982.html\">read more<\/a>",
+		"title":"欧洲最大防务公司BAE将首度缺席新加坡航展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-02 13:21:00",
+		"enddate":"2010-02-02 13:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-02-02\/1321582981.html\">read more<\/a>",
+		"title":"新加坡航展民机销售看淡 军机制造商将唱主角",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-04 14:36:00",
+		"enddate":"2010-02-04 14:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-02-04\/1436583287.html\">read more<\/a>",
+		"title":"国产大飞机C919接受预订 今年销售目标100架",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-03 09:38:00",
+		"enddate":"2010-02-03 09:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-02-03\/0938583109.html\">read more<\/a>",
+		"title":"欧洲7国有望就A400M运输机项目融资达成一致",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-03 09:40:00",
+		"enddate":"2010-02-03 09:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-02-03\/0940583106.html\">read more<\/a>",
+		"title":"印度防长称国产LCA战机项目成功 空军已购20架",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-03 13:47:00",
+		"enddate":"2010-02-03 13:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-02-03\/1347583144.html\">read more<\/a>",
+		"title":"俄第五代战机隐身性能与动力系统尚存疑问(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-03 17:14:00",
+		"enddate":"2010-02-03 17:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-02-03\/1714583160.html\">read more<\/a>",
+		"title":"新加坡航展2日开幕 中国话题首度进入商业论坛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-01-31 14:03:00",
+		"enddate":"2010-01-31 14:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-01-31\/1403582755.html\">read more<\/a>",
+		"title":"以色列将在新加坡展出多种先进雷达及无人机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-02-05 11:20:00",
+		"enddate":"2010-02-05 11:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-02-05\/1120583389.html\">read more<\/a>",
+		"title":"美国诺格公司获准向国外出售SABR先进火控雷达",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-01-21 16:33:00",
+		"enddate":"2010-01-21 16:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-01-21\/1633581605.html\">read more<\/a>",
+		"title":"空客携全新A330-200F货机参加2010新加坡航展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_6_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi6_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi6_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,324 @@
+[
+{
+	"title":"2010范堡罗航展",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2010-07-23 09:27:00",
+		"enddate":"2010-07-23 09:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-07-23\/0927602159.html\">read more<\/a>",
+		"title":"空客在2010范堡罗航展共收获280亿美元订单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-20 09:52:00",
+		"enddate":"2010-07-20 09:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-07-20\/0952601506.html\">read more<\/a>",
+		"title":"范堡罗航展首日波音获得85架飞机订单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-23 10:45:00",
+		"enddate":"2010-07-23 10:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-07-23\/1045602193.html\">read more<\/a>",
+		"title":"中国枭龙美国猛禽高调亮相范堡罗为外销打基础",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-21 11:30:00",
+		"enddate":"2010-07-21 11:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-07-21\/1130601752.html\">read more<\/a>",
+		"title":"枭龙战机单价仅1500万美元 10个国家有意购买",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-21 13:53:00",
+		"enddate":"2010-07-21 13:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-07-21\/1353601802.html\">read more<\/a>",
+		"title":"中国C919大客机2014年首飞 ARJ21飞机明年交付",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-23 09:56:00",
+		"enddate":"2010-07-23 09:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-07-23\/0956602168.html\">read more<\/a>",
+		"title":"枭龙携机载武器亮相范堡罗 反舰能力不容小觊",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-07 14:56:00",
+		"enddate":"2010-07-07 14:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-07-07\/1456599612.html\">read more<\/a>",
+		"title":"空中客车公司携全线产品参加2010范堡罗航展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-19 08:14:00",
+		"enddate":"2010-07-19 08:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-07-19\/0814601307.html\">read more<\/a>",
+		"title":"俄媒称中国武器物美价廉轻易占据俄制武器市场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-23 07:46:00",
+		"enddate":"2010-07-23 07:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-07-23\/0746602140.html\">read more<\/a>",
+		"title":"我国风洞接近世界先进水平 具备大飞机试验能力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-20 10:34:00",
+		"enddate":"2010-07-20 10:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/p\/s\/2010-07-20\/1034601525.html\">read more<\/a>",
+		"title":"空客范堡罗航展上发布40年后概念飞机(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-29 09:33:00",
+		"enddate":"2010-07-29 09:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-07-29\/0933603150.html\">read more<\/a>",
+		"title":"俄称中国枭龙是苏霍伊与米格飞机直接竞争对手",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-24 12:28:00",
+		"enddate":"2010-07-24 12:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-07-24\/1228602368.html\">read more<\/a>",
+		"title":"外媒称中国战机出口全球排名第三 仅次于美俄",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-21 14:02:00",
+		"enddate":"2010-07-21 14:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-07-21\/1402601811.html\">read more<\/a>",
+		"title":"枭龙亮相范堡罗航展 专家称枭龙颇具市场潜力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-23 10:10:00",
+		"enddate":"2010-07-23 10:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-07-23\/1010602178.html\">read more<\/a>",
+		"title":"中俄展开3个方向直升机合作 俄将售华大批卡32",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-26 09:58:00",
+		"enddate":"2010-07-26 09:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-07-26\/0958602545.html\">read more<\/a>",
+		"title":"波音公司将为鱼鹰多用途飞机研发新型发动机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-20 09:55:00",
+		"enddate":"2010-07-20 09:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-07-20\/0955601507.html\">read more<\/a>",
+		"title":"俄罗斯250件现代化武器装备亮相范堡罗航展(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-27 09:39:00",
+		"enddate":"2010-07-27 09:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-07-27\/0939602736.html\">read more<\/a>",
+		"title":"俄媒批评本国航空工业缺乏新品与西方差距拉大",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-22 13:27:00",
+		"enddate":"2010-07-22 13:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-07-22\/1327602043.html\">read more<\/a>",
+		"title":"香港航空订购15架空客A350飞机和10架A330飞机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-23 10:40:00",
+		"enddate":"2010-07-23 10:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-07-23\/1040602192.html\">read more<\/a>",
+		"title":"波音将推瘦身版C17飞机可载两辆斯特赖克战车",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-23 10:29:00",
+		"enddate":"2010-07-23 10:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-07-23\/1029602183.html\">read more<\/a>",
+		"title":"巴基斯坦称土耳其及中东非洲国家有意购枭龙",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_3_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi3_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi3_type",
+	"size_importance":"true"
+}]

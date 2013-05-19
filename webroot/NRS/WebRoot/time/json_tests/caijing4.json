@@ -1,0 +1,219 @@
+[
+{
+	"title":"三部委规范银行收费 部分条款被质疑",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-02-13 16:27:00",
+		"enddate":"2012-02-13 16:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120213\/162711367344.shtml\">read more<\/a>",
+		"title":"发改委官员否认银行价格管理草案为收费开绿灯",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-11 04:03:00",
+		"enddate":"2012-02-11 04:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120211\/040311357714.shtml\">read more<\/a>",
+		"title":"银行收费涨价须提前3个月公示",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-12 21:27:00",
+		"enddate":"2012-02-12 21:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120212\/212711360577.shtml\">read more<\/a>",
+		"title":"聚焦银行业收费：收费项目逐年增多 70%来自息差",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-13 01:15:00",
+		"enddate":"2012-02-13 01:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120213\/011511360819.shtml\">read more<\/a>",
+		"title":"网民建议应鼓励充分竞争根治银行乱收费",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-13 10:40:00",
+		"enddate":"2012-02-13 10:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120213\/104011364644.shtml\">read more<\/a>",
+		"title":"商业银行服务价格报备制遭诟病",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-13 11:29:00",
+		"enddate":"2012-02-13 11:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120213\/112911365222.shtml\">read more<\/a>",
+		"title":"新华社连发5问 整治银行乱收费被指避重就轻",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 07:12:00",
+		"enddate":"2012-02-09 07:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_yhfg\/20120209\/071211342061.shtml\">read more<\/a>",
+		"title":"银监会将检查银行乱收费 3月底前出自查报告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-10 16:43:00",
+		"enddate":"2012-02-10 16:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_yhfg\/20120210\/164311354901.shtml\">read more<\/a>",
+		"title":"三部委出台办法 要求商业银行服务明码标价",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-13 02:40:00",
+		"enddate":"2012-02-13 02:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_yhfg\/20120213\/024011361818.shtml\">read more<\/a>",
+		"title":"银行价格办法草案部分条款被质疑为收费开绿灯",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-15 01:21:00",
+		"enddate":"2012-03-15 01:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_yhfg\/20120315\/012111591672.shtml\">read more<\/a>",
+		"title":"发改委专项检查倒计时 多地银监部门闻风而动",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-12 16:52:00",
+		"enddate":"2012-02-12 16:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/yhpl\/20120212\/165211360389.shtml\">read more<\/a>",
+		"title":"银行收费管理办法遭疑 政府定价项目被指范围太窄",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-13 07:22:00",
+		"enddate":"2012-02-13 07:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/yhpl\/20120213\/072211362735.shtml\">read more<\/a>",
+		"title":"银行被指服务实体经济不到位 乱收费何时终",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-13 07:56:00",
+		"enddate":"2012-02-13 07:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/yhpl\/20120213\/075611362997.shtml\">read more<\/a>",
+		"title":"规范收费之争要先厘清银行定位",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing4_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing4_type",
+	"size_importance":"true"
+}]

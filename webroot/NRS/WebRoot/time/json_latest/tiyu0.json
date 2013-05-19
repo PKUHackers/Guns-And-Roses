@@ -1,0 +1,219 @@
+[
+{
+	"title":"2012中甲联赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-23 18:20:00",
+		"enddate":"2012-09-23 18:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/b\/2012-09-23\/18206236615.shtml\">read more<\/a>",
+		"title":"沈北核心进赛季首球却为平局可惜 称保级心态最重要",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-23 22:34:00",
+		"enddate":"2012-09-23 22:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/b\/2012-09-23\/22346236882.shtml\">read more<\/a>",
+		"title":"亲友助阵沈北前国脚进赛季首球 发誓将为沈阳人拼命",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 05:18:00",
+		"enddate":"2012-09-24 05:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/b\/2012-09-24\/05186237223.shtml\">read more<\/a>",
+		"title":"陈星赛季首球助沈北扳平 形势严峻保级仍需6分",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 09:06:00",
+		"enddate":"2012-09-28 09:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/b\/2012-09-28\/09066241856.shtml\">read more<\/a>",
+		"title":"力帆坐拥主场之利欲拿分 客场战绩将成沈北保级关键",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 23:02:00",
+		"enddate":"2012-09-28 23:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/b\/2012-09-28\/23026242727.shtml\">read more<\/a>",
+		"title":"中乙末轮深圳罢赛抗议欠薪 积分榜受及影响最终排位",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 23:03:00",
+		"enddate":"2012-09-28 23:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/b\/2012-09-28\/23036242730.shtml\">read more<\/a>",
+		"title":"中乙预赛阶段结束 南北区八强争夺两张中甲门票",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 13:52:00",
+		"enddate":"2012-09-30 13:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/b\/2012-09-30\/13526244433.shtml\">read more<\/a>",
+		"title":"沈北客场逆转力帆手握保级主动权 粉碎对手冲超希望",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-07 14:52:00",
+		"enddate":"2012-10-07 14:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/b\/2012-10-07\/14526250564.shtml\">read more<\/a>",
+		"title":"中甲联赛沈北将战深圳 胜负关系处劣势保级1分也争",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-07 18:43:00",
+		"enddate":"2012-10-07 18:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/b\/2012-10-07\/18436250739.shtml\">read more<\/a>",
+		"title":"中甲-刘欢李星灿齐建功 沈北主场2-1红钻保级在望",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-07 19:57:00",
+		"enddate":"2012-10-07 19:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/b\/2012-10-07\/19576250861.shtml\">read more<\/a>",
+		"title":"沈北主帅反驳客场差批评 特鲁西埃替身抱怨裁判不公",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 09:58:00",
+		"enddate":"2012-10-16 09:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/b\/2012-10-16\/09586259444.shtml\">read more<\/a>",
+		"title":"沈北俱乐部力邀黄祖钢掌舵 球迷称其辞职是不小损失",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 07:33:00",
+		"enddate":"2012-10-18 07:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/b\/2012-10-18\/07336261435.shtml\">read more<\/a>",
+		"title":"沈阳沈北力拼客场求保级 队员放话：等我们好消息",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 09:24:00",
+		"enddate":"2012-10-18 09:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/b\/2012-10-18\/09246261591.shtml\">read more<\/a>",
+		"title":"沈北今日开赴客场为保级而战 东进遇卓尔凶多吉少",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu0_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu0_type",
+	"size_importance":"true"
+}]

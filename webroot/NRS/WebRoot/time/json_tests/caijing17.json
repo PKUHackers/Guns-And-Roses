@@ -1,0 +1,309 @@
+[
+{
+	"title":"2011第二届国家理财规划师年会",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-11-25 15:06:00",
+		"enddate":"2011-11-25 15:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111125\/150610882829.shtml\">read more<\/a>",
+		"title":"第二届国家理财规划师年会拟邀嘉宾",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-26 15:07:00",
+		"enddate":"2011-11-26 15:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111126\/150710887184.shtml\">read more<\/a>",
+		"title":"第六届全国理财师大赛全国总决赛开赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-27 10:05:00",
+		"enddate":"2011-11-27 10:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111127\/100510888041.shtml\">read more<\/a>",
+		"title":"刘永澎：现有专业理财规划师不能满足市场需求",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-27 10:10:00",
+		"enddate":"2011-11-27 10:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111127\/101010888047.shtml\">read more<\/a>",
+		"title":"2011国家理财规划师年会三大亮点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-27 10:25:00",
+		"enddate":"2011-11-27 10:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111127\/102510888061.shtml\">read more<\/a>",
+		"title":"宁淳：金融理财是一个具有无限前景的朝阳行业",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-27 10:56:00",
+		"enddate":"2011-11-27 10:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111127\/105610888127.shtml\">read more<\/a>",
+		"title":"第六届全国十佳理财师大赛优秀奖获奖名单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-27 11:03:00",
+		"enddate":"2011-11-27 11:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111127\/110310888142.shtml\">read more<\/a>",
+		"title":"第六届全国十佳理财师大赛优胜奖获奖名单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-27 11:11:00",
+		"enddate":"2011-11-27 11:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111127\/111110888145.shtml\">read more<\/a>",
+		"title":"第六届全国十佳理财师获奖名单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-27 12:48:00",
+		"enddate":"2011-11-27 12:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111127\/124810888214.shtml\">read more<\/a>",
+		"title":"十佳理财师代表感言:力争做中国理财业引领者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-27 12:55:00",
+		"enddate":"2011-11-27 12:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111127\/125510888219.shtml\">read more<\/a>",
+		"title":"王炜：理财师需提高专业素质应对瞬息千变市场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-27 13:08:00",
+		"enddate":"2011-11-27 13:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111127\/130810888222.shtml\">read more<\/a>",
+		"title":"刘彦斌：大赛是理财起点 做客户认可的理财师",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-27 13:10:00",
+		"enddate":"2011-11-27 13:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111127\/131010888223.shtml\">read more<\/a>",
+		"title":"2011中国理财行业突出贡献奖名单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-27 13:18:00",
+		"enddate":"2011-11-27 13:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111127\/131810888228.shtml\">read more<\/a>",
+		"title":"2011年度中国理财行业服务创新奖获奖名单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-27 13:23:00",
+		"enddate":"2011-11-27 13:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111127\/132310888230.shtml\">read more<\/a>",
+		"title":"2011年度理财行业发展特殊贡献奖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-27 13:28:00",
+		"enddate":"2011-11-27 13:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111127\/132810888234.shtml\">read more<\/a>",
+		"title":"刘大为：金融理财行业需要大踏步的往前走",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-27 14:01:00",
+		"enddate":"2011-11-27 14:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111127\/140110888247.shtml\">read more<\/a>",
+		"title":"全国理财征文优秀奖名单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-28 13:37:00",
+		"enddate":"2011-11-28 13:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111128\/133710893120.shtml\">read more<\/a>",
+		"title":"《2011中国理财行业发展报告》预发布",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-28 16:04:00",
+		"enddate":"2011-11-28 16:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lcfa\/20111128\/160410894046.shtml\">read more<\/a>",
+		"title":"第六届全国十佳理财师大赛获奖名单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-28 10:49:00",
+		"enddate":"2011-11-28 10:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20111128\/104910892265.shtml\">read more<\/a>",
+		"title":"行业人才瓶颈凸显 高级理财规划师考核方案将修订",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing17_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing17_type",
+	"size_importance":"true"
+}]

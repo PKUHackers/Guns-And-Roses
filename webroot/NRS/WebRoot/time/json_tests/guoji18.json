@@ -1,0 +1,324 @@
+[
+{
+	"title":"俄罗斯南部发生洪灾",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-07-16 07:56:00",
+		"enddate":"2012-07-16 07:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-16\/075624781509.shtml\">read more<\/a>",
+		"title":"普京飞抵俄南部洪水重灾区 下达救援灾民指令",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-10 02:39:00",
+		"enddate":"2012-07-10 02:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-10\/023924742659.shtml\">read more<\/a>",
+		"title":"俄罗斯政府承认洪灾预警不力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-08 16:55:00",
+		"enddate":"2012-07-08 16:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-08\/165524735225.shtml\">read more<\/a>",
+		"title":"俄罗斯暴雨洪水已致150人死亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-07 15:56:00",
+		"enddate":"2012-07-07 15:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-07\/155624731752.shtml\">read more<\/a>",
+		"title":"俄罗斯南部突发洪灾致41人死亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-08 07:04:00",
+		"enddate":"2012-07-08 07:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-08\/070424733867.shtml\">read more<\/a>",
+		"title":"俄罗斯西南部洪水已致134人死亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-09 07:53:00",
+		"enddate":"2012-07-09 07:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2012-07-09\/075324738676.shtml\">read more<\/a>",
+		"title":"俄罗斯南部洪灾致155死 普京视察重灾区(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-09 10:37:00",
+		"enddate":"2012-07-09 10:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-09\/103724739577.shtml\">read more<\/a>",
+		"title":"俄罗斯暴雨洪水致155人死亡 全国降半旗致哀",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-23 08:17:00",
+		"enddate":"2012-07-23 08:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-23\/081724826036.shtml\">read more<\/a>",
+		"title":"俄洪灾重灾区三名官员涉嫌疏忽职守被捕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-09 02:39:00",
+		"enddate":"2012-07-09 02:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-09\/023924736246.shtml\">read more<\/a>",
+		"title":"俄罗斯暴雨洪水已致150人死亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-11 11:00:00",
+		"enddate":"2012-07-11 11:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-11\/110024754186.shtml\">read more<\/a>",
+		"title":"俄洪水灾民要领救济金得先表示曾收到预警",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-08 15:26:00",
+		"enddate":"2012-07-08 15:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-08\/152624735118.shtml\">read more<\/a>",
+		"title":"俄罗斯南部遭洪灾袭击已致144人死亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-27 11:23:00",
+		"enddate":"2012-07-27 11:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-27\/112324856790.shtml\">read more<\/a>",
+		"title":"俄气象局称洪灾重灾区洪水两百年一遇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-09 07:19:00",
+		"enddate":"2012-07-09 07:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-09\/071924738231.shtml\">read more<\/a>",
+		"title":"俄罗斯南部洪灾 已致155人死亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-08 02:44:00",
+		"enddate":"2012-07-08 02:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-08\/024424732707.shtml\">read more<\/a>",
+		"title":"俄罗斯南部暴雨引发洪灾逾百人遇难",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-08 02:39:00",
+		"enddate":"2012-07-08 02:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-08\/023924732598.shtml\">read more<\/a>",
+		"title":"俄罗斯南部洪灾局地积水深7米",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-10 05:51:00",
+		"enddate":"2012-07-10 05:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-10\/055124744338.shtml\">read more<\/a>",
+		"title":"俄罗斯政府拨款1.2亿美元抗洪赈灾",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-08 23:48:00",
+		"enddate":"2012-07-08 23:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-08\/234824735619.shtml\">read more<\/a>",
+		"title":"俄罗斯9日全国哀悼洪灾和车祸遇难者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-08 12:07:00",
+		"enddate":"2012-07-08 12:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2012-07-08\/120724734736.shtml\">read more<\/a>",
+		"title":"俄罗斯洪水已致141人死亡(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-11 09:18:00",
+		"enddate":"2012-07-11 09:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-11\/091824753547.shtml\">read more<\/a>",
+		"title":"俄下调洪灾死亡人数 称媒体发布数字同现实不符",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-09 09:19:00",
+		"enddate":"2012-07-09 09:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-09\/091924739045.shtml\">read more<\/a>",
+		"title":"俄罗斯洪灾实乃人祸？",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_18_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji18_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji18_type",
+	"size_importance":"true"
+}]

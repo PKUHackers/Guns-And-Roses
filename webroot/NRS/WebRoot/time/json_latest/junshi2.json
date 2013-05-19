@@ -1,0 +1,249 @@
+[
+{
+	"title":"中国海军首艘航母平台",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-28 08:15:00",
+		"enddate":"2012-09-28 08:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-09-28\/0815702405.html\">read more<\/a>",
+		"title":"俄称别低估中国航母建强大海军是北京战略重心",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 08:41:00",
+		"enddate":"2012-09-26 08:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-09-26\/0841702192.html\">read more<\/a>",
+		"title":"我国航母辽宁号舰上专门开辟女舰员生活区",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 07:04:00",
+		"enddate":"2012-09-24 07:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-09-24\/0704701937.html\">read more<\/a>",
+		"title":"我国首艘航母交付海军将前往驻泊锚地 女兵上舰",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 07:36:00",
+		"enddate":"2012-09-24 07:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-09-24\/0736701939.html\">read more<\/a>",
+		"title":"媒体称中国首艘航母十一国庆前有望正式服役",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 09:10:00",
+		"enddate":"2012-09-28 09:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-09-28\/0910702411.html\">read more<\/a>",
+		"title":"美称中国航母存在重大缺陷不具备起降战机能力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-02 09:08:00",
+		"enddate":"2012-10-02 09:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-10-02\/0908702631.html\">read more<\/a>",
+		"title":"汉和称中国发展航母意在控制南海和印度洋",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 13:22:00",
+		"enddate":"2012-09-24 13:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-09-24\/1322701974.html\">read more<\/a>",
+		"title":"乔良称我国航母交付绝不意味东亚军力逆转",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 14:40:00",
+		"enddate":"2012-09-24 14:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-09-24\/1440701984.html\">read more<\/a>",
+		"title":"专家称我国首艘航母动力系统武器等均为自研",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-01 09:15:00",
+		"enddate":"2012-10-01 09:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-10-01\/0915702586.html\">read more<\/a>",
+		"title":"媒体称中国航母可能将部署东海母港在青岛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 08:30:00",
+		"enddate":"2012-09-28 08:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-09-28\/0830702407.html\">read more<\/a>",
+		"title":"俄称中国航母令韩国不安 专家呼吁造大舰应对",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 08:14:00",
+		"enddate":"2012-09-27 08:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-09-27\/0814702304.html\">read more<\/a>",
+		"title":"美军回应中国航母服役：一直在监视不感到吃惊",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-16 11:08:00",
+		"enddate":"2011-08-16 11:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-16\/1108661721.html\">read more<\/a>",
+		"title":"韩军事专家称战时可用小型潜艇攻击中国航母",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-22 08:47:00",
+		"enddate":"2011-08-22 08:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-08-22\/0847662449.html\">read more<\/a>",
+		"title":"日原高官称日本不应将中国发展航母视为威胁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 11:54:00",
+		"enddate":"2012-09-24 11:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-09-24\/1154701970.html\">read more<\/a>",
+		"title":"专家称中国渴望建蓝水海军 航母交付系重要1步",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 11:33:00",
+		"enddate":"2012-09-25 11:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-09-25\/1133702073.html\">read more<\/a>",
+		"title":"国防部称我国首艘航母正式入列具有五大意义",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_2_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi2_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi2_type",
+	"size_importance":"true"
+}]

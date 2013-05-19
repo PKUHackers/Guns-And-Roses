@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012年成品油价年内二次下调",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-06-12 15:22:00",
+		"enddate":"2012-06-12 15:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/dfjj\/20120612\/152212291837.shtml\">read more<\/a>",
+		"title":"天津油价下调后加油站排大队",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 17:58:00",
+		"enddate":"2012-06-08 17:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120608\/175812264302.shtml\">read more<\/a>",
+		"title":"发改委：国家较大幅度降低成品油价格",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 19:50:00",
+		"enddate":"2012-06-08 19:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/hgjj\/20120608\/195012264923.shtml\">read more<\/a>",
+		"title":"成品油价格第二次下调 93#汽油价格回归7时代",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 22:21:00",
+		"enddate":"2012-06-08 22:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120608\/222112265482.shtml\">read more<\/a>",
+		"title":"油价下调喜忧参半 货车伺机担心油荒再现",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 19:33:00",
+		"enddate":"2012-06-08 19:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120608\/193312264880.shtml\">read more<\/a>",
+		"title":"油价二度下调靴子落地 百姓能否享受降价福利",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 17:03:00",
+		"enddate":"2012-06-08 17:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120608\/170312263849.shtml\">read more<\/a>",
+		"title":"发改委通知较大幅度降低成品油价格",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 17:22:00",
+		"enddate":"2012-06-08 17:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120608\/172212264009.shtml\">read more<\/a>",
+		"title":"各省区市汽柴油最高零售价格表",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 17:23:00",
+		"enddate":"2012-06-08 17:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120608\/172312264049.shtml\">read more<\/a>",
+		"title":"发改委：四因素致油价调整与市场预测不符",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 17:56:00",
+		"enddate":"2012-06-08 17:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120608\/175612264562.shtml\">read more<\/a>",
+		"title":"发改委：国家较大幅度降低成品油价格",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-09 00:21:00",
+		"enddate":"2012-06-09 00:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20120609\/002112265829.shtml\">read more<\/a>",
+		"title":"汽柴油价格今起下调 降幅低于预期",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 17:15:00",
+		"enddate":"2012-06-08 17:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120608\/171512263942.shtml\">read more<\/a>",
+		"title":"发改委：调价幅度与机构预测不一致因权重调整",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-09 01:57:00",
+		"enddate":"2012-06-09 01:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120609\/015712266917.shtml\">read more<\/a>",
+		"title":"发改委年内二次下调油价 新定价机制再落空",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 18:17:00",
+		"enddate":"2012-06-08 18:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120608\/181712264556.shtml\">read more<\/a>",
+		"title":"发改委：四因素导致油价调整与市场预测不符",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 14:49:00",
+		"enddate":"2012-06-08 14:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20120608\/144912262566.shtml\">read more<\/a>",
+		"title":"机构透露中石油中石化已接到9日下调油价通知",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 17:44:00",
+		"enddate":"2012-06-08 17:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120608\/174412264560.shtml\">read more<\/a>",
+		"title":"成品油价格年内第二次下调 汽油每吨降0.39元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-11 01:36:00",
+		"enddate":"2012-06-11 01:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120611\/013612273517.shtml\">read more<\/a>",
+		"title":"现行成品油调价机制导致涨快跌慢",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 17:35:00",
+		"enddate":"2012-06-08 17:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/bwdt\/20120608\/173512264092.shtml\">read more<\/a>",
+		"title":"国内成品油价9日下调 90号降0.39元/升",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 17:15:00",
+		"enddate":"2012-06-08 17:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120608\/171512264121.shtml\">read more<\/a>",
+		"title":"发改委：汽柴油每吨分别降低530元和510元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 20:28:00",
+		"enddate":"2012-06-08 20:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20120608\/202812265049.shtml\">read more<\/a>",
+		"title":"纽约原油重挫3%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 16:51:00",
+		"enddate":"2012-06-08 16:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20120608\/165112263767.shtml\">read more<\/a>",
+		"title":"汽柴油价明起每吨下调530元和510元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_18_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing18_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing18_type",
+	"size_importance":"true"
+}]

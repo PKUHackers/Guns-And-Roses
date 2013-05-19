@@ -1,0 +1,249 @@
+[
+{
+	"title":"大型实景演出《鸟巢吸引》",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-01 11:55:00",
+		"enddate":"2012-10-01 11:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-10-01\/11553756839.shtml\">read more<\/a>",
+		"title":"《鸟巢吸引》双节不休 阿兰吉杰迎大考",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-16 16:06:00",
+		"enddate":"2012-09-16 16:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-16\/16063743294.shtml\">read more<\/a>",
+		"title":"陆川《鸟巢》备战首演 魔术师李行齐助阵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-05 12:15:00",
+		"enddate":"2012-09-05 12:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-05\/12153732297.shtml\">read more<\/a>",
+		"title":"喻越越加盟陆川舞台剧《鸟巢-吸引》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 14:08:00",
+		"enddate":"2012-10-12 14:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-10-12\/14083762384.shtml\">read more<\/a>",
+		"title":"《鸟巢吸引》收官 鹿凌桀接棒吴克群(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-11 18:23:00",
+		"enddate":"2012-09-11 18:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-09-11\/18233738684.shtml\">read more<\/a>",
+		"title":"阿兰《鸟巢-吸引》海报首度曝光",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-19 12:05:00",
+		"enddate":"2012-09-19 12:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-19\/12053745968.shtml\">read more<\/a>",
+		"title":"《鸟巢吸引》曝主题海报 谭晶吴克群首演",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 15:10:00",
+		"enddate":"2012-10-09 15:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-10-09\/15103759636.shtml\">read more<\/a>",
+		"title":"《鸟巢吸引》10万观众见证 探索奥运后模式",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-22 12:10:00",
+		"enddate":"2012-09-22 12:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-22\/12103748953.shtml\">read more<\/a>",
+		"title":"谭晶鸟巢上演舞台剧 与吴克群相恋(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-12 09:57:00",
+		"enddate":"2012-09-12 09:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-12\/09573739175.shtml\">read more<\/a>",
+		"title":"《鸟巢-吸引》运用高科技 启动新视听时代",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 10:19:00",
+		"enddate":"2012-09-29 10:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-29\/10193755854.shtml\">read more<\/a>",
+		"title":"《鸟巢吸引》热演 陆川：我们在和时间赛跑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-11 10:54:00",
+		"enddate":"2012-09-11 10:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-09-11\/10543738022.shtml\">read more<\/a>",
+		"title":"《鸟巢吸引》最终排练 谭晶谭维维陆续进组",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-13 14:19:00",
+		"enddate":"2012-09-13 14:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-13\/14193740743.shtml\">read more<\/a>",
+		"title":"鸟巢引各路高手 陆川任《鸟巢吸引》总导演",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 14:44:00",
+		"enddate":"2012-10-04 14:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-10-04\/14443757497.shtml\">read more<\/a>",
+		"title":"《鸟巢-吸引》引爆国庆黄金周演出市场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 10:21:00",
+		"enddate":"2012-09-06 10:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-06\/10213733215.shtml\">read more<\/a>",
+		"title":"《鸟巢吸引》舞美图曝光 总体超5万平方米",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 15:57:00",
+		"enddate":"2012-09-17 15:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-17\/15573744117.shtml\">read more<\/a>",
+		"title":"《鸟巢-吸引》将开演 喻越越出演陆川亲自监棚",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_2_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule2_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule2_type",
+	"size_importance":"true"
+}]

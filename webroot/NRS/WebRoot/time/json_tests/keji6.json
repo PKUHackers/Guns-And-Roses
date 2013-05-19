@@ -1,0 +1,324 @@
+[
+{
+	"title":"2011年TD-LTE测试技术研讨会",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-11-22 06:26:00",
+		"enddate":"2011-11-22 06:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2011-11-22\/06261940320.shtml\">read more<\/a>",
+		"title":"移动年底前推TD-LTE 明年基站将达2万个",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-19 01:39:00",
+		"enddate":"2011-11-19 01:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-11-19\/01396349671.shtml\">read more<\/a>",
+		"title":"中国移动：海峡两岸在TD-LTE方面合作良好",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-16 15:55:00",
+		"enddate":"2011-11-16 15:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/3g\/2011-11-16\/15556329625.shtml\">read more<\/a>",
+		"title":"全球已建30多个TD―LTE试验网",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-21 16:27:00",
+		"enddate":"2011-11-21 16:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/3g\/2011-11-21\/16276359248.shtml\">read more<\/a>",
+		"title":"TD-LTE通过规模测试验证同频组网",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-21 01:04:00",
+		"enddate":"2011-11-21 01:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-11-21\/01046353358.shtml\">read more<\/a>",
+		"title":"海峡两岸携手推动TD-LTE国际化进程",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-16 17:12:00",
+		"enddate":"2011-11-16 17:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-11-16\/17126330253.shtml\">read more<\/a>",
+		"title":"TD-LTE第一阶段规模测试建成基站仅850个",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-21 16:31:00",
+		"enddate":"2011-11-21 16:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/3g\/2011-11-21\/16316359262.shtml\">read more<\/a>",
+		"title":"TD-LTE帮头脑风暴三年见分晓",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-16 03:02:00",
+		"enddate":"2011-11-16 03:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-11-16\/03026325084.shtml\">read more<\/a>",
+		"title":"中移动副总裁李正茂：TD-LTE更适合移动互联网",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-23 11:58:00",
+		"enddate":"2011-11-23 11:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/3g\/2011-11-23\/11586371546.shtml\">read more<\/a>",
+		"title":"中国移动明年最多新增2万个TD-LTE基站",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-23 04:21:00",
+		"enddate":"2011-11-23 04:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/3g\/2011-11-23\/04216367701.shtml\">read more<\/a>",
+		"title":"十余运营商敲定明年商用TD-LTE计划",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-21 10:29:00",
+		"enddate":"2011-11-21 10:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/3g\/2011-11-21\/10296356219.shtml\">read more<\/a>",
+		"title":"TD-LTE启动第二阶段测试冲刺商用",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-21 10:11:00",
+		"enddate":"2011-11-21 10:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/3g\/2011-11-21\/10116356029.shtml\">read more<\/a>",
+		"title":"瑞银称中国规模部署TD-LTE时间仍然很远",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-21 14:41:00",
+		"enddate":"2011-11-21 14:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-11-21\/14416358281.shtml\">read more<\/a>",
+		"title":"TD-LTE加速全球商用",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-18 09:59:00",
+		"enddate":"2011-11-18 09:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/3g\/2011-11-18\/09596342020.shtml\">read more<\/a>",
+		"title":"奚国华：希望TD-LTE未来占市场50%份额",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-16 00:59:00",
+		"enddate":"2011-11-16 00:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/3g\/2011-11-16\/00596324101.shtml\">read more<\/a>",
+		"title":"中移动称TD-LTE已成主流标准 明年出融合芯片",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 09:51:00",
+		"enddate":"2011-12-07 09:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/3g\/2011-12-07\/09516442029.shtml\">read more<\/a>",
+		"title":"TD-LTE二阶段测试重在多模终端 TD与LTE兼顾",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-21 10:30:00",
+		"enddate":"2011-11-21 10:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-11-21\/10306356251.shtml\">read more<\/a>",
+		"title":"破解TD-LTE发展三大难题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-16 00:59:00",
+		"enddate":"2011-11-16 00:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/3g\/2011-11-16\/00596324098.shtml\">read more<\/a>",
+		"title":"中移动TD-LTE第一阶段耗资6亿 将在北京建网",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-24 17:53:00",
+		"enddate":"2011-11-24 17:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-11-24\/17536381041.shtml\">read more<\/a>",
+		"title":"TD－LTE在深频现创新活力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-18 04:04:00",
+		"enddate":"2011-11-18 04:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/roll\/2011-11-18\/04046340781.shtml\">read more<\/a>",
+		"title":"全球首款TD-LTE MOBILE HOTSPOT设备发布",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_6_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji6_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji6_type",
+	"size_importance":"true"
+}]

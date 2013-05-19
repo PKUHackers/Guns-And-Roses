@@ -1,0 +1,324 @@
+[
+{
+	"title":"2008路透年度精彩图片",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2008-11-27 16:22:00",
+		"enddate":"2008-11-27 16:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/162216738208.shtml\">read more<\/a>",
+		"title":"图文：捷克选手米哈尔・米哈利克落马",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 16:35:00",
+		"enddate":"2008-11-27 16:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/163516738299.shtml\">read more<\/a>",
+		"title":"图文：示威者在雷曼前首席执行官身后抗议",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 14:57:00",
+		"enddate":"2008-11-27 14:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/145716737755.shtml\">read more<\/a>",
+		"title":"图文：前纽约州州长携妻发表声明承认性丑闻",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 14:57:00",
+		"enddate":"2008-11-27 14:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/145716737759.shtml\">read more<\/a>",
+		"title":"图文：阿尔及利亚女孩走在沙漠地带",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 16:42:00",
+		"enddate":"2008-11-27 16:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/164216738341.shtml\">read more<\/a>",
+		"title":"图文：德国警察带走反核示威者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 15:25:00",
+		"enddate":"2008-11-27 15:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/152516737880.shtml\">read more<\/a>",
+		"title":"图文：美国邪教女成员孩子被政府带走后很悲痛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 15:25:00",
+		"enddate":"2008-11-27 15:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/152516737879.shtml\">read more<\/a>",
+		"title":"图文：奥地利警察公布犯罪分子弗利茨照片",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 16:10:00",
+		"enddate":"2008-11-27 16:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/161016738170.shtml\">read more<\/a>",
+		"title":"图文：男子试图控制一匹野马",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 14:36:00",
+		"enddate":"2008-11-27 14:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/143616737611.shtml\">read more<\/a>",
+		"title":"图文：2008年英国世界冬泳锦标赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 15:47:00",
+		"enddate":"2008-11-27 15:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/154716738083.shtml\">read more<\/a>",
+		"title":"图文：南非男子在冲突期间磨大刀",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 14:58:00",
+		"enddate":"2008-11-27 14:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/145816737770.shtml\">read more<\/a>",
+		"title":"图文：一名工匠在珠宝首饰工厂工作着",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 16:10:00",
+		"enddate":"2008-11-27 16:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/161016738164.shtml\">read more<\/a>",
+		"title":"图文：意美日三国首脑准备照G8全家福",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 16:22:00",
+		"enddate":"2008-11-27 16:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/162216738207.shtml\">read more<\/a>",
+		"title":"图文：男子骑车行走在玻利维亚南部盐湖上",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 16:00:00",
+		"enddate":"2008-11-27 16:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/160016738132.shtml\">read more<\/a>",
+		"title":"图文：美国空军队员从运输直升机上跃下",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 15:25:00",
+		"enddate":"2008-11-27 15:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/152516737895.shtml\">read more<\/a>",
+		"title":"图文：汤普森在练习赛中在沙坑中击球",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 14:36:00",
+		"enddate":"2008-11-27 14:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/143616737614.shtml\">read more<\/a>",
+		"title":"图文：贾德戴上3-D眼镜观看伊朗火箭发展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 16:10:00",
+		"enddate":"2008-11-27 16:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/161016738163.shtml\">read more<\/a>",
+		"title":"图文：一名参观者触摸数字地球仪",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 16:10:00",
+		"enddate":"2008-11-27 16:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/161016738172.shtml\">read more<\/a>",
+		"title":"图文：参与奥运开幕式的演员正在预演",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 16:35:00",
+		"enddate":"2008-11-27 16:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/163516738301.shtml\">read more<\/a>",
+		"title":"图文：麦凯恩差点从辩论台错误方向下台",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-27 15:47:00",
+		"enddate":"2008-11-27 15:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2008-11-27\/154716738084.shtml\">read more<\/a>",
+		"title":"图文：洪都拉斯枪案现场留下的血迹",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji3_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji3_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,249 @@
+[
+{
+	"title":"亚冠联赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-05 23:00:00",
+		"enddate":"2012-10-05 23:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-05\/23006249023.shtml\">read more<\/a>",
+		"title":"许家印满意恒大亚冠表现 联赛足协杯目标拿双冠",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_26_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 09:28:00",
+		"enddate":"2012-10-04 09:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-04\/09286247868.shtml\">read more<\/a>",
+		"title":"众星评恒大 赵忠祥：唱歌得第1可不服 踢球输了得认",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_26_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-03 07:46:00",
+		"enddate":"2012-10-03 07:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-03\/07466246845.shtml\">read more<\/a>",
+		"title":"亚冠1/4决赛综述：恒大遗憾遭淘汰 沙特两强会师",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_26_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-03 12:59:00",
+		"enddate":"2012-10-03 12:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-03\/12596247140.shtml\">read more<\/a>",
+		"title":"穆里奇自曝骨折返回巴西治疗 最快末战国安时复出",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_26_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-02 10:53:00",
+		"enddate":"2012-10-02 10:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-02\/10536246029.shtml\">read more<\/a>",
+		"title":"伊蒂哈德豪言“双杀” 恒大想翻盘实力运气缺一不可",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_26_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-02 09:54:00",
+		"enddate":"2012-10-02 09:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-02\/09546245963.shtml\">read more<\/a>",
+		"title":"里皮确认穆里奇因伤缺阵 或冒险选择352强攻阵型",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_26_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 11:31:00",
+		"enddate":"2012-10-04 11:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-04\/11316248013.shtml\">read more<\/a>",
+		"title":"郜林：机会没抓住很遗憾 运气太差明年再来会更好",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_26_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-02 23:39:00",
+		"enddate":"2012-10-02 23:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-02\/23396246563.shtml\">read more<\/a>",
+		"title":"这是中国足球的命！6天3次失好局 恒大也难破魔咒",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_26_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-02 11:10:00",
+		"enddate":"2012-10-02 11:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-02\/11106246040.shtml\">read more<\/a>",
+		"title":"里皮坚信恒大能晋级亚冠四强 避免再犯首回合错误",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_26_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 10:50:00",
+		"enddate":"2012-10-04 10:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-04\/10506247979.shtml\">read more<\/a>",
+		"title":"穆里奇提前返回巴西治疗 中超赛季恐已报销",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_26_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-03 04:26:00",
+		"enddate":"2012-10-03 04:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-03\/04266246698.shtml\">read more<\/a>",
+		"title":"恒大亚冠赢了过程输了结果 重心转回联赛全力争冠",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_26_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-02 20:23:00",
+		"enddate":"2012-10-02 20:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-02\/20236246429.shtml\">read more<\/a>",
+		"title":"爆发！巴里奥斯禁区内劲射破门 1分钟前刚打门梁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_26_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-03 06:18:00",
+		"enddate":"2012-10-03 06:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-03\/06186246744.shtml\">read more<\/a>",
+		"title":"恒大球迷品尝不欢乐的胜利 黄牛党打折售票拉动球市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_26_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-02 20:06:00",
+		"enddate":"2012-10-02 20:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-02\/20066246414.shtml\">read more<\/a>",
+		"title":"CNTV正在视频直播亚冠生死战广州恒大VS伊蒂哈德",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_26_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-03 09:25:00",
+		"enddate":"2012-10-03 09:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-03\/09256246911.shtml\">read more<\/a>",
+		"title":"巴里奥斯满血复活恒大出局焉知非福 未来靠他掌舵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_26_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu26_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu26_type",
+	"size_importance":"true"
+}]

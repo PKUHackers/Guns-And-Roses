@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012年胡润百富榜",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-25 03:05:00",
+		"enddate":"2012-09-25 03:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120925\/030513226918.shtml\">read more<\/a>",
+		"title":"胡润百富榜显示生肖属兔企业家最多",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_5_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 14:45:00",
+		"enddate":"2012-09-25 14:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/dfjj\/20120925\/144513233948.shtml\">read more<\/a>",
+		"title":"17位江西商人闯入今年胡润百富榜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_5_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 11:14:00",
+		"enddate":"2012-09-25 11:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120925\/111413232145.shtml\">read more<\/a>",
+		"title":"万达王健林以650亿元取代许家印成地产首富",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_5_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 14:49:00",
+		"enddate":"2012-09-24 14:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/leadership\/crz\/20120924\/144913221642.shtml\">read more<\/a>",
+		"title":"胡润百富榜前901-1000名榜单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_5_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 14:39:00",
+		"enddate":"2012-09-24 14:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120924\/143913221573.shtml\">read more<\/a>",
+		"title":"胡润百富榜前301-400名榜单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_5_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 15:08:00",
+		"enddate":"2012-09-24 15:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120924\/150813222161.shtml\">read more<\/a>",
+		"title":"2012胡润富豪榜469人财富缩水 37人财富下跌50%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_5_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 14:43:00",
+		"enddate":"2012-09-24 14:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120924\/144313221602.shtml\">read more<\/a>",
+		"title":"胡润百富榜前401-500名榜单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_5_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 14:45:00",
+		"enddate":"2012-09-24 14:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120924\/144513221632.shtml\">read more<\/a>",
+		"title":"胡润百富榜前501-600名榜单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_5_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 00:59:00",
+		"enddate":"2012-09-25 00:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/leadership\/crz\/20120925\/005913225395.shtml\">read more<\/a>",
+		"title":"宗庆后家族再当首富 三行业企业家财富严重缩水",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_5_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 16:21:00",
+		"enddate":"2012-09-25 16:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120925\/162113235174.shtml\">read more<\/a>",
+		"title":"2012胡润百富榜出炉 近半企业家财富缩水 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_5_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 14:31:00",
+		"enddate":"2012-09-24 14:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/leadership\/crz\/20120924\/143113221482.shtml\">read more<\/a>",
+		"title":"2012胡润百富榜发布 宗庆后家族再居首",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_5_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 14:37:00",
+		"enddate":"2012-09-24 14:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120924\/143713221545.shtml\">read more<\/a>",
+		"title":"胡润百富榜前101-200名榜单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_5_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 03:14:00",
+		"enddate":"2012-09-25 03:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120925\/031413226992.shtml\">read more<\/a>",
+		"title":"胡润百富榜近半缩水 制造业富豪首超房地产",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_5_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 14:11:00",
+		"enddate":"2012-09-27 14:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120927\/141113258789.shtml\">read more<\/a>",
+		"title":"2012年胡润富豪榜出炉 汽车业5人入百强",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_5_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 02:31:00",
+		"enddate":"2012-09-25 02:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120925\/023113226772.shtml\">read more<\/a>",
+		"title":"胡润富豪榜总财富约占GDP的1/9 近半富豪身家缩水",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_5_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing5_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing5_type",
+	"size_importance":"true"
+}]

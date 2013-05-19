@@ -1,0 +1,249 @@
+[
+{
+	"title":"全球多国爆发反美示威",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-20 10:19:00",
+		"enddate":"2012-09-20 10:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-20\/101925215278.shtml\">read more<\/a>",
+		"title":"法国将暂时关闭驻伊斯兰国家使领馆",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_5_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 17:32:00",
+		"enddate":"2012-09-21 17:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-21\/173225226061.shtml\">read more<\/a>",
+		"title":"巴基斯坦白沙瓦反美示威引发冲突致15人受伤",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_5_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 17:23:00",
+		"enddate":"2012-09-20 17:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2012-09-20\/172325217717.shtml\">read more<\/a>",
+		"title":"阿富汗民众示威抗议美法反伊斯兰作品(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_5_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-22 13:40:00",
+		"enddate":"2012-09-22 13:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-22\/134025230643.shtml\">read more<\/a>",
+		"title":"美国情报称恐怖分子有预谋杀害驻利比亚大使",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_5_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-23 10:48:00",
+		"enddate":"2012-09-23 10:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-23\/104825234550.shtml\">read more<\/a>",
+		"title":"巴基斯坦爆发今年以来最大规模反美示威",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_5_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 09:40:00",
+		"enddate":"2012-09-21 09:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-21\/094025223307.shtml\">read more<\/a>",
+		"title":"希拉里组建美驻班加西领馆遇袭事件调查组",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_5_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-19 13:25:00",
+		"enddate":"2012-09-19 13:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-19\/132525207484.shtml\">read more<\/a>",
+		"title":"沙特与俄拟封锁视频网站以遏制美争议影片传播",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_5_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-22 02:39:00",
+		"enddate":"2012-09-22 02:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-22\/023925227726.shtml\">read more<\/a>",
+		"title":"美将驻利比亚大使遇袭事件定性为恐怖袭击",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_5_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 10:50:00",
+		"enddate":"2012-09-27 10:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-27\/105025265407.shtml\">read more<\/a>",
+		"title":"希拉里承认美驻利使馆遇袭与基地组织有关",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_5_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-23 17:06:00",
+		"enddate":"2012-09-23 17:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-23\/170625235262.shtml\">read more<\/a>",
+		"title":"利比亚示威民众与民兵冲突致11人死70多人伤",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_5_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 09:15:00",
+		"enddate":"2012-10-10 09:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-10\/091525328129.shtml\">read more<\/a>",
+		"title":"美国亵渎伊斯兰教电影导演今日出庭受审",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_5_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 07:52:00",
+		"enddate":"2012-09-25 07:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-25\/075225246735.shtml\">read more<\/a>",
+		"title":"奥巴马称美驻利使馆遇袭案超出暴民行径",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_5_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 07:35:00",
+		"enddate":"2012-10-11 07:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-11\/073525335394.shtml\">read more<\/a>",
+		"title":"美亵渎伊斯兰教导演出庭受审 否认违反保释条例",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_5_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 09:54:00",
+		"enddate":"2012-10-16 09:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-16\/095425368045.shtml\">read more<\/a>",
+		"title":"希拉里称为美大使在利比亚遇袭负责",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_5_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 08:33:00",
+		"enddate":"2012-09-21 08:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-21\/083325222938.shtml\">read more<\/a>",
+		"title":"希拉里拟成立小组调查美驻利比亚使馆遭袭事件",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_5_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji5_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji5_type",
+	"size_importance":"true"
+}]

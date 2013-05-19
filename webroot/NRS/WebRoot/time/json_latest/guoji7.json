@@ -1,0 +1,249 @@
+[
+{
+	"title":"日韩岛屿争端再次升级",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-24 17:13:00",
+		"enddate":"2012-09-24 17:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-24\/171325242064.shtml\">read more<\/a>",
+		"title":"韩媒称日本右翼在东京举行大型反韩示威",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 18:19:00",
+		"enddate":"2012-10-16 18:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-16\/181925370958.shtml\">read more<\/a>",
+		"title":"美国副国务卿呼吁韩日通过对话解决岛屿争议",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-19 15:23:00",
+		"enddate":"2012-09-19 15:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2012-09-19\/152325208239.shtml\">read more<\/a>",
+		"title":"日本右翼侮辱韩国国旗视频引韩网民愤怒(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 12:39:00",
+		"enddate":"2012-10-04 12:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-04\/123925300086.shtml\">read more<\/a>",
+		"title":"日本拟10月内单独向国际法院起诉独岛问题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 08:32:00",
+		"enddate":"2012-09-24 08:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-24\/083225238856.shtml\">read more<\/a>",
+		"title":"韩媒称韩日可能于10月完成专属经济区捕捞谈判",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 09:45:00",
+		"enddate":"2012-10-15 09:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-15\/094525359776.shtml\">read more<\/a>",
+		"title":"韩媒称日公函曾将韩日争议岛屿视为韩领土",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 11:02:00",
+		"enddate":"2012-10-12 11:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-12\/110225345295.shtml\">read more<\/a>",
+		"title":"日外务省副大臣称可能暂缓单独提起独岛诉讼",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 14:33:00",
+		"enddate":"2012-10-12 14:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-12\/143325346238.shtml\">read more<\/a>",
+		"title":"日本官房长官称继续就独岛问题单独起诉韩国",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 21:15:00",
+		"enddate":"2012-09-25 21:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-25\/211525251276.shtml\">read more<\/a>",
+		"title":"韩国政府计划在韩日争议岛屿投入54亿韩元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 17:14:00",
+		"enddate":"2012-09-27 17:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-27\/171425267857.shtml\">read more<\/a>",
+		"title":"韩日外长将举行会谈可能就领土问题交换意见",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 10:17:00",
+		"enddate":"2012-09-28 10:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-28\/101725273703.shtml\">read more<\/a>",
+		"title":"韩外长称日本主张独岛主权是另一种侵略尝试",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 14:36:00",
+		"enddate":"2012-09-24 14:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-24\/143625241096.shtml\">read more<\/a>",
+		"title":"韩国称日政府依旧拒绝承认对慰安妇问题负责",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 18:00:00",
+		"enddate":"2012-09-28 18:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-28\/180025277045.shtml\">read more<\/a>",
+		"title":"日学者称独岛纷争根源在日侵略敦促日反省",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 17:00:00",
+		"enddate":"2012-09-24 17:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-24\/170025241919.shtml\">read more<\/a>",
+		"title":"李明博称将强化对独岛及苏岩礁警备",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 19:23:00",
+		"enddate":"2012-10-12 19:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-12\/192325347488.shtml\">read more<\/a>",
+		"title":"韩议员学者向日递交请愿要求解决慰安妇问题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji7_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji7_type",
+	"size_importance":"true"
+}]

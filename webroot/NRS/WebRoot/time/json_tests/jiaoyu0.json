@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012年全国各地高考作文",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-06-07 11:51:00",
+		"enddate":"2012-06-07 11:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-07\/1151341503.shtml\">read more<\/a>",
+		"title":"2012湖北卷高考作文题：家书的消失",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-07 11:38:00",
+		"enddate":"2011-06-07 11:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2011-06-07\/1138299243.shtml\">read more<\/a>",
+		"title":"2011年江西高考作文题：孟子三乐",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-08 11:41:00",
+		"enddate":"2011-06-08 11:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2011-06-08\/1141299830.shtml\">read more<\/a>",
+		"title":"2011年各地高考作文搞笑版",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-07 12:05:00",
+		"enddate":"2012-06-07 12:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-07\/1205341508.shtml\">read more<\/a>",
+		"title":"2012山东高考作文题：以孙中山箴言自拟题目",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-07 12:22:00",
+		"enddate":"2012-06-07 12:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-07\/1222341513.shtml\">read more<\/a>",
+		"title":"2012天津卷高考作文题：关于水的思考",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-07 11:34:00",
+		"enddate":"2012-06-07 11:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-07\/1134341497.shtml\">read more<\/a>",
+		"title":"2012陕西卷高考作文题：船主与漆工的故事 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-07 11:55:00",
+		"enddate":"2012-06-07 11:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-07\/1155341504.shtml\">read more<\/a>",
+		"title":"2012新课标卷高考作文题：船主与油漆工",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 10:48:00",
+		"enddate":"2012-06-08 10:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-08\/1048341919.shtml\">read more<\/a>",
+		"title":"船主与油漆工：多方点评写作角度与难点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-07 12:14:00",
+		"enddate":"2011-06-07 12:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2011-06-07\/1214299253.shtml\">read more<\/a>",
+		"title":"2011年全国卷高考作文题：代买彩票",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 10:25:00",
+		"enddate":"2012-06-08 10:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-08\/1025341881.shtml\">read more<\/a>",
+		"title":"长春市语文名师权威解读高考作文(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-24 10:38:00",
+		"enddate":"2011-06-24 10:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2011-06-24\/1038303067.shtml\">read more<\/a>",
+		"title":"上海2011高考作文虽无满分但不乏佳作",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-07 11:50:00",
+		"enddate":"2012-06-07 11:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-07\/1150341502.shtml\">read more<\/a>",
+		"title":"2012年大纲卷高考作文题：放下顾虑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-07 11:55:00",
+		"enddate":"2012-06-07 11:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-07\/1155341505.shtml\">read more<\/a>",
+		"title":"2012浙江卷高考作文题：坐在路边鼓掌的人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-16 12:21:00",
+		"enddate":"2012-06-16 12:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-16\/1221343768.shtml\">read more<\/a>",
+		"title":"高考评卷有多累 一人一天需看280篇作文",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-07 11:30:00",
+		"enddate":"2012-06-07 11:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-07\/1130341490.shtml\">read more<\/a>",
+		"title":"2012年江苏卷高考作文题：忧与爱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-07 11:30:00",
+		"enddate":"2012-06-07 11:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-07\/1130341491.shtml\">read more<\/a>",
+		"title":"2012年福建高考作文：材料作文",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-07 11:43:00",
+		"enddate":"2012-06-07 11:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-07\/1143341499.shtml\">read more<\/a>",
+		"title":"2012年四川卷高考作文题：关于水的讨论",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-08 15:25:00",
+		"enddate":"2011-06-08 15:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2011-06-08\/1525299969.shtml\">read more<\/a>",
+		"title":"全国2011年高考作文题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-07 11:31:00",
+		"enddate":"2012-06-07 11:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-07\/1131341494.shtml\">read more<\/a>",
+		"title":"2012年北京卷高考作文题：火车巡逻员的故事",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-07 11:34:00",
+		"enddate":"2012-06-07 11:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-06-07\/1134341496.shtml\">read more<\/a>",
+		"title":"2012年安徽高考作文：梯子不用时请横着放",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_0_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"jiaoyu_type"},
+		"ypix":"0",
+		"id":"jiaoyu0_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu0_type",
+	"size_importance":"true"
+}]

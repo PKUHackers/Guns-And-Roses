@@ -1,0 +1,249 @@
+[
+{
+	"title":"中日贸易遇寒流",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-17 17:26:00",
+		"enddate":"2012-10-17 17:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20121017\/172613397822.shtml\">read more<\/a>",
+		"title":"丰田澄清全面停产和准备退出中国等不实消息",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_24_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 13:29:00",
+		"enddate":"2012-10-12 13:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20121012\/132913352493.shtml\">read more<\/a>",
+		"title":"反日浪潮致41%日商受影响 部分公司拟撤离中国",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_24_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 06:39:00",
+		"enddate":"2012-10-11 06:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20121011\/063913335936.shtml\">read more<\/a>",
+		"title":"中汽协：9月份日系车销量跌41% 拖累整个车市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_24_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 14:02:00",
+		"enddate":"2012-10-17 14:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20121017\/140213395973.shtml\">read more<\/a>",
+		"title":"我国12省市缺席日本东亚地方会议 仅陕西参加 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_24_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 02:31:00",
+		"enddate":"2012-10-11 02:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20121011\/023113334148.shtml\">read more<\/a>",
+		"title":"9月份日系车在华销量环比大降近三成",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_24_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 03:19:00",
+		"enddate":"2012-10-10 03:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20121010\/031913323560.shtml\">read more<\/a>",
+		"title":"日系车9月销量暴跌四成 低调找寻应对之策",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_24_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 02:30:00",
+		"enddate":"2012-10-11 02:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20121011\/023013334166.shtml\">read more<\/a>",
+		"title":"陈光标为43位被砸日系车主换车 被质疑借机作秀",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_24_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 13:01:00",
+		"enddate":"2012-10-16 13:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20121016\/130113382785.shtml\">read more<\/a>",
+		"title":"春秋航空：日本到上海航班单程机票只需1日元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_24_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 01:29:00",
+		"enddate":"2012-10-17 01:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20121017\/012913387628.shtml\">read more<\/a>",
+		"title":"丰田天津厂停产一周 日系车中国市场入冬",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_24_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 01:59:00",
+		"enddate":"2012-10-11 01:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20121011\/015913333424.shtml\">read more<\/a>",
+		"title":"9月日系乘用车销量同比降四成",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_24_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 06:20:00",
+		"enddate":"2012-10-10 06:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20121010\/062013324659.shtml\">read more<\/a>",
+		"title":"日系车经销商面临倒闭整合潮 德系车美系车受益",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_24_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 00:42:00",
+		"enddate":"2012-10-16 00:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20121016\/004213374403.shtml\">read more<\/a>",
+		"title":"日系车企集体沦陷或步家电后尘",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_24_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 10:47:00",
+		"enddate":"2012-10-11 10:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20121011\/104713339453.shtml\">read more<\/a>",
+		"title":"丰田在华召回140万辆问题车   ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_24_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 22:17:00",
+		"enddate":"2012-10-10 22:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20121010\/221713332549.shtml\">read more<\/a>",
+		"title":"中国南航日本富山-北京航线28日起停飞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_24_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 06:54:00",
+		"enddate":"2012-10-11 06:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/yzjj\/20121011\/065413336376.shtml\">read more<\/a>",
+		"title":"日本开发零稀土磁铁欲摆脱对我依赖 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_24_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing24_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing24_type",
+	"size_importance":"true"
+}]

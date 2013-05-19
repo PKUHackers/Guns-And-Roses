@@ -1,0 +1,324 @@
+[
+{
+	"title":"近十年最完美月全食",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-12-10 04:37:00",
+		"enddate":"2011-12-10 04:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-10\/04376468346.shtml\">read more<\/a>",
+		"title":"今夜月全食错过要等到2014年",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 23:44:00",
+		"enddate":"2011-12-09 23:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-09\/23446467111.shtml\">read more<\/a>",
+		"title":"新浪12月10日晚三地同步视频直播月全食",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-10 23:54:00",
+		"enddate":"2011-12-10 23:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-10\/23546473175.shtml\">read more<\/a>",
+		"title":"我国上演10年来观测条件最好月全食",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-03 01:30:00",
+		"enddate":"2011-12-03 01:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-03\/01306417170.shtml\">read more<\/a>",
+		"title":"本月将上演月全食和流星雨等四大天象",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 09:12:00",
+		"enddate":"2011-12-09 09:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-09\/09126459622.shtml\">read more<\/a>",
+		"title":"周六月全食可观赏到“红月亮”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 16:41:00",
+		"enddate":"2011-12-09 16:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-09\/16416463691.shtml\">read more<\/a>",
+		"title":"专业天文爱好者详解月全食多种拍法",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-10 10:20:00",
+		"enddate":"2011-12-10 10:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-10\/10206468909.shtml\">read more<\/a>",
+		"title":"今晚上演十年一遇月全食",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-08 15:13:00",
+		"enddate":"2011-12-08 15:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-08\/15136454498.shtml\">read more<\/a>",
+		"title":"我国周六可观10年来观测条件最好月全食",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-10 08:58:00",
+		"enddate":"2011-12-10 08:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-10\/08586468810.shtml\">read more<\/a>",
+		"title":"今夜月圆星稀将现月弯星密",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-10 01:30:00",
+		"enddate":"2011-12-10 01:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-10\/01306467801.shtml\">read more<\/a>",
+		"title":"今晚上演十年来最完美月全食",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 04:23:00",
+		"enddate":"2011-12-07 04:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-07\/04236439931.shtml\">read more<\/a>",
+		"title":"月食流星雨轮番上阵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-10 10:06:00",
+		"enddate":"2011-12-10 10:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-10\/10066468896.shtml\">read more<\/a>",
+		"title":"今夜可赏月全食：观测时间持续到明日凌晨",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-10 04:30:00",
+		"enddate":"2011-12-10 04:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-10\/04306468302.shtml\">read more<\/a>",
+		"title":"月全食全程6小时 深港两地可免费观测",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-10 10:17:00",
+		"enddate":"2011-12-10 10:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-10\/10176468908.shtml\">read more<\/a>",
+		"title":"十年来观测条件最好的一次月全食",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 07:45:00",
+		"enddate":"2011-12-09 07:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-09\/07456458559.shtml\">read more<\/a>",
+		"title":"明晚月全食或现“彩云追月”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 16:09:00",
+		"enddate":"2011-12-09 16:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-09\/16096463510.shtml\">read more<\/a>",
+		"title":"月全食出现方位及发生时间",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-10 23:29:00",
+		"enddate":"2011-12-10 23:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-10\/23296473009.shtml\">read more<\/a>",
+		"title":"网友直播十年来最美月全食",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 18:17:00",
+		"enddate":"2011-12-09 18:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-09\/18176464526.shtml\">read more<\/a>",
+		"title":"明晚最美月全食 金华人有眼福",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-11 09:18:00",
+		"enddate":"2011-12-11 09:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-11\/09186474283.shtml\">read more<\/a>",
+		"title":"东方早报：上海夜空红月亮爬上来",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 16:53:00",
+		"enddate":"2011-12-09 16:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2011-12-09\/16536463775.shtml\">read more<\/a>",
+		"title":"月全食拍摄技巧攻略",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_12_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji12_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji12_type",
+	"size_importance":"true"
+}]

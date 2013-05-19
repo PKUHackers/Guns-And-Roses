@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012上合组织联合反恐军演",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-06-06 13:28:00",
+		"enddate":"2012-06-06 13:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-06\/1328692333.html\">read more<\/a>",
+		"title":"塔吉克斯坦：不便透露乌兹别克拒参演原因",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-06 07:20:00",
+		"enddate":"2012-06-06 07:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-06\/0720692301.html\">read more<\/a>",
+		"title":"专家驳上合组织系东方北约说法：冷战思维作祟",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-11 04:22:00",
+		"enddate":"2012-06-11 04:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-11\/0422692689.html\">read more<\/a>",
+		"title":"驻塔吉克中资机构慰问上合军演中方参演部队",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 09:49:00",
+		"enddate":"2012-06-08 09:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-08\/0949692467.html\">read more<\/a>",
+		"title":"中方称上合不允许中亚发生北非式动乱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-09 10:57:00",
+		"enddate":"2012-06-09 10:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-09\/1057692583.html\">read more<\/a>",
+		"title":"和平使命-2012军演俄方主要参演装备曝光",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-06 08:08:00",
+		"enddate":"2012-06-06 08:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-06\/0808692308.html\">read more<\/a>",
+		"title":"上合组织军演中方参演部队抵达塔吉克斯坦",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 07:55:00",
+		"enddate":"2012-06-08 07:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-08\/0755692454.html\">read more<\/a>",
+		"title":"上合反恐军演分三阶段实施：14日达到高潮",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-15 06:14:00",
+		"enddate":"2012-06-15 06:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-15\/0614693099.html\">read more<\/a>",
+		"title":"上合各国军队联合演练围歼恐怖分子(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-01 07:28:00",
+		"enddate":"2012-06-01 07:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-01\/0728691955.html\">read more<\/a>",
+		"title":"上合军演中方参演兵力相比上届大幅减少",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-07 22:07:00",
+		"enddate":"2012-06-07 22:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-07\/2207692407.html\">read more<\/a>",
+		"title":"和平使命2012上合组织联合反恐演习开始",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 08:58:00",
+		"enddate":"2012-06-14 08:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-14\/0858693035.html\">read more<\/a>",
+		"title":"上合军演中俄等5国将出动军机联合轰炸假想敌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 07:44:00",
+		"enddate":"2012-06-14 07:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-14\/0744693027.html\">read more<\/a>",
+		"title":"上合军演副总导演：不能只从规模大小评价军演",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-18 08:18:00",
+		"enddate":"2012-05-18 08:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-18\/0818690872.html\">read more<\/a>",
+		"title":"北约邀上合成员国参加峰会欲在中亚建立基地",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-09 17:30:00",
+		"enddate":"2012-06-09 17:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-09\/1730692585.html\">read more<\/a>",
+		"title":"和平使命2012反恐军演今日举行开训仪式",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-07 07:46:00",
+		"enddate":"2012-06-07 07:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-07\/0746692364.html\">read more<\/a>",
+		"title":"普京称将推动俄罗斯与中国举行更多军演",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-06 17:39:00",
+		"enddate":"2012-06-06 17:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-06\/1739692348.html\">read more<\/a>",
+		"title":"外交部：上合组织不会演变成军事集团",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 08:22:00",
+		"enddate":"2012-06-08 08:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-08\/0822692457.html\">read more<\/a>",
+		"title":"俄军方称上合组织联演14日起进入实兵阶段",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 09:38:00",
+		"enddate":"2012-06-08 09:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-08\/0938692465.html\">read more<\/a>",
+		"title":"学者称上合组织反对干涉叙利亚有违西方意愿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-06 17:29:00",
+		"enddate":"2012-06-06 17:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-06\/1729692347.html\">read more<\/a>",
+		"title":"中俄联合声明称将裁减两国边境军事力量",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-06 08:07:00",
+		"enddate":"2012-06-06 08:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-06\/0807692307.html\">read more<\/a>",
+		"title":"乌兹别克斯坦宣布拒绝参加今年上合反恐军演",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_13_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi13_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi13_type",
+	"size_importance":"true"
+}]

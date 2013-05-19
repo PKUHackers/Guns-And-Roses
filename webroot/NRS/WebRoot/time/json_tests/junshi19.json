@@ -1,0 +1,189 @@
+[
+{
+	"title":"中国海军护卫舰在南沙触礁",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-07-13 16:39:00",
+		"enddate":"2012-07-13 16:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-07-13\/1639695590.html\">read more<\/a>",
+		"title":"海军1艘护卫舰在南沙半月礁搁浅 无人员伤亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_19_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-15 08:27:00",
+		"enddate":"2012-07-15 08:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-07-15\/0827695714.html\">read more<\/a>",
+		"title":"国防部：中国海军在南沙触礁军舰准备返航",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_19_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-15 08:45:00",
+		"enddate":"2012-07-15 08:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-07-15\/0845695716.html\">read more<\/a>",
+		"title":"菲军方派兵到中国护卫舰搁浅地点调查",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_19_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-15 09:17:00",
+		"enddate":"2012-07-15 09:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-07-15\/0917695717.html\">read more<\/a>",
+		"title":"中国海军在南沙半月礁搁浅护卫舰成功脱浅",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_19_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-15 09:31:00",
+		"enddate":"2012-07-15 09:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-07-15\/0931695718.html\">read more<\/a>",
+		"title":"媒体称在南沙搁浅我军舰去年曾向菲渔民开火",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_19_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-15 09:56:00",
+		"enddate":"2012-07-15 09:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-07-15\/0956695720.html\">read more<\/a>",
+		"title":"菲称在中国军舰搁浅海域发现6艘中国船只",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_19_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-15 10:36:00",
+		"enddate":"2012-07-15 10:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-07-15\/1036695722.html\">read more<\/a>",
+		"title":"海军专家：军舰海上搁浅属正常与菲律宾没关系",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_19_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-16 07:25:00",
+		"enddate":"2012-07-16 07:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-07-16\/0725695784.html\">read more<\/a>",
+		"title":"罗援：中国护卫舰搁浅南沙半月礁未必是坏事",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_19_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-16 10:47:00",
+		"enddate":"2012-07-16 10:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-07-16\/1047695800.html\">read more<\/a>",
+		"title":"菲媒称中国军舰巡航半月礁羞辱菲“主权”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_19_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-17 07:31:00",
+		"enddate":"2012-07-17 07:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-07-17\/0731695891.html\">read more<\/a>",
+		"title":"评论：南海岛礁海图应尽快更新防范舰船搁浅",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_19_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-17 18:01:00",
+		"enddate":"2012-07-17 18:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-07-17\/1801695924.html\">read more<\/a>",
+		"title":"媒体驳斥中国军舰向菲渔船开火时搁浅说法",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_19_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi19_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi19_type",
+	"size_importance":"true"
+}]

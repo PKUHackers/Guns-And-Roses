@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012年中国网球公开赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-06 19:20:00",
+		"enddate":"2012-10-06 19:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/t\/2012-10-06\/19206249719.shtml\">read more<\/a>",
+		"title":"李娜携卡洛斯打造全新模式 小纸条或为大满贯演习",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_18_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-06 01:14:00",
+		"enddate":"2012-10-06 01:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/t\/2012-10-06\/01146249049.shtml\">read more<\/a>",
+		"title":"娜姐晋级一切尽在掌握 不敢相信自己提前晋级总决赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_18_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 16:19:00",
+		"enddate":"2012-10-04 16:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/t\/2012-10-04\/16196248159.shtml\">read more<\/a>",
+		"title":"中国金花今晚对决 彭帅：以前国内赛李娜占上风",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_18_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-05 00:04:00",
+		"enddate":"2012-10-05 00:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/t\/2012-10-05\/00046248353.shtml\">read more<\/a>",
+		"title":"李娜生涯罕见高双误比赛 技术变革阵痛后未来可期",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_18_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-07 22:24:00",
+		"enddate":"2012-10-07 22:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/t\/2012-10-07\/22246250998.shtml\">read more<\/a>",
+		"title":"中国网球后备力量面临十字路口 单飞与否仍难做决定",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_18_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-05 10:04:00",
+		"enddate":"2012-10-05 10:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/t\/2012-10-05\/10046248582.shtml\">read more<\/a>",
+		"title":"年终总决赛娜姐越来越近 巴托丽不夺冠成唯一条件",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_18_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-06 16:59:00",
+		"enddate":"2012-10-06 16:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/t\/2012-10-06\/16596249544.shtml\">read more<\/a>",
+		"title":"李娜第二盘吞蛋不敌莎拉波娃 无缘中网女单决赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_18_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-05 21:13:00",
+		"enddate":"2012-10-05 21:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/t\/2012-10-05\/21136248972.shtml\">read more<\/a>",
+		"title":"武艺做客：看好李娜进中网决赛 做慈善义不容辞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_18_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-05 00:49:00",
+		"enddate":"2012-10-05 00:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/t\/2012-10-05\/00496248366.shtml\">read more<\/a>",
+		"title":"李娜距年终总决赛一步之遥 战卫冕冠军或带来惊喜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_18_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-06 20:01:00",
+		"enddate":"2012-10-06 20:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/t\/2012-10-06\/20016249772.shtml\">read more<\/a>",
+		"title":"李娜幽默回应观众干扰问题 调侃记者逗翻全场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_18_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-06 01:04:00",
+		"enddate":"2012-10-06 01:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/t\/2012-10-06\/01046249046.shtml\">read more<\/a>",
+		"title":"张择拒绝揠苗助长 稳步前进未来可参加高级别赛事",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_18_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-05 20:11:00",
+		"enddate":"2012-10-05 20:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/t\/2012-10-05\/20116248949.shtml\">read more<\/a>",
+		"title":"李娜从双误泥沼迅速走出 与新教练化学反应愈加明显",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_18_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 23:48:00",
+		"enddate":"2012-10-04 23:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/t\/2012-10-04\/23486248342.shtml\">read more<\/a>",
+		"title":"中网迎来“中国日”：李娜拿下德比战 张择创造新历史",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_18_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 18:38:00",
+		"enddate":"2012-10-04 18:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/t\/2012-10-04\/18386248231.shtml\">read more<\/a>",
+		"title":"张择创造历史看到希望 信心提升是关键外教成奇兵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_18_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 22:24:00",
+		"enddate":"2012-10-04 22:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/t\/2012-10-04\/22246248303.shtml\">read more<\/a>",
+		"title":"金花德比李娜决胜盘险胜彭帅 两年后重返中网8强",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_18_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu18_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu18_type",
+	"size_importance":"true"
+}]

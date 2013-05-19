@@ -1,0 +1,189 @@
+[
+{
+	"title":"2012年8月宏观经济预测报告",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-06 15:45:00",
+		"enddate":"2012-09-06 15:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120906\/154513065885.shtml\">read more<\/a>",
+		"title":"一致预期：8月CPI同比上涨2.1%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_9_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 15:53:00",
+		"enddate":"2012-09-06 15:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120906\/155313065951.shtml\">read more<\/a>",
+		"title":"一致预期：8月PPI同比增速-3.2%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_9_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 16:00:00",
+		"enddate":"2012-09-06 16:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120906\/160013066018.shtml\">read more<\/a>",
+		"title":"一致预期：8月新增人民币贷款5922亿元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_9_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 16:13:00",
+		"enddate":"2012-09-06 16:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120906\/161313066144.shtml\">read more<\/a>",
+		"title":"一致预期：8月末M1同比增速均值4.7%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_9_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 16:21:00",
+		"enddate":"2012-09-06 16:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120906\/162113066229.shtml\">read more<\/a>",
+		"title":"一致预期：8月末M2同比增速为13.9%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_9_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 16:30:00",
+		"enddate":"2012-09-06 16:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120906\/163013066307.shtml\">read more<\/a>",
+		"title":"一致预期：8月工业增加值同比增速9.2%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_9_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 16:39:00",
+		"enddate":"2012-09-06 16:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120906\/163913066413.shtml\">read more<\/a>",
+		"title":"一致预期：前8月固定资产投资同比增速20.4%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_9_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 16:47:00",
+		"enddate":"2012-09-06 16:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120906\/164713066503.shtml\">read more<\/a>",
+		"title":"一致预期：8月社会消费品零售总额同比增13.2%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_9_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 17:01:00",
+		"enddate":"2012-09-06 17:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120906\/170113066661.shtml\">read more<\/a>",
+		"title":"一致预期：8月进口同比增速均值3.6%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_9_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 17:06:00",
+		"enddate":"2012-09-06 17:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120906\/170613066716.shtml\">read more<\/a>",
+		"title":"一致预期：8月出口同比增速均值3.8%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_9_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 17:13:00",
+		"enddate":"2012-09-06 17:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120906\/171313066763.shtml\">read more<\/a>",
+		"title":"一致预期：8月贸易顺差均值197.1亿美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_9_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing9_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing9_type",
+	"size_importance":"true"
+}]

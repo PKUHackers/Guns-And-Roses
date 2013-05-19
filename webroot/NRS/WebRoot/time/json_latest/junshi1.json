@@ -1,0 +1,249 @@
+[
+{
+	"title":"美国宣布58亿对台军售",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-09-23 14:48:00",
+		"enddate":"2011-09-23 14:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-23\/1448666814.html\">read more<\/a>",
+		"title":"美助理国务卿表示美方尚未决定是否售台F16C/D",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-22 09:22:00",
+		"enddate":"2011-09-22 09:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-22\/0922666565.html\">read more<\/a>",
+		"title":"东南亚欢迎美国拒售台湾新F16 称有助南海稳定",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-22 07:19:00",
+		"enddate":"2011-09-22 07:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-22\/0719666549.html\">read more<\/a>",
+		"title":"中方强烈抗议美对台军售计划 要求撤销错误决定",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-27 07:04:00",
+		"enddate":"2011-09-27 07:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-27\/0704667279.html\">read more<\/a>",
+		"title":"杨洁篪会见希拉里要求美方撤销售台武器决定",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-28 10:35:00",
+		"enddate":"2011-09-28 10:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-28\/1035667480.html\">read more<\/a>",
+		"title":"专家称美国对台军售如同魔咒 六任总统身陷其中",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-23 03:22:00",
+		"enddate":"2011-09-23 03:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-23\/0322666711.html\">read more<\/a>",
+		"title":"评论称对台军售让美国家信用再次一落千丈",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-23 09:58:00",
+		"enddate":"2011-09-23 09:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-23\/0958666766.html\">read more<\/a>",
+		"title":"美对台军售承包商参加北京航展称重视大陆市场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-22 11:10:00",
+		"enddate":"2011-09-22 11:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-22\/1110666587.html\">read more<\/a>",
+		"title":"国防部：美对台军售将给两军交往制造严重障碍",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-23 09:22:00",
+		"enddate":"2011-09-23 09:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-23\/0922666756.html\">read more<\/a>",
+		"title":"媒体称台湾F-16升级后仍无力对抗大陆俄制战机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-23 08:57:00",
+		"enddate":"2011-09-23 08:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-23\/0857666752.html\">read more<\/a>",
+		"title":"美国政府向军工企业妥协售台武器是饮鸩止渴",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-24 09:31:00",
+		"enddate":"2011-09-24 09:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-24\/0931666917.html\">read more<\/a>",
+		"title":"美国涉台军售公司参加北京航展 称扩大在华业务",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-22 10:39:00",
+		"enddate":"2011-09-22 10:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-22\/1039666581.html\">read more<\/a>",
+		"title":"国防部召见美国驻华武官抗议美对台军售",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-23 09:27:00",
+		"enddate":"2011-09-23 09:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-23\/0927666757.html\">read more<\/a>",
+		"title":"罗援少将称中国可效仿俄罗斯对美国以牙还牙",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-22 07:19:00",
+		"enddate":"2011-09-22 07:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-22\/0719666550.html\">read more<\/a>",
+		"title":"中国外交部紧急召见美国驻华大使抗议对台军售",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-23 08:45:00",
+		"enddate":"2011-09-23 08:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-23\/0845666749.html\">read more<\/a>",
+		"title":"评论称美国军售是慢性毒药 台军实力越买越弱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_1_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi1_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi1_type",
+	"size_importance":"true"
+}]
