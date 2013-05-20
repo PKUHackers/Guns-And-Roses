@@ -1,0 +1,249 @@
+[
+{
+	"title":"叙利亚局势持续紧张",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-15 18:26:00",
+		"enddate":"2012-10-15 18:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-15\/182625362621.shtml\">read more<\/a>",
+		"title":"土耳其再次出动战机拦截飞往叙利亚货机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_9_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-03 16:05:00",
+		"enddate":"2012-10-03 16:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-03\/160525297660.shtml\">read more<\/a>",
+		"title":"叙利亚阿勒颇市广场发生3起恐怖爆炸",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_9_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 09:31:00",
+		"enddate":"2012-10-11 09:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-11\/093125336385.shtml\">read more<\/a>",
+		"title":"叙利亚客机被土耳其截留数小时后重新起飞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_9_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 07:48:00",
+		"enddate":"2012-10-08 07:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-08\/074825312515.shtml\">read more<\/a>",
+		"title":"叙利亚首都警局遭汽车炸弹袭击已致1死",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_9_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 06:38:00",
+		"enddate":"2012-10-04 06:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-04\/063825299109.shtml\">read more<\/a>",
+		"title":"北约要求叙利亚立即停止对土耳其的侵犯行为",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_9_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 07:10:00",
+		"enddate":"2012-10-11 07:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-11\/071025334893.shtml\">read more<\/a>",
+		"title":"土耳其拦截叙利亚客机称疑其向叙运输武器",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_9_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 01:10:00",
+		"enddate":"2012-09-20 01:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-20\/011025210582.shtml\">read more<\/a>",
+		"title":"俄称西方向叙反对派提供武器违反日内瓦公报",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_9_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 14:05:00",
+		"enddate":"2012-10-08 14:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-08\/140525314025.shtml\">read more<\/a>",
+		"title":"土耳其总理呼吁国民做好与叙利亚开战准备",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_9_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 09:03:00",
+		"enddate":"2012-10-10 09:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-10\/090325328034.shtml\">read more<\/a>",
+		"title":"潘基文呼吁叙利亚政府立即宣布单方面停火",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_9_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 08:45:00",
+		"enddate":"2012-09-27 08:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-27\/084525264346.shtml\">read more<\/a>",
+		"title":"美官员称将向叙反对派提供更多非军事性援助",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_9_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-07 01:44:00",
+		"enddate":"2012-10-07 01:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-07\/014425306966.shtml\">read more<\/a>",
+		"title":"土耳其可能在叙边境设隔离区为军事介入铺垫",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_9_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 17:21:00",
+		"enddate":"2012-10-15 17:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-15\/172125362289.shtml\">read more<\/a>",
+		"title":"一架亚美尼亚飞机飞往叙利亚被土耳其拦截",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_9_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 00:23:00",
+		"enddate":"2012-10-11 00:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-11\/002325331783.shtml\">read more<\/a>",
+		"title":"叙政府称潘基文呼吁其单方停火缺乏完整性",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_9_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 15:04:00",
+		"enddate":"2012-10-16 15:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-16\/150425369550.shtml\">read more<\/a>",
+		"title":"叙利亚政府军否认使用集束炸弹对付反对派",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_9_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 17:32:00",
+		"enddate":"2012-09-26 17:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-26\/173225259246.shtml\">read more<\/a>",
+		"title":"伊朗电视台女记者在叙利亚遭狙击手射杀",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_9_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji9_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji9_type",
+	"size_importance":"true"
+}]

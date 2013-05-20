@@ -1,0 +1,189 @@
+[
+{
+	"title":"电视剧《乱世书香》",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-17 02:23:00",
+		"enddate":"2012-09-17 02:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-17\/02233743454.shtml\">read more<\/a>",
+		"title":"张鲁一小陶虹《乱世书香》默契搭戏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_20_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-19 14:57:00",
+		"enddate":"2012-09-19 14:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-19\/14573746150.shtml\">read more<\/a>",
+		"title":"《乱世书香》吴秀波剧中为爱与姜武反目",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_20_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 17:10:00",
+		"enddate":"2012-09-20 17:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-20\/17103747482.shtml\">read more<\/a>",
+		"title":"《乱世书香》小陶虹回归荧屏巩固地位",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_20_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 11:54:00",
+		"enddate":"2012-09-21 11:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-21\/11543748199.shtml\">read more<\/a>",
+		"title":"《乱世书香》小陶虹为吴秀波挡子弹",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_20_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 14:59:00",
+		"enddate":"2012-09-24 14:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-24\/14593750741.shtml\">read more<\/a>",
+		"title":"《乱世书香》将杀青 吴秀波演张嘉译儿子",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_20_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 16:14:00",
+		"enddate":"2012-09-24 16:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-24\/16143750907.shtml\">read more<\/a>",
+		"title":"《乱世书香》吴秀波挑战三重身份(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_20_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 10:02:00",
+		"enddate":"2012-09-26 10:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-26\/10023752688.shtml\">read more<\/a>",
+		"title":"《乱世书香》杀青 吴秀波跨越15年演书生",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_20_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 11:34:00",
+		"enddate":"2012-09-26 11:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-26\/11343752861.shtml\">read more<\/a>",
+		"title":"姜武《乱世书香》单恋发小将吴秀波当情敌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_20_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 13:19:00",
+		"enddate":"2012-09-26 13:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-26\/13193752961.shtml\">read more<\/a>",
+		"title":"吴秀波演绎《乱世书香》 尽显乱世文人风骨",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_20_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 14:59:00",
+		"enddate":"2012-10-15 14:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-15\/14593763888.shtml\">read more<\/a>",
+		"title":"吴秀波《乱世书香》引陶虹咏梅二女争夫",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_20_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 15:07:00",
+		"enddate":"2012-10-17 15:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-17\/15073765788.shtml\">read more<\/a>",
+		"title":"吴秀波《乱世书香》投笔从戎形象颠覆(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_20_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule20_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule20_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,219 @@
+[
+{
+	"title":"上海贫困女研究生自杀",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-12-14 18:53:00",
+		"enddate":"2009-12-14 18:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-12-14\/185319258186.shtml\">read more<\/a>",
+		"title":"女研究生自缢 校方愿付16万慰问金否认有责",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_7_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-10 03:29:00",
+		"enddate":"2009-12-10 03:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-12-10\/032919227427.shtml\">read more<\/a>",
+		"title":"研究生宿舍内自杀 家属质疑学校延误抢救时间",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_7_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-11 02:16:00",
+		"enddate":"2009-12-11 02:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-12-11\/021619234451.shtml\">read more<\/a>",
+		"title":"贫困女研究生疑因带母求学遭拒自缢身亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_7_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-11 12:00:00",
+		"enddate":"2009-12-11 12:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-12-11\/120019240043.shtml\">read more<\/a>",
+		"title":"女研究生宿舍内上吊自杀 学校发布事件情况说明",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_7_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-13 01:43:00",
+		"enddate":"2009-12-13 01:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-12-13\/014319247753.shtml\">read more<\/a>",
+		"title":"贫困女研究生自缢续：死者家属称遭校方威胁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_7_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-14 18:41:00",
+		"enddate":"2009-12-14 18:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-12-14\/184119258169.shtml\">read more<\/a>",
+		"title":"贫困研究生自缢续:网帖称博士弟弟索安葬费购房",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_7_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-15 02:03:00",
+		"enddate":"2009-12-15 02:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-12-15\/020319258870.shtml\">read more<\/a>",
+		"title":"贫困女研究生自缢续：网帖称其弟索安葬费购房",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_7_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-15 11:41:00",
+		"enddate":"2009-12-15 11:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-12-15\/114119263891.shtml\">read more<\/a>",
+		"title":"自缢女研究生遗体今日火化 赔偿尚未谈妥",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_7_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-16 02:10:00",
+		"enddate":"2009-12-16 02:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-12-16\/021019267556.shtml\">read more<\/a>",
+		"title":"贫困女研究生自杀续：校方拒绝以单位名义道歉",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_7_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-16 09:56:00",
+		"enddate":"2009-12-16 09:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-12-16\/095619271665.shtml\">read more<\/a>",
+		"title":"贫困女研究生自杀续：因没钱曾放弃到北大读研",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_7_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-17 04:06:00",
+		"enddate":"2009-12-17 04:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-12-17\/040619276053.shtml\">read more<\/a>",
+		"title":"贫困女研究生自杀续:其弟否认索要35万赔偿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_7_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-18 11:50:00",
+		"enddate":"2009-12-18 11:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-12-18\/115019288816.shtml\">read more<\/a>",
+		"title":"贫困女研究生自杀续：曾倾尽积蓄创业办杂志",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_7_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-23 11:27:00",
+		"enddate":"2009-12-23 11:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-12-23\/112719321304.shtml\">read more<\/a>",
+		"title":"上海自杀女硕士被传曾写遗书 其母否认",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_7_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shehui_type"},
+		"ypix":"0",
+		"id":"shehui7_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shehui7_type",
+	"size_importance":"true"
+}]

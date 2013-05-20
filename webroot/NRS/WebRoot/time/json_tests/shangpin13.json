@@ -1,0 +1,324 @@
+[
+{
+	"title":"盘点中国男刊市场",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-10-14 17:42:00",
+		"enddate":"2009-10-14 17:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/2008\/1024\/1427780817.shtml\">read more<\/a>",
+		"title":"《男人装》的压力和中国人的承受底线",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-14 14:40:00",
+		"enddate":"2009-10-14 14:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-14\/144049944.shtml\">read more<\/a>",
+		"title":"调查者说：看好男刊市场(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-14 14:48:00",
+		"enddate":"2009-10-14 14:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-14\/144849949.shtml\">read more<\/a>",
+		"title":"爱看男刊不难堪",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-14 15:42:00",
+		"enddate":"2009-10-14 15:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-14\/154249965.shtml\">read more<\/a>",
+		"title":"都会花花公子读物 男刊的发展趋势(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-14 14:32:00",
+		"enddate":"2009-10-14 14:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-14\/143249942.shtml\">read more<\/a>",
+		"title":"《智族GQ》创刊 时尚男刊争夺战白热化(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-15 19:24:00",
+		"enddate":"2009-10-15 19:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/mt\/2008\/0429\/1743701188.shtml\">read more<\/a>",
+		"title":"男装杂志：吹响“精英”号(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-31 23:10:00",
+		"enddate":"2009-10-31 23:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-31\/231050735.shtml\">read more<\/a>",
+		"title":"《时尚健康-男士》：全球男人的生活意见领袖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-14 17:43:00",
+		"enddate":"2009-10-14 17:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/2008\/1024\/1427780816.shtml\">read more<\/a>",
+		"title":"性感杂志《男人装》的争议与生存之道",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-14 14:56:00",
+		"enddate":"2009-10-14 14:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-14\/145649951.shtml\">read more<\/a>",
+		"title":"时尚期刊向男性看齐",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-14 14:51:00",
+		"enddate":"2009-10-14 14:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-14\/145149950.shtml\">read more<\/a>",
+		"title":"时尚男刊到底消费了什么(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-14 15:01:00",
+		"enddate":"2009-10-14 15:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-14\/150149954.shtml\">read more<\/a>",
+		"title":"《风度》：“中国式”Maxim的生存智慧(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-14 14:58:00",
+		"enddate":"2009-10-14 14:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-14\/145849952.shtml\">read more<\/a>",
+		"title":"抢滩男性期刊市场 谁是赢家",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-15 19:51:00",
+		"enddate":"2009-10-15 19:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-15\/195150040.shtml\">read more<\/a>",
+		"title":"诠释科学生活方式 《智族GQ》杂志在中国上市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-14 20:40:00",
+		"enddate":"2009-10-14 20:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-14\/204049979.shtml\">read more<\/a>",
+		"title":"《GQ》：一本杂志的风流韵事(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-15 12:09:00",
+		"enddate":"2009-10-15 12:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-15\/120950022.shtml\">read more<\/a>",
+		"title":"《men's uno 》:亚洲权威男性时尚杂志(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-14 14:43:00",
+		"enddate":"2009-10-14 14:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-14\/144349947.shtml\">read more<\/a>",
+		"title":"经济危机下《瑞丽》声称男刊不愁广告(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-15 10:54:00",
+		"enddate":"2009-10-15 10:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/news\/2008\/1024\/1511780875.shtml\">read more<\/a>",
+		"title":"国际男性杂志趋势：不把男人变成色情狂",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-15 17:16:00",
+		"enddate":"2009-10-15 17:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-15\/171650032.shtml\">read more<\/a>",
+		"title":"男性时尚杂志 创刊潮流爆发(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-15 17:08:00",
+		"enddate":"2009-10-15 17:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-15\/170850030.shtml\">read more<\/a>",
+		"title":"蜂拥而至为哪般 什么才是男性时尚期刊",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-14 15:27:00",
+		"enddate":"2009-10-14 15:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-10-14\/152749957.shtml\">read more<\/a>",
+		"title":"进入白热化竞争的时尚男刊 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_13_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shangpin_type"},
+		"ypix":"0",
+		"id":"shangpin13_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shangpin13_type",
+	"size_importance":"true"
+}]

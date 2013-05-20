@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012年中国基金投资者服务巡讲",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-07-31 15:30:00",
+		"enddate":"2012-07-31 15:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120731\/153012718690.shtml\">read more<\/a>",
+		"title":"图文：基金巡讲嘉宾答投资者提问现场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-22 16:27:00",
+		"enddate":"2012-08-22 16:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120822\/162712922797.shtml\">read more<\/a>",
+		"title":"图文：基金巡讲北京站活动全景图",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-22 16:05:00",
+		"enddate":"2012-08-22 16:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120822\/160512922371.shtml\">read more<\/a>",
+		"title":"图文：基金巡讲活动投资者颁签到现场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-31 15:05:00",
+		"enddate":"2012-07-31 15:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120731\/150512718363.shtml\">read more<\/a>",
+		"title":"图文：国投瑞银策略分析师葛剑萍",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-31 14:09:00",
+		"enddate":"2012-07-31 14:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120731\/140912717848.shtml\">read more<\/a>",
+		"title":"图文：基金巡讲活动主持人尹晓阳",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-31 14:19:00",
+		"enddate":"2012-07-31 14:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120731\/141912717919.shtml\">read more<\/a>",
+		"title":"图文：基金巡讲活动现场照片",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-20 15:43:00",
+		"enddate":"2012-07-20 15:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120720\/154312628336.shtml\">read more<\/a>",
+		"title":"图文：巡讲广州站国投瑞银基金经理綦缚鹏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-10 15:42:00",
+		"enddate":"2012-07-10 15:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120710\/154212527403.shtml\">read more<\/a>",
+		"title":"图文：巡讲活动现场基金投资者聆听演讲",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-10 16:53:00",
+		"enddate":"2012-07-10 16:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120710\/165312528050.shtml\">read more<\/a>",
+		"title":"图文：华泰联合证券基金研究中心总经理王群航",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-10 16:31:00",
+		"enddate":"2012-07-10 16:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120710\/163112527811.shtml\">read more<\/a>",
+		"title":"刘凯：瑞福进取未来上市溢价交易是大概率事件",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-13 16:29:00",
+		"enddate":"2012-07-13 16:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120713\/162912562595.shtml\">read more<\/a>",
+		"title":"图文：国信证券基金分析师杨涛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-31 15:53:00",
+		"enddate":"2012-07-31 15:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120731\/155312718940.shtml\">read more<\/a>",
+		"title":"国金证券张宇：无配对转换 激活瑞福进取弹性",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-10 17:21:00",
+		"enddate":"2012-07-10 17:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120710\/172112528299.shtml\">read more<\/a>",
+		"title":"王群航：分级指基带来更多交易机会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-31 15:13:00",
+		"enddate":"2012-07-31 15:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120731\/151312718428.shtml\">read more<\/a>",
+		"title":"图文：基金巡讲活动主持人穆毅俊",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-10 17:44:00",
+		"enddate":"2012-07-10 17:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120710\/174412528472.shtml\">read more<\/a>",
+		"title":"图文：巡讲活动现场获奖者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-31 14:03:00",
+		"enddate":"2012-07-31 14:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120731\/140312717789.shtml\">read more<\/a>",
+		"title":"图文：国金证券研究所张宇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-10 15:24:00",
+		"enddate":"2012-07-10 15:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120710\/152412527224.shtml\">read more<\/a>",
+		"title":"图文：国投瑞银瑞福分级基金基金经理朱红裕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-13 16:07:00",
+		"enddate":"2012-07-13 16:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120713\/160712562416.shtml\">read more<\/a>",
+		"title":"图文：基金巡讲活动媒体支持新浪微博",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-22 16:12:00",
+		"enddate":"2012-08-22 16:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120822\/161212922432.shtml\">read more<\/a>",
+		"title":"图文：主持人长盛基金首席理财师于波",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-20 16:50:00",
+		"enddate":"2012-07-20 16:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120720\/165012628837.shtml\">read more<\/a>",
+		"title":"图文：华泰联合证券基金研究中心王群航",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing16_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing16_type",
+	"size_importance":"true"
+}]

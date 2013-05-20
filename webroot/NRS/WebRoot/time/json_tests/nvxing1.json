@@ -1,0 +1,309 @@
+[
+{
+	"title":"2012北美新丝路模特大赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-05-25 18:36:00",
+		"enddate":"2012-05-25 18:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0525\/18361154992.shtml\">read more<\/a>",
+		"title":"男女超模踏上梦想星途 为癌症基金会筹款",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-06 16:11:00",
+		"enddate":"2012-06-06 16:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0606\/16111158265.shtml\">read more<\/a>",
+		"title":"加拿大本地模特选手向中国推广多彩列治文",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 06:42:00",
+		"enddate":"2012-06-08 06:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/06421158792.shtml\">read more<\/a>",
+		"title":"预告：11时直播2012新丝路北美模特大赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 11:11:00",
+		"enddate":"2012-06-08 11:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/11111158794.shtml\">read more<\/a>",
+		"title":"快讯：模特选手登场亮相",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 11:17:00",
+		"enddate":"2012-06-08 11:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/11171158795.shtml\">read more<\/a>",
+		"title":"快讯：112新丝路北美模特大赛 主持人登场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 11:23:00",
+		"enddate":"2012-06-08 11:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/11231158799.shtml\">read more<\/a>",
+		"title":"快讯：大赛花絮播放",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 11:25:00",
+		"enddate":"2012-06-08 11:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/11251158797.shtml\">read more<\/a>",
+		"title":"快讯：12新丝路北美模特大赛 选手介绍",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 11:42:00",
+		"enddate":"2012-06-08 11:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/11421158798.shtml\">read more<\/a>",
+		"title":"快讯：12新丝路北美模特大赛 JNBY日装展示",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 11:49:00",
+		"enddate":"2012-06-08 11:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/11491158802.shtml\">read more<\/a>",
+		"title":"快讯：6号Star和2号Omar获完美体态奖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 11:50:00",
+		"enddate":"2012-06-08 11:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/11501158803.shtml\">read more<\/a>",
+		"title":"快讯：1号Kenzie和4号Tommy获旅游大使奖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 11:54:00",
+		"enddate":"2012-06-08 11:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/11541158805.shtml\">read more<\/a>",
+		"title":"快讯：7号Paulina 和5号Jake获服装表现奖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 12:14:00",
+		"enddate":"2012-06-08 12:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/12141158959.shtml\">read more<\/a>",
+		"title":"快讯：乐队演唱万花筒",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 12:15:00",
+		"enddate":"2012-06-08 12:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/12151158964.shtml\">read more<\/a>",
+		"title":"快讯：12新丝路北美模特大赛 晚装展示",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 12:38:00",
+		"enddate":"2012-06-08 12:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/12381158806.shtml\">read more<\/a>",
+		"title":"快讯：14号Jamie 和3号Chris获佳台风奖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 12:39:00",
+		"enddate":"2012-06-08 12:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/12391158807.shtml\">read more<\/a>",
+		"title":"快讯：15号Julia和8号Ken获季军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 12:41:00",
+		"enddate":"2012-06-08 12:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/12411158808.shtml\">read more<\/a>",
+		"title":"快讯：女模13号Elaina和男模7号Madison获亚军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 13:02:00",
+		"enddate":"2012-06-08 13:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/13021158809.shtml\">read more<\/a>",
+		"title":"女模7号Paulina和男模3号Chris获冠军(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 13:02:00",
+		"enddate":"2012-06-08 13:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/13021158869.shtml\">read more<\/a>",
+		"title":"2012新丝路北美模特大赛总决赛完全获奖名单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 13:13:00",
+		"enddate":"2012-06-08 13:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2012\/0608\/13131158910.shtml\">read more<\/a>",
+		"title":"女模7号Paulina和男模3号Chris获冠军(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_1_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"nvxing_type"},
+		"ypix":"0",
+		"id":"nvxing1_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"nvxing1_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,324 @@
+[
+{
+	"title":"伊朗核危机加剧",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-08-01 11:32:00",
+		"enddate":"2012-08-01 11:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-08-01\/113224885143.shtml\">read more<\/a>",
+		"title":"内贾德回应美国制裁称伊朗应停止出口原油",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-18 17:36:00",
+		"enddate":"2012-06-18 17:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-06-18\/173624613449.shtml\">read more<\/a>",
+		"title":"伊朗与六国莫斯科核谈判今日开始",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-13 07:33:00",
+		"enddate":"2012-06-13 07:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-06-13\/073324583580.shtml\">read more<\/a>",
+		"title":"中国代表称伊核问题应通过对话解决",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-17 08:32:00",
+		"enddate":"2012-07-17 08:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-17\/083224789105.shtml\">read more<\/a>",
+		"title":"希拉里称美以在伊核问题上达成共识",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-31 18:11:00",
+		"enddate":"2012-05-31 18:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-31\/181124513857.shtml\">read more<\/a>",
+		"title":"伊朗暗示伊或有条件放弃生产20%纯度浓缩铀",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-25 07:47:00",
+		"enddate":"2012-05-25 07:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-25\/074724477096.shtml\">read more<\/a>",
+		"title":"伊核问题新一轮谈判将于6月在莫斯科举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 12:42:00",
+		"enddate":"2012-09-18 12:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-18\/124225199066.shtml\">read more<\/a>",
+		"title":"伊朗批评国际原子能机构信息泄露威胁其核安全",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-19 00:47:00",
+		"enddate":"2012-06-19 00:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-06-19\/004724614244.shtml\">read more<\/a>",
+		"title":"内贾德称愿就20%纯度浓缩铀事宜与六国谈判",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-12 21:50:00",
+		"enddate":"2012-06-12 21:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-06-12\/215024580523.shtml\">read more<\/a>",
+		"title":"伊朗否认曾在帕尔钦军事基地从事核活动",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-28 09:10:00",
+		"enddate":"2012-05-28 09:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-05-28\/091024490839.shtml\">read more<\/a>",
+		"title":"伊朗称未同意向核查人员开放帕尔钦基地",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 08:49:00",
+		"enddate":"2012-06-14 08:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-06-14\/084924590320.shtml\">read more<\/a>",
+		"title":"伊朗要求电视直播新一轮核对话",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-04 00:32:00",
+		"enddate":"2012-07-04 00:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-04\/003224706632.shtml\">read more<\/a>",
+		"title":"伊朗伊斯兰革命卫队成功试射多款导弹",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-07 10:49:00",
+		"enddate":"2012-08-07 10:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-08-07\/104924922251.shtml\">read more<\/a>",
+		"title":"伊朗总统同意出席沙特峰会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-03 00:41:00",
+		"enddate":"2012-07-03 00:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-03\/004124699587.shtml\">read more<\/a>",
+		"title":"伊朗议会起草议案呼吁封锁霍尔木兹海峡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 07:32:00",
+		"enddate":"2012-06-08 07:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-06-08\/073224557797.shtml\">read more<\/a>",
+		"title":"俄盼伊核问题代表抱建设性态度出席谈判",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-26 10:40:00",
+		"enddate":"2012-07-26 10:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-26\/104024849146.shtml\">read more<\/a>",
+		"title":"内贾德称伊朗正使用上万台铀浓缩离心机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 02:11:00",
+		"enddate":"2012-08-31 02:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-08-31\/021125070726.shtml\">read more<\/a>",
+		"title":"国际原子能机构称伊朗铀浓缩离心机数量大增",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-13 21:32:00",
+		"enddate":"2012-06-13 21:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-06-13\/213224586919.shtml\">read more<\/a>",
+		"title":"中国与俄罗斯就伊朗核问题举行磋商",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-03 23:03:00",
+		"enddate":"2012-07-03 23:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-07-03\/230324706549.shtml\">read more<\/a>",
+		"title":"伊朗称西方制裁将影响伊核问题谈判",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 08:35:00",
+		"enddate":"2012-06-08 08:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-06-08\/083524558133.shtml\">read more<\/a>",
+		"title":"媒体称伊朗暗示将以强硬姿态参加核谈判",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_14_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji14_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji14_type",
+	"size_importance":"true"
+}]

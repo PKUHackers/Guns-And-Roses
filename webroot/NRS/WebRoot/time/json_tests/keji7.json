@@ -1,0 +1,324 @@
+[
+{
+	"title":"苹果发布第三代iPad",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-03-14 08:00:00",
+		"enddate":"2012-03-14 08:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2012-03-14\/08006835041.shtml\">read more<\/a>",
+		"title":"苹果香港新iPad周四在线摇号预订 排队无效",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-08 03:22:00",
+		"enddate":"2012-03-08 03:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-03-08\/03226813955.shtml\">read more<\/a>",
+		"title":"苹果宣布iPad 2售价下调100美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-10 07:36:00",
+		"enddate":"2012-03-10 07:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2012-03-10\/07366822640.shtml\">read more<\/a>",
+		"title":"eBay推动iPad以旧换新：最高折现475美元(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-18 08:48:00",
+		"enddate":"2012-03-18 08:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/pad\/2012-03-18\/08486847484.shtml\">read more<\/a>",
+		"title":"果粉遭遇尴尬：多数人难区分新iPad与iPad 2",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-19 06:54:00",
+		"enddate":"2012-03-19 06:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2012-03-19\/06542066427.shtml\">read more<\/a>",
+		"title":"价格/渠道全解析 新iPad完全购买指南",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-02 09:24:00",
+		"enddate":"2012-03-02 09:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2012-03-02\/09242050087.shtml\">read more<\/a>",
+		"title":"传iPad3屏幕供货不足 或将Q2才可稳定出货",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-08 05:35:00",
+		"enddate":"2012-03-08 05:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-03-08\/05356814662.shtml\">read more<\/a>",
+		"title":"苹果对新iPad命名存识别困扰：推广或带来尴尬",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-09 01:22:00",
+		"enddate":"2012-03-09 01:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-03-09\/01226817431.shtml\">read more<\/a>",
+		"title":"新iPad中国市场阴晴不定：经销商最高炒到万元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-07 06:00:00",
+		"enddate":"2012-03-07 06:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2012-03-07\/06002055028.shtml\">read more<\/a>",
+		"title":"不惧iPad 3 经销商表示iPad 2不会降价",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-13 05:55:00",
+		"enddate":"2012-03-13 05:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2012-03-13\/05552060748.shtml\">read more<\/a>",
+		"title":"从包装开始 深入分析The new iPad改进",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-08 03:07:00",
+		"enddate":"2012-03-08 03:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/2012-03-08\/03076813821.shtml\">read more<\/a>",
+		"title":"新iPad将于3月16日开卖 中国香港首批上市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-08 02:08:00",
+		"enddate":"2012-03-08 02:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-03-08\/02086813423.shtml\">read more<\/a>",
+		"title":"苹果CEO：去年售出3.15亿台iOS设备",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-15 10:43:00",
+		"enddate":"2012-03-15 10:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-03-15\/10436840158.shtml\">read more<\/a>",
+		"title":"“新iPad”命名法有幕后深义",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-16 09:01:00",
+		"enddate":"2012-03-16 09:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2012-03-16\/09016843865.shtml\">read more<\/a>",
+		"title":"苹果新iPad今起开售 港版售价3888港元起",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-12 09:11:00",
+		"enddate":"2012-03-12 09:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/pad\/2012-03-12\/09116826953.shtml\">read more<\/a>",
+		"title":"苹果宣布新款iPad已预订一空 发货日期推迟",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-08 03:17:00",
+		"enddate":"2012-03-08 03:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-03-08\/03176813830.shtml\">read more<\/a>",
+		"title":"苹果领军后PC时代 售出3亿台移动产品",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-09 11:28:00",
+		"enddate":"2012-03-09 11:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-03-09\/11286820217.shtml\">read more<\/a>",
+		"title":"iPad 3变“新iPad” 苹果排序号命名时代终结",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-19 01:42:00",
+		"enddate":"2012-03-19 01:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-03-19\/01426848570.shtml\">read more<\/a>",
+		"title":"华强北手握20万新iPad水货：输送全国90%货源",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-08 05:13:00",
+		"enddate":"2012-03-08 05:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-03-08\/05136814585.shtml\">read more<\/a>",
+		"title":"新iPad推出对苹果股价影响有限 或因投资者不满",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-08 03:41:00",
+		"enddate":"2012-03-08 03:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-03-08\/03416814268.shtml\">read more<\/a>",
+		"title":"苹果中国iPad 2售价降至2988元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_7_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji7_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji7_type",
+	"size_importance":"true"
+}]

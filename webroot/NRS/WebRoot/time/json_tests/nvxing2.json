@@ -1,0 +1,324 @@
+[
+{
+	"title":"09北美新丝路",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-05-25 19:38:00",
+		"enddate":"2009-05-25 19:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2009\/0525\/1938870348.shtml\">read more<\/a>",
+		"title":"模特大赛是魅力+慈善之赛-模特礼服秀风采",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-25 19:52:00",
+		"enddate":"2009-05-25 19:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2009\/0525\/1952870353.shtml\">read more<\/a>",
+		"title":"选手入围顶级模特选拔决赛-20名入围选手",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-29 11:37:00",
+		"enddate":"2009-05-29 11:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/news\/2009\/0529\/1137871448.shtml\">read more<\/a>",
+		"title":"快讯：09新丝路北美模特大赛 模特泳装舞蹈",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-25 19:53:00",
+		"enddate":"2009-05-25 19:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2009\/0525\/1953870357.shtml\">read more<\/a>",
+		"title":"选手入围顶级模特选拔决赛-模特慈善秀",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-29 12:08:00",
+		"enddate":"2009-05-29 12:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/news\/2009\/0529\/1208871472.shtml\">read more<\/a>",
+		"title":"快讯：09新丝路北美模特大赛 最佳笑容奖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-29 11:39:00",
+		"enddate":"2009-05-29 11:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/news\/2009\/0529\/1139871449.shtml\">read more<\/a>",
+		"title":"快讯：09新丝路北美模特大赛 日装走秀",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-25 19:53:00",
+		"enddate":"2009-05-25 19:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2009\/0525\/1953870358.shtml\">read more<\/a>",
+		"title":"选手入围顶级模特选拔决赛-选手合照",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-29 12:53:00",
+		"enddate":"2009-05-29 12:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/news\/2009\/0529\/1253871507.shtml\">read more<\/a>",
+		"title":"快讯：19号选手Jillian Halldorson获得冠军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-25 19:52:00",
+		"enddate":"2009-05-25 19:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2009\/0525\/1952870354.shtml\">read more<\/a>",
+		"title":"选手入围顶级模特选拔决赛-选手收益拨给基金会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-27 14:24:00",
+		"enddate":"2009-05-27 14:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2009\/0527\/1424871169.shtml\">read more<\/a>",
+		"title":"独家对话 新丝路总裁李小白(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-29 11:13:00",
+		"enddate":"2009-05-29 11:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/news\/2009\/0529\/1113871438.shtml\">read more<\/a>",
+		"title":"快讯：09新丝路北美模特大赛开场 模特穿广西壮族服装",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-25 19:52:00",
+		"enddate":"2009-05-25 19:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2009\/0525\/1952870356.shtml\">read more<\/a>",
+		"title":"选手入围顶级模特选拔决赛-选手展示",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-26 10:43:00",
+		"enddate":"2009-05-26 10:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/p\/2009\/0526\/1043870585.shtml\">read more<\/a>",
+		"title":"幕后花絮揭秘：新丝路超模是怎样炼成的(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-25 19:37:00",
+		"enddate":"2009-05-25 19:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2009\/0525\/1937870347.shtml\">read more<\/a>",
+		"title":"模特大赛是魅力+慈善之赛-参赛模特将做慈善",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-29 12:52:00",
+		"enddate":"2009-05-29 12:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/news\/2009\/0529\/1252871506.shtml\">read more<\/a>",
+		"title":"快讯：20号选手Brianna Webb获得亚军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-29 11:55:00",
+		"enddate":"2009-05-29 11:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/news\/2009\/0529\/1155871465.shtml\">read more<\/a>",
+		"title":"快讯：09新丝路北美模特大赛 比基尼走秀",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-29 12:07:00",
+		"enddate":"2009-05-29 12:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/news\/2009\/0529\/1207871471.shtml\">read more<\/a>",
+		"title":"快讯：09新丝路北美模特大赛 完美体态奖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-27 14:24:00",
+		"enddate":"2009-05-27 14:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/2009\/0527\/1424871168.shtml\">read more<\/a>",
+		"title":"新浪女性独家专访-河石娱乐度假酒店老板",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-29 14:24:00",
+		"enddate":"2009-05-29 14:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/news\/2009\/0529\/1424871556.shtml\">read more<\/a>",
+		"title":"快讯：09新丝路北美模特大赛 最佳台风奖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-26 12:11:00",
+		"enddate":"2009-05-26 12:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/fa\/p\/2009\/0526\/1211870632.shtml\">read more<\/a>",
+		"title":"组图：三类美女冲击09新丝路北美模特大赛冠军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_2_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"nvxing_type"},
+		"ypix":"0",
+		"id":"nvxing2_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"nvxing2_type",
+	"size_importance":"true"
+}]

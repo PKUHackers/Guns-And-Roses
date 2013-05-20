@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012俄罗斯胜利日阅兵",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-05-08 14:19:00",
+		"enddate":"2012-05-08 14:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-08\/1419689918.html\">read more<\/a>",
+		"title":"近500名记者将参加莫斯科红场胜利日阅兵报道",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-08 14:27:00",
+		"enddate":"2012-05-08 14:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-08\/1427689920.html\">read more<\/a>",
+		"title":"俄红场阅兵细节披露 机械化方阵将绵延1.5公里",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 07:15:00",
+		"enddate":"2012-05-09 07:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/0715689977.html\">read more<\/a>",
+		"title":"俄罗斯今天举行红场胜利日阅兵 普京将检阅部队",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 07:17:00",
+		"enddate":"2012-05-09 07:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/0717689978.html\">read more<\/a>",
+		"title":"俄卫国战争胜利日阅兵今举行 普京将检阅部队",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 10:19:00",
+		"enddate":"2012-05-09 10:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1019690006.html\">read more<\/a>",
+		"title":"俄历次红场阅兵回顾：2010年海报现斯大林照片",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 10:58:00",
+		"enddate":"2012-05-09 10:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1058690011.html\">read more<\/a>",
+		"title":"俄首都今日举行大阅兵 新任总统普京将发表讲话",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 11:02:00",
+		"enddate":"2012-05-09 11:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1102690012.html\">read more<\/a>",
+		"title":"背景资料：俄卫国战争胜利日红场阅兵回顾",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 13:23:00",
+		"enddate":"2012-05-09 13:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1323690024.html\">read more<\/a>",
+		"title":"前苏联老兵将在纽约庆祝二战胜利日 拟乘车游行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 14:04:00",
+		"enddate":"2012-05-09 14:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1404690025.html\">read more<\/a>",
+		"title":"俄庆祝卫国战争胜利67周年阅兵式开始",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 14:15:00",
+		"enddate":"2012-05-09 14:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1415690028.html\">read more<\/a>",
+		"title":"评论称红场大阅兵振奋俄民族精神",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 14:23:00",
+		"enddate":"2012-05-09 14:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1423690031.html\">read more<\/a>",
+		"title":"俄胜利日阅兵有三大看点 从西方引进装备将亮相",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 14:28:00",
+		"enddate":"2012-05-09 14:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1428690032.html\">read more<\/a>",
+		"title":"俄总统普京出席红场阅兵式并发表致辞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 14:38:00",
+		"enddate":"2012-05-09 14:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1438690033.html\">read more<\/a>",
+		"title":"俄空军飞机驱散莫斯科上空乌云保证红场阅兵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 14:43:00",
+		"enddate":"2012-05-09 14:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1443690034.html\">read more<\/a>",
+		"title":"俄红场阅兵将有1.4万人和约100件武器装备参加",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 14:44:00",
+		"enddate":"2012-05-09 14:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1444690035.html\">read more<\/a>",
+		"title":"普京在红场阅兵式上致辞称赞军人抗争精神",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 14:54:00",
+		"enddate":"2012-05-09 14:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1454690040.html\">read more<\/a>",
+		"title":"俄军莫斯科军区司令任红场阅兵总指挥",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 14:57:00",
+		"enddate":"2012-05-09 14:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1457690042.html\">read more<\/a>",
+		"title":"普京时隔4年后再次以俄总统身份阅兵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 15:28:00",
+		"enddate":"2012-05-09 15:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1528690055.html\">read more<\/a>",
+		"title":"普京在胜利日阅兵式上演讲称不应让战争重演",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 15:31:00",
+		"enddate":"2012-05-09 15:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1531690056.html\">read more<\/a>",
+		"title":"俄红场阅兵军乐队演奏5首进行曲",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 16:11:00",
+		"enddate":"2012-05-09 16:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-09\/1611690059.html\">read more<\/a>",
+		"title":"俄总统普京称希望人民更加团结 保卫国家尊严",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_14_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi14_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi14_type",
+	"size_importance":"true"
+}]

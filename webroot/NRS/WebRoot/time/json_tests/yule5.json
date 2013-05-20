@@ -1,0 +1,324 @@
+[
+{
+	"title":"央视综艺节目专区",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-05-23 12:42:00",
+		"enddate":"2012-05-23 12:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-05-23\/12423637919.shtml\">read more<\/a>",
+		"title":"郭易半失声状态登央视《开心辞典》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-21 06:39:00",
+		"enddate":"2012-08-21 06:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/x\/2012-08-21\/06393717124.shtml\">read more<\/a>",
+		"title":"《星光大道》成都海选启动",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-25 03:19:00",
+		"enddate":"2012-08-25 03:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/x\/2012-08-25\/03193721573.shtml\">read more<\/a>",
+		"title":"河南农民工 自创歌曲参加《星光大道》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-14 17:49:00",
+		"enddate":"2012-02-14 17:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-02-14\/17493554782.shtml\">read more<\/a>",
+		"title":"焦恩俊《开心辞典》智斗王小丫大获全胜(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-15 10:25:00",
+		"enddate":"2012-06-15 10:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-06-15\/10253658092.shtml\">read more<\/a>",
+		"title":"《星光大道》发声明打击虚假中奖信息",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-10 17:58:00",
+		"enddate":"2012-05-10 17:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-05-10\/17583627180.shtml\">read more<\/a>",
+		"title":"齐奎与萨日娜《艺术人生》中畅谈“母子情”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-23 05:19:00",
+		"enddate":"2012-08-23 05:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-08-23\/05193719437.shtml\">read more<\/a>",
+		"title":"巴蜀笑星巴登报名《星光大道》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-26 15:51:00",
+		"enddate":"2011-10-26 15:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2011-10-26\/15513461275.shtml\">read more<\/a>",
+		"title":"章子怡做客《艺术人生》 被赞中国电影领跑者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-25 00:04:00",
+		"enddate":"2012-07-25 00:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/h\/2012-07-25\/00043693862.shtml\">read more<\/a>",
+		"title":"梁咏琪《华人星光大道》首任评委",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-06 17:04:00",
+		"enddate":"2012-06-06 17:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-06-06\/17043650594.shtml\">read more<\/a>",
+		"title":"李烁《星光大道》夺月冠被赞有神韵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-10 10:37:00",
+		"enddate":"2011-11-10 10:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/s\/m\/2011-11-10\/10373477845.shtml\">read more<\/a>",
+		"title":"熙道做客新浪微访谈 分享他的艺术人生",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-26 14:14:00",
+		"enddate":"2011-10-26 14:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/s\/m\/2011-10-26\/14143461131.shtml\">read more<\/a>",
+		"title":"李光洁《艺术人生》吐心声：初当导演不容易",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-04 17:42:00",
+		"enddate":"2012-06-04 17:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-06-04\/17423648459.shtml\">read more<\/a>",
+		"title":"娃娃李烁获《星光大道》周冠军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-29 12:16:00",
+		"enddate":"2012-05-29 12:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-05-29\/12163643215.shtml\">read more<\/a>",
+		"title":"陈浩民携新专辑做客《星光大道》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-21 16:04:00",
+		"enddate":"2012-08-21 16:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-08-21\/16043717755.shtml\">read more<\/a>",
+		"title":"《星光大道》成都海选启动",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-30 17:54:00",
+		"enddate":"2011-12-30 17:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2011-12-30\/17543521812.shtml\">read more<\/a>",
+		"title":"《艺术人生》朱军白岩松于丹回溯温暖(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-29 03:59:00",
+		"enddate":"2012-08-29 03:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/s\/m\/2012-08-29\/03593724739.shtml\">read more<\/a>",
+		"title":"7岁全能女孩报名参加星光大道",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-26 15:28:00",
+		"enddate":"2011-10-26 15:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/s\/m\/2011-10-26\/15283461239.shtml\">read more<\/a>",
+		"title":"章子怡做客《艺术人生》 聊新中国电影选萃展映",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-17 14:27:00",
+		"enddate":"2012-01-17 14:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-01-17\/14273536308.shtml\">read more<\/a>",
+		"title":"《开心辞典》推公益节目现场明星大对决",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-17 14:23:00",
+		"enddate":"2012-01-17 14:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-01-17\/14233536305.shtml\">read more<\/a>",
+		"title":"王茜录制《艺术人生》吐露心声演员心态最重要",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_5_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule5_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule5_type",
+	"size_importance":"true"
+}]

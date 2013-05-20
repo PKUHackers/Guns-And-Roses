@@ -1,0 +1,132 @@
+[
+{
+	"title":"航空",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-06-20 11:43:00",
+		"enddate":"2012-07-16 17:06:00",
+		"description":"2012范堡罗航展",
+		"title":"2012范堡罗航展",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/hangkong0.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"hangkong0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-13 08:57:00",
+		"enddate":"2012-09-13 09:23:00",
+		"description":"欧盟征收航空碳排放税",
+		"title":"欧盟征收航空碳排放税",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/hangkong1.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"hangkong1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-21 14:36:00",
+		"enddate":"2011-10-30 06:13:00",
+		"description":"空客A380交付中国南方航空",
+		"title":"空客A380交付中国南方航空",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/hangkong2.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"hangkong2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-29 21:43:00",
+		"enddate":"2012-08-31 05:02:00",
+		"description":"国航北京飞纽约航班受威胁返航",
+		"title":"国航北京飞纽约航班受威胁返航",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/hangkong3.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"hangkong3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-07 11:05:00",
+		"enddate":"2012-06-14 10:02:00",
+		"description":"国际航协第68届年度大会",
+		"title":"国际航协第68届年度大会",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/hangkong4.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"hangkong4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-21 14:47:00",
+		"enddate":"2012-08-22 16:55:00",
+		"description":"波音747-8洲际客机体验之旅",
+		"title":"波音747-8洲际客机体验之旅",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/hangkong5.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"hangkong5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"type"},
+		"ypix":"0",
+		"id":"hangkong_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"hangkong_type",
+	"size_importance":"true"
+}]

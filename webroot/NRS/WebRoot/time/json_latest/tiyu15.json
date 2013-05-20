@@ -1,0 +1,189 @@
+[
+{
+	"title":"SRIXON-XXIO女子公开赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-08 17:02:00",
+		"enddate":"2012-10-08 17:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-08\/17026251973.shtml\">read more<\/a>",
+		"title":"SRIXON签约球员白云雁：很期待我们自己的比赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_15_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 17:04:00",
+		"enddate":"2012-10-08 17:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-08\/17046251974.shtml\">read more<\/a>",
+		"title":"XXIO女子公开赛将战 孟涛：打造一场经典的女子赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_15_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 17:10:00",
+		"enddate":"2012-10-08 17:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-08\/17106251978.shtml\">read more<\/a>",
+		"title":"邓禄普体育代表三村修平：打造中国球友喜爱的品牌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_15_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 17:17:00",
+		"enddate":"2012-10-08 17:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-08\/17176251982.shtml\">read more<\/a>",
+		"title":"无锡锦园俱乐部吴文春：精品球场呈呈现精彩赛事",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_15_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 14:25:00",
+		"enddate":"2012-10-11 14:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-11\/14256254686.shtml\">read more<\/a>",
+		"title":"2012SRIXON XXIO女子公开赛名单 81名中外选手参赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_15_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 12:18:00",
+		"enddate":"2012-10-15 12:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-15\/12186258721.shtml\">read more<\/a>",
+		"title":"首届SRIXON XXIO女子赛本周开战 总奖金15万美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_15_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 22:26:00",
+		"enddate":"2012-10-16 22:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-16\/22266260107.shtml\">read more<\/a>",
+		"title":"SRIXON XXIO女子赛福利多 免费项目令球员感激",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_15_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 16:50:00",
+		"enddate":"2012-10-17 16:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-17\/16506261008.shtml\">read more<\/a>",
+		"title":"无锡锦园免餐费场地费 SRIXON女子赛受球员赞赏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_15_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 20:35:00",
+		"enddate":"2012-10-17 20:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-17\/20356261162.shtml\">read more<\/a>",
+		"title":"白云雁黎佳韵等冠军助阵 SRIXON XXIO女子赛揭幕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_15_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 09:40:00",
+		"enddate":"2012-10-18 09:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-18\/09406261614.shtml\">read more<\/a>",
+		"title":"SRIXON XXIO女子公开赛第一轮分组 19日8:00开球",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_15_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 10:17:00",
+		"enddate":"2012-10-18 10:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-10-18\/10176261713.shtml\">read more<\/a>",
+		"title":"SRIXON XXIO女子赛首轮分组 第一组选手8:00开球",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_15_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu15_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu15_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,249 @@
+[
+{
+	"title":"大闸蟹乱象",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-26 06:59:00",
+		"enddate":"2012-09-26 06:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyscdt\/20120926\/065913241053.shtml\">read more<\/a>",
+		"title":"月饼大闸蟹团购遭遇审美疲劳 购买人次猛降3成",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 00:33:00",
+		"enddate":"2012-09-27 00:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120927\/003313250105.shtml\">read more<\/a>",
+		"title":"长沙：虚实之间大闸蟹身价大跌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 09:32:00",
+		"enddate":"2012-09-28 09:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/hyxx\/20120928\/093213268301.shtml\">read more<\/a>",
+		"title":"各地大闸蟹批量上市蟹斗惨烈 业内忧丰产难丰收",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-22 02:31:00",
+		"enddate":"2012-09-22 02:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120922\/023113208317.shtml\">read more<\/a>",
+		"title":"阳澄湖蟹农称经济不景气影响大闸蟹销售",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 15:23:00",
+		"enddate":"2012-09-25 15:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/hyxx\/20120925\/152313234382.shtml\">read more<\/a>",
+		"title":"阳澄湖大闸蟹追踪:千余家养殖户经营800多个品牌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-22 02:39:00",
+		"enddate":"2012-09-22 02:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120922\/023913208513.shtml\">read more<\/a>",
+		"title":"大闸蟹进京必须持检测报告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 00:59:00",
+		"enddate":"2012-09-24 00:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120924\/005913214384.shtml\">read more<\/a>",
+		"title":"大闸蟹被大肆炒作价格推上天",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 17:32:00",
+		"enddate":"2012-09-25 17:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/hyxx\/20120925\/173213235997.shtml\">read more<\/a>",
+		"title":"萧山天价阳澄湖大闸蟹无人问津 仅能存活3天",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-23 02:59:00",
+		"enddate":"2012-09-23 02:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nybgt\/20120923\/025913211970.shtml\">read more<\/a>",
+		"title":"今年大闸蟹价格比去年便宜两成",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 10:42:00",
+		"enddate":"2012-09-25 10:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120925\/104213231631.shtml\">read more<\/a>",
+		"title":"大闸蟹快递：投诉跟着销量涨",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 09:08:00",
+		"enddate":"2012-09-26 09:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/hyxx\/20120926\/090813242780.shtml\">read more<\/a>",
+		"title":"萧山市场大闸蟹有点离谱 专卖店最贵1只500元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 10:40:00",
+		"enddate":"2012-09-25 10:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120925\/104013231587.shtml\">read more<\/a>",
+		"title":"阳澄湖大闸蟹厦门销售火爆 蟹商暗自偷笑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 07:32:00",
+		"enddate":"2012-09-29 07:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120929\/073213276819.shtml\">read more<\/a>",
+		"title":"广州阳澄湖大闸蟹今年价格总体上升15%至25%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 10:45:00",
+		"enddate":"2012-09-25 10:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyscdt\/20120925\/104513231704.shtml\">read more<\/a>",
+		"title":"广州黄沙大闸蟹上市贵了约两成 国庆节后或回落",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 16:47:00",
+		"enddate":"2012-10-08 16:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/consume\/puguangtai\/20121008\/164713307472.shtml\">read more<\/a>",
+		"title":"蟹券消费遇三难 消费者应擦亮双眼",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_17_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing17_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing17_type",
+	"size_importance":"true"
+}]

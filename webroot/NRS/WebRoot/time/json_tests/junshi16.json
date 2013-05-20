@@ -1,0 +1,324 @@
+[
+{
+	"title":"第49届巴黎航展",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-06-20 06:22:00",
+		"enddate":"2011-06-20 06:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-06-20\/0622652792.html\">read more<\/a>",
+		"title":"中国C919大型客机样机首次在海外展出引关注",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-23 15:30:00",
+		"enddate":"2011-06-23 15:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-06-23\/1530653601.html\">read more<\/a>",
+		"title":"俄发动机厂商欲与中方联合为C919研制新发动机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-22 10:05:00",
+		"enddate":"2011-06-22 10:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-06-22\/1005653289.html\">read more<\/a>",
+		"title":"空客C295预警机亮相巴黎航展将与中国争低端市场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-23 17:02:00",
+		"enddate":"2011-06-23 17:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-06-23\/1702653626.html\">read more<\/a>",
+		"title":"波音展望未来飞行员需求呼吁加大人才培养",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-20 16:08:00",
+		"enddate":"2011-06-20 16:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/usstock\/c\/20110618\/053310011701.shtml\">read more<\/a>",
+		"title":"波音和空客将在巴黎航展上争夺客户订单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-24 08:40:00",
+		"enddate":"2011-06-24 08:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-06-24\/0840653724.html\">read more<\/a>",
+		"title":"中国售巴新造枭龙战机搭载意制先进航电系统",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-22 14:42:00",
+		"enddate":"2011-06-22 14:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-06-22\/1442653339.html\">read more<\/a>",
+		"title":"空客在巴黎航展推概念客舱免费应用软件",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-24 12:05:00",
+		"enddate":"2011-06-24 12:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-06-24\/1205653751.html\">read more<\/a>",
+		"title":"空中客车在2011巴黎航展共获730架飞机订单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-22 15:49:00",
+		"enddate":"2011-06-22 15:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-06-22\/1549653354.html\">read more<\/a>",
+		"title":"巴航工业与GECAS达成两架E-喷气飞机销售协议",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-21 11:33:00",
+		"enddate":"2011-06-21 11:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2011-06-21\/111522678683.shtml\">read more<\/a>",
+		"title":"波音称中国产C919富有竞争力 需保持比中国领先",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-20 16:14:00",
+		"enddate":"2011-06-20 16:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-06-20\/1614652872.html\">read more<\/a>",
+		"title":"A400M军用运输机引擎故障缺席巴黎航展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-16 09:23:00",
+		"enddate":"2011-06-16 09:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-06-16\/0923652249.html\">read more<\/a>",
+		"title":"欧直两款新直升机赴巴黎航展 EC175将飞行展示",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-23 16:04:00",
+		"enddate":"2011-06-23 16:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-06-23\/1604653612.html\">read more<\/a>",
+		"title":"AviancaTaca航空订购51架空客A320系列飞机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-17 11:53:00",
+		"enddate":"2011-06-17 11:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-06-17\/1153652463.html\">read more<\/a>",
+		"title":"波音747-8货机使用可持续燃料飞赴巴黎航展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-20 17:17:00",
+		"enddate":"2011-06-20 17:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-06-20\/1717652889.html\">read more<\/a>",
+		"title":"卡塔尔航空公司订购6架波音777-300型客机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-10 11:04:00",
+		"enddate":"2011-06-10 11:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-06-10\/1104651272.html\">read more<\/a>",
+		"title":"庞巴迪C系列飞机新获10架订单 巴黎航展或追加",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-23 05:04:00",
+		"enddate":"2011-06-23 05:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-06-23\/0504653503.html\">read more<\/a>",
+		"title":"中国巴西等新兴市场国家飞机获大笔订单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-22 10:39:00",
+		"enddate":"2011-06-22 10:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-06-22\/1039653297.html\">read more<\/a>",
+		"title":"美国专家称日本军用飞机设计生产能力急剧下降",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-20 08:14:00",
+		"enddate":"2011-06-20 08:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-06-20\/0814652804.html\">read more<\/a>",
+		"title":"巴西航空工业公司在巴黎航展面临艰巨考验",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-22 10:54:00",
+		"enddate":"2011-06-22 10:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-06-22\/1054653299.html\">read more<\/a>",
+		"title":"俄媒称中国直升机技术进步巨大 武直10已产十架",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_16_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi16_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi16_type",
+	"size_importance":"true"
+}]

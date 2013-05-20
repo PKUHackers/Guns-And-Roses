@@ -1,0 +1,249 @@
+[
+{
+	"title":"南京医药国资贱卖风波",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-15 03:19:00",
+		"enddate":"2012-10-15 03:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20121015\/031913364568.shtml\">read more<\/a>",
+		"title":"南京医药明年一季将完成中药资产剥离",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_22_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-02 02:04:00",
+		"enddate":"2012-07-02 02:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20120702\/020412450134.shtml\">read more<\/a>",
+		"title":"南京医药转让恒生制药与联合博姿合作再度延期",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_22_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-08 03:47:00",
+		"enddate":"2012-03-08 03:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20120308\/034711539401.shtml\">read more<\/a>",
+		"title":"南京医药信批违规被上交所核查 高价买家实为子公司",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_22_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-13 03:46:00",
+		"enddate":"2012-10-13 03:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20121013\/034613358232.shtml\">read more<\/a>",
+		"title":"南药国际资产4天缩水5亿元 南京医药大秀资本腾挪术",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_22_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-18 17:35:00",
+		"enddate":"2011-12-18 17:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/sdbd\/20111218\/173511013169.shtml\">read more<\/a>",
+		"title":"南京医药资产大甩卖：同仁堂洪泽公司售价仅1元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_22_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-27 02:58:00",
+		"enddate":"2011-12-27 02:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20111227\/025811069278.shtml\">read more<\/a>",
+		"title":"南京医药20亿资金成噱头 财务审计数据仍出错",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_22_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 09:57:00",
+		"enddate":"2012-09-18 09:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20120918\/095713168302.shtml\">read more<\/a>",
+		"title":"英国最大连锁药店收购南京医药12%股份",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_22_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-23 02:47:00",
+		"enddate":"2011-12-23 02:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20111223\/024711046391.shtml\">read more<\/a>",
+		"title":"南京医药股权转让迷雾重重 资本运作风生水起",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_22_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-09 07:12:00",
+		"enddate":"2012-01-09 07:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20120109\/071211161585.shtml\">read more<\/a>",
+		"title":"南京医药借贷新疆天源之谜 手握20亿拆借2800万",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_22_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-22 02:18:00",
+		"enddate":"2011-12-22 02:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20111222\/021811037542.shtml\">read more<\/a>",
+		"title":"南京医药被疑贱卖资产 负债藏猫腻涉嫌虚假记载",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_22_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-13 08:59:00",
+		"enddate":"2012-10-13 08:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20121013\/085913359152.shtml\">read more<\/a>",
+		"title":"南京医药回应资产大甩卖质疑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_22_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 23:50:00",
+		"enddate":"2012-10-12 23:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20121012\/235013356520.shtml\">read more<\/a>",
+		"title":"南京医药1元贱卖老字号被疑转移优质国资",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_22_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-31 21:49:00",
+		"enddate":"2012-01-31 21:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20120131\/214911283552.shtml\">read more<\/a>",
+		"title":"南京医药预计2011年度亏损 三大因素所致",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_22_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 07:35:00",
+		"enddate":"2012-10-10 07:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20121010\/073513325351.shtml\">read more<\/a>",
+		"title":"南京医药1元转让南京同仁堂：被疑国资流失",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_22_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-11 08:14:00",
+		"enddate":"2012-02-11 08:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20120211\/081411358182.shtml\">read more<\/a>",
+		"title":"南京医药董秘解疑回转交易 股权被退致年报预亏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_22_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing22_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing22_type",
+	"size_importance":"true"
+}]

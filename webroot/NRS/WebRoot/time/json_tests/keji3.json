@@ -1,0 +1,189 @@
+[
+{
+	"title":"五一数码相机策划",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-03-22 09:26:00",
+		"enddate":"2012-03-22 09:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/digi\/dc\/2012-03-22\/09266863835.shtml\">read more<\/a>",
+		"title":"自己动手丰衣足食 十个拍好静物照片窍门",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-23 16:09:00",
+		"enddate":"2012-03-23 16:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/digi\/dc\/2012-03-23\/16096869482.shtml\">read more<\/a>",
+		"title":"菜鸟必备 风光摄影的10个相机设置须知",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-01 09:21:00",
+		"enddate":"2012-04-01 09:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/digi\/dc\/2012-04-01\/09216904443.shtml\">read more<\/a>",
+		"title":"勾出你的兴趣点 摄影前景构图技巧推介",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-11 15:55:00",
+		"enddate":"2012-04-11 15:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/digi\/dc\/2012-04-11\/15556940820.shtml\">read more<\/a>",
+		"title":"绝密！8个快速提升你摄影能力的黄金法则",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-12 11:12:00",
+		"enddate":"2012-04-12 11:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/digi\/dc\/2012-04-12\/11126946197.shtml\">read more<\/a>",
+		"title":"让你抓住精彩神韵 7招拍摄生态动物技巧",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-19 10:04:00",
+		"enddate":"2012-04-19 10:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/digi\/dc\/2012-04-19\/10046983327.shtml\">read more<\/a>",
+		"title":"花之少女 打造浪漫诱人的春季人像摄影攻略",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-24 03:59:00",
+		"enddate":"2012-04-24 03:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/digi\/dc\/2012-04-24\/03592106367.shtml\">read more<\/a>",
+		"title":"劳动人民只买超值货 五一选购相机指南",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-25 07:50:00",
+		"enddate":"2012-04-25 07:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/digi\/dc\/2012-04-25\/07507015883.shtml\">read more<\/a>",
+		"title":"提前准备过五一 两千元长焦卡片相机推荐",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-26 17:57:00",
+		"enddate":"2012-04-26 17:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/digi\/dc\/2012-04-26\/17577026751.shtml\">read more<\/a>",
+		"title":"拒绝忽悠不做小白 数码相机常见误区揭秘",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-27 08:33:00",
+		"enddate":"2012-04-27 08:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/digi\/dc\/2012-04-27\/08337030278.shtml\">read more<\/a>",
+		"title":"美妙小长假 五款热门中高端单反入手指南",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-28 05:59:00",
+		"enddate":"2012-04-28 05:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/digi\/dc\/2012-04-28\/05592112861.shtml\">read more<\/a>",
+		"title":"镜头反接不只是玩票 微距摄影另类玩法",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji3_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji3_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,249 @@
+[
+{
+	"title":"好奇号登陆火星",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-08-06 13:36:00",
+		"enddate":"2012-08-06 13:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2012-08-06\/13367472068.shtml\">read more<\/a>",
+		"title":"快讯：好奇号刚刚着陆火星",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-10 11:49:00",
+		"enddate":"2012-08-10 11:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2012-08-10\/11497490831.shtml\">read more<\/a>",
+		"title":"美国好奇号火星车开始测量火星辐射环境",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 09:29:00",
+		"enddate":"2012-09-27 09:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2012-09-27\/09297662536.shtml\">read more<\/a>",
+		"title":"好奇号首次用机械臂检测形状奇特火星岩石",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-07 10:28:00",
+		"enddate":"2012-08-07 10:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2012-08-07\/10287476290.shtml\">read more<\/a>",
+		"title":"好奇号由华裔女孩命名 登陆火星后玩自拍",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-03 19:39:00",
+		"enddate":"2012-08-03 19:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2012-08-03\/19397465160.shtml\">read more<\/a>",
+		"title":"8月6日全程视频直播美国好奇号火星车着陆",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 07:59:00",
+		"enddate":"2012-10-10 07:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2012-10-10\/07597687636.shtml\">read more<\/a>",
+		"title":"好奇号在火星地表发现不明物体似金属碎片(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-06 13:48:00",
+		"enddate":"2012-08-06 13:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2012-08-06\/13487472101.shtml\">read more<\/a>",
+		"title":"首辆核能火星车好奇号在火星着陆(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-07 11:00:00",
+		"enddate":"2012-08-07 11:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2012-08-07\/11007476369.shtml\">read more<\/a>",
+		"title":"评论：“好奇”号为人类探索火星开辟前景",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-03 20:34:00",
+		"enddate":"2012-08-03 20:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2012-08-03\/20347465215.shtml\">read more<\/a>",
+		"title":"详解好奇号着陆全过程：经历恐怖7分钟",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-06 14:18:00",
+		"enddate":"2012-08-06 14:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2012-08-06\/14187472159.shtml\">read more<\/a>",
+		"title":"好奇号发回首批图片：拍到自己的影子",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 08:08:00",
+		"enddate":"2012-10-15 08:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2012-10-15\/08087702003.shtml\">read more<\/a>",
+		"title":"好奇号发现火星类地新岩石(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-18 02:34:00",
+		"enddate":"2012-07-18 02:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2012-07-18\/02347398549.shtml\">read more<\/a>",
+		"title":"美国核动力探测器好奇号8月6日登陆火星",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-10 11:52:00",
+		"enddate":"2012-08-10 11:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2012-08-10\/11527490833.shtml\">read more<\/a>",
+		"title":"好奇号火星车降落火星全过程蒙太奇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-03 08:15:00",
+		"enddate":"2012-09-03 08:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2012-09-03\/08157575559.shtml\">read more<\/a>",
+		"title":"好奇号开始首次科学试车：行进400米分析岩石",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-10 14:53:00",
+		"enddate":"2012-08-10 14:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2012-08-10\/14537491549.shtml\">read more<\/a>",
+		"title":"好奇号开测火星辐射帮助未来载人登火星计划",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji0_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji0_type",
+	"size_importance":"true"
+}]

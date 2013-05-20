@@ -1,0 +1,324 @@
+[
+{
+	"title":"春耕",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-04-13 17:56:00",
+		"enddate":"2012-04-13 17:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120413\/175611821585.shtml\">read more<\/a>",
+		"title":"央视2012年春耕行动河北定州站圆满落幕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-11 18:33:00",
+		"enddate":"2012-04-11 18:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120411\/183311800418.shtml\">read more<\/a>",
+		"title":"云南4万多农技人员下乡抗旱助春耕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-22 08:31:00",
+		"enddate":"2012-03-22 08:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/future\/20120322\/083111650987.shtml\">read more<\/a>",
+		"title":"两会力挺农业 磷肥预期受益",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-21 10:40:00",
+		"enddate":"2012-03-21 10:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120321\/104011642240.shtml\">read more<\/a>",
+		"title":"成品油价格全面进入“8元”时代 应如何应对？",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-12 10:22:00",
+		"enddate":"2012-04-12 10:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/future\/20120412\/102211807384.shtml\">read more<\/a>",
+		"title":"黑龙江省绥化市：水稻催芽走上智能化",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-13 15:45:00",
+		"enddate":"2012-03-13 15:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyqyjj\/20120313\/154511586127.shtml\">read more<\/a>",
+		"title":"山西：万名农业科技人员走入田间地头助农增产增收",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-22 00:01:00",
+		"enddate":"2012-03-22 00:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120322\/000111647030.shtml\">read more<\/a>",
+		"title":"中石化增产成品油保春耕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-22 20:15:00",
+		"enddate":"2012-03-22 20:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120322\/201511656460.shtml\">read more<\/a>",
+		"title":"新华时评：打好全年农业生产第一仗",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-22 10:03:00",
+		"enddate":"2012-03-22 10:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/future\/20120322\/100311652356.shtml\">read more<\/a>",
+		"title":"3月22日湖北地区复合肥市场行情陆续启动",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-23 13:43:00",
+		"enddate":"2012-03-23 13:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyqyjj\/20120323\/134311664401.shtml\">read more<\/a>",
+		"title":"吉林：农资备齐只等开犁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-21 08:48:00",
+		"enddate":"2012-03-21 08:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/future\/futuresnyzx\/20120321\/084811641254.shtml\">read more<\/a>",
+		"title":"我国进入油价高速上涨时代",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-23 05:28:00",
+		"enddate":"2012-03-23 05:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120323\/052811659952.shtml\">read more<\/a>",
+		"title":"春日农耕忙",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-13 16:01:00",
+		"enddate":"2012-03-13 16:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyqyjj\/20120313\/160111586124.shtml\">read more<\/a>",
+		"title":"陕西汉中执法打假护春耕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-23 09:55:00",
+		"enddate":"2012-03-23 09:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120323\/095511662101.shtml\">read more<\/a>",
+		"title":"首都新型农资服务保障体系初步形成",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-23 09:19:00",
+		"enddate":"2012-03-23 09:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyqyjj\/20120323\/091911662550.shtml\">read more<\/a>",
+		"title":"云南抢抓农时促春耕 战胜旱灾保发展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-21 09:05:00",
+		"enddate":"2012-03-21 09:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/insurance\/bxdt\/20120321\/090511641097.shtml\">read more<\/a>",
+		"title":"农民告别靠天吃饭 3块钱买水稻保险 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-12 08:31:00",
+		"enddate":"2012-03-12 08:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/future\/futuresnyzx\/20120312\/083111564559.shtml\">read more<\/a>",
+		"title":"中石油内蒙古销售公司备足柴油保春耕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-12 10:41:00",
+		"enddate":"2012-03-12 10:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyqyjj\/20120312\/104111566504.shtml\">read more<\/a>",
+		"title":"四川广元利州区多举措确保打赢春耕生产第一仗",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-13 10:27:00",
+		"enddate":"2012-04-13 10:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nyqyjj\/20120413\/102711818283.shtml\">read more<\/a>",
+		"title":"湖南麻阳县开展种子打假护春耕行动",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-28 19:32:00",
+		"enddate":"2012-03-28 19:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120328\/193211702593.shtml\">read more<\/a>",
+		"title":"2012春耕行动第三站在大型商品粮基地齐河举办",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_14_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing14_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing14_type",
+	"size_importance":"true"
+}]

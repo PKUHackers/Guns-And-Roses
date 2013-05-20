@@ -1,0 +1,189 @@
+[
+{
+	"title":"HTC发布五款Andorid智能新机",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-11-08 18:04:00",
+		"enddate":"2011-11-08 18:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-11-08\/18046291771.shtml\">read more<\/a>",
+		"title":"人人网联手HTC推2099元社交手机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_1_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 08:56:00",
+		"enddate":"2011-11-08 08:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2011-11-08\/08566289637.shtml\">read more<\/a>",
+		"title":"首批升级Android 4.0 HTC手机名单公布",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_1_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 11:38:00",
+		"enddate":"2011-11-08 11:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2011-11-08\/11386290354.shtml\">read more<\/a>",
+		"title":"4.5英寸触屏 1.2GHz双核HTC Vivid上市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_1_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 16:11:00",
+		"enddate":"2011-11-08 16:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2011-11-08\/16111927195.shtml\">read more<\/a>",
+		"title":"魅力Android新机 HTC Rhyme精美图集",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_1_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 18:26:00",
+		"enddate":"2011-11-08 18:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2011-11-08\/18266291873.shtml\">read more<\/a>",
+		"title":"魔声/高通/谷歌合体 HTC灵感XE现场体验",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_1_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 18:53:00",
+		"enddate":"2011-11-08 18:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2011-11-08\/18536291931.shtml\">read more<\/a>",
+		"title":"HTC发布五款Android智能手机 11月起陆续上市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_1_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 08:02:00",
+		"enddate":"2011-11-08 08:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/s\/2011-11-08\/08026289229.shtml\">read more<\/a>",
+		"title":"HTC宣布首批Android 4.0推送机型名单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_1_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 03:40:00",
+		"enddate":"2011-11-08 03:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-11-08\/03406288007.shtml\">read more<\/a>",
+		"title":"HTC和三星新款WP7.5手机正式上市 50美元起售",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_1_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 09:12:00",
+		"enddate":"2011-11-08 09:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-11-08\/09126289705.shtml\">read more<\/a>",
+		"title":"HTC部分手机明年初升级Android 4.0系统",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_1_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 09:18:00",
+		"enddate":"2011-11-08 09:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-11-08\/09186289719.shtml\">read more<\/a>",
+		"title":"HTC Edge或成全球首款四核手机 配720P屏幕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_1_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 09:19:00",
+		"enddate":"2011-11-08 09:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-11-08\/09196289720.shtml\">read more<\/a>",
+		"title":"HTC中国区总裁任伟光：整个HTC都是水货受害者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_1_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji1_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji1_type",
+	"size_importance":"true"
+}]

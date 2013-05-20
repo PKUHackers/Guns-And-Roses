@@ -1,0 +1,264 @@
+[
+{
+	"title":"再降股票交易印花税？",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-08-02 16:47:00",
+		"enddate":"2012-08-02 16:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/future\/fmnews\/20120802\/164712742486.shtml\">read more<\/a>",
+		"title":"四大期货交易所下调部分品种交易手续费",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-02 17:35:00",
+		"enddate":"2012-08-02 17:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/data\/20120802\/173512742978.shtml\">read more<\/a>",
+		"title":"证监会：此次降费全年可减轻交易成本155亿元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-03 01:26:00",
+		"enddate":"2012-08-03 01:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stocktalk\/20120803\/012612745128.shtml\">read more<\/a>",
+		"title":"对冲时代证监会首提降印花税 效力待观察",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-02 16:37:00",
+		"enddate":"2012-08-02 16:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/y\/20120802\/163712742354.shtml\">read more<\/a>",
+		"title":"证监会：正积极协调研究降低印花税",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-02 16:42:00",
+		"enddate":"2012-08-02 16:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/y\/20120802\/164212742425.shtml\">read more<\/a>",
+		"title":"证监会：9月1日起再次大幅降低证券交易手续费",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-02 16:49:00",
+		"enddate":"2012-08-02 16:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/y\/20120802\/164912742499.shtml\">read more<\/a>",
+		"title":"历次证券交易印花税调整及对股市影响",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-02 17:17:00",
+		"enddate":"2012-08-02 17:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/y\/20120802\/171712742766.shtml\">read more<\/a>",
+		"title":"证监会：降费要让投资者真正得到好处",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-02 17:51:00",
+		"enddate":"2012-08-02 17:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/y\/20120802\/175112743149.shtml\">read more<\/a>",
+		"title":"深交所下调A股交易经手费 按0.0696‰收取",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-02 18:00:00",
+		"enddate":"2012-08-02 18:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/y\/20120802\/180012743220.shtml\">read more<\/a>",
+		"title":"盘点证监会年内三次降费 前两次A股涨跌不一",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-02 20:30:00",
+		"enddate":"2012-08-02 20:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/y\/20120802\/203012743956.shtml\">read more<\/a>",
+		"title":"证监会下调A股交易手续费20%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-02 20:57:00",
+		"enddate":"2012-08-02 20:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/y\/20120802\/205712744114.shtml\">read more<\/a>",
+		"title":"证监会：三次降费反映监管部门信心",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-03 02:21:00",
+		"enddate":"2012-08-03 02:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/y\/20120803\/022112746401.shtml\">read more<\/a>",
+		"title":"证监会降费155亿元 正积极协调研究降低印花税",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-03 02:23:00",
+		"enddate":"2012-08-03 02:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/y\/20120803\/022312746414.shtml\">read more<\/a>",
+		"title":"证券交易手续费降20% 交易成本减负155亿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-03 06:31:00",
+		"enddate":"2012-08-03 06:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/y\/20120803\/063112748106.shtml\">read more<\/a>",
+		"title":"证监会欲降印花税救市 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-03 08:41:00",
+		"enddate":"2012-08-03 08:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/y\/20120803\/084112749395.shtml\">read more<\/a>",
+		"title":"交易费用下月降两成 股民买卖千股过户费省六角",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-03 16:38:00",
+		"enddate":"2012-08-03 16:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/y\/20120803\/163812753778.shtml\">read more<\/a>",
+		"title":"证监会：有关部门近期没有推出降低印花税安排",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_13_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing13_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing13_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,249 @@
+[
+{
+	"title":"白话基金招募书",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-15 11:08:00",
+		"enddate":"2012-10-15 11:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121015\/110813368948.shtml\">read more<\/a>",
+		"title":"白话基金招募书之工银瑞信信用纯债",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 11:07:00",
+		"enddate":"2012-10-15 11:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121015\/110713368943.shtml\">read more<\/a>",
+		"title":"白话基金招募书之建信纯债",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 18:08:00",
+		"enddate":"2012-09-26 18:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120926\/180813248765.shtml\">read more<\/a>",
+		"title":"白话基金招募书之民生加银增利定期",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 10:47:00",
+		"enddate":"2012-10-09 10:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121009\/104713315789.shtml\">read more<\/a>",
+		"title":"白话基金招募书之中邮稳定收益",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 17:53:00",
+		"enddate":"2012-09-21 17:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120921\/175313205985.shtml\">read more<\/a>",
+		"title":"白话基金招募书之交银沪深300行业分层等权重",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 15:04:00",
+		"enddate":"2012-09-28 15:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120928\/150413271804.shtml\">read more<\/a>",
+		"title":"白话基金招募书之光大添天盈",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 11:50:00",
+		"enddate":"2012-10-12 11:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121012\/115013352050.shtml\">read more<\/a>",
+		"title":"白话基金招募书之鹏华中小企业纯债",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 14:28:00",
+		"enddate":"2012-09-27 14:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120927\/142813258935.shtml\">read more<\/a>",
+		"title":"白话基金之汇添富理财28天",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 11:47:00",
+		"enddate":"2012-10-17 11:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121017\/114713394525.shtml\">read more<\/a>",
+		"title":"白话基金招募书之天弘安康养老混合",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 11:48:00",
+		"enddate":"2012-10-17 11:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121017\/114813394528.shtml\">read more<\/a>",
+		"title":"白话基金招募书之平安大华添利纯债",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 15:02:00",
+		"enddate":"2012-09-28 15:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120928\/150213271782.shtml\">read more<\/a>",
+		"title":"白话基金招募书之富国7天理财宝",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 17:54:00",
+		"enddate":"2012-09-21 17:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120921\/175413205994.shtml\">read more<\/a>",
+		"title":"白话基金招募书之易方达中债新综合发起式",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 18:12:00",
+		"enddate":"2012-10-16 18:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121016\/181213385598.shtml\">read more<\/a>",
+		"title":"白话基金招募书之景顺长城支柱产业股票",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 18:07:00",
+		"enddate":"2012-10-11 18:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121011\/180713343264.shtml\">read more<\/a>",
+		"title":"白话基金招募书之华夏理财30天",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 18:09:00",
+		"enddate":"2012-09-26 18:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20120926\/180913248779.shtml\">read more<\/a>",
+		"title":"白话基金招募书之融通岁岁添利",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_16_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing16_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing16_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,324 @@
+[
+{
+	"title":"奥林巴斯深陷财务丑闻",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-11-10 08:28:00",
+		"enddate":"2011-11-10 08:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-11-10\/08286300950.shtml\">read more<\/a>",
+		"title":"日本警方开始调查奥林巴斯财务丑闻",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-12 15:17:00",
+		"enddate":"2011-12-12 15:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-12-12\/15176480747.shtml\">read more<\/a>",
+		"title":"奥林巴斯前CEO将会见日本执政党立法委员",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-12 08:35:00",
+		"enddate":"2011-12-12 08:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-12-12\/08356477208.shtml\">read more<\/a>",
+		"title":"奥林巴斯前CEO将重返日本 欲夺回公司控制权",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-10 16:08:00",
+		"enddate":"2011-11-10 16:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-11-10\/16086302765.shtml\">read more<\/a>",
+		"title":"奥林巴斯推迟公布财报 或进入退市观察名单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-06 12:32:00",
+		"enddate":"2012-01-06 12:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-01-06\/12326609669.shtml\">read more<\/a>",
+		"title":"奥林巴斯前CEO伍德福德称遭遇不公将发起诉讼",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-14 10:49:00",
+		"enddate":"2011-12-14 10:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-12-14\/10496496752.shtml\">read more<\/a>",
+		"title":"奥林巴斯前CEO伍德福德称无意分裂公司",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-15 09:31:00",
+		"enddate":"2011-12-15 09:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-12-15\/09316505907.shtml\">read more<\/a>",
+		"title":"奥林巴斯半年亏损逾4亿美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-26 00:11:00",
+		"enddate":"2011-10-26 00:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-10-26\/00116228551.shtml\">read more<\/a>",
+		"title":"奥林巴斯称前CEO破坏公司声誉欲提起诉讼",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-28 00:35:00",
+		"enddate":"2011-10-28 00:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-10-28\/00356240920.shtml\">read more<\/a>",
+		"title":"记录显示奥林巴斯收购交易可能存利益冲突",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-14 14:31:00",
+		"enddate":"2011-11-14 14:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-11-14\/14316317087.shtml\">read more<\/a>",
+		"title":"传奥林巴斯可缴纳罚款避免退市：股价无量涨停",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-30 09:51:00",
+		"enddate":"2011-11-30 09:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-11-30\/09516403757.shtml\">read more<\/a>",
+		"title":"奥林巴斯或无法按时发布财报 面临退市风险",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 18:09:00",
+		"enddate":"2011-12-07 18:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-12-07\/18096446911.shtml\">read more<\/a>",
+		"title":"奥林巴斯董事会计划集体辞职",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-24 21:31:00",
+		"enddate":"2011-11-24 21:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-11-24\/21316381238.shtml\">read more<\/a>",
+		"title":"奥林巴斯前总裁菊川刚退出董事会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-09 10:15:00",
+		"enddate":"2011-11-09 10:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-11-09\/10156295869.shtml\">read more<\/a>",
+		"title":"奥林巴斯最大海外股东要求解散董事会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 11:15:00",
+		"enddate":"2011-12-09 11:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-12-09\/11156460882.shtml\">read more<\/a>",
+		"title":"奥林巴斯丑闻继续发酵：审计机构遭调查",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-14 15:11:00",
+		"enddate":"2011-12-14 15:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-12-14\/15116498517.shtml\">read more<\/a>",
+		"title":"奥林巴斯补交上半年财报 暂时避免退市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-05 09:30:00",
+		"enddate":"2011-12-05 09:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-12-05\/09306423020.shtml\">read more<\/a>",
+		"title":"传奥林巴斯最多曾掩盖17亿美元投资亏空",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-12 11:00:00",
+		"enddate":"2011-12-12 11:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-12-12\/11006478693.shtml\">read more<\/a>",
+		"title":"奥林巴斯计划12月14日前提交财报以避免退市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-03 10:59:00",
+		"enddate":"2011-11-03 10:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-11-03\/10596270129.shtml\">read more<\/a>",
+		"title":"奥林巴斯前总裁愿意复归原职 参与公司重建",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-20 22:02:00",
+		"enddate":"2011-10-20 22:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-10-20\/22026206864.shtml\">read more<\/a>",
+		"title":"股东要求对奥林巴斯收购Gyrus交易展开调查",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_16_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji16_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji16_type",
+	"size_importance":"true"
+}]

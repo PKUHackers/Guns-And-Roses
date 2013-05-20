@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012酒店榜",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-02-09 14:44:00",
+		"enddate":"2012-02-09 14:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/144491255.shtml\">read more<\/a>",
+		"title":"上海东方佘山索菲特大酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 14:49:00",
+		"enddate":"2012-02-09 14:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/144991256.shtml\">read more<\/a>",
+		"title":"澳门四季酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 14:51:00",
+		"enddate":"2012-02-09 14:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/145191257.shtml\">read more<\/a>",
+		"title":"拉萨瑞吉度假酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 14:52:00",
+		"enddate":"2012-02-09 14:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/145291258.shtml\">read more<\/a>",
+		"title":"杭州西溪悦榕庄",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 14:53:00",
+		"enddate":"2012-02-09 14:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/145391259.shtml\">read more<\/a>",
+		"title":"阳澄湖费尔蒙酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 14:54:00",
+		"enddate":"2012-02-09 14:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/145491260.shtml\">read more<\/a>",
+		"title":"绿城千岛湖喜来登度假酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 14:56:00",
+		"enddate":"2012-02-09 14:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/145691261.shtml\">read more<\/a>",
+		"title":"三亚丽思卡尔顿酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 14:58:00",
+		"enddate":"2012-02-09 14:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/145891262.shtml\">read more<\/a>",
+		"title":"三亚半山半岛洲际度假酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 14:59:00",
+		"enddate":"2012-02-09 14:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/145991263.shtml\">read more<\/a>",
+		"title":"万达三亚海棠湾希尔顿逸林度假酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 15:00:00",
+		"enddate":"2012-02-09 15:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/150091264.shtml\">read more<\/a>",
+		"title":"亚龙湾红树林度假酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 15:01:00",
+		"enddate":"2012-02-09 15:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/150191265.shtml\">read more<\/a>",
+		"title":"三亚天域度假酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 15:02:00",
+		"enddate":"2012-02-09 15:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/150291266.shtml\">read more<\/a>",
+		"title":"石梅湾艾美度假酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 15:04:00",
+		"enddate":"2012-02-09 15:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/150491267.shtml\">read more<\/a>",
+		"title":"厦门艾美酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 15:05:00",
+		"enddate":"2012-02-09 15:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/150591268.shtml\">read more<\/a>",
+		"title":"仁安悦榕庄",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 15:07:00",
+		"enddate":"2012-02-09 15:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/150791269.shtml\">read more<\/a>",
+		"title":"抚仙湖悦椿度假酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 15:08:00",
+		"enddate":"2012-02-09 15:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/150891270.shtml\">read more<\/a>",
+		"title":"雅旺斯(亚布力)国际会展中心酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 15:09:00",
+		"enddate":"2012-02-09 15:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/150991271.shtml\">read more<\/a>",
+		"title":"昆明柏联精品酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 15:11:00",
+		"enddate":"2012-02-09 15:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/151191272.shtml\">read more<\/a>",
+		"title":"十字水生态度假村",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 15:12:00",
+		"enddate":"2012-02-09 15:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/151291273.shtml\">read more<\/a>",
+		"title":"惠州洲际度假酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-09 15:53:00",
+		"enddate":"2012-02-09 15:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/hotels\/2012-02-09\/155391292.shtml\">read more<\/a>",
+		"title":"西安凯宾斯基酒店",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_8_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shangpin_type"},
+		"ypix":"0",
+		"id":"shangpin8_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shangpin8_type",
+	"size_importance":"true"
+}]

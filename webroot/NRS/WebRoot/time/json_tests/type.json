@@ -1,0 +1,200 @@
+[
+{
+    "id": "type",
+    "title": "NRS - TimeLine",
+    "focus_date": "2012-07-01 00:00",
+    "initial_zoom": "33",
+	"color": "white",
+	"size_importance": "true",
+    "events":
+    [
+    
+    {
+        "id": "guoji",
+        "title": "国际",
+        "startdate": "2012-01-01 00:00",
+        "enddate": "2013-01-01 00:00",
+	    "description": "国际类Topic",
+        "event_type": "event",
+        "icon": "triangle_green.png",
+        "low_threshold": "15",
+        "high_threshold": "45",
+        "click_callback":"timeglider.eventActions.downTimeline",
+        "downTimeline":{"url":"json_tests\/guoji.json"},
+        "importance": "35",
+        "ypix": "0",
+        "slug":""
+    },
+    
+    {
+        "id": "shehui",
+        "title": "社会",
+        "startdate": "2012-01-01 00:00",
+        "enddate": "2013-01-01 00:00",
+	    "description": "社会类Topic",
+        "event_type": "event",
+        "icon": "triangle_green.png",
+        "low_threshold": "15",
+        "high_threshold": "45",
+        "click_callback":"timeglider.eventActions.downTimeline",
+        "downTimeline":{"url":"json_tests\/shehui.json"},
+        "importance": "35",
+        "ypix": "0",
+        "slug":""
+    },
+    
+    {
+        "id": "tiyu",
+        "title": "体育",
+        "startdate": "2012-01-01 00:00",
+        "enddate": "2013-01-01 00:00",
+	    "description": "体育类Topic",
+        "event_type": "event",
+        "icon": "triangle_green.png",
+        "low_threshold": "15",
+        "high_threshold": "45",
+        "click_callback":"timeglider.eventActions.downTimeline",
+        "downTimeline":{"url":"json_tests\/tiyu.json"},
+        "importance": "35",
+        "ypix": "0",
+        "slug":""
+    },
+    
+    {
+        "id": "yule",
+        "title": "娱乐",
+        "startdate": "2012-01-01 00:00",
+        "enddate": "2013-01-01 00:00",
+	    "description": "娱乐类Topic",
+        "event_type": "event",
+        "icon": "triangle_green.png",
+        "low_threshold": "15",
+        "high_threshold": "45",
+        "click_callback":"timeglider.eventActions.downTimeline",
+        "downTimeline":{"url":"json_tests\/yule.json"},
+        "importance": "35",
+        "ypix": "0",
+        "slug":""
+    },
+    
+    {
+        "id": "caijing",
+        "title": "财经",
+        "startdate": "2012-01-01 00:00",
+        "enddate": "2013-01-01 00:00",
+	    "description": "财经类Topic",
+        "event_type": "event",
+        "icon": "triangle_green.png",
+        "low_threshold": "15",
+        "high_threshold": "45",
+        "click_callback":"timeglider.eventActions.downTimeline",
+        "downTimeline":{"url":"json_tests\/caijing.json"},
+        "importance": "35",
+        "ypix": "0",
+        "slug":""
+    },
+    
+    {
+        "id": "keji",
+        "title": "科技",
+        "startdate": "2012-01-01 00:00",
+        "enddate": "2013-01-01 00:00",
+	    "description": "科技类Topic",
+        "event_type": "event",
+        "icon": "triangle_green.png",
+        "low_threshold": "15",
+        "high_threshold": "45",
+        "click_callback":"timeglider.eventActions.downTimeline",
+        "downTimeline":{"url":"json_tests\/keji.json"},
+        "importance": "35",
+        "ypix": "0",
+        "slug":""
+    },
+    
+    {
+        "id": "junshi",
+        "title": "军事",
+        "startdate": "2012-01-01 00:00",
+        "enddate": "2013-01-01 00:00",
+	    "description": "军事类Topic",
+        "event_type": "event",
+        "icon": "triangle_green.png",
+        "low_threshold": "15",
+        "high_threshold": "45",
+        "click_callback":"timeglider.eventActions.downTimeline",
+        "downTimeline":{"url":"json_tests\/junshi.json"},
+        "importance": "35",
+        "ypix": "0",
+        "slug":""
+    },
+    
+    {
+        "id": "hangkong",
+        "title": "航空",
+        "startdate": "2012-01-01 00:00",
+        "enddate": "2013-01-01 00:00",
+	    "description": "航空类Topic",
+        "event_type": "event",
+        "icon": "triangle_green.png",
+        "low_threshold": "15",
+        "high_threshold": "45",
+        "click_callback":"timeglider.eventActions.downTimeline",
+        "downTimeline":{"url":"json_tests\/hangkong.json"},
+        "importance": "35",
+        "ypix": "0",
+        "slug":""
+    },
+    
+    {
+        "id": "jiaoyu",
+        "title": "教育",
+        "startdate": "2012-01-01 00:00",
+        "enddate": "2013-01-01 00:00",
+	    "description": "教育类Topic",
+        "event_type": "event",
+        "icon": "triangle_green.png",
+        "low_threshold": "15",
+        "high_threshold": "45",
+        "click_callback":"timeglider.eventActions.downTimeline",
+        "downTimeline":{"url":"json_tests\/jiaoyu.json"},
+        "importance": "35",
+        "ypix": "0",
+        "slug":""
+    },
+    
+    {
+        "id": "nvxing",
+        "title": "女性",
+        "startdate": "2012-01-01 00:00",
+        "enddate": "2013-01-01 00:00",
+	    "description": "女性类Topic",
+        "event_type": "event",
+        "icon": "triangle_green.png",
+        "low_threshold": "15",
+        "high_threshold": "45",
+        "click_callback":"timeglider.eventActions.downTimeline",
+        "downTimeline":{"url":"json_tests\/nvxing.json"},
+        "importance": "35",
+        "ypix": "0",
+        "slug":""
+    },
+    
+    {
+        "id": "shangpin",
+        "title": "尚品",
+        "startdate": "2012-01-01 00:00",
+        "enddate": "2013-01-01 00:00",
+	    "description": "尚品类Topic",
+        "event_type": "event",
+        "icon": "triangle_green.png",
+        "low_threshold": "15",
+        "high_threshold": "45",
+        "click_callback":"timeglider.eventActions.downTimeline",
+        "downTimeline":{"url":"json_tests\/shangpin.json"},
+        "importance": "35",
+        "ypix": "0",
+        "slug":""
+    }
+    ]
+}
+]

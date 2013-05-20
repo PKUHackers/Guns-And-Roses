@@ -1,0 +1,324 @@
+[
+{
+	"title":"政法干警招录考试报道",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-08-01 16:13:00",
+		"enddate":"2012-08-01 16:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-08-01\/1613351104.shtml\">read more<\/a>",
+		"title":"2012政法干警学生培养、管理与毕业录用",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-26 14:43:00",
+		"enddate":"2011-08-26 14:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-08-26\/1443310987.shtml\">read more<\/a>",
+		"title":"内蒙古政法干警招录9月17日笔试",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-01 11:20:00",
+		"enddate":"2012-08-01 11:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-08-01\/1120350977.shtml\">read more<\/a>",
+		"title":"2012年甘肃省政法干警招录工作公告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-24 09:00:00",
+		"enddate":"2011-08-24 09:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-08-24\/0900310686.shtml\">read more<\/a>",
+		"title":"山东试点招录培养政法干警 试点生免学费 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-23 15:30:00",
+		"enddate":"2011-08-23 15:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-08-23\/1530310626.shtml\">read more<\/a>",
+		"title":"2011江苏政法干警招录培养体改试点招录职位",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-10 15:17:00",
+		"enddate":"2012-08-10 15:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-08-10\/1517351920.shtml\">read more<\/a>",
+		"title":"新疆兵团为基层政法机关招培190名公务员",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-20 16:28:00",
+		"enddate":"2012-08-20 16:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-08-20\/1628352742.shtml\">read more<\/a>",
+		"title":"2012年山西省政法干警招录公告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-23 14:38:00",
+		"enddate":"2011-08-23 14:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-08-23\/1438310607.shtml\">read more<\/a>",
+		"title":"广西2011基层政法机关干警招录定向培养职位",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-02 14:59:00",
+		"enddate":"2011-11-02 14:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-11-02\/1459317137.shtml\">read more<\/a>",
+		"title":"山东省政法干警考试8日开始面试",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-24 10:35:00",
+		"enddate":"2012-08-24 10:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-08-24\/1035353182.shtml\">read more<\/a>",
+		"title":"2012年陕西省政法干警招录公告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-14 14:20:00",
+		"enddate":"2011-11-14 14:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-11-14\/1420318183.shtml\">read more<\/a>",
+		"title":"山东省政法干警考察分数公布",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-17 10:09:00",
+		"enddate":"2012-08-17 10:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-08-17\/1009352536.shtml\">read more<\/a>",
+		"title":"新疆招录221名基层政法干警",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-17 13:08:00",
+		"enddate":"2011-09-17 13:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-09-17\/1308313051.shtml\">read more<\/a>",
+		"title":"2009至2010年全国政法干警考试分数线汇总",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-17 13:04:00",
+		"enddate":"2011-09-17 13:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-09-17\/1304313049.shtml\">read more<\/a>",
+		"title":"辽宁政法干警招录笔试开始 报考录取比为14:1",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-24 10:30:00",
+		"enddate":"2012-08-24 10:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-08-24\/1030353179.shtml\">read more<\/a>",
+		"title":"陕西定向招录737名政法干警：28日起报名",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-23 15:28:00",
+		"enddate":"2011-08-23 15:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-08-23\/1528310624.shtml\">read more<\/a>",
+		"title":"2011江苏政法干警招录培养体改试点招录公告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-23 14:12:00",
+		"enddate":"2011-08-23 14:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-08-23\/1412310593.shtml\">read more<\/a>",
+		"title":"江西省2011年政法干警招录培养试点考录公告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-23 14:33:00",
+		"enddate":"2011-08-23 14:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-08-23\/1433310603.shtml\">read more<\/a>",
+		"title":"青海省2011年基层政法干警定向招录培养公告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-01 16:19:00",
+		"enddate":"2012-08-01 16:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-08-01\/1619351109.shtml\">read more<\/a>",
+		"title":"2012年政法干警招录培养体制改革基本原则",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-01 16:16:00",
+		"enddate":"2012-08-01 16:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-08-01\/1616351107.shtml\">read more<\/a>",
+		"title":"2012年政法干警招录改革招录时间安排",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_18_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"jiaoyu_type"},
+		"ypix":"0",
+		"id":"jiaoyu18_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu18_type",
+	"size_importance":"true"
+}]

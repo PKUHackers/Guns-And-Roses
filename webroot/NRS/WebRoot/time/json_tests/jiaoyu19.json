@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012年全国高校硕士研究生招生简章",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-10-12 17:46:00",
+		"enddate":"2011-10-12 17:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-10-12\/1746315168.shtml\">read more<\/a>",
+		"title":"新疆师范大学2012年研究生招生简章目录书目",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-08 18:16:00",
+		"enddate":"2011-10-08 18:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-10-08\/1816314667.shtml\">read more<\/a>",
+		"title":"2012年五邑大学硕士研究生招生简章及专业目录",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-08 17:43:00",
+		"enddate":"2011-10-08 17:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-10-08\/1743314658.shtml\">read more<\/a>",
+		"title":"深圳大学2012年硕士研究生招生简章",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-29 15:03:00",
+		"enddate":"2011-09-29 15:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-09-29\/1503314282.shtml\">read more<\/a>",
+		"title":"华南农业大学2012年硕士研究生招生简章",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-08 10:17:00",
+		"enddate":"2011-10-08 10:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-10-08\/1017314558.shtml\">read more<\/a>",
+		"title":"北京体育大学2012年研究生招生简章目录书目",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-08 17:50:00",
+		"enddate":"2011-10-08 17:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-10-08\/1750314659.shtml\">read more<\/a>",
+		"title":"广州大学2012年硕士研究生招生简章",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-09 14:49:00",
+		"enddate":"2011-10-09 14:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-10-09\/1449314732.shtml\">read more<\/a>",
+		"title":"南京工业大学2012年研究生招生简章目录书目",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-29 17:10:00",
+		"enddate":"2011-09-29 17:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-09-29\/1710314338.shtml\">read more<\/a>",
+		"title":"东北财经大学2012年研究生招生简章目录书目",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-08 16:21:00",
+		"enddate":"2011-10-08 16:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-10-08\/1621314632.shtml\">read more<\/a>",
+		"title":"天津科技大学2012年硕士研究生招生简章",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-29 15:21:00",
+		"enddate":"2011-09-29 15:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-09-29\/1521314295.shtml\">read more<\/a>",
+		"title":"武汉理工大学2012年硕士研究生招生简章",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-08 09:58:00",
+		"enddate":"2011-10-08 09:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-10-08\/0958314548.shtml\">read more<\/a>",
+		"title":"2012年北京舞蹈学院硕士研究生招生简章",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-08 12:16:00",
+		"enddate":"2011-10-08 12:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-10-08\/1216314606.shtml\">read more<\/a>",
+		"title":"上海应用技术学院2012年研究生招生简章",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-29 17:33:00",
+		"enddate":"2011-09-29 17:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-09-29\/1733314349.shtml\">read more<\/a>",
+		"title":"东北农业大学2012年硕士研究生招生简章目录",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-29 15:25:00",
+		"enddate":"2011-09-29 15:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-09-29\/1525314299.shtml\">read more<\/a>",
+		"title":"华中师范大学2012年硕士研究生招生简章",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-29 17:15:00",
+		"enddate":"2011-09-29 17:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-09-29\/1715314340.shtml\">read more<\/a>",
+		"title":"东北师范大学2012年硕士研究生招生简章",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-08 17:14:00",
+		"enddate":"2011-10-08 17:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-10-08\/1714314653.shtml\">read more<\/a>",
+		"title":"重庆交通大学2012年硕士研究生招生简章",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-11 11:41:00",
+		"enddate":"2011-10-11 11:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-10-11\/1141314975.shtml\">read more<\/a>",
+		"title":"天津音乐学院2012年研究生招生简章目录书目",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-08 11:56:00",
+		"enddate":"2011-10-08 11:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-10-08\/1156314598.shtml\">read more<\/a>",
+		"title":"上海电力学院2012年硕士研究生招生简章目录",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-09 17:46:00",
+		"enddate":"2011-10-09 17:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-10-09\/1746314787.shtml\">read more<\/a>",
+		"title":"浙江海洋学院2012年硕士研究生招生简章 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-09 15:50:00",
+		"enddate":"2011-10-09 15:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2011-10-09\/1550314749.shtml\">read more<\/a>",
+		"title":"2012年浙江工业大学硕士研究生简章目录书目",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_19_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"jiaoyu_type"},
+		"ypix":"0",
+		"id":"jiaoyu19_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu19_type",
+	"size_importance":"true"
+}]

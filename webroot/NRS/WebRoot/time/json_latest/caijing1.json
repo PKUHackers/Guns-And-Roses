@@ -1,0 +1,189 @@
+[
+{
+	"title":"展恒理财第十六届私募高峰论坛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-11 16:20:00",
+		"enddate":"2012-10-11 16:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121011\/162013342314.shtml\">read more<\/a>",
+		"title":"展恒理财第16届私募高峰论坛简介",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 14:39:00",
+		"enddate":"2012-10-14 14:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121014\/143913362359.shtml\">read more<\/a>",
+		"title":"展恒理财副总经理李二钢：四季度充满期待",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 15:00:00",
+		"enddate":"2012-10-14 15:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121014\/150013362398.shtml\">read more<\/a>",
+		"title":"展恒理财林科：二级市场的投资机会初现",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 15:39:00",
+		"enddate":"2012-10-14 15:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121014\/153913362490.shtml\">read more<\/a>",
+		"title":"鹏华基金张钶：海外高收益债券投资正当时",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 16:49:00",
+		"enddate":"2012-10-14 16:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121014\/164913362653.shtml\">read more<\/a>",
+		"title":"中邮基金张萌：四季度债券收益率场维持高位",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 17:21:00",
+		"enddate":"2012-10-14 17:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121014\/172113362700.shtml\">read more<\/a>",
+		"title":"毅扬投资郭楷泽：股市的好坏要看资金",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 17:59:00",
+		"enddate":"2012-10-14 17:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121014\/175913362751.shtml\">read more<\/a>",
+		"title":"明曜投资董事长曾昭雄：关注要贸易顺差变化",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 22:03:00",
+		"enddate":"2012-10-14 22:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/fund\/20121014\/220313363014.shtml\">read more<\/a>",
+		"title":"鹏华基金张钶：美国企业还是比较健康",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 16:07:00",
+		"enddate":"2012-10-14 16:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/smjj\/20121014\/160713362549.shtml\">read more<\/a>",
+		"title":"曾昭雄：2000点是十年慢牛行情新起点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 21:39:00",
+		"enddate":"2012-10-14 21:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/smjj\/20121014\/213913362994.shtml\">read more<\/a>",
+		"title":"郭楷泽：市场接近底部 大消费里淘金",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-14 21:51:00",
+		"enddate":"2012-10-14 21:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/smjj\/20121014\/215113363008.shtml\">read more<\/a>",
+		"title":"中邮基金张萌：看好明年信用债表现",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing1_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing1_type",
+	"size_importance":"true"
+}]

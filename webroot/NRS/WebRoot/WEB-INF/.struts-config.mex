@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlowViewLayout Version="1.2">
+  <StrutsActivity path="/IndexAction.do" location="1518,0" dimension="215,88" />
+  <StrutsActivity path="/time/detail.jsp" location="350,50" dimension="101,49" />
+  <StrutsActivity path="/site/login.jsp" location="0,358" dimension="94,49" />
+  <StrutsActivity path="/site/message.jsp" location="194,358" dimension="114,49" />
+  <StrutsActivity path="/site/registe.jsp" location="408,358" dimension="105,49" />
+  <StrutsActivity path="/site/category.jsp" location="50,650" dimension="115,49" />
+  <StrutsActivity path="/index.jsp" location="50,150" dimension="77,49" />
+  <StrutsActivity path="/userprofile/userprofile.xml" location="650,150" dimension="159,49" />
+  <StrutsActivity path="/site/userprofile.jsp" location="808,358" dimension="123,49" />
+  <StrutsActivity path="/site/contact.jsp" location="1031,358" dimension="108,49" />
+  <StrutsActivity path="/site/constructing.jsp" location="1239,358" dimension="131,49" />
+  <StrutsActivity path="/site/content.jsp" location="1470,358" dimension="109,49" />
+  <StrutsActivity path="/site/index.jsp" location="1679,358" dimension="98,49" />
+  <StrutsActivity path="/site/search.jsp" location="1877,358" dimension="104,49" />
+  <StrutsActivity path="/site/marking.jsp" location="950,250" dimension="109,49" />
+  <StrutsActivity path="/site/error.jsp" location="2081,358" dimension="96,49" />
+  <StrutsActivity path="/site/about.jsp" location="2277,358" dimension="100,49" />
+  <StrutsActivity path="/site/compare.jsp" location="2477,358" dimension="113,49" />
+  <StrutsActivity path="/site/topic.jsp" location="613,358" dimension="95,49" />
+  <StrutsActivity path="/site/nopermission.jsp" location="2690,358" dimension="134,49" />
+  <StrutsActivity path="/site/conceptsim.jsp" location="350,550" dimension="125,49" />
+  <StrutsActivity path="/site/judge.jsp" location="2924,358" dimension="99,49" />
+  <StrutsActivity path="/en_index.jsp" location="950,550" dimension="95,49" />
+  <StrutsActivity path="/en-site/about.jsp" location="3353,358" dimension="116,49" />
+  <StrutsActivity path="/en-site/conceptsim.jsp" location="650,550" dimension="141,49" />
+  <StrutsActivity path="/en-site/login.jsp" location="3569,358" dimension="110,49" />
+  <StrutsActivity path="/en-site/topic.jsp" location="6054,358" dimension="111,49" />
+  <StrutsActivity path="/en-site/constructing.jsp" location="3779,358" dimension="147,49" />
+  <StrutsActivity path="/en-site/marking.jsp" location="50,550" dimension="125,49" />
+  <StrutsActivity path="/en-site/index.jsp" location="4026,358" dimension="114,49" />
+  <StrutsActivity path="/en-site/judge.jsp" location="4240,358" dimension="115,49" />
+  <StrutsActivity path="/en-site/registe.jsp" location="4455,358" dimension="121,49" />
+  <StrutsActivity path="/en-site/search.jsp" location="4676,358" dimension="120,49" />
+  <StrutsActivity path="/en-site/compare.jsp" location="4896,358" dimension="129,49" />
+  <StrutsActivity path="/en-site/nopermission.jsp" location="5125,358" dimension="150,49" />
+  <StrutsActivity path="/en-site/contact.jsp" location="5375,358" dimension="124,49" />
+  <StrutsActivity path="/en-site/content.jsp" location="5599,358" dimension="125,49" />
+  <StrutsActivity path="/en-site/message.jsp" location="5824,358" dimension="130,49" />
+  <StrutsActivity path="/en-site/category.jsp" location="1250,550" dimension="131,49" />
+  <StrutsActivity path="/en-site/error.jsp" location="6265,358" dimension="112,49" />
+  <StrutsActivity path="/en-site/userprofile.jsp" location="6477,358" dimension="139,49" />
+  <StrutsActivity path="/feed/userprofile.xml" location="3123,358" dimension="130,49" />
+  <StrutsActivity path="/feed/sina.xml" location="350,150" dimension="98,49" />
+  <StrutsActivity path="index.jsp" location="1250,650" dimension="73,49" />
+  <StrutsActivity path="/time/details.jsp" />
+  <StrutsTransition id="/IndexAction.do,ShowDetail,/time/details.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1625,44" />
+      <AbsolutePoint location="0,0" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/IndexAction.do,ShowDetail,/time/detail.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1625,44" />
+      <AbsolutePoint location="0,0" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+</FlowViewLayout>
+

@@ -1,0 +1,249 @@
+[
+{
+	"title":"电影《铜雀台》",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-07 14:25:00",
+		"enddate":"2012-10-07 14:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-10-07\/14253758231.shtml\">read more<\/a>",
+		"title":"《铜雀台》众星爆料 周润发戏里戏外受欢迎",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 17:08:00",
+		"enddate":"2012-09-18 17:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-18\/17083745265.shtml\">read more<\/a>",
+		"title":"《铜雀台》提前首映 周润发另类解读曹操",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 11:49:00",
+		"enddate":"2012-09-26 11:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-26\/11493752884.shtml\">read more<\/a>",
+		"title":"《铜雀台》首映 周润发飞吻秋波示爱撒娇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 03:39:00",
+		"enddate":"2012-10-08 03:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-10-08\/03393758328.shtml\">read more<\/a>",
+		"title":"新导演用计发哥走上《铜雀台》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 18:47:00",
+		"enddate":"2012-09-30 18:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-30\/18473756657.shtml\">read more<\/a>",
+		"title":"《铜雀台》曝揭秘特辑 揭秘情色权谋三国杀",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 20:47:00",
+		"enddate":"2012-09-24 20:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/2012-09-24\/ba3751123.shtml\">read more<\/a>",
+		"title":"《铜雀台》主创解读周润发刘亦菲忘年恋(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 17:18:00",
+		"enddate":"2012-09-24 17:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-24\/17183751000.shtml\">read more<\/a>",
+		"title":"《铜雀台》邱心志拍激情戏挨20多巴掌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-03 20:50:00",
+		"enddate":"2012-10-03 20:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-10-03\/20503757324.shtml\">read more<\/a>",
+		"title":"《铜雀台》曝删减戏 周润发训诫苏有朋房事",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 15:35:00",
+		"enddate":"2012-09-26 15:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-26\/15353753135.shtml\">read more<\/a>",
+		"title":"《铜雀台》公映首日告捷 邱心志版曹丕成亮点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 17:44:00",
+		"enddate":"2012-09-26 17:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-26\/17443753338.shtml\">read more<\/a>",
+		"title":"《铜雀台》剧情颠覆 曹操迷上貂蝉女儿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 17:33:00",
+		"enddate":"2012-09-26 17:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-26\/17333753315.shtml\">read more<\/a>",
+		"title":"《铜雀台》首映周润发现身 曹操现场爱撒娇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 19:02:00",
+		"enddate":"2012-09-25 19:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-25\/19023752303.shtml\">read more<\/a>",
+		"title":"《铜雀台》发布终极预告 曹操逆袭霸气外漏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 14:58:00",
+		"enddate":"2012-09-18 14:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-18\/14583745011.shtml\">read more<\/a>",
+		"title":"邱心志《铜雀台》偷师父王周润发",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 11:04:00",
+		"enddate":"2012-10-18 11:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-10-18\/11043766435.shtml\">read more<\/a>",
+		"title":"《铜雀台》票房飘红 坏男人邱心志最得宠",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 12:56:00",
+		"enddate":"2012-09-29 12:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-09-29\/12563756036.shtml\">read more<\/a>",
+		"title":"《铜雀台》登场快乐大本营 刘亦菲谢娜PK",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule8_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule8_type",
+	"size_importance":"true"
+}]

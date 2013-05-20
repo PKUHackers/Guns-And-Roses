@@ -1,0 +1,249 @@
+[
+{
+	"title":"拿什么拯救你，中国股市！",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-18 09:13:00",
+		"enddate":"2012-10-18 09:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stocktalk\/20121018\/091313404611.shtml\">read more<\/a>",
+		"title":"马红漫：路桥上市公司理应退市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 07:24:00",
+		"enddate":"2012-09-24 07:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120924\/072413216999.shtml\">read more<\/a>",
+		"title":"必须纠正市场失灵 才能重建股市信心",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 09:17:00",
+		"enddate":"2012-10-16 09:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stockaritcle\/20121016\/091713379686.shtml\">read more<\/a>",
+		"title":"苏培科：遏制炒新是在掩耳盗铃",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 02:23:00",
+		"enddate":"2012-10-09 02:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stocktalk\/20121009\/022313310436.shtml\">read more<\/a>",
+		"title":"苏渝：股市太需要幸福的生态环境了",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 23:39:00",
+		"enddate":"2012-09-21 23:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stocktalk\/20120921\/233913207252.shtml\">read more<\/a>",
+		"title":"国信集团总经理张广慧：换个角度看股市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 07:51:00",
+		"enddate":"2012-10-12 07:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stocktalk\/20121012\/075113348656.shtml\">read more<\/a>",
+		"title":"皮海洲： 股市走熊不应找股指期货当替罪羊",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 17:55:00",
+		"enddate":"2012-09-20 17:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stocktalk\/20120920\/175513194839.shtml\">read more<\/a>",
+		"title":"华生：行政性干预扭曲市场估值 A股难言见底",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 09:21:00",
+		"enddate":"2012-10-15 09:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stockaritcle\/20121015\/092113367273.shtml\">read more<\/a>",
+		"title":"刘纪鹏：洛阳钼业2毛钱面值发行扰乱市场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 09:12:00",
+		"enddate":"2012-10-12 09:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stockaritcle\/20121012\/091213349755.shtml\">read more<\/a>",
+		"title":"郝旭光：证券市场监管必须重视公开和透明",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 09:03:00",
+		"enddate":"2012-09-21 09:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stockaritcle\/20120921\/090313200984.shtml\">read more<\/a>",
+		"title":"刘煜辉：打造证券市场改革的顶层设计",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 09:08:00",
+		"enddate":"2012-10-17 09:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stockaritcle\/20121017\/090813392288.shtml\">read more<\/a>",
+		"title":"陆坚培：开设一级半市场或是抒困的急救药",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 22:07:00",
+		"enddate":"2012-09-26 22:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stocktalk\/20120926\/220713249803.shtml\">read more<\/a>",
+		"title":"笔夫：中国股市能否避免蒸发的二十年",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 05:19:00",
+		"enddate":"2012-09-21 05:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stocktalk\/20120921\/051913198550.shtml\">read more<\/a>",
+		"title":"沈凌：中国政治土壤也可发展股市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 09:27:00",
+		"enddate":"2012-10-10 09:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stockaritcle\/20121010\/092713326792.shtml\">read more<\/a>",
+		"title":"陈定建：推动中国股市二次股改",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 01:59:00",
+		"enddate":"2012-10-16 01:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stocktalk\/20121016\/015913375385.shtml\">read more<\/a>",
+		"title":"吴晓灵等专家热议如何解决中国资本市场困局",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing7_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing7_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,219 @@
+[
+{
+	"title":"2008中国上海国际游艇展",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2008-04-14 11:14:00",
+		"enddate":"2008-04-14 11:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2008-04-14\/111410852.shtml\">read more<\/a>",
+		"title":"国际游艇展圆满落幕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_3_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-04-14 11:19:00",
+		"enddate":"2008-04-14 11:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/2008-04-14\/111910853.shtml\">read more<\/a>",
+		"title":"上海举办游艇展 最贵游艇报价1400万元(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_3_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-04-08 22:16:00",
+		"enddate":"2008-04-08 22:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2008-04-08\/221610512.shtml\">read more<\/a>",
+		"title":"2008中国(上海)国际游艇展新闻发布会活动议程",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_3_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-04-08 22:29:00",
+		"enddate":"2008-04-08 22:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2008-04-08\/222910521.shtml\">read more<\/a>",
+		"title":"水上明星竞相驰骋2008上海国际游艇展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_3_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-04-08 22:36:00",
+		"enddate":"2008-04-08 22:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2008-04-08\/223610526.shtml\">read more<\/a>",
+		"title":"世界船艇业遍刮“中国风”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_3_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-04-08 23:54:00",
+		"enddate":"2008-04-08 23:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2008-04-08\/235410559.shtml\">read more<\/a>",
+		"title":"首届上海慈善帆船赛扬帆起航",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_3_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-04-09 00:02:00",
+		"enddate":"2008-04-09 00:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2008-04-09\/000210560.shtml\">read more<\/a>",
+		"title":"中国上海国际游艇展简介(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_3_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-04-09 00:12:00",
+		"enddate":"2008-04-09 00:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2008-04-09\/001210561.shtml\">read more<\/a>",
+		"title":"游艇背景知识介绍(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_3_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-04-09 00:15:00",
+		"enddate":"2008-04-09 00:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2008-04-09\/001510564.shtml\">read more<\/a>",
+		"title":"路易十三携国际游艇展共领奢华之旅",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_3_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-04-09 00:19:00",
+		"enddate":"2008-04-09 00:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2008-04-09\/001910565.shtml\">read more<\/a>",
+		"title":"格拉苏蒂：顶级精密腕表品牌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_3_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-04-09 16:08:00",
+		"enddate":"2008-04-09 16:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2008-04-09\/160810652.shtml\">read more<\/a>",
+		"title":"2008上海国际游艇展开幕 “中国制造”引人注目",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_3_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-04-11 10:40:00",
+		"enddate":"2008-04-11 10:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2008-04-11\/104010777.shtml\">read more<\/a>",
+		"title":"08上海国际游艇展最大实体船高调亮相(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_3_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-04-11 11:02:00",
+		"enddate":"2008-04-11 11:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2008-04-11\/110210788.shtml\">read more<\/a>",
+		"title":"中国游艇驶向海外(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_3_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shangpin_type"},
+		"ypix":"0",
+		"id":"shangpin3_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shangpin3_type",
+	"size_importance":"true"
+}]

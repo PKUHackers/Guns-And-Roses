@@ -1,0 +1,7 @@
+/*=== PageNavi. ===*/
+.wp-pagenavi { width:625px; float:left; padding:0; clear:both; font:normal 12px/14px Arial, Helvetica, sans-serif; margin:0; text-align:left; color:#575757;  }
+.wp-pagenavi a, .wp-pagenavi .current { float:left; display:block; color:#575757; margin-right:3px; width:31px; padding:8px 0 10px; text-decoration:none; background:none; text-align:center;}
+.wp-pagenavi a:hover, .wp-pagenavi .current {background:#424242; color:#fff; border:1px solid #292929; }
+.wp-pagenavi .current_l { float:left;}
+.wp-pagenavi .current_l span { display:block; padding:8px 0 10px; background:#424242; color:#fff; border:1px solid #292929;}
+.wp-pagenavi .pages { float:right; padding:8px 0 10px;}

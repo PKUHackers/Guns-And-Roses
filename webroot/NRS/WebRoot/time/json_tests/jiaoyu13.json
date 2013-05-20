@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012年考研报道",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-01-09 16:05:00",
+		"enddate":"2012-01-09 16:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-09\/1605323571.shtml\">read more<\/a>",
+		"title":"考研点周边饭店太少 考生无奈路边啃面包(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-19 12:26:00",
+		"enddate":"2012-01-19 12:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-19\/1226324527.shtml\">read more<\/a>",
+		"title":"考研考公不算违约 部分单位允许脚踩两只船",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-18 18:27:00",
+		"enddate":"2012-01-18 18:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-18\/1827324467.shtml\">read more<\/a>",
+		"title":"上海市属高校2012年扩招研究生",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-09 11:01:00",
+		"enddate":"2012-01-09 11:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-09\/1101323491.shtml\">read more<\/a>",
+		"title":"网友称QQ群泄露2012年考研英语试题(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-12 11:58:00",
+		"enddate":"2012-01-12 11:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-12\/1158323912.shtml\">read more<\/a>",
+		"title":"考研英语疑遭泄题 公安机关介入调查",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-08 22:17:00",
+		"enddate":"2012-01-08 22:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-08\/2217323476.shtml\">read more<\/a>",
+		"title":"硕士复试线划区调整 考山东高校的考生有利",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-07 08:55:00",
+		"enddate":"2012-01-07 08:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-07\/0855323083.shtml\">read more<\/a>",
+		"title":"组图：2012全国硕士研究生招生考试考点探访",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-09 10:10:00",
+		"enddate":"2012-01-09 10:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-09\/1010323482.shtml\">read more<\/a>",
+		"title":"2012年考研落幕 不看新闻政治难考",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-10 10:02:00",
+		"enddate":"2012-01-10 10:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-10\/1002323626.shtml\">read more<\/a>",
+		"title":"“考研叔”5次报考武大研究生只为圆梦",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-10 13:22:00",
+		"enddate":"2012-01-10 13:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-10\/1322323656.shtml\">read more<\/a>",
+		"title":"研究生网上“晒”年终奖 你们老板发多少钱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-09 09:47:00",
+		"enddate":"2012-01-09 09:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-09\/0947323479.shtml\">read more<\/a>",
+		"title":"2012报考专业学位硕士研究生人数增四成",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-07 19:32:00",
+		"enddate":"2012-01-07 19:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-07\/1932323230.shtml\">read more<\/a>",
+		"title":"图文：一考研考生因迟到硬闯考场遭保安追逐",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-07 11:56:00",
+		"enddate":"2012-01-07 11:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-07\/1156323098.shtml\">read more<\/a>",
+		"title":"2012考研人数再创新高 名人微博送祝福",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-11 10:31:00",
+		"enddate":"2012-01-11 10:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-11\/1031323784.shtml\">read more<\/a>",
+		"title":"教授称考研热与社会环境有关 保送或将成常态",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-16 11:03:00",
+		"enddate":"2012-01-16 11:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-16\/1103324117.shtml\">read more<\/a>",
+		"title":"就业市场重文凭 研究生冲着就业来“镀金”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-08 09:33:00",
+		"enddate":"2012-01-08 09:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-08\/0933323286.shtml\">read more<\/a>",
+		"title":"上海4万余名考生参加2012年硕士研究生考试",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-07 08:31:00",
+		"enddate":"2012-01-07 08:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-07\/0831323080.shtml\">read more<\/a>",
+		"title":"考研进考场须知 天冷备足暖宝宝",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-08 10:34:00",
+		"enddate":"2012-01-08 10:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-08\/1034323297.shtml\">read more<\/a>",
+		"title":"山东16.2万人拼杀研究生考试 “桥”越挤越窄",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-11 15:50:00",
+		"enddate":"2012-01-11 15:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-11\/1550323877.shtml\">read more<\/a>",
+		"title":"调查显示：女生比男生更倾向读研(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-08 09:20:00",
+		"enddate":"2012-01-08 09:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/kaoyan\/2012-01-08\/0920323284.shtml\">read more<\/a>",
+		"title":"165万人考研创新高 就业率连续2年不如本科",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_13_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"jiaoyu_type"},
+		"ypix":"0",
+		"id":"jiaoyu13_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu13_type",
+	"size_importance":"true"
+}]

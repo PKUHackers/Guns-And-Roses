@@ -1,0 +1,249 @@
+[
+{
+	"title":"天津卫视《中国丽人》",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-14 17:44:00",
+		"enddate":"2012-09-14 17:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-14\/17443742233.shtml\">read more<\/a>",
+		"title":"天津卫视《中国丽人》将播 杨澜徐峥任评委",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_26_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 18:29:00",
+		"enddate":"2012-10-11 18:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-11\/18293761846.shtml\">read more<\/a>",
+		"title":"《中国丽人》励志：美丽可以无声响",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_26_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 11:37:00",
+		"enddate":"2012-09-28 11:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-28\/11373755022.shtml\">read more<\/a>",
+		"title":"杨澜领衔坐镇《中国丽人》评审团",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_26_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 11:21:00",
+		"enddate":"2012-08-31 11:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-08-31\/11213727617.shtml\">read more<\/a>",
+		"title":"天津卫视9月推出纯原创栏目《中国丽人》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_26_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 11:05:00",
+		"enddate":"2012-09-20 11:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-20\/11053746980.shtml\">read more<\/a>",
+		"title":"天津卫视《中国丽人》要求选手素颜参赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_26_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-03 14:16:00",
+		"enddate":"2012-10-03 14:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-03\/14163757282.shtml\">read more<\/a>",
+		"title":"预告：4日晚直播天津卫视《中国丽人》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_26_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-04 12:59:00",
+		"enddate":"2012-09-04 12:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-04\/12593731182.shtml\">read more<\/a>",
+		"title":"杨澜林志玲加盟原创栏目《中国丽人》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_26_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 18:44:00",
+		"enddate":"2012-08-31 18:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-08-31\/18443728186.shtml\">read more<\/a>",
+		"title":"《中国丽人》组建全明星奢华阵容",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_26_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 15:26:00",
+		"enddate":"2012-09-26 15:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-26\/15263753117.shtml\">read more<\/a>",
+		"title":"《中国丽人》将播换评委 张雨绮再度被延期",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_26_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 11:25:00",
+		"enddate":"2012-09-28 11:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-28\/11253754990.shtml\">read more<\/a>",
+		"title":"杨澜领衔坐镇天津卫视《中国丽人》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_26_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 12:21:00",
+		"enddate":"2012-09-28 12:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-28\/12213755093.shtml\">read more<\/a>",
+		"title":"《中国丽人》4日开播 杨澜领衔评审团",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_26_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 10:49:00",
+		"enddate":"2012-09-18 10:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-18\/10493744725.shtml\">read more<\/a>",
+		"title":"10月荧屏《中国丽人》《女人如花》争艳",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_26_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 11:20:00",
+		"enddate":"2012-10-08 11:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-08\/11203758574.shtml\">read more<\/a>",
+		"title":"盲人舞者登顶《中国丽人》 杨澜几度热泪",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_26_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 14:34:00",
+		"enddate":"2012-10-08 14:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-08\/14343758742.shtml\">read more<\/a>",
+		"title":" 《中国丽人》拒人造美女展真我风采",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_26_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 10:28:00",
+		"enddate":"2012-08-31 10:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-08-31\/10283727481.shtml\">read more<\/a>",
+		"title":"杨澜将主评原创节目《中国丽人》(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_26_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule26_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule26_type",
+	"size_importance":"true"
+}]

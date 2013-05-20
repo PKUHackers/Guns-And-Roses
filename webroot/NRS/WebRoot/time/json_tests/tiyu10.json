@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012年中华龙舟大赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-02-22 16:13:00",
+		"enddate":"2012-02-22 16:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-02-22\/16135953421.shtml\">read more<\/a>",
+		"title":"专访顺德龙舟俱乐部教练潘广德 正筹划成立女子队",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-27 10:03:00",
+		"enddate":"2012-02-27 10:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-02-27\/10035959580.shtml\">read more<\/a>",
+		"title":"中华龙舟大赛万宁站：回归老传统 传承新文化",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-23 11:08:00",
+		"enddate":"2012-02-23 11:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-02-23\/11085954430.shtml\">read more<\/a>",
+		"title":"中华龙舟大赛万宁站女子组完全成绩：学生军获亚军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-05 10:02:00",
+		"enddate":"2012-05-05 10:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-05\/10026049387.shtml\">read more<\/a>",
+		"title":"中华龙舟大赛鄱阳湖站:顺德惊险夺2冠 200米破纪录",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-08 16:52:00",
+		"enddate":"2012-07-08 16:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-07-08\/16526128201.shtml\">read more<\/a>",
+		"title":"龙舟复兴靠自己 启示奥运项目该专业化还是职业化",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 16:09:00",
+		"enddate":"2012-02-22 16:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-02-22\/16095953422.shtml\">read more<\/a>",
+		"title":"谁说女子不如男 小记中华龙舟大赛的四支女队",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 15:43:00",
+		"enddate":"2012-02-22 15:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-02-22\/15435953392.shtml\">read more<\/a>",
+		"title":"历史悠久得天独厚未来可期 小记广东的龙舟运动",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-08 14:02:00",
+		"enddate":"2012-07-08 14:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-07-08\/14026128073.shtml\">read more<\/a>",
+		"title":"龙舟大赛铜仁站女子组成绩:贵州居首 厦门垫底",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-23 11:14:00",
+		"enddate":"2012-02-23 11:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-02-23\/11145954429.shtml\">read more<\/a>",
+		"title":"中华龙舟大赛万宁站男子组完全成绩：广东队包揽前5",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 10:00:00",
+		"enddate":"2012-02-22 10:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/s\/2012-02-22\/10001765137s.shtml\">read more<\/a>",
+		"title":"划龙舟烘托节日氛围 10年后重现“锣”“鼓”喧天",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-27 10:15:00",
+		"enddate":"2012-02-27 10:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-02-27\/10155959586.shtml\">read more<\/a>",
+		"title":"英气金花绽放 各具特殊魅力--走近4支女子龙舟队",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-07 20:52:00",
+		"enddate":"2012-07-07 20:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-07-07\/20526127331.shtml\">read more<\/a>",
+		"title":"中国龙舟公开赛巴城开赛 江苏龙舟队包揽双冠",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-05 16:09:00",
+		"enddate":"2012-05-05 16:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-05\/16096049744.shtml\">read more<\/a>",
+		"title":"鄱阳泛舟精彩纷呈:农民PK大学生 大马龙舟队获追捧",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-05 21:28:00",
+		"enddate":"2012-05-05 21:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-05\/21286050004.shtml\">read more<\/a>",
+		"title":"2012中华龙舟大赛第二站落幕 成为鄱阳湖旅游新名片",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-03 14:57:00",
+		"enddate":"2012-07-03 14:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-07-03\/14576123189.shtml\">read more<\/a>",
+		"title":"2012年中华龙舟大赛铜仁站竞赛规程 共设4项目",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-23 13:02:00",
+		"enddate":"2012-06-23 13:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-06-23\/13026111510.shtml\">read more<\/a>",
+		"title":"江阴站完美收官留无数经典 三代同船歌调屈原竞风流",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-09 05:11:00",
+		"enddate":"2012-07-09 05:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-07-09\/05116128667.shtml\">read more<\/a>",
+		"title":"俱乐部模式助力中国龙舟复兴 协会感叹“太忙了”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-23 23:07:00",
+		"enddate":"2012-06-23 23:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-06-23\/23076111997.shtml\">read more<\/a>",
+		"title":"龙舟比肩奥运世界杯 江和平：CCTV1主动要求转播",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-24 06:19:00",
+		"enddate":"2012-02-24 06:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-02-24\/06195955348.shtml\">read more<\/a>",
+		"title":"国内龙舟人口至少10万 龙舟赛每年吸引四五千万观众",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-05 15:03:00",
+		"enddate":"2012-05-05 15:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-05\/15036049671.shtml\">read more<\/a>",
+		"title":"NBA总决赛时间或因龙舟赛调整 江和平:弘扬传统没错",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_10_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu10_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu10_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,324 @@
+[
+{
+	"title":"2011年蓝狮子中国最佳商业图书",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-12-09 15:56:00",
+		"enddate":"2011-12-09 15:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/155610966866.shtml\">read more<\/a>",
+		"title":"入围作者：自由撰稿人傅国涌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 19:09:00",
+		"enddate":"2011-12-09 19:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/190910967782.shtml\">read more<\/a>",
+		"title":"入围作者：钟永圣",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 18:57:00",
+		"enddate":"2011-12-09 18:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/185710967759.shtml\">read more<\/a>",
+		"title":"入围作者：睿智华海基金基金经理张承良",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 15:16:00",
+		"enddate":"2011-12-09 15:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/151610966626.shtml\">read more<\/a>",
+		"title":"入围作者：国务院发展研究中心巴曙松",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 19:43:00",
+		"enddate":"2011-12-09 19:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/194310967879.shtml\">read more<\/a>",
+		"title":"入围作者：中国证券市场周刊副社长王安",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 15:10:00",
+		"enddate":"2011-12-09 15:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/151010966574.shtml\">read more<\/a>",
+		"title":"入围作者：国际货币基金组织经济学家郭凯",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 19:35:00",
+		"enddate":"2011-12-09 19:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/193510967861.shtml\">read more<\/a>",
+		"title":"入围作者：21世纪经济报道资深记者曾航",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 19:48:00",
+		"enddate":"2011-12-09 19:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/194810967886.shtml\">read more<\/a>",
+		"title":"入围作者：自主企业经营者沈童",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 19:21:00",
+		"enddate":"2011-12-09 19:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/192110967845.shtml\">read more<\/a>",
+		"title":"入围作者：心理学经营管理专家陈禹安",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 19:34:00",
+		"enddate":"2011-12-09 19:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/193410967860.shtml\">read more<\/a>",
+		"title":"入围作者：腾讯搜索业务副总裁吴军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 19:00:00",
+		"enddate":"2011-12-09 19:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/190010967761.shtml\">read more<\/a>",
+		"title":"入围作者：广发基金副总经理朱平",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 19:18:00",
+		"enddate":"2011-12-09 19:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/191810967844.shtml\">read more<\/a>",
+		"title":"入围作者：冯仑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 20:40:00",
+		"enddate":"2011-12-09 20:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/204010968035.shtml\">read more<\/a>",
+		"title":"入围作者：上海市作家协会会员傅亮",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 19:11:00",
+		"enddate":"2011-12-09 19:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/191110967820.shtml\">read more<\/a>",
+		"title":"入围作者：国家注册理财规划师何金子",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 15:22:00",
+		"enddate":"2011-12-09 15:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/152210966675.shtml\">read more<\/a>",
+		"title":"入围作者：华艺传媒首席顾问杜子建",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 15:25:00",
+		"enddate":"2011-12-09 15:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/152510966690.shtml\">read more<\/a>",
+		"title":"入围作者：创意营销人陈亮途",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 19:03:00",
+		"enddate":"2011-12-09 19:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/190310967763.shtml\">read more<\/a>",
+		"title":"入围作者：新鸿基地产集团策划发展经理潘慧娴",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 18:55:00",
+		"enddate":"2011-12-09 18:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/185510967752.shtml\">read more<\/a>",
+		"title":"入围作者：中国著名经济学家汪丁丁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 17:05:00",
+		"enddate":"2011-12-09 17:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/170510967284.shtml\">read more<\/a>",
+		"title":"入围作者：加拿大西安大略大学教授徐滇庆",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 15:08:00",
+		"enddate":"2011-12-09 15:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20111209\/150810966550.shtml\">read more<\/a>",
+		"title":"入围作者：中国银行股份有限公司董事长肖钢",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_8_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing8_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing8_type",
+	"size_importance":"true"
+}]

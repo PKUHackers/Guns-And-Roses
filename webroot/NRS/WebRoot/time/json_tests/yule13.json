@@ -1,0 +1,204 @@
+[
+{
+	"title":"光良2012北京演唱会",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-11-17 15:50:00",
+		"enddate":"2011-11-17 15:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2011-11-17\/15503483945.shtml\">read more<\/a>",
+		"title":"华语金曲奖广州举行颁奖礼 光良成最大赢家",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_13_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-18 17:18:00",
+		"enddate":"2011-11-18 17:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2011-11-18\/17183484994.shtml\">read more<\/a>",
+		"title":"光良称难再与品冠再度合作做音乐",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_13_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-28 11:52:00",
+		"enddate":"2011-11-28 11:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2011-11-28\/11523493298.shtml\">read more<\/a>",
+		"title":"品冠称与光良分属不同公司重组有难度(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_13_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-12 12:02:00",
+		"enddate":"2011-12-12 12:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2011-12-12\/12023505270.shtml\">read more<\/a>",
+		"title":"光良音乐先锋榜颁奖礼夺四项大奖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_13_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-13 11:11:00",
+		"enddate":"2012-06-13 11:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-06-13\/11113656220.shtml\">read more<\/a>",
+		"title":"光良演唱会首登北京 启用专属麦克风",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_13_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-20 14:33:00",
+		"enddate":"2012-06-20 14:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-06-20\/14333663757.shtml\">read more<\/a>",
+		"title":"光良重庆将开唱 找女友只求比自己矮",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_13_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-03 13:32:00",
+		"enddate":"2012-07-03 13:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-07-03\/13323674715.shtml\">read more<\/a>",
+		"title":"光良7月29日北京保利剧院开唱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_13_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-03 14:51:00",
+		"enddate":"2012-07-03 14:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-07-03\/14513674798.shtml\">read more<\/a>",
+		"title":"光良重庆演唱会即将激情开唱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_13_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-05 11:53:00",
+		"enddate":"2012-07-05 11:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-07-05\/11533676926.shtml\">read more<\/a>",
+		"title":"光良难拒歌迷热情 巡演过半场场惊喜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_13_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-12 13:22:00",
+		"enddate":"2012-07-12 13:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-07-12\/13223683413.shtml\">read more<\/a>",
+		"title":"光良钟情剧院版演唱会苦练京腔",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_13_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-24 16:49:00",
+		"enddate":"2012-07-24 16:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-07-24\/16493693638.shtml\">read more<\/a>",
+		"title":"光良周日北京开唱 书面保证够惊喜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_13_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-28 11:34:00",
+		"enddate":"2012-06-28 11:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/m\/2012-06-28\/11343670480.shtml\">read more<\/a>",
+		"title":"光良期待与歌迷相聚：真情实感最动人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_13_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule13_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule13_type",
+	"size_importance":"true"
+}]

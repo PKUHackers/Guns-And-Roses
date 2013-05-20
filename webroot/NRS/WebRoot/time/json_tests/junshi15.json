@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012亚洲安全峰会在新加坡召开",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-06-04 07:25:00",
+		"enddate":"2012-06-04 07:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-04\/0725692142.html\">read more<\/a>",
+		"title":"分析称亚洲安全会议没有哪个问题能绕开中国",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-03 11:00:00",
+		"enddate":"2012-06-03 11:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-03\/1100692099.html\">read more<\/a>",
+		"title":"美防长否认美军事战略转向亚太系威胁中国",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-02 08:08:00",
+		"enddate":"2012-06-02 08:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-02\/0808692048.html\">read more<\/a>",
+		"title":"媒体称中国或在香格里拉对话遭遇鸿门宴",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-31 07:18:00",
+		"enddate":"2012-05-31 07:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-31\/0718691874.html\">read more<\/a>",
+		"title":"美防长：亚太地区是美国海军未来工作重心",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-01 07:46:00",
+		"enddate":"2012-06-01 07:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-01\/0746691959.html\">read more<\/a>",
+		"title":"美防长出访亚洲向盟友阐述亚太再平衡战略",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-01 15:43:00",
+		"enddate":"2012-06-01 15:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-01\/1543691998.html\">read more<\/a>",
+		"title":"美防长出访亚洲欲宣扬亚太再平衡战略",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-02 09:55:00",
+		"enddate":"2012-06-02 09:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-02\/0955692058.html\">read more<\/a>",
+		"title":"美国60%海军舰艇将在8年内部署到太平洋",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-04 10:55:00",
+		"enddate":"2012-06-04 10:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-04\/1055692158.html\">read more<\/a>",
+		"title":"美称亚太战略不针对中国 我学者称不可能",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-03 15:51:00",
+		"enddate":"2012-06-03 15:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-03\/1551692110.html\">read more<\/a>",
+		"title":"美计划增加太平洋地区军演次数并扩大规模",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-04 13:32:00",
+		"enddate":"2012-06-04 13:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-04\/1332692168.html\">read more<\/a>",
+		"title":"媒体称美国玩弄两面手法借南海问题遏制中国",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-31 14:19:00",
+		"enddate":"2012-05-31 14:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-31\/1419691912_2.html\">read more<\/a>",
+		"title":"美防长出访亚洲绕不开中国话题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-02 16:38:00",
+		"enddate":"2012-06-02 16:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-02\/1638692066.html\">read more<\/a>",
+		"title":"美防长称中美两军解决纠纷唯有通过加强关系",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-31 16:36:00",
+		"enddate":"2012-05-31 16:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-31\/1636691930.html\">read more<\/a>",
+		"title":"中国积极参与香格里拉对话会促进交流",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-02 09:45:00",
+		"enddate":"2012-06-02 09:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-02\/0945692057.html\">read more<\/a>",
+		"title":"美防长：2020年前美军大部分舰队将转向亚太",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-03 15:26:00",
+		"enddate":"2012-06-03 15:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-03\/1526692107.html\">read more<\/a>",
+		"title":"美拟2020年前在太平洋部署至少6艘航母",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-02 09:17:00",
+		"enddate":"2012-06-02 09:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-02\/0917692054.html\">read more<\/a>",
+		"title":"美军前高官称空海一体战概念是在妖魔化中国",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-31 07:42:00",
+		"enddate":"2012-05-31 07:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-05-31\/0742691876.html\">read more<\/a>",
+		"title":"美防长来亚洲解释国防新战略 行程将绕着中国走",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-04 07:11:00",
+		"enddate":"2012-06-04 07:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-04\/0711692140.html\">read more<\/a>",
+		"title":"美国防长强调不会介入中菲黄岩岛争端",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-01 17:09:00",
+		"enddate":"2012-06-01 17:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-01\/1709692004.html\">read more<\/a>",
+		"title":"第11届亚洲安全峰会今起在新加坡举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-01 15:36:00",
+		"enddate":"2012-06-01 15:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2012-06-01\/1536691997.html\">read more<\/a>",
+		"title":"美防长将赴新加坡参加亚洲安全峰会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_15_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi15_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi15_type",
+	"size_importance":"true"
+}]

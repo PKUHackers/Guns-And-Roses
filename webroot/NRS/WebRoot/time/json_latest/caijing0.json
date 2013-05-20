@@ -1,0 +1,234 @@
+[
+{
+	"title":"2011年12月宏观经济预测报告",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-01-12 09:32:00",
+		"enddate":"2012-01-12 09:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/hgjj\/20120112\/093211185599.shtml\">read more<\/a>",
+		"title":"2011年工业生产者出厂价格比上年上涨6.0%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-12 09:35:00",
+		"enddate":"2012-01-12 09:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/hgjj\/20120112\/093511185529.shtml\">read more<\/a>",
+		"title":"统计局：12月居民消费价格总水平同比上涨4.1%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-12 09:36:00",
+		"enddate":"2012-01-12 09:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/hgjj\/20120112\/093611185536.shtml\">read more<\/a>",
+		"title":"统计局：12月工业生产者出厂价格同比上涨1.7%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-12 09:50:00",
+		"enddate":"2012-01-12 09:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/hgjj\/20120112\/095011185702.shtml\">read more<\/a>",
+		"title":"2011年12月CPI同比涨4.1% 食品价格涨9.1%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-10 22:09:00",
+		"enddate":"2012-01-10 22:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/g\/20120110\/220911170585.shtml\">read more<\/a>",
+		"title":"一致预期：12月CPI同比上涨4.1% 降幅收窄",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-10 22:15:00",
+		"enddate":"2012-01-10 22:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/g\/20120110\/221511170603.shtml\">read more<\/a>",
+		"title":"一致预期：12月PPI同比上涨1.9%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-11 14:39:00",
+		"enddate":"2012-01-11 14:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/g\/20120111\/143911178075.shtml\">read more<\/a>",
+		"title":"一致预期：12月末M1同比增速均值为7.9%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-11 15:00:00",
+		"enddate":"2012-01-11 15:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/g\/20120111\/150011178214.shtml\">read more<\/a>",
+		"title":"一致预期：12月M2同比增速平均值为12.9%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-11 15:17:00",
+		"enddate":"2012-01-11 15:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/g\/20120111\/151711178359.shtml\">read more<\/a>",
+		"title":"一致预期：前12个月固定资产投资同比增速23.8%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-11 15:31:00",
+		"enddate":"2012-01-11 15:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/g\/20120111\/153111178463.shtml\">read more<\/a>",
+		"title":"一致预期：12月社会消费品零售总额同比增17.1%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-11 15:38:00",
+		"enddate":"2012-01-11 15:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/g\/20120111\/153811178522.shtml\">read more<\/a>",
+		"title":"一致预期：12月进口同比增速均值17.9%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-11 15:49:00",
+		"enddate":"2012-01-11 15:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/g\/20120111\/154911178606.shtml\">read more<\/a>",
+		"title":"一致预期：12月出口同比增速均值13.8%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-12 15:52:00",
+		"enddate":"2012-01-12 15:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120112\/155211188639.shtml\">read more<\/a>",
+		"title":"2011年12月我国PPI同比涨幅回落至1.7%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-12 16:11:00",
+		"enddate":"2012-01-12 16:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120112\/161111188823.shtml\">read more<\/a>",
+		"title":"我国CPI稳步回落 物价调控取得阶段性进展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_0_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing0_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing0_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,249 @@
+[
+{
+	"title":"第67届联大一般性辩论",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-27 14:06:00",
+		"enddate":"2012-09-27 14:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-27\/140625266464.shtml\">read more<\/a>",
+		"title":"内贾德在联大发言称伊朗有能力保卫核设施",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 16:10:00",
+		"enddate":"2012-09-29 16:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-29\/161025283504.shtml\">read more<\/a>",
+		"title":"韩外长联大发言首提慰安妇问题 敦促日本赔偿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 01:18:00",
+		"enddate":"2012-09-26 01:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-26\/011825251911.shtml\">read more<\/a>",
+		"title":"联大主席:可持续发展是预防冲突重要手段之一",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-16 16:09:00",
+		"enddate":"2012-09-16 16:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-16\/160925184994.shtml\">read more<\/a>",
+		"title":"韩拟在联合国大会提出韩日历史问题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 12:57:00",
+		"enddate":"2012-09-25 12:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-25\/125725252935.shtml\">read more<\/a>",
+		"title":"伊朗总统在联大批评以色列致其退席",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 01:55:00",
+		"enddate":"2012-09-26 01:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-26\/015525251942.shtml\">read more<\/a>",
+		"title":"奥巴马在联大呼吁叙利亚总统阿萨德下台",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 13:13:00",
+		"enddate":"2012-09-28 13:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-09-28\/131325274770.shtml\">read more<\/a>",
+		"title":"日官房长官称杨洁篪联大演讲毫无根据",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 01:09:00",
+		"enddate":"2012-09-28 01:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-28\/010925269460.shtml\">read more<\/a>",
+		"title":"阿桑奇在联大批奥巴马扼杀言论自由力度超前任",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 05:59:00",
+		"enddate":"2012-09-20 05:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-09-20\/055925212473.shtml\">read more<\/a>",
+		"title":"日外相称考虑在联合国大会期间与杨洁篪会谈",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 07:29:00",
+		"enddate":"2012-09-25 07:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-09-25\/072925246383.shtml\">read more<\/a>",
+		"title":"日本首相联大会议演讲将涉及钓鱼岛问题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 04:23:00",
+		"enddate":"2012-09-26 04:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-26\/042325252961.shtml\">read more<\/a>",
+		"title":"奥巴马称有时间与空间通过外交解决伊核问题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 22:23:00",
+		"enddate":"2012-09-25 22:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-25\/222325251433.shtml\">read more<\/a>",
+		"title":"第67届联大一般性辩论开幕 领土争端将成焦点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 10:44:00",
+		"enddate":"2012-09-25 10:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2012-09-25\/104425248195.shtml\">read more<\/a>",
+		"title":"奥巴马将在联大演讲主谈外交 叙伊问题是重点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 08:14:00",
+		"enddate":"2012-09-25 08:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2012-09-25\/081425246794.shtml\">read more<\/a>",
+		"title":"联大今起辩论 领土领海争端成看点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 16:58:00",
+		"enddate":"2012-09-18 16:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-18\/165825200845.shtml\">read more<\/a>",
+		"title":"韩国外长拟在联合国大会提出慰安妇问题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_3_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji3_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji3_type",
+	"size_importance":"true"
+}]

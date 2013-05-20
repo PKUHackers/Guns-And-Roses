@@ -1,0 +1,279 @@
+[
+{
+	"title":"2012年公务员面试全攻略",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2008-12-21 18:16:00",
+		"enddate":"2008-12-21 18:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2008-12-21\/1816180174.shtml\">read more<\/a>",
+		"title":"公务员面试着装指南：穿着不要过于休闲",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-17 16:35:00",
+		"enddate":"2009-12-17 16:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2009-12-17\/1635230530.shtml\">read more<\/a>",
+		"title":"2010国考面试备考：礼仪之心态调节篇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-12-20 17:39:00",
+		"enddate":"2010-12-20 17:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2010-12-20\/1739279450.shtml\">read more<\/a>",
+		"title":"2011年国家公务员考试面试着装指导",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-02-11 14:59:00",
+		"enddate":"2011-02-11 14:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-02-11\/1459284894.shtml\">read more<\/a>",
+		"title":"2011国家公务员考试面试宝典之面试礼仪篇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-06 11:47:00",
+		"enddate":"2011-05-06 11:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-05-06\/1147294631.shtml\">read more<\/a>",
+		"title":"公务员面试礼仪常见问题及备考策略",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-24 14:34:00",
+		"enddate":"2011-06-24 14:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-06-24\/1434303208.shtml\">read more<\/a>",
+		"title":"公务员面试礼仪精讲：男生版",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-06-24 14:35:00",
+		"enddate":"2011-06-24 14:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-06-24\/1435303210.shtml\">read more<\/a>",
+		"title":"公务员面试礼仪精讲：女生版",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-26 16:30:00",
+		"enddate":"2011-12-26 16:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2011-12-26\/1630321965.shtml\">read more<\/a>",
+		"title":"公务员考试面试技巧之面试礼仪",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-09 14:15:00",
+		"enddate":"2012-01-09 14:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-01-09\/1415323537.shtml\">read more<\/a>",
+		"title":"公务员面试中的着装注意事项及技巧",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-01 14:08:00",
+		"enddate":"2012-02-01 14:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-02-01\/1408325116.shtml\">read more<\/a>",
+		"title":"2012年公务员面试礼仪常见问题及备考策略",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-16 13:47:00",
+		"enddate":"2012-04-16 13:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-04-16\/1347334562.shtml\">read more<\/a>",
+		"title":"2012公务员面试指导：不可不知的考场礼仪",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-16 16:39:00",
+		"enddate":"2012-04-16 16:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-04-16\/1639334613.shtml\">read more<\/a>",
+		"title":"2012公考面试：从静态动态中谈面试礼仪",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-13 18:01:00",
+		"enddate":"2012-06-13 18:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-06-13\/1801343280.shtml\">read more<\/a>",
+		"title":"2012公务员面试礼仪细节全指点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-26 15:47:00",
+		"enddate":"2012-06-26 15:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-06-26\/1547345832.shtml\">read more<\/a>",
+		"title":"2012公务员面试礼仪心经之女生篇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-26 15:51:00",
+		"enddate":"2012-06-26 15:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-06-26\/1551345834.shtml\">read more<\/a>",
+		"title":"2012公务员面试礼仪心经之男生篇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-26 15:52:00",
+		"enddate":"2012-06-26 15:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-06-26\/1552345835.shtml\">read more<\/a>",
+		"title":"公务员面试礼仪的初影响",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-11 16:26:00",
+		"enddate":"2012-07-11 16:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/official\/2012-07-11\/1626348217.shtml\">read more<\/a>",
+		"title":"公务员面试形象礼仪细节",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_11_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"jiaoyu_type"},
+		"ypix":"0",
+		"id":"jiaoyu11_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu11_type",
+	"size_importance":"true"
+}]

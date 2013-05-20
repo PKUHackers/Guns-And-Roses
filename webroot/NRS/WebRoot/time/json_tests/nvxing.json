@@ -1,0 +1,96 @@
+[
+{
+	"title":"女性",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-03-25 21:56:00",
+		"enddate":"2011-04-15 15:44:00",
+		"description":"中国国际时装周2011/12秋冬系列",
+		"title":"中国国际时装周2011/12秋冬系列",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/nvxing0.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"nvxing0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-25 18:36:00",
+		"enddate":"2012-06-08 13:13:00",
+		"description":"2012北美新丝路模特大赛",
+		"title":"2012北美新丝路模特大赛",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/nvxing1.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"nvxing1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-25 17:22:00",
+		"enddate":"2011-01-01- 00:00:00",
+		"description":"09北美新丝路",
+		"title":"09北美新丝路",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/nvxing2.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"nvxing2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-25 15:58:00",
+		"enddate":"2011-11-22 15:44:00",
+		"description":"全国媒体走基层",
+		"title":"全国媒体走基层",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/nvxing3.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"nvxing3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"type"},
+		"ypix":"0",
+		"id":"nvxing_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"nvxing_type",
+	"size_importance":"true"
+}]

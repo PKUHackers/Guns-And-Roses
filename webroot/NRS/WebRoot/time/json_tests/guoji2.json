@@ -1,0 +1,264 @@
+[
+{
+	"title":"第48届慕尼黑安全政策会议",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-02-04 07:44:00",
+		"enddate":"2012-02-04 07:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-04\/074423880716.shtml\">read more<\/a>",
+		"title":"慕尼黑安全会议开幕 欧债危机和亚洲崛起成议题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-04 21:46:00",
+		"enddate":"2012-02-04 21:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-04\/214623882370.shtml\">read more<\/a>",
+		"title":"中方:域外国家人为强化在亚洲军事存在不得人心",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-04 22:56:00",
+		"enddate":"2012-02-04 22:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-04\/225623882424.shtml\">read more<\/a>",
+		"title":"外交部官员:亚洲崛起是国际力量更均衡发展标志",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-05 02:00:00",
+		"enddate":"2012-02-05 02:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-05\/020023882733.shtml\">read more<\/a>",
+		"title":"中方在慕尼黑安全会议称不会谋求地区势力范围",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-05 11:13:00",
+		"enddate":"2012-02-05 11:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-02-05\/111323884125.shtml\">read more<\/a>",
+		"title":"外交部副部长：所谓中国出现阿拉伯之春是幻想",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-03 14:42:00",
+		"enddate":"2012-02-03 14:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-02-03\/144223881441.shtml\">read more<\/a>",
+		"title":"俄外长拟与希拉里在慕尼黑安全会议期间会谈",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-03 16:40:00",
+		"enddate":"2012-02-03 16:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-02-03\/164023878204.shtml\">read more<\/a>",
+		"title":"慕尼黑安全会议前瞻:美战略重心转向亚太受关注",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-03 18:34:00",
+		"enddate":"2012-02-03 18:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-02-03\/183423878607.shtml\">read more<\/a>",
+		"title":"专家称慕尼黑安全会议将聚焦阿拉伯局势",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-04 03:12:00",
+		"enddate":"2012-02-04 03:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-02-04\/031223879739.shtml\">read more<\/a>",
+		"title":"慕尼黑安全政策会议开幕 议题涉及中东局势等",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-04 15:08:00",
+		"enddate":"2012-02-04 15:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-02-04\/150823881856.shtml\">read more<\/a>",
+		"title":"慕尼黑安全政策会议开幕 议题涉及亚洲崛起等",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-04 17:47:00",
+		"enddate":"2012-02-04 17:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-02-04\/174723882092.shtml\">read more<\/a>",
+		"title":"慕尼黑安全会议发言人称欧洲需建立亚洲战略",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-04 18:04:00",
+		"enddate":"2012-02-04 18:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-02-04\/180423882191.shtml\">read more<\/a>",
+		"title":"俄罗斯外长在慕尼黑安全会议讲话反对遏制中国",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-04 20:46:00",
+		"enddate":"2012-02-04 20:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-02-04\/204623882322.shtml\">read more<\/a>",
+		"title":"美国防长称战略调整不会影响跨大西洋安全关系",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-05 00:46:00",
+		"enddate":"2012-02-05 00:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-02-05\/004623882497.shtml\">read more<\/a>",
+		"title":"德国外长称应避免伊核问题升级引发军事冲突",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-06 03:41:00",
+		"enddate":"2012-02-06 03:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-02-06\/034123886092.shtml\">read more<\/a>",
+		"title":"慕尼黑安全政策会议聚焦网络安全",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-06 05:47:00",
+		"enddate":"2012-02-06 05:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-02-06\/054723888348.shtml\">read more<\/a>",
+		"title":"慕尼黑安全会议关注美国战略转向后的世界格局",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_2_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji2_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji2_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,324 @@
+[
+{
+	"title":"美国客机纽约州坠毁",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-02-13 13:20:00",
+		"enddate":"2009-02-13 13:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-13\/132017209571.shtml\">read more<\/a>",
+		"title":"美国一架载有48人客机在纽约州布法罗坠毁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-13 21:31:00",
+		"enddate":"2009-02-13 21:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-13\/213117210991.shtml\">read more<\/a>",
+		"title":"纽约飞机坠毁事故死亡人数已升至50人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-14 22:35:00",
+		"enddate":"2009-02-14 22:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-14\/223517215897.shtml\">read more<\/a>",
+		"title":"美失事飞机残骸被收集 机翼结冰或是失事诱因",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-14 10:36:00",
+		"enddate":"2009-02-14 10:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-14\/103617214661.shtml\">read more<\/a>",
+		"title":"媒体公布坠毁客机飞行员与塔台最后通话记录",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-17 03:06:00",
+		"enddate":"2009-02-17 03:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-17\/030617227187.shtml\">read more<\/a>",
+		"title":"美国客机坠落前曾发生剧烈颠簸与晃动",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-13 13:31:00",
+		"enddate":"2009-02-13 13:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-13\/133117209641.shtml\">read more<\/a>",
+		"title":"美国一架可乘50人商用飞机在布法罗市坠毁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-16 17:06:00",
+		"enddate":"2009-02-16 17:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-16\/170617225647.shtml\">read more<\/a>",
+		"title":"美国失事飞机曾5秒内下降243米",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-13 14:58:00",
+		"enddate":"2009-02-13 14:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-13\/145817210059.shtml\">read more<\/a>",
+		"title":"美国一架通勤飞机坠毁49人遇难",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-13 15:47:00",
+		"enddate":"2009-02-13 15:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-13\/154717210209.shtml\">read more<\/a>",
+		"title":"美国客机坠毁撞民房引发大火 吞噬多座房屋",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-13 15:00:00",
+		"enddate":"2009-02-13 15:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-13\/150017210004.shtml\">read more<\/a>",
+		"title":"美客机失事原因众说纷纭 坠毁时天气状况较差",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-13 16:53:00",
+		"enddate":"2009-02-13 16:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-13\/165315158706s.shtml\">read more<\/a>",
+		"title":"美国客机失事前与控制塔台之间交流很少",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-13 16:56:00",
+		"enddate":"2009-02-13 16:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-13\/165617210394.shtml\">read more<\/a>",
+		"title":"媒体称美国飞机坠毁原因是雨加雪天气",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-14 05:14:00",
+		"enddate":"2009-02-14 05:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-14\/051417212758.shtml\">read more<\/a>",
+		"title":"奥巴马对纽约州空难遇难者亲属表示慰问",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-14 11:14:00",
+		"enddate":"2009-02-14 11:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-14\/111417214819.shtml\">read more<\/a>",
+		"title":"中国领事证实美坠机事故两名华人遇难",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-13 23:08:00",
+		"enddate":"2009-02-13 23:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-02-13\/230817211136.shtml\">read more<\/a>",
+		"title":"一名中国公民在纽约坠机事故中遇难",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-15 04:08:00",
+		"enddate":"2009-02-15 04:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/p\/2009-02-15\/040817216734.shtml\">read more<\/a>",
+		"title":"同事忆纽约坠机遇难中国公民姚世彬(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-13 13:47:00",
+		"enddate":"2009-02-13 13:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-13\/134717209746.shtml\">read more<\/a>",
+		"title":"美国载有48人小型商用飞机坠毁并撞上房屋",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-15 17:42:00",
+		"enddate":"2009-02-15 17:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-02-15\/174217219482.shtml\">read more<\/a>",
+		"title":"美国飞机失事中遇难中国公民家人将赴美善后",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-16 09:54:00",
+		"enddate":"2009-02-16 09:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-16\/095415169544s.shtml\">read more<\/a>",
+		"title":"美国布法罗失事飞机5秒内急降243米",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-13 13:50:00",
+		"enddate":"2009-02-13 13:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-13\/135017209743.shtml\">read more<\/a>",
+		"title":"美国一架商用飞机坠毁49人遇难",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_15_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji15_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji15_type",
+	"size_importance":"true"
+}]

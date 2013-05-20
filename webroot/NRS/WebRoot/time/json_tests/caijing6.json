@@ -1,0 +1,264 @@
+[
+{
+	"title":"2012年4月宏观经济预测报告",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-05-09 16:06:00",
+		"enddate":"2012-05-09 16:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120509\/160612028713.shtml\">read more<\/a>",
+		"title":"一致预期：4月CPI同比上涨3.4%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 16:20:00",
+		"enddate":"2012-05-09 16:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120509\/162012028811.shtml\">read more<\/a>",
+		"title":"一致预期：4月PPI同比-0.4%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 16:27:00",
+		"enddate":"2012-05-09 16:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120509\/162712028902.shtml\">read more<\/a>",
+		"title":"一致预期：4月新增人民币贷款7972.65亿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 16:40:00",
+		"enddate":"2012-05-09 16:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120509\/164012029104.shtml\">read more<\/a>",
+		"title":"一致预期：4月末M1同比增速均值4.7%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 16:46:00",
+		"enddate":"2012-05-09 16:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120509\/164612029143.shtml\">read more<\/a>",
+		"title":"一致预期：4月末M2同比增长13.2%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 16:51:00",
+		"enddate":"2012-05-09 16:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120509\/165112029187.shtml\">read more<\/a>",
+		"title":"一致预期：4月工业增加值同比增长12%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 16:56:00",
+		"enddate":"2012-05-09 16:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120509\/165612029218.shtml\">read more<\/a>",
+		"title":"一致预期：4月投资继续回落至20.7%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 17:04:00",
+		"enddate":"2012-05-09 17:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120509\/170412029282.shtml\">read more<\/a>",
+		"title":"一致预期：4月消费同比增速微幅上升至15.3%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 17:09:00",
+		"enddate":"2012-05-09 17:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120509\/170912029328.shtml\">read more<\/a>",
+		"title":"一致预期：4月进口同比增速均值11.1%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 17:16:00",
+		"enddate":"2012-05-09 17:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120509\/171612029366.shtml\">read more<\/a>",
+		"title":"一致预期：4月出口同比增速均值9.2%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 17:19:00",
+		"enddate":"2012-05-09 17:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120509\/171912029388.shtml\">read more<\/a>",
+		"title":"一致预期：4月贸易顺差均值88.06亿美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-11 07:55:00",
+		"enddate":"2012-05-11 07:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120511\/075512043058.shtml\">read more<\/a>",
+		"title":"机构预测4月CPI涨幅将回落 5月存准率或下调",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-11 09:35:00",
+		"enddate":"2012-05-11 09:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120511\/093512044458.shtml\">read more<\/a>",
+		"title":"统计局：4月CPI同比上涨3.4% 环比下降0.1%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-16 00:59:00",
+		"enddate":"2012-05-16 00:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120516\/005912071727.shtml\">read more<\/a>",
+		"title":"FDI连降6个月 专家称或因欧美资金回流",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-16 02:51:00",
+		"enddate":"2012-05-16 02:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120516\/025112073118.shtml\">read more<\/a>",
+		"title":"专家称电力消费下行反映经济增长核心动力不足",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-16 02:53:00",
+		"enddate":"2012-05-16 02:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120516\/025312073128.shtml\">read more<\/a>",
+		"title":"4月财政收入减速 学者呼吁政府减税节约支出",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing6_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing6_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,324 @@
+[
+{
+	"title":"成品油价年内第四次上调",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-10 08:53:00",
+		"enddate":"2012-09-10 08:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20120910\/085313091094.shtml\">read more<\/a>",
+		"title":"成品油调价窗口今打开 2年总体累积每吨涨千元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-11 00:59:00",
+		"enddate":"2012-09-11 00:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20120911\/005913097923.shtml\">read more<\/a>",
+		"title":"成品油价今起上调 石化两巨头炼油业务有望扭亏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-11 06:59:00",
+		"enddate":"2012-09-11 06:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120911\/065913101164.shtml\">read more<\/a>",
+		"title":"成品油价格今日上调 涨幅为历史最高",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-10 21:00:00",
+		"enddate":"2012-09-10 21:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120910\/210013097049.shtml\">read more<\/a>",
+		"title":"汽柴油价明起每吨上调550元和540元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-11 00:02:00",
+		"enddate":"2012-09-11 00:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120911\/000213097760.shtml\">read more<\/a>",
+		"title":"成品油价今起涨至年内次高点 或将迎三连涨",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-12 02:31:00",
+		"enddate":"2012-09-12 02:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120912\/023113111564.shtml\">read more<\/a>",
+		"title":"油价上调后民营加油站92号汽油价格仍未破8 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-10 20:50:00",
+		"enddate":"2012-09-10 20:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120910\/205013097001.shtml\">read more<\/a>",
+		"title":"各省区市汽柴油最高零售价格表",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-11 02:59:00",
+		"enddate":"2012-09-11 02:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20120911\/025913099448.shtml\">read more<\/a>",
+		"title":"汽柴油每升涨价约4角钱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-10 20:52:00",
+		"enddate":"2012-09-10 20:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20120910\/205213097023.shtml\">read more<\/a>",
+		"title":"汽柴油价明起每吨上调550元和540元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-10 21:00:00",
+		"enddate":"2012-09-10 21:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120910\/210013097140.shtml\">read more<\/a>",
+		"title":"国内汽柴油价格明起每升上涨0.41和0.46元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-10 17:03:00",
+		"enddate":"2012-09-10 17:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120910\/170313095880.shtml\">read more<\/a>",
+		"title":"发改委上调油价 1.4排量轿车百公里要多花约2元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-11 00:00:00",
+		"enddate":"2012-09-11 00:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120911\/000013101146.shtml\">read more<\/a>",
+		"title":"北京92号汽油每升8.06元 油价再次重返8时代",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-10 21:20:00",
+		"enddate":"2012-09-10 21:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20120910\/212013097205.shtml\">read more<\/a>",
+		"title":"发改委上调成品油价格 汽柴油每升上涨约4毛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-11 09:43:00",
+		"enddate":"2012-09-11 09:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120911\/094313103281.shtml\">read more<\/a>",
+		"title":"油价上涨车主大出血 节油省钱养成良好驾驶习惯",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-10 21:05:00",
+		"enddate":"2012-09-10 21:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120910\/210513097107.shtml\">read more<\/a>",
+		"title":"汽柴油价明起每吨上调550元和540元(全文)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-13 01:30:00",
+		"enddate":"2012-09-13 01:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20120913\/013013122585.shtml\">read more<\/a>",
+		"title":"今年国内油价4涨3降 涨幅远超国际油价",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-10 09:46:00",
+		"enddate":"2012-09-10 09:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120910\/094613091701.shtml\">read more<\/a>",
+		"title":"成品油调价窗口今日正式到来 油价或重回8时代",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-10 16:16:00",
+		"enddate":"2012-09-10 16:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20120910\/161613095278.shtml\">read more<\/a>",
+		"title":"传明起汽柴油价分别上调550和540元/吨",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-10 04:55:00",
+		"enddate":"2012-09-10 04:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20120910\/045513088774.shtml\">read more<\/a>",
+		"title":"成品油价今日或上调 两桶油销售利润将大增",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-10 21:00:00",
+		"enddate":"2012-09-10 21:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20120910\/210013097139.shtml\">read more<\/a>",
+		"title":"成品油价11日上调 汽柴油涨550和540元/吨",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_1_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing1_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing1_type",
+	"size_importance":"true"
+}]

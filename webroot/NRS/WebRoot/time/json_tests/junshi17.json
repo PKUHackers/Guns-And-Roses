@@ -1,0 +1,324 @@
+[
+{
+	"title":"波音787首飞",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2008-03-31 17:47:00",
+		"enddate":"2008-03-31 17:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2008-03-31\/1747492691.html\">read more<\/a>",
+		"title":"波音宣布收购沃特持有的全球航空航天公司份额",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-10-10 11:54:00",
+		"enddate":"2008-10-10 11:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2008-10-10\/1154524835.html\">read more<\/a>",
+		"title":"波音与中国的伙伴关系具有战略意义",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-18 10:22:00",
+		"enddate":"2009-02-18 10:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-02-18\/1022542602.html\">read more<\/a>",
+		"title":"卡塔尔航空公司接收首架波音777-200LR客机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-04-24 11:10:00",
+		"enddate":"2008-04-24 11:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2008-04-24\/1110497032.html\">read more<\/a>",
+		"title":"波音延迟交货 日航考虑索赔",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-30 14:34:00",
+		"enddate":"2009-10-30 14:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-10-30\/1434571979.html\">read more<\/a>",
+		"title":"波音将在美国南卡罗来纳州建787第二条总装线",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-01-23 12:40:00",
+		"enddate":"2008-01-23 12:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2008-01-23\/1240482523.html\">read more<\/a>",
+		"title":"波音787飞机再添8架订单 总订单达857架",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-04-24 11:57:00",
+		"enddate":"2008-04-24 11:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2008-04-24\/1157497050.html\">read more<\/a>",
+		"title":"波音787飞机材料使用不当导致首飞延期",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-10-10 11:54:00",
+		"enddate":"2008-10-10 11:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2008-10-10\/1154524834.html\">read more<\/a>",
+		"title":"波音是中国航空航天业现代化进程中的伙伴",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-08 09:07:00",
+		"enddate":"2009-12-08 09:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-12-08\/0907576596.html\">read more<\/a>",
+		"title":"波音787飞机预计将于12月14日首飞(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-06-08 15:02:00",
+		"enddate":"2008-06-08 15:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2008-06-08\/1502504401.html\">read more<\/a>",
+		"title":"波音787项目延迟缓解金属钛供应紧张局面(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-10-09 17:29:00",
+		"enddate":"2008-10-09 17:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2008-10-09\/1729524672.html\">read more<\/a>",
+		"title":"波音公司与罢工工会同意重启谈判",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-02-19 09:01:00",
+		"enddate":"2008-02-19 09:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2008-02-19\/0901486021.html\">read more<\/a>",
+		"title":"第二架波音787飞机开始总装 21架处于生产阶段",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-17 09:08:00",
+		"enddate":"2009-09-17 09:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-09-17\/0908566261.html\">read more<\/a>",
+		"title":"波音787梦想飞机年底首飞 2010年交付全日空",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-03 09:38:00",
+		"enddate":"2009-12-03 09:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-12-03\/0938576038.html\">read more<\/a>",
+		"title":"波音787客机开始加油 本月将进行首次试飞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-06-17 10:47:00",
+		"enddate":"2009-06-17 10:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-06-17\/1047555639.html\">read more<\/a>",
+		"title":"波音飞机项目负责人称787将于第二季度末试飞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-01-04 09:05:00",
+		"enddate":"2008-01-04 09:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2008-01-04\/0905479708.html\">read more<\/a>",
+		"title":"波音787梦想飞机订单又创新高 总量达到802架",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-05-21 01:28:00",
+		"enddate":"2008-05-21 01:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/p\/s\/2008-05-21\/0128501386.html\">read more<\/a>",
+		"title":"波音787客机将于今年第四季度实现首飞(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-09-16 12:07:00",
+		"enddate":"2009-09-16 12:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-09-16\/1207566135.html\">read more<\/a>",
+		"title":"波音预测中国新飞机市场价值将达到4千亿美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-07-30 10:33:00",
+		"enddate":"2009-07-30 10:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2009-07-30\/1033561084.html\">read more<\/a>",
+		"title":"波音分获土耳其航空及埃塞俄比亚航空777订单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-10-29 15:47:00",
+		"enddate":"2008-10-29 15:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2008-10-29\/1547527456.html\">read more<\/a>",
+		"title":"波音预测中国是全球增长最快的航空市场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_17_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi17_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi17_type",
+	"size_importance":"true"
+}]

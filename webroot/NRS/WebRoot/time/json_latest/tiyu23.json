@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012年中国乒乓球超级联赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-09 10:46:00",
+		"enddate":"2012-10-09 10:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-09\/10466252465.shtml\">read more<\/a>",
+		"title":"鲁能全部本土球员战乒超 张继科：目标保三争一",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_23_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 10:04:00",
+		"enddate":"2012-10-18 10:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-18\/10046261685.shtml\">read more<\/a>",
+		"title":"天津男乒成功“复仇” 佩尔森未登场仍是最大亮点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_23_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-22 05:35:00",
+		"enddate":"2012-09-22 05:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-22\/05356234722.shtml\">read more<\/a>",
+		"title":"李晓霞张继科留守鲁能战乒超 女队外援敲定韩国新星",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_23_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 07:50:00",
+		"enddate":"2012-10-17 07:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-17\/07506260341.shtml\">read more<\/a>",
+		"title":"乒超新季3看点:丁宁郭焱拼山东 得马琳还能得冠军?",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_23_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 10:10:00",
+		"enddate":"2012-10-16 10:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-16\/10106259472.shtml\">read more<\/a>",
+		"title":"新赛季乒超联赛将揭幕 张继科领衔鲁能势头强劲",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_23_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 10:15:00",
+		"enddate":"2012-10-18 10:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-18\/10156261709.shtml\">read more<\/a>",
+		"title":"乒超天津男团取得开门红 邱贻可输郝帅不甘心",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_23_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 15:45:00",
+		"enddate":"2012-10-17 15:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-17\/15456260957.shtml\">read more<\/a>",
+		"title":"乒超揭幕一票难求 张继科人气大涨成央视转播新宠",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_23_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 20:35:00",
+		"enddate":"2012-10-17 20:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-17\/20356261161.shtml\">read more<\/a>",
+		"title":"刘国栋：和鲁能实力对半开 乒超一年比一年更好",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_23_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 20:34:00",
+		"enddate":"2012-10-17 20:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-17\/20346261160.shtml\">read more<\/a>",
+		"title":"马龙：奥运会是很好的人生体验 感谢观众支持乒超",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_23_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 21:25:00",
+		"enddate":"2012-09-26 21:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-26\/21256240443.shtml\">read more<\/a>",
+		"title":"乒超发布会张继科李晓霞助阵 史上最大改革出台",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_23_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 10:06:00",
+		"enddate":"2012-10-16 10:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-16\/10066259456.shtml\">read more<\/a>",
+		"title":"郝帅：时隔十年代表家乡战乒超 将以好战绩表达感恩",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_23_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 23:28:00",
+		"enddate":"2012-10-17 23:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-17\/23286261264.shtml\">read more<\/a>",
+		"title":"新赛季乒超山东鲁能男队开门红 张继科独得两分",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_23_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 11:34:00",
+		"enddate":"2012-10-17 11:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-17\/11346260735.shtml\">read more<\/a>",
+		"title":"乒超重燃战火：男队争冠竞争惨烈 女队掀青春风暴",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_23_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 23:26:00",
+		"enddate":"2012-10-17 23:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-17\/23266261267.shtml\">read more<\/a>",
+		"title":"张继科：战马龙抱冲击他的心态 决胜局7分当4分打",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_23_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 10:03:00",
+		"enddate":"2012-10-18 10:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-18\/10036261681.shtml\">read more<\/a>",
+		"title":"2012年中国乒乓球超级联赛积分榜(截至第一轮后)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_23_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu23_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu23_type",
+	"size_importance":"true"
+}]

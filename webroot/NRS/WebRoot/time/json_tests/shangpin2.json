@@ -1,0 +1,309 @@
+[
+{
+	"title":"2009胡润bestofbest",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-01-15 19:53:00",
+		"enddate":"2009-01-15 19:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/fashion\/costume\/2009-01-15\/195331745.shtml\">read more<\/a>",
+		"title":"新闻发布会胡润答问：奢侈品上半年会比较困难",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-15 17:55:00",
+		"enddate":"2009-01-15 17:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-15\/175531732.shtml\">read more<\/a>",
+		"title":"新浪尚品专访胡润：五次入选是对新浪的肯定",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-15 18:52:00",
+		"enddate":"2009-01-15 18:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-15\/185231739.shtml\">read more<\/a>",
+		"title":"胡润报告显示中国富豪生活方式提升 投资趋理性",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-15 18:56:00",
+		"enddate":"2009-01-15 18:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-15\/185631741.shtml\">read more<\/a>",
+		"title":"新浪第五次当选中国千万富翁最青睐网站",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-15 18:58:00",
+		"enddate":"2009-01-15 18:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-15\/185831742.shtml\">read more<\/a>",
+		"title":"胡润百富创始人胡润个人简介",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-15 19:21:00",
+		"enddate":"2009-01-15 19:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-15\/192131743.shtml\">read more<\/a>",
+		"title":"胡润研究院在上海第五次发布2009至尚优品报告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-15 19:40:00",
+		"enddate":"2009-01-15 19:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-15\/194031744.shtml\">read more<\/a>",
+		"title":"长安俱乐部继续蝉联最受千万富豪青睐的俱乐部",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-15 20:01:00",
+		"enddate":"2009-01-15 20:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-15\/200131749.shtml\">read more<\/a>",
+		"title":"《至尚优品》简介",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-15 20:42:00",
+		"enddate":"2009-01-15 20:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-15\/204231751.shtml\">read more<\/a>",
+		"title":"劳斯莱斯幻影蝉联中国富豪最青睐的汽车",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-15 20:50:00",
+		"enddate":"2009-01-15 20:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-15\/205031752.shtml\">read more<\/a>",
+		"title":"格拉苏帝第一次入榜中国富豪最青睐的手表",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-15 20:58:00",
+		"enddate":"2009-01-15 20:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-15\/205831754.shtml\">read more<\/a>",
+		"title":"皇家礼炮和中华稳定中国富豪最青睐的酒和烟草",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-15 21:09:00",
+		"enddate":"2009-01-15 21:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-15\/210931757.shtml\">read more<\/a>",
+		"title":"招商银行中国信用卡占绝对优势",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-15 21:18:00",
+		"enddate":"2009-01-15 21:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-15\/211831760.shtml\">read more<\/a>",
+		"title":"法拉帝凭借雄厚资本和技术中国富豪最青睐游艇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-15 21:27:00",
+		"enddate":"2009-01-15 21:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-15\/212731763.shtml\">read more<\/a>",
+		"title":"中国富豪最青睐的珠宝、时装、配饰、书写工具",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-16 08:24:00",
+		"enddate":"2009-01-16 08:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-16\/082431792.shtml\">read more<\/a>",
+		"title":"胡润报告显示中国富豪年平均消费200万元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-16 11:19:00",
+		"enddate":"2009-01-16 11:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-16\/111931824.shtml\">read more<\/a>",
+		"title":"胡润百富公布富豪钟情品牌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-16 11:24:00",
+		"enddate":"2009-01-16 11:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-16\/112431826.shtml\">read more<\/a>",
+		"title":"2009中国富豪投资倾向调查：少炒股 多买房",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-16 11:31:00",
+		"enddate":"2009-01-16 11:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-16\/113131829.shtml\">read more<\/a>",
+		"title":"富豪理财 炒股改炒房",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-16 11:49:00",
+		"enddate":"2009-01-16 11:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-01-16\/114931834.shtml\">read more<\/a>",
+		"title":"胡润又发报告称 2009理财：富豪弃股选房",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_2_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shangpin_type"},
+		"ypix":"0",
+		"id":"shangpin2_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shangpin2_type",
+	"size_importance":"true"
+}]

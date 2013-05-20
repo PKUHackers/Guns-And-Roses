@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012IMF和世界银行东京秋季年会",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-11 12:04:00",
+		"enddate":"2012-10-11 12:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20121011\/120413340289.shtml\">read more<\/a>",
+		"title":"IMF朱民：新兴经济体保长期增长须结构改革",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 08:59:00",
+		"enddate":"2012-10-11 08:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20121011\/085913337732.shtml\">read more<\/a>",
+		"title":"IMF总裁拉加德：当前危机最大根源在于不确定性",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-13 13:41:00",
+		"enddate":"2012-10-13 13:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20121013\/134113360098.shtml\">read more<\/a>",
+		"title":"IMF总裁拉加德：系列改革需在明年春季兑现承诺",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 10:32:00",
+		"enddate":"2012-10-10 10:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/yzjj\/20121010\/103213327695.shtml\">read more<\/a>",
+		"title":"三菱东京UFJ银行行长：日本债务已到临界点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 16:59:00",
+		"enddate":"2012-10-11 16:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20121011\/165913342718.shtml\">read more<\/a>",
+		"title":"世卫组织总干事：推动发展中国家全民健康覆盖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 11:14:00",
+		"enddate":"2012-10-10 11:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20121010\/111413328151.shtml\">read more<\/a>",
+		"title":"黑石总裁：中国资本市场糟糕根源在于缺乏透明",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 12:42:00",
+		"enddate":"2012-10-12 12:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20121012\/124213352302.shtml\">read more<\/a>",
+		"title":"世行行长金墉致辞IMF世行年会 披露在任新目标",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 08:50:00",
+		"enddate":"2012-10-10 08:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/gjjj\/20121010\/085013326260.shtml\">read more<\/a>",
+		"title":"国际货币基金组织《全球金融稳定报告》概要",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 08:01:00",
+		"enddate":"2012-10-15 08:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20121015\/080113366271.shtml\">read more<\/a>",
+		"title":"易纲：应对金融危机也应保护纳税人的金钱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-13 21:26:00",
+		"enddate":"2012-10-13 21:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20121013\/212613360728.shtml\">read more<\/a>",
+		"title":"俄财长：将推动IMF明年完成份额改革",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 09:09:00",
+		"enddate":"2012-10-09 09:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20121009\/090913314207.shtml\">read more<\/a>",
+		"title":"IMF：中国政府采取了恰当的经济政策",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 10:48:00",
+		"enddate":"2012-10-09 10:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20121009\/104813315814.shtml\">read more<\/a>",
+		"title":"IMF避谈中方人员缺席年会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 13:04:00",
+		"enddate":"2012-10-11 13:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/hgjj\/20121011\/130413340481.shtml\">read more<\/a>",
+		"title":"IMF副总裁朱民：调低中国增长未必是坏事",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 05:32:00",
+		"enddate":"2012-10-10 05:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/20121010\/053213324390.shtml\">read more<\/a>",
+		"title":"IMF：2013年底欧银行资产或缩水2.8万亿美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 07:59:00",
+		"enddate":"2012-10-15 07:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20121015\/075913366235.shtml\">read more<\/a>",
+		"title":"易纲：我国通胀风险源于农产品价格和进口渠道",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_3_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing3_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing3_type",
+	"size_importance":"true"
+}]

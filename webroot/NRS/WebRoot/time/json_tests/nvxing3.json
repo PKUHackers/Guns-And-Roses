@@ -1,0 +1,234 @@
+[
+{
+	"title":"全国媒体走基层",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-11-02 11:05:00",
+		"enddate":"2011-11-02 11:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/s\/2011\/1102\/11051101237.shtml\">read more<\/a>",
+		"title":"重庆市妇联：集中力量把困难解决在基层",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_3_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-02 11:11:00",
+		"enddate":"2011-11-02 11:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/s\/2011\/1102\/11111101241.shtml\">read more<\/a>",
+		"title":"黑龙江妇联举办新农村建设帮建工作现场推进会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_3_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-02 11:16:00",
+		"enddate":"2011-11-02 11:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/s\/2011\/1102\/11161101244.shtml\">read more<\/a>",
+		"title":"宜宾:妇女民情月报制度成为“通道”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_3_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 11:14:00",
+		"enddate":"2011-11-08 11:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/s\/2011\/1108\/11141103387.shtml\">read more<\/a>",
+		"title":"册子乡的“新房客”（图）",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_3_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 11:52:00",
+		"enddate":"2011-11-08 11:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/s\/2011\/1108\/11521103425.shtml\">read more<\/a>",
+		"title":"推进浙江省巾帼志愿服务的调查和思考",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_3_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 11:56:00",
+		"enddate":"2011-11-08 11:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/s\/2011\/1108\/11561103431.shtml\">read more<\/a>",
+		"title":"重庆爱心的哥结队上门帮扶空巢老人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_3_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 12:03:00",
+		"enddate":"2011-11-08 12:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/s\/2011\/1108\/12031103451.shtml\">read more<\/a>",
+		"title":"重庆巾帼志愿者冒酷暑担当反拐义务宣传员",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_3_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 12:50:00",
+		"enddate":"2011-11-08 12:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/s\/2011\/1108\/12501103479.shtml\">read more<\/a>",
+		"title":"上海巾帼志愿者：帮扶弱者，关爱一生",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_3_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 12:54:00",
+		"enddate":"2011-11-08 12:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/s\/2011\/1108\/12541103481.shtml\">read more<\/a>",
+		"title":"发展壮大四川省巾帼志愿者队伍",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_3_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 13:45:00",
+		"enddate":"2011-11-08 13:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/s\/2011\/1108\/13451103485.shtml\">read more<\/a>",
+		"title":"青岛：推动巾帼志愿服务长效发展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_3_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-17 09:23:00",
+		"enddate":"2011-11-17 09:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/s\/2011\/1117\/09231105507.shtml\">read more<\/a>",
+		"title":"巾帼志愿者实名注册已超220万",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_3_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-22 15:44:00",
+		"enddate":"2011-11-22 15:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/s\/2011\/1122\/15441106688.shtml\">read more<\/a>",
+		"title":"不让家庭教育缺位―广东中山家长学校办校率100%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_3_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-25 15:58:00",
+		"enddate":"2011-10-25 15:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/s\/p\/2011\/1025\/15581099683.shtml\">read more<\/a>",
+		"title":"组图：我是尚班乐活族 爱在“白领驿家”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_3_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-02 10:56:00",
+		"enddate":"2011-11-02 10:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/eladies.sina.com.cn\/s\/p\/2011\/1102\/10561101229.shtml\">read more<\/a>",
+		"title":"组图：全国媒体走基层访浙沪 感受妇联温暖之家",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"nvxing_3_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"nvxing_type"},
+		"ypix":"0",
+		"id":"nvxing3_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"nvxing3_type",
+	"size_importance":"true"
+}]

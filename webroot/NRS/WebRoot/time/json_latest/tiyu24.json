@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012年男乒世界杯",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-01 09:32:00",
+		"enddate":"2012-10-01 09:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-01\/09326245175.shtml\">read more<\/a>",
+		"title":"波尔:经常输中国选手非坏事 老萨:中国没阻碍乒球",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_24_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-01 00:04:00",
+		"enddate":"2012-10-01 00:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-01\/00046244880.shtml\">read more<\/a>",
+		"title":"男乒新双子星呼之欲出 看到孔令辉刘国梁影子了吗",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_24_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 12:22:00",
+		"enddate":"2012-09-27 12:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-27\/12226241246.shtml\">read more<\/a>",
+		"title":"男乒世界杯马龙许昕出战 登顶男单世界冠军绝好机会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_24_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 20:15:00",
+		"enddate":"2012-09-30 20:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-30\/20156244705.shtml\">read more<\/a>",
+		"title":"许昕：心态没调整好 我比马龙逊色但差距没这么大",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_24_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-01 10:42:00",
+		"enddate":"2012-10-01 10:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-10-01\/10426245283.shtml\">read more<\/a>",
+		"title":"乒联：马龙没给波尔留任何机会 他的打法令人窒息",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_24_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 04:27:00",
+		"enddate":"2012-09-30 04:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-30\/04276243935.shtml\">read more<\/a>",
+		"title":"男乒世界杯马龙许昕携手进四强 半决赛上演德比战",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_24_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-01 00:19:00",
+		"enddate":"2012-10-01 00:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/z\/2012-10-01\/00196244888.shtml\">read more<\/a>",
+		"title":"2012年男乒世界杯全赛果：马龙获首个单打世界冠军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_24_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 17:52:00",
+		"enddate":"2012-09-27 17:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-27\/17526241515.shtml\">read more<\/a>",
+		"title":"男乒世界杯：马龙迎来正名之战 许昕绝佳机会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_24_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 05:05:00",
+		"enddate":"2012-09-30 05:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-30\/05056243961.shtml\">read more<\/a>",
+		"title":"展望半决赛马龙许昕都强调心态 胜负在于临场发挥",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_24_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-08 20:26:00",
+		"enddate":"2012-09-08 20:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-08\/20266218877.shtml\">read more<\/a>",
+		"title":"刘国梁解世界杯：继科未恢复状态 马龙更易投入",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_24_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 01:58:00",
+		"enddate":"2012-09-28 01:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-28\/01586241684.shtml\">read more<\/a>",
+		"title":"男乒世界杯抽签马龙进A组 许昕B组遭遇萨姆索诺夫",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_24_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 10:50:00",
+		"enddate":"2012-09-28 10:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-28\/10506242087.shtml\">read more<\/a>",
+		"title":"马龙许昕联手冲世界杯 急需男单冠军确立新核心位置",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_24_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-11 09:10:00",
+		"enddate":"2012-09-11 09:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-11\/09106221563.shtml\">read more<\/a>",
+		"title":"国乒四大主力免战世界杯 张继科将近1个月没碰球拍",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_24_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 23:50:00",
+		"enddate":"2012-09-29 23:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-29\/23506243786.shtml\">read more<\/a>",
+		"title":"男乒世界杯-马龙许昕携手进八强 奥运铜牌小组出局",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_24_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-30 21:07:00",
+		"enddate":"2012-09-30 21:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-09-30\/21076244730.shtml\">read more<\/a>",
+		"title":"许昕负马龙意义重大 新周期三人之争他又落在后面",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_24_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu24_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu24_type",
+	"size_importance":"true"
+}]

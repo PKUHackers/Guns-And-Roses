@@ -1,0 +1,219 @@
+[
+{
+	"title":"南京证券2012年投资策略会",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-12-31 10:40:00",
+		"enddate":"2011-12-31 10:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/marketresearch\/20111231\/104011110324.shtml\">read more<\/a>",
+		"title":"周旭：明年1季度存机会 全年2000到2800波动",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-31 10:44:00",
+		"enddate":"2011-12-31 10:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/marketresearch\/20111231\/104411110343.shtml\">read more<\/a>",
+		"title":"周旭：南京证券2012年十大金股",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-31 10:48:00",
+		"enddate":"2011-12-31 10:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/marketresearch\/20111231\/104811110373.shtml\">read more<\/a>",
+		"title":"南京证券2012年投资策略：先谋后动 博弈早周期",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-31 11:31:00",
+		"enddate":"2011-12-31 11:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/marketresearch\/20111231\/113111110655.shtml\">read more<\/a>",
+		"title":"邵健：经济转型背景下的中国证券市场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-31 11:52:00",
+		"enddate":"2011-12-31 11:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/marketresearch\/20111231\/115211110772.shtml\">read more<\/a>",
+		"title":"汤哲新：银行面临储值存款压力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-31 10:25:00",
+		"enddate":"2011-12-31 10:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/stockptd\/20111231\/102511110180.shtml\">read more<\/a>",
+		"title":"范剑平：2012年经济走势和宏观政策取向",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-31 08:50:00",
+		"enddate":"2011-12-31 08:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20111231\/085011109365.shtml\">read more<\/a>",
+		"title":"南京证券总裁步国旬：寻找2012经济增长引擎",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-31 08:55:00",
+		"enddate":"2011-12-31 08:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20111231\/085511109411.shtml\">read more<\/a>",
+		"title":"金陵晚报总编项晓宁：江苏30指数回报投资者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-31 09:10:00",
+		"enddate":"2011-12-31 09:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20111231\/091011109588.shtml\">read more<\/a>",
+		"title":"范剑平：2012年房地产价格将现合理回归",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-31 09:32:00",
+		"enddate":"2011-12-31 09:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20111231\/093211109751.shtml\">read more<\/a>",
+		"title":"范剑平：地方债风险完全可控 经济增速仍将稳定",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-31 09:49:00",
+		"enddate":"2011-12-31 09:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20111231\/094911109910.shtml\">read more<\/a>",
+		"title":"范剑平：2012年外贸出口仍将保持两位数以上增长",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-31 10:02:00",
+		"enddate":"2011-12-31 10:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20111231\/100211110009.shtml\">read more<\/a>",
+		"title":"范剑平:明年经济增速平稳回落 未来将回到9%以上",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-31 10:17:00",
+		"enddate":"2011-12-31 10:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20111231\/101711110126.shtml\">read more<\/a>",
+		"title":"范剑平:2012年财政和货币政策仍是积极和稳健的",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_7_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing7_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing7_type",
+	"size_importance":"true"
+}]

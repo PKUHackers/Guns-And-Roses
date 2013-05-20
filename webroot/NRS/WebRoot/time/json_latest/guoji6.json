@@ -1,0 +1,249 @@
+[
+{
+	"title":"尼泊尔客机坠毁",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-03 15:25:00",
+		"enddate":"2012-10-03 15:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-03\/152525297565.shtml\">read more<\/a>",
+		"title":"尼泊尔坠机或因操作失当 当地无条件鉴别遗体",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_6_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 12:02:00",
+		"enddate":"2012-09-28 12:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-09-28\/104227276.html\">read more<\/a>",
+		"title":"尼泊尔客机起飞后不久坠毁 19人全部遇难",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_6_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 13:56:00",
+		"enddate":"2012-09-28 13:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-28\/135625274910.shtml\">read more<\/a>",
+		"title":"尼泊尔坠机19人死 机场方面称事发前撞上飞鸟",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_6_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 21:04:00",
+		"enddate":"2012-09-28 21:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-09-28\/210425277407.shtml\">read more<\/a>",
+		"title":"尼泊尔坠机事故遇难中国公民和华人身份确认",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_6_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 14:38:00",
+		"enddate":"2012-09-28 14:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-09-28\/143825275184.shtml\">read more<\/a>",
+		"title":"尼泊尔坠机5名中国遇难者为珠峰登山者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_6_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-06 20:25:00",
+		"enddate":"2012-10-06 20:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-10-06\/202525306594.shtml\">read more<\/a>",
+		"title":"尼泊尔坠机中国遇难同胞遗体告别仪式在尼举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_6_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 05:26:00",
+		"enddate":"2012-09-29 05:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-29\/052625279405.shtml\">read more<\/a>",
+		"title":"尼泊尔坠机事件初步调查系撞飞鸟后迫降时起火",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_6_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 02:39:00",
+		"enddate":"2012-09-29 02:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-29\/023925278344.shtml\">read more<\/a>",
+		"title":"尼泊尔飞机坠毁目击者称听到机上尖叫声",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_6_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 10:07:00",
+		"enddate":"2012-09-29 10:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-09-29\/100725281880.shtml\">read more<\/a>",
+		"title":"尼泊尔飞机撞鸟坠毁 4名遇难中国公民身份确认",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_6_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 12:01:00",
+		"enddate":"2012-09-28 12:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-09-28\/101827272.html\">read more<\/a>",
+		"title":"尼泊尔小型客机在其首都机场起飞不久后坠毁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_6_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 10:29:00",
+		"enddate":"2012-09-28 10:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-28\/102925273924.shtml\">read more<\/a>",
+		"title":"尼泊尔客机起飞后坠毁 机上19人全部遇难",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_6_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 12:03:00",
+		"enddate":"2012-09-28 12:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-09-28\/113427281.html\">read more<\/a>",
+		"title":"尼泊尔客机坠毁8名外国人遇难含5名日本人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_6_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 15:01:00",
+		"enddate":"2012-09-28 15:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-09-28\/150125275427.shtml\">read more<\/a>",
+		"title":"中国驻尼泊尔大使馆确认空难遇难中国人名单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_6_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 01:19:00",
+		"enddate":"2012-09-29 01:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-29\/011925277934.shtml\">read more<\/a>",
+		"title":"尼泊尔客机起飞两分钟即坠毁 飞行员称撞上老鹰",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_6_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 11:07:00",
+		"enddate":"2012-09-28 11:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-28\/110725274205.shtml\">read more<\/a>",
+		"title":"一客机在尼泊尔首都郊外坠毁 机上19人全遇难",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_6_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji6_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji6_type",
+	"size_importance":"true"
+}]

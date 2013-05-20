@@ -1,0 +1,309 @@
+[
+{
+	"title":"巴格达发生汽车连环爆炸",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-12-08 15:42:00",
+		"enddate":"2009-12-08 15:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-08\/154219216088.shtml\">read more<\/a>",
+		"title":"巴格达市中心接连发生3起爆炸",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-08 16:05:00",
+		"enddate":"2009-12-08 16:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-08\/160519216214.shtml\">read more<\/a>",
+		"title":"巴格达市中心连发3起爆炸 记者听到零星枪声",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-08 17:05:00",
+		"enddate":"2009-12-08 17:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-08\/170519216483.shtml\">read more<\/a>",
+		"title":"巴格达连发袭击事件至少37人死亡(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-08 17:11:00",
+		"enddate":"2009-12-08 17:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-08\/171119216517.shtml\">read more<\/a>",
+		"title":"巴格达发生5起炸弹爆炸 目击者听到零星枪声",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-08 17:11:00",
+		"enddate":"2009-12-08 17:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-08\/171119216540.shtml\">read more<\/a>",
+		"title":"巴格达4起汽车爆炸死亡人数上升至62人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-08 17:31:00",
+		"enddate":"2009-12-08 17:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-08\/173119216569.shtml\">read more<\/a>",
+		"title":"巴格达发生汽车连环爆炸至少101人死亡(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-08 17:33:00",
+		"enddate":"2009-12-08 17:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-08\/173319216579.shtml\">read more<\/a>",
+		"title":"巴格达连发5起汽车炸弹爆炸 至少致101死182伤",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-08 17:42:00",
+		"enddate":"2009-12-08 17:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-08\/174219216672.shtml\">read more<\/a>",
+		"title":"巴格达市中心连环爆炸死亡人数可能进一步上升",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-08 17:52:00",
+		"enddate":"2009-12-08 17:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-08\/175219216679.shtml\">read more<\/a>",
+		"title":"巴格达爆炸已致101人死 袭击目标为政府机构",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-08 17:59:00",
+		"enddate":"2009-12-08 17:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-08\/175919216692.shtml\">read more<\/a>",
+		"title":"巴格达连环爆炸已致101人死亡182人受伤(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-08 18:46:00",
+		"enddate":"2009-12-08 18:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-08\/184619216939.shtml\">read more<\/a>",
+		"title":"巴格达爆炸死亡人数升至86人 死者包括许多学生",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-08 19:25:00",
+		"enddate":"2009-12-08 19:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-08\/192519216991.shtml\">read more<\/a>",
+		"title":"巴格达发生5起爆炸事件已造成300多人死伤",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-08 22:03:00",
+		"enddate":"2009-12-08 22:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-08\/220319217320.shtml\">read more<\/a>",
+		"title":"巴格达连环爆炸已致112人死亡425人受伤",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-09 04:09:00",
+		"enddate":"2009-12-09 04:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-09\/040919218579.shtml\">read more<\/a>",
+		"title":"巴格达发生5起爆炸袭击500多人伤亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-10 18:34:00",
+		"enddate":"2009-12-10 18:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-10\/183419233478.shtml\">read more<\/a>",
+		"title":"基地组织伊拉克分支宣称对巴格达连环爆炸负责",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-12 00:39:00",
+		"enddate":"2009-12-12 00:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-12-12\/003919242401.shtml\">read more<\/a>",
+		"title":"亲人送别巴格达爆炸遇难者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-08 19:30:00",
+		"enddate":"2009-12-08 19:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2009-12-08\/193019216996.shtml\">read more<\/a>",
+		"title":"巴格达连环爆炸已致112人死亡207人受伤(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-09 07:37:00",
+		"enddate":"2009-12-09 07:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2009-12-09\/073719220583.shtml\">read more<\/a>",
+		"title":"巴格达连环爆炸案死者升至118人(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-10 09:55:00",
+		"enddate":"2009-12-10 09:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2009-12-10\/095519230620.shtml\">read more<\/a>",
+		"title":"伊拉克基地组织称对连环炸弹袭击负责",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_13_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji13_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji13_type",
+	"size_importance":"true"
+}]

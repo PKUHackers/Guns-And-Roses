@@ -1,0 +1,324 @@
+[
+{
+	"title":"2011年《洋厨房》年度最佳厨师大评选",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-08-11 14:08:00",
+		"enddate":"2011-08-11 14:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-11\/140882311.shtml\">read more<\/a>",
+		"title":"上海富豪金丰酒店 周黎俊Tony Zhou ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-18 15:01:00",
+		"enddate":"2011-08-18 15:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-18\/150182321.shtml\">read more<\/a>",
+		"title":"上海希尔顿  徐向升",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-18 15:00:00",
+		"enddate":"2011-08-18 15:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-18\/150082315.shtml\">read more<\/a>",
+		"title":"富豪环球东亚酒店 张晋良",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-11 13:53:00",
+		"enddate":"2011-08-11 13:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-11\/135382301.shtml\">read more<\/a>",
+		"title":"上海外滩英迪格酒店 董茱莉",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-11 13:54:00",
+		"enddate":"2011-08-11 13:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-11\/135482302.shtml\">read more<\/a>",
+		"title":"上海古井假日 黄承毅",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-11 13:58:00",
+		"enddate":"2011-08-11 13:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-11\/135882304.shtml\">read more<\/a>",
+		"title":"上海新发展亚太万豪酒店 Albert Th&#246;ny",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-18 15:01:00",
+		"enddate":"2011-08-18 15:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-18\/150182317.shtml\">read more<\/a>",
+		"title":"上海国丰酒店 陈综绍",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-11 14:47:00",
+		"enddate":"2011-08-11 14:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-11\/144782324.shtml\">read more<\/a>",
+		"title":"上海福朋喜来登由由酒店　Wang Wei 王伟",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-18 15:01:00",
+		"enddate":"2011-08-18 15:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-18\/150182320.shtml\">read more<\/a>",
+		"title":"上海朗廷扬子精品酒店 James Willemsen ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-11 14:11:00",
+		"enddate":"2011-08-11 14:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-11\/141182314.shtml\">read more<\/a>",
+		"title":"上海财大豪生酒店 马晓强",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-11 14:00:00",
+		"enddate":"2011-08-11 14:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-11\/140082305.shtml\">read more<\/a>",
+		"title":"苏州独墅湖 陶勇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-05 15:44:00",
+		"enddate":"2011-09-05 15:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-09-05\/154483558.shtml\">read more<\/a>",
+		"title":"上海复旦皇冠假日酒店 虞若伟",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-11 14:55:00",
+		"enddate":"2011-08-11 14:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-11\/145582328.shtml\">read more<\/a>",
+		"title":"上海宏泉丽笙酒店 Daniel James Turner  ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-11 14:51:00",
+		"enddate":"2011-08-11 14:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-11\/145182326.shtml\">read more<\/a>",
+		"title":"北京王府井希尔顿酒店  李家度   ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-11 14:06:00",
+		"enddate":"2011-08-11 14:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-11\/140682307.shtml\">read more<\/a>",
+		"title":"苏州中茵皇冠假日酒店 李骥",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-11 14:11:00",
+		"enddate":"2011-08-11 14:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-11\/141182313.shtml\">read more<\/a>",
+		"title":"上海淳大万丽酒店 王翔鸥Owen Wang",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-05 15:42:00",
+		"enddate":"2011-09-05 15:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-09-05\/154283556.shtml\">read more<\/a>",
+		"title":"上海兴国宾馆 邱伟杰",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-11 14:57:00",
+		"enddate":"2011-08-11 14:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-11\/145782329.shtml\">read more<\/a>",
+		"title":"上海世茂皇家艾美酒店  Tino  Giuseppe",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-11 13:53:00",
+		"enddate":"2011-08-11 13:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-11\/135382300.shtml\">read more<\/a>",
+		"title":"上海新发展亚太万豪酒店 陈少华",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-11 14:06:00",
+		"enddate":"2011-08-11 14:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/events\/2011-08-11\/140682308.shtml\">read more<\/a>",
+		"title":"上海福朋喜来登由由酒店 罗毅然Laurent Colin",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_6_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shangpin_type"},
+		"ypix":"0",
+		"id":"shangpin6_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shangpin6_type",
+	"size_importance":"true"
+}]

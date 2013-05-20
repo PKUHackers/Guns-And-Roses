@@ -1,0 +1,249 @@
+[
+{
+	"title":"电视剧《玲珑局》",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-05-29 15:35:00",
+		"enddate":"2012-05-29 15:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-05-29\/15353643397.shtml\">read more<\/a>",
+		"title":"《玲珑局》开机 余文乐内地荧屏首秀",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_19_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-17 16:15:00",
+		"enddate":"2012-07-17 16:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-07-17\/16153687354.shtml\">read more<\/a>",
+		"title":"余文乐首拍电视剧携手颖儿演绎《玲珑局》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_19_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-28 14:40:00",
+		"enddate":"2012-04-28 14:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-04-28\/14403618602.shtml\">read more<\/a>",
+		"title":"《玲珑局》将开机 余文乐首上荧屏演绎生死恋",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_19_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-24 15:26:00",
+		"enddate":"2012-07-24 15:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-07-24\/15263693509.shtml\">read more<\/a>",
+		"title":"颖儿《玲珑局》热拍推电影合作",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_19_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-26 09:50:00",
+		"enddate":"2012-07-26 09:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-07-26\/09503695086.shtml\">read more<\/a>",
+		"title":"余文乐为妈妈接演电视剧《玲珑局》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_19_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-28 15:06:00",
+		"enddate":"2012-07-28 15:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/h\/2012-07-28\/15063697135.shtml\">read more<\/a>",
+		"title":"余文乐接拍《玲珑局》 坦言只为多见妈妈",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_19_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 17:49:00",
+		"enddate":"2012-09-21 17:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-21\/17493748640.shtml\">read more<\/a>",
+		"title":"《玲珑局》颖儿造型百变苦学踢踏舞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_19_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-31 15:06:00",
+		"enddate":"2012-07-31 15:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-07-31\/15063699334.shtml\">read more<\/a>",
+		"title":"颖儿《玲珑局》热拍不忘助威奥运健儿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_19_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-25 18:06:00",
+		"enddate":"2012-04-25 18:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-04-25\/18063615342.shtml\">read more<\/a>",
+		"title":"余文乐《玲珑局》搭档颖儿 饰演个性探员",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_19_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-25 18:37:00",
+		"enddate":"2012-06-25 18:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-06-25\/18373667824.shtml\">read more<\/a>",
+		"title":"《玲珑局》海悦荧屏处女秀上演全武行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_19_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-25 15:24:00",
+		"enddate":"2012-04-25 15:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-04-25\/15243615041.shtml\">read more<\/a>",
+		"title":"余文乐出演电视剧《玲珑局》与颖儿上演生死恋",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_19_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-26 10:55:00",
+		"enddate":"2012-07-26 10:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-07-26\/10553695180.shtml\">read more<\/a>",
+		"title":"《玲珑局》举行见面会 余文乐将亮相荧屏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_19_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-04 16:43:00",
+		"enddate":"2012-09-04 16:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-04\/16433731448.shtml\">read more<\/a>",
+		"title":"《玲珑局》杀青 余文乐成民国版福尔摩斯",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_19_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-20 14:56:00",
+		"enddate":"2012-07-20 14:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-07-20\/14563690602.shtml\">read more<\/a>",
+		"title":"颖儿出演《玲珑局》片场卖萌表情可爱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_19_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-24 01:00:00",
+		"enddate":"2012-07-24 01:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-07-24\/01003692755.shtml\">read more<\/a>",
+		"title":"余文乐陷《玲珑局》 坦言演电视喘不过气",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_19_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule19_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule19_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,324 @@
+[
+{
+	"title":"河北“艾滋女”事件",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-10-20 11:47:00",
+		"enddate":"2009-10-20 11:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-20\/114716468485s.shtml\">read more<\/a>",
+		"title":"河北容城“艾滋女”传播艾滋病是假的",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-22 09:08:00",
+		"enddate":"2009-10-22 09:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-22\/090818883616.shtml\">read more<\/a>",
+		"title":"闫德利欲向制造其患艾滋病谣言者讨精神赔偿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-20 07:56:00",
+		"enddate":"2009-10-20 07:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-20\/075616467763s.shtml\">read more<\/a>",
+		"title":""闫德利"3检无艾滋 卑劣男网上造谣女友患病",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-20 08:33:00",
+		"enddate":"2009-10-20 08:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2009-10-20\/083316467500s.shtml\">read more<\/a>",
+		"title":"“艾滋女”三度检测均无“艾滋”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-20 12:27:00",
+		"enddate":"2009-10-20 12:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-20\/122718868403.shtml\">read more<\/a>",
+		"title":"河北警方正式立案调查艾滋女事件",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-24 02:13:00",
+		"enddate":"2009-10-24 02:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-24\/021318896365.shtml\">read more<\/a>",
+		"title":"艾滋女事件炮制者被刑拘 承认散布谣言(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-20 07:57:00",
+		"enddate":"2009-10-20 07:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2009-10-20\/075716467028s.shtml\">read more<\/a>",
+		"title":"三次检测证明闫德利未染艾滋",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-23 02:47:00",
+		"enddate":"2009-10-23 02:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-23\/024718888170.shtml\">read more<\/a>",
+		"title":"“艾滋女”闫德利将讨要精神赔偿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-23 08:54:00",
+		"enddate":"2009-10-23 08:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-23\/085418892463.shtml\">read more<\/a>",
+		"title":"河北“艾滋女”闫德利接受专访称遭恶意毁谤",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-20 08:35:00",
+		"enddate":"2009-10-20 08:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2009-10-20\/083516467717s.shtml\">read more<\/a>",
+		"title":"警方介入侦查“艾滋女”案师出有名",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-24 02:37:00",
+		"enddate":"2009-10-24 02:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-24\/023718896471.shtml\">read more<\/a>",
+		"title":"艾滋女家曾遭前男友汽油弹袭击",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-22 13:37:00",
+		"enddate":"2009-10-22 13:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-22\/133718885705.shtml\">read more<\/a>",
+		"title":"据称艾滋女事件当事人在北京信息与户口本不符",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-22 01:21:00",
+		"enddate":"2009-10-22 01:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-22\/012118879207.shtml\">read more<\/a>",
+		"title":"艾滋女事件当事人欲起诉始作俑者讨要精神赔偿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-22 09:36:00",
+		"enddate":"2009-10-22 09:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-22\/093618883804.shtml\">read more<\/a>",
+		"title":"艾滋女事件当事人欲起诉谣言制造者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-20 06:55:00",
+		"enddate":"2009-10-20 06:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-10-20\/065516466405s.shtml\">read more<\/a>",
+		"title":"“艾滋女”两次检测均未患艾滋病",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-20 05:04:00",
+		"enddate":"2009-10-20 05:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-10-20\/050416465027s.shtml\">read more<\/a>",
+		"title":"两次体检都呈阴性艾滋女闫德利洗刷污点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-19 13:34:00",
+		"enddate":"2009-10-19 13:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-19\/133418860410.shtml\">read more<\/a>",
+		"title":"初检没感染艾滋病毒闫德利：我没做过小姐",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-23 15:12:00",
+		"enddate":"2009-10-23 15:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-23\/151218894490.shtml\">read more<\/a>",
+		"title":"艾滋女事件疑犯被警方刑拘 承认散布谣言",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-17 01:45:00",
+		"enddate":"2009-10-17 01:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-10-17\/014516451234s.shtml\">read more<\/a>",
+		"title":"河北艾滋女事件追踪： 警方称确有其人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-27 08:30:00",
+		"enddate":"2009-10-27 08:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-27\/083018916633.shtml\">read more<\/a>",
+		"title":"河北当地检察机关介入艾滋女事件",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_0_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shehui_type"},
+		"ypix":"0",
+		"id":"shehui0_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shehui0_type",
+	"size_importance":"true"
+}]

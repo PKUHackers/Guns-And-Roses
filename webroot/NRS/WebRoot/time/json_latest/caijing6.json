@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012中国农业投融资洽谈会",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-11 14:06:00",
+		"enddate":"2012-10-11 14:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20121011\/140613340884_3.shtml\">read more<\/a>",
+		"title":"江荣华：农业企业上市不容易",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 15:30:00",
+		"enddate":"2012-10-11 15:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20121011\/153013341738.shtml\">read more<\/a>",
+		"title":"毛长青：从中长期讲中国要靠自己土地养活",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 16:30:00",
+		"enddate":"2012-10-08 16:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20121008\/163013307266.shtml\">read more<\/a>",
+		"title":"张红宇:上半年粮价保持增长态势 但增速下滑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 14:06:00",
+		"enddate":"2012-10-11 14:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20121011\/140613340884_6.shtml\">read more<\/a>",
+		"title":"2012中国农业投融资实务大讲堂(6)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 14:06:00",
+		"enddate":"2012-10-11 14:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20121011\/140613340884_4.shtml\">read more<\/a>",
+		"title":"2012中国农业投融资实务大讲堂(4)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 15:30:00",
+		"enddate":"2012-10-11 15:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20121011\/153013341726_5.shtml\">read more<\/a>",
+		"title":"第四届中国农业投融资洽谈会上午发言实录(5)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 15:30:00",
+		"enddate":"2012-10-11 15:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20121011\/153013341726_10.shtml\">read more<\/a>",
+		"title":"第四届中国农业投融资洽谈会上午发言实录(10)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 18:37:00",
+		"enddate":"2012-09-21 18:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20120921\/183713206234.shtml\">read more<\/a>",
+		"title":"2012中国农业投融资洽谈会评奖候选名单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 15:30:00",
+		"enddate":"2012-10-11 15:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20121011\/153013341726_2.shtml\">read more<\/a>",
+		"title":"张红宇：从长期看农产品价格一定高走",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 16:16:00",
+		"enddate":"2012-10-11 16:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20121011\/161613342232.shtml\">read more<\/a>",
+		"title":"第四届农业投洽会大话养猪分论坛文字实录",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 16:43:00",
+		"enddate":"2012-10-08 16:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20121008\/164313307399.shtml\">read more<\/a>",
+		"title":"贷款难仍是困扰三农顽疾 农业成风投关注热点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 16:16:00",
+		"enddate":"2012-10-11 16:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20121011\/161613342232_2.shtml\">read more<\/a>",
+		"title":"有机农业分论坛文字实录",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 16:22:00",
+		"enddate":"2012-10-08 16:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20121008\/162213307175.shtml\">read more<\/a>",
+		"title":"张玉香出席农业投融资洽谈会并致辞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 16:37:00",
+		"enddate":"2012-10-08 16:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20121008\/163713307334.shtml\">read more<\/a>",
+		"title":"官员称农业总体局势不容乐观 建议增加补贴",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 14:06:00",
+		"enddate":"2012-10-11 14:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/nongye\/nygd\/20121011\/140613340884_5.shtml\">read more<\/a>",
+		"title":"2012中国农业投融资实务大讲堂(5)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_6_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing6_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing6_type",
+	"size_importance":"true"
+}]

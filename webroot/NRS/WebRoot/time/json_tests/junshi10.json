@@ -1,0 +1,324 @@
+[
+{
+	"title":"2011年英国防务博览会",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-09-15 17:25:00",
+		"enddate":"2011-09-15 17:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-15\/1725665609.html\">read more<\/a>",
+		"title":"英国新型无人运输车可以自动导航避障驾驶",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-14 09:32:00",
+		"enddate":"2011-09-14 09:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-14\/0932665339.html\">read more<\/a>",
+		"title":"防务展坦克受冷落 西方陆军强国已关闭生产线",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-07 13:22:00",
+		"enddate":"2011-09-07 13:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-07\/1322664610.html\">read more<\/a>",
+		"title":"2011年英国防务展下周开幕 1400余家厂商参展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-15 11:53:00",
+		"enddate":"2011-09-15 11:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-15\/1153665560.html\">read more<\/a>",
+		"title":"英国遥控小口径舰炮同时装备军用和警用舰艇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-15 09:45:00",
+		"enddate":"2011-09-15 09:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-15\/0945665492.html\">read more<\/a>",
+		"title":"美国轻型战术全地形车L-ATV亮相可应对极端环境",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-13 11:15:00",
+		"enddate":"2011-09-13 11:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-13\/1115665161.html\">read more<\/a>",
+		"title":"南非新型装甲车每个车轮都可以抵挡2枚地雷",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-13 14:51:00",
+		"enddate":"2011-09-13 14:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-13\/1451665202.html\">read more<\/a>",
+		"title":"2010年英国国防领域销售突破350亿美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-14 15:36:00",
+		"enddate":"2011-09-14 15:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-14\/1536665404.html\">read more<\/a>",
+		"title":"罗-克公司新型士兵系统可实时收发多媒体信息",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-16 10:58:00",
+		"enddate":"2011-09-16 10:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-16\/1058665663.html\">read more<\/a>",
+		"title":"美军新型运兵车加强机动和防护满足更多需求",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-14 14:07:00",
+		"enddate":"2011-09-14 14:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-14\/1407665392.html\">read more<\/a>",
+		"title":"英国海军潜艇将装备新型网络和通讯设备",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-15 12:01:00",
+		"enddate":"2011-09-15 12:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-15\/1201665562.html\">read more<\/a>",
+		"title":"瑞典萨博新型防空导弹可以昼夜全天候作战",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-14 13:35:00",
+		"enddate":"2011-09-14 13:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-14\/1335665388.html\">read more<\/a>",
+		"title":"安全企业高管称英法加强应对网络安全威胁能力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-13 09:12:00",
+		"enddate":"2011-09-13 09:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-13\/0912665123.html\">read more<\/a>",
+		"title":"无人机将成为2011年英国防务展热点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-15 10:30:00",
+		"enddate":"2011-09-15 10:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-15\/1030665542.html\">read more<\/a>",
+		"title":"英国火影巡弋导弹可在目标上空盘旋6小时",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-15 09:07:00",
+		"enddate":"2011-09-15 09:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-15\/0907665483.html\">read more<\/a>",
+		"title":"新加坡与英国联合研发防火箭武器软质装甲",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-13 10:55:00",
+		"enddate":"2011-09-13 10:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-13\/1055665150.html\">read more<\/a>",
+		"title":"瑞士研制成功新型5.56毫米无铅硬芯弹头穿甲弹",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-16 13:21:00",
+		"enddate":"2011-09-16 13:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-16\/1321665682.html\">read more<\/a>",
+		"title":"英国新型反鱼雷系统结构紧凑可装备小型舰艇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-14 15:42:00",
+		"enddate":"2011-09-14 15:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-14\/1542665405.html\">read more<\/a>",
+		"title":"雷声公司展出SM-3导弹数据链 满足欧洲国家需求",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-13 11:08:00",
+		"enddate":"2011-09-13 11:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-13\/1108665158.html\">read more<\/a>",
+		"title":"通用公司新型架桥系统自重小于4吨",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-14 15:24:00",
+		"enddate":"2011-09-14 15:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-09-14\/1524665401.html\">read more<\/a>",
+		"title":"南非迪奈尔公司火炮完成试射 射程达到30公里",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_10_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi10_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi10_type",
+	"size_importance":"true"
+}]

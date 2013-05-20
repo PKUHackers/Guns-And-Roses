@@ -1,0 +1,324 @@
+[
+{
+	"title":"电影《河东狮吼2》",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-08-07 18:06:00",
+		"enddate":"2012-08-07 18:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-07\/18063705586.shtml\">read more<\/a>",
+		"title":"独家首发张柏芝《河东狮吼2》主题曲MV",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-01 16:25:00",
+		"enddate":"2012-08-01 16:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-01\/16253700519.shtml\">read more<\/a>",
+		"title":"《河东狮吼2》赵本山零片酬加盟",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-03 17:28:00",
+		"enddate":"2011-08-03 17:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2011-08-03\/17283376710.shtml\">read more<\/a>",
+		"title":"《河东狮吼2》否认停拍传闻 张柏芝拍戏很认真",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-13 09:49:00",
+		"enddate":"2012-08-13 09:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-13\/09493709763.shtml\">read more<\/a>",
+		"title":"张柏芝回避父亲被捕 称谢霆锋孩子爸",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-16 21:24:00",
+		"enddate":"2012-07-16 21:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-07-16\/21243686507.shtml\">read more<\/a>",
+		"title":"《河东狮吼2》曝终极海报 8月17日全国公映",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-27 17:42:00",
+		"enddate":"2012-07-27 17:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-07-27\/17423696692.shtml\">read more<\/a>",
+		"title":"《河东狮吼2》首映演唱会开票",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-26 15:45:00",
+		"enddate":"2012-07-26 15:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-07-26\/15453695508.shtml\">read more<\/a>",
+		"title":"《河东狮吼2》黄维德遭皮鞭虐待惨露点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-10 17:40:00",
+		"enddate":"2012-08-10 17:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-10\/17403708750.shtml\">read more<\/a>",
+		"title":"《河东狮吼2》黄维德上阵保护张柏芝",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-11 10:43:00",
+		"enddate":"2011-07-11 10:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2011-07-11\/10433356485.shtml\">read more<\/a>",
+		"title":"《河东狮吼2》曝造型 张柏芝笑容满面亮相海报",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-16 18:53:00",
+		"enddate":"2012-08-16 18:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-16\/18533713744.shtml\">read more<\/a>",
+		"title":"《河东狮吼2》公映 张柏芝谢霆锋银幕对决",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-25 13:38:00",
+		"enddate":"2011-07-25 13:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2011-07-25\/13383368300.shtml\">read more<\/a>",
+		"title":"《河东狮吼2》全封闭拍摄 记者绞尽脑汁抢实况",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-16 11:16:00",
+		"enddate":"2012-08-16 11:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-16\/11163713168.shtml\">read more<\/a>",
+		"title":"小沈阳谈《河东2》：没演就开骂这样不客观",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-07 07:40:00",
+		"enddate":"2011-07-07 07:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2011-07-07\/07403353196.shtml\">read more<\/a>",
+		"title":"张柏芝入组《河东狮吼2》 拍摄现场频发呆",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-09 08:19:00",
+		"enddate":"2011-08-09 08:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2011-08-09\/08193381252.shtml\">read more<\/a>",
+		"title":"张馨予《河东狮吼2》挑战张柏芝争“老公”(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-13 02:50:00",
+		"enddate":"2011-07-13 02:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/x\/2011-07-13\/02503358319.shtml\">read more<\/a>",
+		"title":"张柏芝《河东狮吼2》顶高温拍戏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-08 17:21:00",
+		"enddate":"2011-08-08 17:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/x\/2011-08-08\/17213380922.shtml\">read more<\/a>",
+		"title":"赵本山加盟《河东狮吼2》 零片酬力挺张柏芝",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-07 03:19:00",
+		"enddate":"2012-08-07 03:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-07\/03193704606.shtml\">read more<\/a>",
+		"title":"《河东狮吼2》曝插曲MV 小沈阳首当催泪弹",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-07 14:49:00",
+		"enddate":"2012-08-07 14:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-07\/14493705266.shtml\">read more<\/a>",
+		"title":"暑期票房激战《河东狮吼2》认知度高",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-07-22 11:52:00",
+		"enddate":"2011-07-22 11:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2011-07-22\/11523366505.shtml\">read more<\/a>",
+		"title":"刘羽琦首次饰演大反派 为《河东狮吼2》定妆",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-17 09:47:00",
+		"enddate":"2012-08-17 09:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-17\/09473714143.shtml\">read more<\/a>",
+		"title":"张柏芝遗憾缺席《河东狮吼2》媒体答谢会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_1_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule1_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule1_type",
+	"size_importance":"true"
+}]

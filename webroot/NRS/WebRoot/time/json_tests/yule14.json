@@ -1,0 +1,189 @@
+[
+{
+	"title":"戴佩妮2012巡回演唱会",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-08-20 12:59:00",
+		"enddate":"2012-08-20 12:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/x\/2012-08-20\/12593716495.shtml\">read more<\/a>",
+		"title":"戴佩妮沪上回忆十年路",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-25 09:51:00",
+		"enddate":"2012-07-25 09:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-07-25\/09513694134.shtml\">read more<\/a>",
+		"title":"戴佩妮内地巡演启动 四大城市华丽开唱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-20 16:22:00",
+		"enddate":"2012-08-20 16:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-20\/16223716780.shtml\">read more<\/a>",
+		"title":"戴佩妮回忆十年路 10月1日唱响东艺",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-23 10:50:00",
+		"enddate":"2012-08-23 10:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-23\/10503719706.shtml\">read more<\/a>",
+		"title":"戴佩妮与你回味《你要的爱》 十一上海献演",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-23 16:15:00",
+		"enddate":"2012-08-23 16:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-23\/16153720093.shtml\">read more<\/a>",
+		"title":"戴佩妮出道十年首次上海开唱",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-24 07:19:00",
+		"enddate":"2012-08-24 07:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-24\/07193720569.shtml\">read more<\/a>",
+		"title":"戴佩妮剧场型演唱会10月广州举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-29 09:27:00",
+		"enddate":"2012-08-29 09:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-08-29\/09273724843.shtml\">read more<\/a>",
+		"title":"戴佩妮9月开启回家路上LIVE音乐会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 00:42:00",
+		"enddate":"2012-09-06 00:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-09-06\/00423732890.shtml\">read more<\/a>",
+		"title":"戴佩妮十一上海开唱 和歌迷零距离亲密互动",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 07:19:00",
+		"enddate":"2012-09-06 07:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-09-06\/07193733054.shtml\">read more<\/a>",
+		"title":"戴佩妮音乐会回忆十年情歌路",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 18:01:00",
+		"enddate":"2012-09-06 18:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-09-06\/18013733888.shtml\">read more<\/a>",
+		"title":"戴佩妮内地巡演启动 北京站正式开票",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 11:14:00",
+		"enddate":"2012-09-17 11:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/y\/2012-09-17\/11143743786.shtml\">read more<\/a>",
+		"title":"戴佩妮开唱全场K歌 向刘思涵索吻(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_14_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule14_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule14_type",
+	"size_importance":"true"
+}]

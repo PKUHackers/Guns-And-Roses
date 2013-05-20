@@ -1,0 +1,189 @@
+[
+{
+	"title":"中国好味道-最具投资价值餐饮企业评选",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-18 10:59:00",
+		"enddate":"2012-09-18 10:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20120918\/105913167058.shtml\">read more<\/a>",
+		"title":"“中国好味道”美食排行榜微博评选活动启动",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 11:21:00",
+		"enddate":"2012-09-27 11:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20120927\/112113257528.shtml\">read more<\/a>",
+		"title":"白昱：在国内掀起大众对美食的热情",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 11:23:00",
+		"enddate":"2012-09-27 11:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20120927\/112313257536.shtml\">read more<\/a>",
+		"title":"邓超：餐饮行业应重视“品牌”建设",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 11:28:00",
+		"enddate":"2012-09-27 11:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20120927\/112813257582.shtml\">read more<\/a>",
+		"title":"富宇：良心企业才具备最具投资价值评选资格",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 11:30:00",
+		"enddate":"2012-09-27 11:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20120927\/113013257604.shtml\">read more<\/a>",
+		"title":"花雷：感谢媒体对餐饮行业的关注",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 11:36:00",
+		"enddate":"2012-09-27 11:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20120927\/113613257721.shtml\">read more<\/a>",
+		"title":"李北海：这是一个很好的创意",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 11:38:00",
+		"enddate":"2012-09-27 11:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20120927\/113813257747.shtml\">read more<\/a>",
+		"title":"王保新：把表决权交给消费者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 11:45:00",
+		"enddate":"2012-09-27 11:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20120927\/114513257819.shtml\">read more<\/a>",
+		"title":"杨洪：中国好味道催化大众对餐饮的热度",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 11:54:00",
+		"enddate":"2012-09-27 11:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20120927\/115413257879.shtml\">read more<\/a>",
+		"title":"图文：《创业天使》栏目主持人张欣",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 13:44:00",
+		"enddate":"2012-09-27 13:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20120927\/134413258510.shtml\">read more<\/a>",
+		"title":"王景峰：餐饮行业与新浪微博结合的契机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 14:10:00",
+		"enddate":"2012-09-27 14:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/hy\/20120927\/141013258783.shtml\">read more<\/a>",
+		"title":"图文：与会嘉宾共同切蛋糕庆祝",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_4_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing4_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing4_type",
+	"size_importance":"true"
+}]

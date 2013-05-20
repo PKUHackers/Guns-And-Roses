@@ -1,0 +1,189 @@
+[
+{
+	"title":"中国人民大学建校七十五周年",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-27 14:23:00",
+		"enddate":"2012-09-27 14:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-09-27\/1423357100.shtml\">read more<\/a>",
+		"title":"人民大学关于开展校庆蛋糕分享活动的通知",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 14:24:00",
+		"enddate":"2012-09-27 14:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-09-27\/1424357101.shtml\">read more<\/a>",
+		"title":"中国人民大学校庆日食堂用餐公告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 14:24:00",
+		"enddate":"2012-09-27 14:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-09-27\/1424357103.shtml\">read more<\/a>",
+		"title":"中国人民大学艺术学院“校庆专场音乐会”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 14:25:00",
+		"enddate":"2012-09-27 14:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-09-27\/1425357104.shtml\">read more<\/a>",
+		"title":"欢迎广大校友观看人大75周年校庆系列演出",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 14:28:00",
+		"enddate":"2012-09-27 14:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-09-27\/1428357105.shtml\">read more<\/a>",
+		"title":"人大国际青年声乐家中外名剧名曲演唱会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 14:29:00",
+		"enddate":"2012-09-27 14:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-09-27\/1429357106.shtml\">read more<\/a>",
+		"title":"人大75周年校庆志愿服务团队成立大会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 14:29:00",
+		"enddate":"2012-09-27 14:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-09-27\/1429357107.shtml\">read more<\/a>",
+		"title":"人大校庆主题师生书画、摄影作品征集通知",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 14:31:00",
+		"enddate":"2012-09-27 14:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-09-27\/1431357109.shtml\">read more<\/a>",
+		"title":"中国人民大学82级“相识30年”活动通告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 14:32:00",
+		"enddate":"2012-09-27 14:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-09-27\/1432357110.shtml\">read more<\/a>",
+		"title":"75周年校庆“关爱师生基金”拍卖会邀请函",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 14:34:00",
+		"enddate":"2012-09-27 14:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-09-27\/1434357112.shtml\">read more<\/a>",
+		"title":"人大关于所谓“校庆收费”诈骗活动声明",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 11:44:00",
+		"enddate":"2012-09-28 11:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/gaokao\/2012-09-28\/1144357266.shtml\">read more<\/a>",
+		"title":"中国人民大学校庆日校园车辆交通管制公告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"jiaoyu_type"},
+		"ypix":"0",
+		"id":"jiaoyu2_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu2_type",
+	"size_importance":"true"
+}]

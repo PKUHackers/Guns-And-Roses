@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012年金牌名师",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-03-27 18:11:00",
+		"enddate":"2012-03-27 18:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1811332631.shtml\">read more<\/a>",
+		"title":"金牌名师何燕：课外辅导名师要做“变形金刚”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 17:44:00",
+		"enddate":"2012-03-27 17:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1744332613.shtml\">read more<\/a>",
+		"title":"高思须佶成：金牌教师要有教育理想(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 17:18:00",
+		"enddate":"2012-03-27 17:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1718332604.shtml\">read more<\/a>",
+		"title":"巨人学校尹雄：名师评选要进行细分(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 17:32:00",
+		"enddate":"2012-03-27 17:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1732332605.shtml\">read more<\/a>",
+		"title":"卓越唐俊京：课外辅导名师应在团队中成长(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 17:37:00",
+		"enddate":"2012-03-27 17:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1737332608.shtml\">read more<\/a>",
+		"title":"四中网校刘开朝：课外辅导中师德很重要(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 17:48:00",
+		"enddate":"2012-03-27 17:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1748332616.shtml\">read more<\/a>",
+		"title":"清华紫光廖祥兵：名师能够影响孩子的一生(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 17:57:00",
+		"enddate":"2012-03-27 17:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1757332622.shtml\">read more<\/a>",
+		"title":"爱学教育李晓强：名师应具备能力和态度两层面(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 17:53:00",
+		"enddate":"2012-03-27 17:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1753332620.shtml\">read more<\/a>",
+		"title":"文新教育刘修贵：名师应让孩子在快乐中学习(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 18:12:00",
+		"enddate":"2012-03-27 18:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1812332632.shtml\">read more<\/a>",
+		"title":"金牌名师窦昕：人才无界限(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 18:13:00",
+		"enddate":"2012-03-27 18:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1813332634.shtml\">read more<\/a>",
+		"title":"新浪梅景松：信息化时代微博影响力与推广力(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 17:46:00",
+		"enddate":"2012-03-27 17:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1746332615.shtml\">read more<\/a>",
+		"title":"精华李峰学：金牌名师应该有三个层次(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 17:40:00",
+		"enddate":"2012-03-27 17:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1740332610.shtml\">read more<\/a>",
+		"title":"天材教育巩建平：课外辅导机构要开展教学研究(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 17:35:00",
+		"enddate":"2012-03-27 17:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1735332607.shtml\">read more<\/a>",
+		"title":"学而思樊保国：名师应让孩子获品格的传递(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 17:42:00",
+		"enddate":"2012-03-27 17:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1742332611.shtml\">read more<\/a>",
+		"title":"新东方孔建龙：老师要将枯燥的知识形象化(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 18:05:00",
+		"enddate":"2012-03-27 18:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1805332627.shtml\">read more<\/a>",
+		"title":"龙文郑炎：课外辅导老师应定位为家庭教育顾问(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 17:59:00",
+		"enddate":"2012-03-27 17:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1759332623.shtml\">read more<\/a>",
+		"title":"北达张令军：名师让孩子成功少走弯路(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 18:02:00",
+		"enddate":"2012-03-27 18:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1802332625.shtml\">read more<\/a>",
+		"title":"安博精学费允杰：一对一名师应调动孩子积极性(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 18:03:00",
+		"enddate":"2012-03-27 18:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1803332626.shtml\">read more<\/a>",
+		"title":"才智刘亮：适合孩子的老师是好老师(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 17:39:00",
+		"enddate":"2012-03-27 17:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1739332609.shtml\">read more<\/a>",
+		"title":"学大教育邓强：老师要走进孩子心里(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 17:46:00",
+		"enddate":"2012-03-27 17:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zxx\/2012-03-27\/1746332614.shtml\">read more<\/a>",
+		"title":"达博于祖金：让孩子学会做人是我们的社会责任(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_2_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"jiaoyu_type"},
+		"ypix":"0",
+		"id":"jiaoyu2_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu2_type",
+	"size_importance":"true"
+}]

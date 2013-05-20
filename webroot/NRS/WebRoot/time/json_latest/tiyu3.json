@@ -1,0 +1,249 @@
+[
+{
+	"title":"西甲专题",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-12 22:23:00",
+		"enddate":"2012-10-12 22:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/g\/2012-10-12\/22236256143.shtml\">read more<\/a>",
+		"title":"世预赛俄罗斯vs葡萄牙首发：C罗搭档纳尼组三叉戟",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_3_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 20:28:00",
+		"enddate":"2012-10-08 20:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/g\/laliga\/2012-10-08\/20286252037.shtml\">read more<\/a>",
+		"title":"皇马官方确认C罗肩伤无大碍 即将与葡萄牙国家队会合",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_3_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 05:30:00",
+		"enddate":"2012-10-08 05:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/g\/laliga\/2012-10-08\/05306251241.shtml\">read more<\/a>",
+		"title":"穆帅赛后大骂：活了50年没见过你这么不要脸的！",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_3_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 11:01:00",
+		"enddate":"2012-10-04 11:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/g\/ucl\/2012-10-04\/11016247986.shtml\">read more<\/a>",
+		"title":"穆帅亲口让1人悠着点雪藏踢巴萨 一心腹遭弃消失1个月",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_3_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 04:35:00",
+		"enddate":"2012-10-04 04:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/g\/video\/uclvideo\/1213\/1004\/real\/\">read more<\/a>",
+		"title":"视频集锦-卡卡助本泽马倒钩 C罗弧线+挑射戴帽",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_3_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 10:09:00",
+		"enddate":"2012-10-16 10:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/g\/laliga\/2012-10-16\/10096259471.shtml\">read more<\/a>",
+		"title":"皇马巴萨联合坚决反对明年在北京踢西班牙超级杯",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_3_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 12:37:00",
+		"enddate":"2012-10-09 12:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/g\/laliga\/2012-10-09\/12376252603.shtml\">read more<\/a>",
+		"title":"欧洲豪门球衣销量榜：皇马曼联并列NO.1 巴萨第三",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_3_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-04 07:00:00",
+		"enddate":"2012-10-04 07:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/g\/ucl\/2012-10-04\/07006247733.shtml\">read more<\/a>",
+		"title":"C罗4天2帽子超梅西2球 生涯第一次！154场158球",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_3_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 14:10:00",
+		"enddate":"2012-10-15 14:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/g\/2012-10-15\/14106258800.shtml\">read more<\/a>",
+		"title":"阿根廷变阵小烟枪迷失双中锋战术 未来主打单前锋？",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_3_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 09:08:00",
+		"enddate":"2012-10-08 09:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/g\/laliga\/2012-10-08\/09086251419.shtml\">read more<\/a>",
+		"title":"西媒:巴萨皇马今天都全称得上伟大 梅西C罗都是外星人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_3_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-01 10:05:00",
+		"enddate":"2012-10-01 10:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/g\/laliga\/2012-10-01\/10056245216.shtml\">read more<\/a>",
+		"title":"皇马一低估之人被赞全场MVP 没错！新马克莱莱就是他",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_3_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 00:55:00",
+		"enddate":"2012-10-08 00:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/g\/laliga\/2012-10-08\/00556251116.shtml\">read more<\/a>",
+		"title":"巴萨VS皇马首发：C罗PK梅西 阿德中卫本泽马突前",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_3_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 08:21:00",
+		"enddate":"2012-10-09 08:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/g\/laliga\/2012-10-09\/08216252228.shtml\">read more<\/a>",
+		"title":"卡卡欣喜自己重返巴西国家队 称没考虑过要参加世界杯",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_3_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 09:17:00",
+		"enddate":"2012-10-15 09:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/g\/2012-10-15\/09176258390.shtml\">read more<\/a>",
+		"title":"齐达内要出山了！正在考教练证书 期待执教法国国家队",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_3_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 12:01:00",
+		"enddate":"2012-10-12 12:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/g\/laliga\/2012-10-12\/12016255613.shtml\">read more<\/a>",
+		"title":"穆里尼奥:金球奖不给C罗是公然犯罪 梅西有何资格",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_3_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu3_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu3_type",
+	"size_importance":"true"
+}]

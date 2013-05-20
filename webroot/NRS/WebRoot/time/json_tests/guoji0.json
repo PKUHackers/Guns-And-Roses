@@ -1,0 +1,309 @@
+[
+{
+	"title":"朝鲜切断与韩国陆路交通",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2008-11-13 02:25:00",
+		"enddate":"2008-11-13 02:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2008-11-13\/022514720375s.shtml\">read more<\/a>",
+		"title":"朝鲜宣布切断朝韩陆路通道",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-13 05:16:00",
+		"enddate":"2008-11-13 05:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2008-11-13\/051614721832s.shtml\">read more<\/a>",
+		"title":"美国向朝鲜提供重油",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-13 08:23:00",
+		"enddate":"2008-11-13 08:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2008-11-13\/082314723632s.shtml\">read more<\/a>",
+		"title":"朝鲜关闭与韩国边界并非偶然",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-12 16:58:00",
+		"enddate":"2008-11-12 16:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-12\/165816640330.shtml\">read more<\/a>",
+		"title":"韩国对朝鲜决定切断韩朝陆路通道表示遗憾",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-12 17:26:00",
+		"enddate":"2008-11-12 17:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-12\/172616640420.shtml\">read more<\/a>",
+		"title":"韩国希望韩朝双方进行政府间对话",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-12 20:22:00",
+		"enddate":"2008-11-12 20:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-12\/202216640770.shtml\">read more<\/a>",
+		"title":"媒体称朝鲜切断朝韩所有电话联络",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-12 23:16:00",
+		"enddate":"2008-11-12 23:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-12\/231616641036.shtml\">read more<\/a>",
+		"title":"朝红十字会宣布关闭板门店红十字会联络代表处",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-12 23:38:00",
+		"enddate":"2008-11-12 23:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-12\/233814719790s.shtml\">read more<\/a>",
+		"title":"朝鲜红十字会宣布关闭板门店红十字会联络代表处",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-13 01:18:00",
+		"enddate":"2008-11-13 01:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-13\/011814720197s.shtml\">read more<\/a>",
+		"title":"朝鲜不满韩散发反朝传单 宣布切断朝韩陆路通道",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-13 02:12:00",
+		"enddate":"2008-11-13 02:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-13\/021214720561s.shtml\">read more<\/a>",
+		"title":"朝鲜宣布下月起切断朝韩陆上通道",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-13 02:42:00",
+		"enddate":"2008-11-13 02:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-13\/024214720828s.shtml\">read more<\/a>",
+		"title":"朝鲜下月起切断朝韩陆路交通 直通电话已中断",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-13 03:05:00",
+		"enddate":"2008-11-13 03:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-13\/030514720879s.shtml\">read more<\/a>",
+		"title":"朝鲜下月起将切断朝韩陆路通道 韩国呼吁对话",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-13 05:05:00",
+		"enddate":"2008-11-13 05:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-13\/050516643405.shtml\">read more<\/a>",
+		"title":"韩国反朝传单激怒朝鲜 朝鲜人民军切断朝韩通道",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-13 07:27:00",
+		"enddate":"2008-11-13 07:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-13\/072714723042s.shtml\">read more<\/a>",
+		"title":"朝鲜宣布将切断朝韩陆路通道",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-13 07:45:00",
+		"enddate":"2008-11-13 07:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-13\/074514723252s.shtml\">read more<\/a>",
+		"title":"朝鲜称下月切断朝韩所有陆路通道",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-13 13:13:00",
+		"enddate":"2008-11-13 13:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-13\/131316647199.shtml\">read more<\/a>",
+		"title":"韩国将向朝鲜发送电文建议恢复韩朝对话",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-13 21:45:00",
+		"enddate":"2008-11-13 21:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-13\/214516648784.shtml\">read more<\/a>",
+		"title":"朝鲜关闭板门店联络处 朝韩关系面临多重考验",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-14 10:10:00",
+		"enddate":"2008-11-14 10:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-14\/101016653867.shtml\">read more<\/a>",
+		"title":"朝鲜军官暗示将驱逐开城工业区内韩方企业",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2008-11-14 10:36:00",
+		"enddate":"2008-11-14 10:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2008-11-14\/103616653985.shtml\">read more<\/a>",
+		"title":"韩国拟向朝鲜提供其要求的通信材料和装备",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_0_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji0_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji0_type",
+	"size_importance":"true"
+}]

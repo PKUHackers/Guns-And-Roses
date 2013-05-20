@@ -1,0 +1,324 @@
+[
+{
+	"title":"论老虎-伍兹从神坛倒掉",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-12-17 15:07:00",
+		"enddate":"2009-12-17 15:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-17\/150753123.shtml\">read more<\/a>",
+		"title":"深圳晚报：老虎伍兹情妇多 不影响高坛一哥地位",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-19 10:24:00",
+		"enddate":"2009-12-19 10:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-19\/102453222.shtml\">read more<\/a>",
+		"title":"星洲日报：伍兹绯闻案的警示 提高婚约制裁作用",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-17 14:14:00",
+		"enddate":"2009-12-17 14:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-17\/141453112.shtml\">read more<\/a>",
+		"title":"外滩画报：你以为你了解老虎伍兹？",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-19 10:19:00",
+		"enddate":"2009-12-19 10:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-19\/101953220.shtml\">read more<\/a>",
+		"title":"连鹏：伍兹绯闻门看“狗仔文化”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-17 14:26:00",
+		"enddate":"2009-12-17 14:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-17\/142653114.shtml\">read more<\/a>",
+		"title":"新闻晚报：伍兹被搞臭是因为把自己喷得太香",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-17 15:09:00",
+		"enddate":"2009-12-17 15:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-17\/150953125.shtml\">read more<\/a>",
+		"title":"重庆晚报：体坛难有柳下惠下个轮到谁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-19 19:39:00",
+		"enddate":"2009-12-19 19:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-19\/193953231.shtml\">read more<\/a>",
+		"title":"伍兹绯闻被拍成电影 “虎嫂”拿球杆追打(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-30 09:41:00",
+		"enddate":"2009-12-30 09:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-30\/094153935.shtml\">read more<\/a>",
+		"title":"伍兹与第一情妇复合参加棕榈滩派对",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-19 10:15:00",
+		"enddate":"2009-12-19 10:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-19\/101553218.shtml\">read more<\/a>",
+		"title":"菲尔普斯可怜伍兹一家：请不要在同样地方犯错",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-17 15:11:00",
+		"enddate":"2009-12-17 15:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-17\/151153127.shtml\">read more<\/a>",
+		"title":"钱江晚报：伍兹更大的损失还在后头",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-20 15:51:00",
+		"enddate":"2009-12-20 15:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-20\/155153244.shtml\">read more<\/a>",
+		"title":"时代周报：婚外性的宽容度",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-17 14:18:00",
+		"enddate":"2009-12-17 14:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-17\/141853113.shtml\">read more<\/a>",
+		"title":"经济观察网：伍兹的隐私 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-17 15:12:00",
+		"enddate":"2009-12-17 15:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-17\/151253128_2.shtml\">read more<\/a>",
+		"title":"解析奥运冠军马琳离婚案特殊性",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-19 10:21:00",
+		"enddate":"2009-12-19 10:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-19\/102153221.shtml\">read more<\/a>",
+		"title":"《新闻周刊》：伍兹偷情引爆小报文化",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-19 10:13:00",
+		"enddate":"2009-12-19 10:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-19\/101353217.shtml\">read more<\/a>",
+		"title":"老虎丑闻有前鉴 专家称伍兹有望挽回形象",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-17 15:01:00",
+		"enddate":"2009-12-17 15:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-17\/150153119.shtml\">read more<\/a>",
+		"title":"人民网：伍兹“偷腥”成全美娱乐盛宴",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-19 10:35:00",
+		"enddate":"2009-12-19 10:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-19\/103553228.shtml\">read more<\/a>",
+		"title":"钱江晚报：伍兹王者落魄高尔夫迎来黄昏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-17 14:50:00",
+		"enddate":"2009-12-17 14:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-17\/145053117.shtml\">read more<\/a>",
+		"title":"京华时报：美色猛于虎",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-19 20:21:00",
+		"enddate":"2009-12-19 20:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-19\/202153232.shtml\">read more<\/a>",
+		"title":"伍兹车祸被恶搞成网络游戏(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-12-17 15:18:00",
+		"enddate":"2009-12-17 15:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2009-12-17\/151853132.shtml\">read more<\/a>",
+		"title":"都市快报：何必非要挖伍兹八卦新闻",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_16_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shangpin_type"},
+		"ypix":"0",
+		"id":"shangpin16_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shangpin16_type",
+	"size_importance":"true"
+}]

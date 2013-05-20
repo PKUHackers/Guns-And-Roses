@@ -1,0 +1,324 @@
+[
+{
+	"title":"电影《听风者》",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-08-01 14:58:00",
+		"enddate":"2012-08-01 14:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-01\/14583700347.shtml\">read more<\/a>",
+		"title":"梁朝伟笑谈小混混角色：沉重了30年够了",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-09 09:28:00",
+		"enddate":"2012-08-09 09:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-09\/09283706887.shtml\">read more<\/a>",
+		"title":"《听风者》首日票房2000万排片占三成",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-13 03:59:00",
+		"enddate":"2012-08-13 03:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-13\/03593709554.shtml\">read more<\/a>",
+		"title":"《听风者》首周1.5亿 周迅成票房女王",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-14 22:52:00",
+		"enddate":"2012-08-14 22:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-14\/22523711635.shtml\">read more<\/a>",
+		"title":"《听风者》庆功 电眼梁朝伟不愿再演盲人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-30 19:21:00",
+		"enddate":"2012-07-30 19:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-07-30\/19213698556.shtml\">read more<\/a>",
+		"title":"《听风者》提档8月7日 梁朝伟周迅密聊(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-19 14:07:00",
+		"enddate":"2012-08-19 14:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-19\/14073715734.shtml\">read more<\/a>",
+		"title":"《听风者》被赞情感大片 成七夕节情侣首选",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-02 10:31:00",
+		"enddate":"2012-08-02 10:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-02\/10313701051.shtml\">read more<\/a>",
+		"title":"《听风者》广州首映 梁朝伟教唆周迅涨片酬",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-31 10:02:00",
+		"enddate":"2012-07-31 10:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-07-31\/10023698842.shtml\">read more<\/a>",
+		"title":"《听风者》梁朝伟透露片中耍宝卖萌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-24 14:39:00",
+		"enddate":"2012-08-24 14:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-24\/14393721068.shtml\">read more<\/a>",
+		"title":"《听风者》杭州研讨 票房与口碑均获赞誉",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-13 09:35:00",
+		"enddate":"2012-08-13 09:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-13\/09353709731.shtml\">read more<\/a>",
+		"title":"《听风者》首周末票房近1.5亿 情侣观众主打",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-02 02:07:00",
+		"enddate":"2012-08-02 02:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-02\/02073700761.shtml\">read more<\/a>",
+		"title":"《听风者》王学兵周迅“欲罢不能”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-07 14:58:00",
+		"enddate":"2012-08-07 14:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-07\/14583705277.shtml\">read more<\/a>",
+		"title":"麦兆辉揭秘《听风者》：爱情和谍战很相似",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-02 01:59:00",
+		"enddate":"2012-08-02 01:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-02\/01593700757.shtml\">read more<\/a>",
+		"title":"梁朝伟自曝怕恐怖片 周迅琢磨涨片酬",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-24 15:51:00",
+		"enddate":"2012-08-24 15:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/2012-08-24\/ba3721206.shtml\">read more<\/a>",
+		"title":"专访梁朝伟与周迅：论演技派的心战(图)(3)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-24 15:51:00",
+		"enddate":"2012-08-24 15:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/2012-08-24\/ba3721204.shtml\">read more<\/a>",
+		"title":"专访梁朝伟与周迅：论演技派的心战(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-07 07:19:00",
+		"enddate":"2012-08-07 07:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-07\/07193704673.shtml\">read more<\/a>",
+		"title":"《听风者》谍战是外壳 情感暗战成主戏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-26 09:11:00",
+		"enddate":"2012-07-26 09:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-07-26\/09113695037.shtml\">read more<\/a>",
+		"title":"揭秘《听风者》的反潜伏大战",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-09 20:36:00",
+		"enddate":"2012-08-09 20:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-09\/20363707724.shtml\">read more<\/a>",
+		"title":"《听风者》票房将破亿 梁朝伟片中自戳双目",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-24 15:51:00",
+		"enddate":"2012-08-24 15:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/2012-08-24\/ba3721205.shtml\">read more<\/a>",
+		"title":"专访梁朝伟与周迅：论演技派的心战(图)(2)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-19 13:44:00",
+		"enddate":"2012-08-19 13:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-08-19\/13443715728.shtml\">read more<\/a>",
+		"title":"《听风者》排片居首 麦家给周迅打10分",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_8_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule8_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule8_type",
+	"size_importance":"true"
+}]

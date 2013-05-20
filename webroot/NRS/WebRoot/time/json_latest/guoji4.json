@@ -1,0 +1,234 @@
+[
+{
+	"title":"伊朗核危机加剧",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-21 01:06:00",
+		"enddate":"2012-09-21 01:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-09-21\/010625219079.shtml\">read more<\/a>",
+		"title":"中国不赞同对伊朗采取过度施压和新制裁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 06:57:00",
+		"enddate":"2012-09-28 06:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-09-28\/065725271743.shtml\">read more<\/a>",
+		"title":"杨洁篪出席伊核问题六国外长会议 强调推进对话",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-23 02:27:00",
+		"enddate":"2012-09-23 02:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-23\/022725232183.shtml\">read more<\/a>",
+		"title":"伊朗革命卫队司令称以色列定将对伊动武",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-25 08:07:00",
+		"enddate":"2012-09-25 08:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-25\/080725246763.shtml\">read more<\/a>",
+		"title":"伊朗开始建造战略石油储存罐 储量达1000万桶",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 10:24:00",
+		"enddate":"2012-09-26 10:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-26\/102425256601.shtml\">read more<\/a>",
+		"title":"美国官员称伊核问题六国明日将举行部长级会谈",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 15:03:00",
+		"enddate":"2012-09-26 15:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-26\/150325258250.shtml\">read more<\/a>",
+		"title":"瑞士石油集团被指买进伊朗石油卖给中国交易商",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 07:53:00",
+		"enddate":"2012-09-27 07:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-27\/075325263697.shtml\">read more<\/a>",
+		"title":"美驳斥伊朗在霍尔木兹海峡发射导弹声明",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 07:15:00",
+		"enddate":"2012-09-28 07:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-28\/071525272411.shtml\">read more<\/a>",
+		"title":"伊朗筹建“内联网”软应对西方",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 04:13:00",
+		"enddate":"2012-09-29 04:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-09-29\/041325279018.shtml\">read more<\/a>",
+		"title":"俄罗斯称不希望军事打击伊朗 反对扩大制裁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 07:32:00",
+		"enddate":"2012-10-09 07:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-09\/073225319301.shtml\">read more<\/a>",
+		"title":"美国智库称伊朗可在两三个月内生产核弹头",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 13:32:00",
+		"enddate":"2012-10-09 13:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-09\/133225321582.shtml\">read more<\/a>",
+		"title":"伊朗外长称愿用限制铀浓缩活动交换燃料",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 14:07:00",
+		"enddate":"2012-10-09 14:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-09\/140725321687.shtml\">read more<\/a>",
+		"title":"伊朗推出新型大口径反器材步枪 可攻击装甲车",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 10:43:00",
+		"enddate":"2012-10-11 10:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-11\/104325337079.shtml\">read more<\/a>",
+		"title":"美智库称伊朗拥核将推高油价10%至25%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 21:44:00",
+		"enddate":"2012-10-16 21:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-16\/214425371278.shtml\">read more<\/a>",
+		"title":"伊朗最高领袖称核谈判时不会屈服于西方恐吓",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_4_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji4_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji4_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,324 @@
+[
+{
+	"title":"2011中国(上海)国际游艇展",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-03-02 15:20:00",
+		"enddate":"2011-03-02 15:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-02\/152074538.shtml\">read more<\/a>",
+		"title":"扬帆游艇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-02 15:36:00",
+		"enddate":"2011-03-02 15:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-02\/153674545.shtml\">read more<\/a>",
+		"title":"Aris Drivas",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-02 16:29:00",
+		"enddate":"2011-03-02 16:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-02\/162974582.shtml\">read more<\/a>",
+		"title":"新西兰设计10.6米的双体船",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-01 16:37:00",
+		"enddate":"2011-03-01 16:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-01\/163774469.shtml\">read more<\/a>",
+		"title":"商业地产龙头企业购买中国最大的豪华游艇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-01 17:41:00",
+		"enddate":"2011-03-01 17:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-01\/174174490.shtml\">read more<\/a>",
+		"title":"JEANNEAU 57 让梦想徜徉蔚蓝海域",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-02 14:38:00",
+		"enddate":"2011-03-02 14:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-02\/143874527.shtml\">read more<\/a>",
+		"title":"宾士域MERIDIAN 391 SEDAN",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-02 11:18:00",
+		"enddate":"2011-03-02 11:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-02\/111874506.shtml\">read more<\/a>",
+		"title":"RIVA―海上的劳斯莱斯",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-02 16:24:00",
+		"enddate":"2011-03-02 16:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-02\/162474581.shtml\">read more<\/a>",
+		"title":"J/80帆船",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-11 14:22:00",
+		"enddate":"2011-03-11 14:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-11\/142275061.shtml\">read more<\/a>",
+		"title":"Jebaen游艇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-10 14:49:00",
+		"enddate":"2011-03-10 14:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-10\/144974986.shtml\">read more<\/a>",
+		"title":"菲丽斯帝游艇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-11 14:08:00",
+		"enddate":"2011-03-11 14:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-11\/140875058.shtml\">read more<\/a>",
+		"title":"博纳多游艇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-11 13:58:00",
+		"enddate":"2011-03-11 13:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-11\/135875053.shtml\">read more<\/a>",
+		"title":"先歌游艇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-01 16:52:00",
+		"enddate":"2011-03-01 16:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-01\/165274475.shtml\">read more<\/a>",
+		"title":"CRN60米“蓝眼睛号”超级游艇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-02 11:47:00",
+		"enddate":"2011-03-02 11:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-02\/114774510.shtml\">read more<\/a>",
+		"title":"圣汐中国摘得2010年度进口豪华游艇销售冠军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-11 14:19:00",
+		"enddate":"2011-03-11 14:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-11\/141975060.shtml\">read more<\/a>",
+		"title":"哈德森游艇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-01 17:49:00",
+		"enddate":"2011-03-01 17:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-01\/174974493.shtml\">read more<\/a>",
+		"title":"亚诺JEANNEAU PRESTIGE 60 让激情释放",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-01 17:24:00",
+		"enddate":"2011-03-01 17:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-01\/172474485.shtml\">read more<\/a>",
+		"title":"定制法拉帝124 法拉帝引领“海上露台”新潮流",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-11 14:06:00",
+		"enddate":"2011-03-11 14:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-11\/140675057.shtml\">read more<\/a>",
+		"title":"大同游艇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-01 17:13:00",
+		"enddate":"2011-03-01 17:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-01\/171374480.shtml\">read more<\/a>",
+		"title":"打造奢华 亿湾陆森游艇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-02 15:26:00",
+		"enddate":"2011-03-02 15:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/lei\/yachting\/2011-03-02\/152674542.shtml\">read more<\/a>",
+		"title":"飞驰游艇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_5_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shangpin_type"},
+		"ypix":"0",
+		"id":"shangpin5_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shangpin5_type",
+	"size_importance":"true"
+}]

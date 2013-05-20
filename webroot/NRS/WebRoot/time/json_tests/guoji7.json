@@ -1,0 +1,324 @@
+[
+{
+	"title":"飓风艾琳袭击美国",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-08-28 16:50:00",
+		"enddate":"2011-08-28 16:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-28\/165023064738.shtml\">read more<\/a>",
+		"title":"飓风艾琳致美国至少9人死亡 200万人受停电影响",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-31 20:49:00",
+		"enddate":"2011-08-31 20:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-31\/204923084077.shtml\">read more<\/a>",
+		"title":"奥巴马宣布北卡和纽约州为艾琳飓风灾区",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-28 02:34:00",
+		"enddate":"2011-08-28 02:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-28\/023423062177.shtml\">read more<\/a>",
+		"title":"纽约关闭468个地铁站停驶上千辆公交车防飓风",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-28 11:58:00",
+		"enddate":"2011-08-28 11:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2011-08-28\/115823064171.shtml\">read more<\/a>",
+		"title":"飓风艾琳抵达纽约致华尔街可能瘫痪(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-27 13:44:00",
+		"enddate":"2011-08-27 13:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2011-08-27\/134423060936.shtml\">read more<\/a>",
+		"title":"美国为应对飓风艾琳疏散数百万人(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-27 20:37:00",
+		"enddate":"2011-08-27 20:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-27\/203723061693.shtml\">read more<\/a>",
+		"title":"纽约因飓风取消所有航班开启91个庇难所",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-30 10:06:00",
+		"enddate":"2011-08-30 10:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-30\/100623074374.shtml\">read more<\/a>",
+		"title":"飓风艾琳在美国致14人死亡 年龄最小者11岁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-29 00:15:00",
+		"enddate":"2011-08-29 00:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-29\/001523065235.shtml\">read more<\/a>",
+		"title":"飓风艾琳减弱为热带风暴",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-28 01:19:00",
+		"enddate":"2011-08-28 01:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-28\/011923062009.shtml\">read more<\/a>",
+		"title":"飓风艾琳已致美国北卡罗来纳州首例人员死亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-29 12:15:00",
+		"enddate":"2011-08-29 12:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/m\/2011-08-29\/121523068767.shtml\">read more<\/a>",
+		"title":"Twitter成为纽约人飓风期间主要通讯平台",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-29 06:22:00",
+		"enddate":"2011-08-29 06:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-29\/062223066457.shtml\">read more<\/a>",
+		"title":"奥巴马称飓风艾琳仍是威胁",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-28 18:45:00",
+		"enddate":"2011-08-28 18:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-28\/184523064866.shtml\">read more<\/a>",
+		"title":"飓风艾琳在美国新泽西再登陆 已致至少10人死亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-28 02:43:00",
+		"enddate":"2011-08-28 02:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-28\/024323062176.shtml\">read more<\/a>",
+		"title":"美国艾琳飓风已导致两人死亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-28 06:55:00",
+		"enddate":"2011-08-28 06:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-28\/065523063199.shtml\">read more<\/a>",
+		"title":"美国10万海岸警卫队成员待命应对飓风",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-29 00:49:00",
+		"enddate":"2011-08-29 00:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-29\/004923065285.shtml\">read more<\/a>",
+		"title":"美国称遭受飓风袭击最坏时刻已过",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-28 03:09:00",
+		"enddate":"2011-08-28 03:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-28\/030923062270.shtml\">read more<\/a>",
+		"title":"纽约市长呼吁市民尽快撤离以应对飓风艾琳",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-27 20:18:00",
+		"enddate":"2011-08-27 20:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-27\/201823061688.shtml\">read more<\/a>",
+		"title":"飓风艾琳在美国东海岸登陆 已造成大范围停电",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-28 20:18:00",
+		"enddate":"2011-08-28 20:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-28\/201823065005.shtml\">read more<\/a>",
+		"title":"飓风艾琳正面袭击纽约 城市街头不见人影",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-29 01:48:00",
+		"enddate":"2011-08-29 01:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-29\/014823065387.shtml\">read more<\/a>",
+		"title":"飓风艾琳登陆美国东海岸已致至少14人死亡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-29 00:11:00",
+		"enddate":"2011-08-29 00:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-08-29\/001123065238.shtml\">read more<\/a>",
+		"title":"美称遭受飓风艾琳袭击最糟糕时刻已过去",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_7_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji7_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji7_type",
+	"size_importance":"true"
+}]

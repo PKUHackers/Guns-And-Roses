@@ -1,0 +1,324 @@
+[
+{
+	"title":"争议扬州奖励购房新政",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-05-10 17:23:00",
+		"enddate":"2012-05-10 17:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/dfjj\/20120510\/172312039019.shtml\">read more<\/a>",
+		"title":"扬州市政府：奖励购房以执行楼市调控为前提",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 08:53:00",
+		"enddate":"2012-05-09 08:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20120509\/085312024494.shtml\">read more<\/a>",
+		"title":"曹建海：扬州救市缺乏法律依据",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-10 00:59:00",
+		"enddate":"2012-05-10 00:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120510\/005912031492.shtml\">read more<\/a>",
+		"title":"扬州“奖励购房”引争议",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 00:06:00",
+		"enddate":"2012-05-09 00:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/dfjj\/20120509\/000612020739.shtml\">read more<\/a>",
+		"title":"江苏扬州称奖励个人购房政策决非救市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 18:31:00",
+		"enddate":"2012-05-09 18:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20120509\/183112029919.shtml\">read more<\/a>",
+		"title":"新华网：扬州奖励购房 会对市场心态带来不确定干扰",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 10:34:00",
+		"enddate":"2012-05-09 10:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20120509\/103412025769.shtml\">read more<\/a>",
+		"title":"东兴证券：扬州出台购房优惠政策影响小",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 11:08:00",
+		"enddate":"2012-05-09 11:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120509\/110812026268.shtml\">read more<\/a>",
+		"title":"扬州楼市新政疑似救市 中经博主热议地方“微调”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 11:16:00",
+		"enddate":"2012-05-09 11:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20120509\/111612026425.shtml\">read more<\/a>",
+		"title":"权威机构点评扬州奖励购房政策",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-10 02:24:00",
+		"enddate":"2012-05-10 02:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120510\/022412032182.shtml\">read more<\/a>",
+		"title":"扬州房管局称暂无符合补贴政策房源",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 07:13:00",
+		"enddate":"2012-05-09 07:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20120509\/071312023325.shtml\">read more<\/a>",
+		"title":"扬州回应“奖励购房” 救市系误读",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 02:59:00",
+		"enddate":"2012-05-09 02:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/dfjj\/20120509\/025912021937.shtml\">read more<\/a>",
+		"title":"江苏扬州称出台鼓励购房措施实为推进精装房",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 06:57:00",
+		"enddate":"2012-05-09 06:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/dfjj\/20120509\/065712023063.shtml\">read more<\/a>",
+		"title":"扬州泰州机场建成并正式通航 江泽民为机场题名",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-08 18:17:00",
+		"enddate":"2012-05-08 18:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20120508\/181712019052.shtml\">read more<\/a>",
+		"title":"扬州回应个人购买成品住房奖励问题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-10 07:20:00",
+		"enddate":"2012-05-10 07:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/review\/hgds\/20120510\/072012033609.shtml\">read more<\/a>",
+		"title":"中国青年报：扬州购房奖励的本质是劫贫济富",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 11:47:00",
+		"enddate":"2012-05-09 11:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/dfjj\/20120509\/114712026852.shtml\">read more<\/a>",
+		"title":"扬州房管局称购房奖励未取消",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 17:05:00",
+		"enddate":"2012-05-09 17:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20120509\/170512029348.shtml\">read more<\/a>",
+		"title":"扬州市房管局：楼市奖励新政尚无撤销计划",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-10 03:27:00",
+		"enddate":"2012-05-10 03:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120510\/032712032590.shtml\">read more<\/a>",
+		"title":"扬州买房补贴背后：长三角楼市深度低迷",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 08:01:00",
+		"enddate":"2012-05-09 08:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20120509\/080112023767.shtml\">read more<\/a>",
+		"title":"扬州奖励购房 专家称因商品房成交持续萎缩",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 07:07:00",
+		"enddate":"2012-05-09 07:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/lczx\/20120509\/070712023110.shtml\">read more<\/a>",
+		"title":"扬州逆势推成品房奖励新政 或随时被叫停",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 03:29:00",
+		"enddate":"2012-05-09 03:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120509\/032912022092.shtml\">read more<\/a>",
+		"title":"学者称扬州奖励买房是地方怕楼市冷却非常之策",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing15_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing15_type",
+	"size_importance":"true"
+}]

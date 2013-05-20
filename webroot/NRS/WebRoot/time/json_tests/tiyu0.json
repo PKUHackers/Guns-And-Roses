@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012年汤尤杯羽毛球赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-05-28 16:11:00",
+		"enddate":"2012-05-28 16:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-28\/16116079134.shtml\">read more<\/a>",
+		"title":"林丹赞手下败将最重要 新纹身或寓意延续统治",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-28 16:01:00",
+		"enddate":"2012-05-28 16:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-28\/16016079116.shtml\">read more<\/a>",
+		"title":"天王们相继离开林丹真情流露 感伤韶华易逝",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-28 19:47:00",
+		"enddate":"2012-05-28 19:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-28\/19476079249.shtml\">read more<\/a>",
+		"title":"四大天王后谌龙最值得期待 伦敦奥运期待惊喜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-28 08:17:00",
+		"enddate":"2012-05-28 08:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-28\/08176078303.shtml\">read more<\/a>",
+		"title":"国羽夺汤尤杯优势难比国乒 完美背后暗藏危机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-27 17:37:00",
+		"enddate":"2012-05-27 17:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-27\/17376077719.shtml\">read more<\/a>",
+		"title":"林丹14次登顶世界追平最强纪录 6届5冠笑傲群雄",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-27 19:26:00",
+		"enddate":"2012-05-27 19:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-27\/19266077834.shtml\">read more<\/a>",
+		"title":"李永波吃惊韩双打变阵 支持林丹担任中国奥运旗手",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-28 09:43:00",
+		"enddate":"2012-05-28 09:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-28\/09436078472.shtml\">read more<\/a>",
+		"title":"风云：韩变阵是怕我们 韩主帅坦言需多打中国",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-27 19:15:00",
+		"enddate":"2012-05-27 19:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-27\/19156077819.shtml\">read more<\/a>",
+		"title":"武汉成就4将世界冠军梦 李永波百冠计划已达73人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-28 10:41:00",
+		"enddate":"2012-05-28 10:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-28\/10416078649.shtml\">read more<\/a>",
+		"title":"国羽成就汤杯五连冠 追平历史最佳连胜战绩",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-27 17:36:00",
+		"enddate":"2012-05-27 17:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-27\/17366077717.shtml\">read more<\/a>",
+		"title":"汤杯中国夺冠之路:5战皆横扫 风云谌龙5个2-0建功",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-27 20:05:00",
+		"enddate":"2012-05-27 20:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-27\/20056077862.shtml\">read more<\/a>",
+		"title":"林丹：汤杯决赛前夜曾失眠 奥运慎防“黑马”爆冷",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-27 18:11:00",
+		"enddate":"2012-05-27 18:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-27\/18116077747.shtml\">read more<\/a>",
+		"title":"国羽汤杯5连冠平羽坛霸主 林丹27胜1负创恐怖胜率",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-28 10:05:00",
+		"enddate":"2012-05-28 10:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-28\/10056078528.shtml\">read more<\/a>",
+		"title":"汤杯中国10战韩国获全胜 9捧汤杯实现首个5连冠",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-31 14:42:00",
+		"enddate":"2012-05-31 14:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-31\/14426082401.shtml\">read more<\/a>",
+		"title":"外媒:31岁陶菲克用失败告别汤杯 一代球王终谢幕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-28 04:55:00",
+		"enddate":"2012-05-28 04:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-28\/04556078188.shtml\">read more<\/a>",
+		"title":"李永波：羽球优势没乒乓球那么大 两年后破纪录",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-28 08:18:00",
+		"enddate":"2012-05-28 08:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-28\/08186078304.shtml\">read more<\/a>",
+		"title":"李永波力挺林丹当奥运旗手：对得起这份荣誉",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-28 05:32:00",
+		"enddate":"2012-05-28 05:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-28\/05326078196.shtml\">read more<\/a>",
+		"title":"林丹穿全满贯T恤庆祝夺冠 第16冠T恤献给球迷",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-28 11:46:00",
+		"enddate":"2012-05-28 11:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-28\/11466078816.shtml\">read more<\/a>",
+		"title":"完美林丹也会累 永不言弃精神离开后为人永记",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-28 09:13:00",
+		"enddate":"2012-05-28 09:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-28\/09136078405.shtml\">read more<\/a>",
+		"title":"林丹要战斗到“世界尽头” 李永波:他和刘翔没可比性",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-27 17:40:00",
+		"enddate":"2012-05-27 17:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-27\/17406077721.shtml\">read more<\/a>",
+		"title":"5战零封对手历史头一遭 5冠风云加冕汤杯头号双打",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_0_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu0_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu0_type",
+	"size_importance":"true"
+}]

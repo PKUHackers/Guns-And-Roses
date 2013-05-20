@@ -1,0 +1,249 @@
+[
+{
+	"title":"2000点保卫战",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-08-28 05:05:00",
+		"enddate":"2012-08-28 05:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20120828\/050512969660.shtml\">read more<\/a>",
+		"title":"基金欲满仓应对大盘跌破2000点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 15:03:00",
+		"enddate":"2012-09-26 15:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/jsy\/20120926\/150313246958.shtml\">read more<\/a>",
+		"title":"收评:沪指跌1.24%盘中失2000创43个月新低",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 02:25:00",
+		"enddate":"2012-08-30 02:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/marketresearch\/20120830\/022512993969.shtml\">read more<\/a>",
+		"title":"2000点保卫战四年轮回：基本面困境难改",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 15:04:00",
+		"enddate":"2012-09-20 15:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/jsy\/20120920\/150413193167.shtml\">read more<\/a>",
+		"title":"收评：沪指跌2.08%逼近2000点创43个月新低",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-29 17:28:00",
+		"enddate":"2012-08-29 17:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/jsy\/20120829\/172812990876.shtml\">read more<\/a>",
+		"title":"考验2000点整数支撑的可能性较大",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-27 17:18:00",
+		"enddate":"2012-08-27 17:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/marketresearch\/20120827\/171812966470.shtml\">read more<\/a>",
+		"title":"大盘创41月新低 A股做空时代来临加剧市场担忧",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 02:19:00",
+		"enddate":"2012-08-30 02:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/jsy\/20120830\/021912993963.shtml\">read more<\/a>",
+		"title":"沪指将考验2000点关口",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-25 02:59:00",
+		"enddate":"2012-08-25 02:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/marketresearch\/20120825\/025912951221.shtml\">read more<\/a>",
+		"title":"经济隐忧施压 后市或考验2000点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 09:35:00",
+		"enddate":"2012-08-30 09:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/jsy\/20120830\/093512998540.shtml\">read more<\/a>",
+		"title":"空方主力或许2000点下方才肯罢休",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 15:32:00",
+		"enddate":"2012-09-26 15:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/marketresearch\/20120926\/153213247382.shtml\">read more<\/a>",
+		"title":"沪指盘中跌破2000点 年内10大熊股揭秘",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 15:34:00",
+		"enddate":"2012-09-26 15:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/marketresearch\/20120926\/153413247385.shtml\">read more<\/a>",
+		"title":"沪指44月来首破2000点 吴国平称为最后的黑暗",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 10:22:00",
+		"enddate":"2012-09-27 10:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/jsy\/20120927\/102213256166.shtml\">read more<\/a>",
+		"title":"九大利好护卫2000点 各界维稳市场意图明显",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 08:59:00",
+		"enddate":"2012-09-26 08:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/marketresearch\/20120926\/085913242543.shtml\">read more<\/a>",
+		"title":"基金四季度多数看空A股 建议喝酒吃药",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 14:06:00",
+		"enddate":"2012-09-26 14:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/marketresearch\/20120926\/140613246702.shtml\">read more<\/a>",
+		"title":"沪指逼近2000点 三大利空突袭",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 10:23:00",
+		"enddate":"2012-09-26 10:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/zldx\/20120926\/102313244123.shtml\">read more<\/a>",
+		"title":"2000点基金抄底没底气",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing2_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing2_type",
+	"size_importance":"true"
+}]

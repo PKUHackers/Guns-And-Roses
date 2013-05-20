@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012中国国际信息通信展览会",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-17 22:32:00",
+		"enddate":"2012-09-17 22:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-17\/22327626066.shtml\">read more<\/a>",
+		"title":"UT斯达康展示三网融合播控平台",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 11:55:00",
+		"enddate":"2012-09-20 11:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-20\/11557638461.shtml\">read more<\/a>",
+		"title":"爱立信HSPA提升上行数据传输速率高达三倍",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-19 17:09:00",
+		"enddate":"2012-09-19 17:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-19\/17097634377.shtml\">read more<\/a>",
+		"title":"优朋普乐副总裁甘辛：计划2013年在A股主板上市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 09:21:00",
+		"enddate":"2012-09-17 09:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-17\/09217624856.shtml\">read more<\/a>",
+		"title":"4G发牌提早 电信联通面临艰难抉择",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 16:01:00",
+		"enddate":"2012-09-18 16:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-18\/16017629934.shtml\">read more<\/a>",
+		"title":"爱立信中国马志鸿：运营商应转为智能运营",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 21:55:00",
+		"enddate":"2012-09-17 21:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-17\/21557626051.shtml\">read more<\/a>",
+		"title":"爱立信展示网络智能网络与智能运营",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 09:52:00",
+		"enddate":"2012-09-18 09:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/3g\/2012-09-18\/09527628139.shtml\">read more<\/a>",
+		"title":"诺西马博策：希望在TD-LTE上获得公平合理回报",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 10:51:00",
+		"enddate":"2012-09-18 10:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-18\/10517628394.shtml\">read more<\/a>",
+		"title":"2012通信展开幕:中国建成全球最大信息通信网络",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 22:11:00",
+		"enddate":"2012-09-17 22:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-17\/22117626061.shtml\">read more<\/a>",
+		"title":"大唐移动展示TD-LTE及无线专网技术",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 01:21:00",
+		"enddate":"2012-09-20 01:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-20\/01217635052.shtml\">read more<\/a>",
+		"title":"大唐移动首次展示Living Meeting",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 09:13:00",
+		"enddate":"2012-09-17 09:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-17\/09137624838.shtml\">read more<\/a>",
+		"title":"“最后一公里”上海模式初获成效",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 01:20:00",
+		"enddate":"2012-09-21 01:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-21\/01207640015.shtml\">read more<\/a>",
+		"title":"2012国际通信展国产手机4G网络成主角",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 15:55:00",
+		"enddate":"2012-09-18 15:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-18\/15557629910.shtml\">read more<\/a>",
+		"title":"沙跃家：三大压力促使全球运营商变革",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 10:07:00",
+		"enddate":"2012-09-17 10:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-17\/10077624978.shtml\">read more<\/a>",
+		"title":"各国电信资费监管各有侧重 保护消费者利益居首",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 09:46:00",
+		"enddate":"2012-09-17 09:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-17\/09467624920.shtml\">read more<\/a>",
+		"title":"2012中国国际信息通信展览会七大看点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 16:23:00",
+		"enddate":"2012-09-18 16:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-18\/16237629984.shtml\">read more<\/a>",
+		"title":"大唐移动提出TD-LTE全景组网技术",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 16:04:00",
+		"enddate":"2012-09-18 16:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/3g\/2012-09-18\/16047629940.shtml\">read more<\/a>",
+		"title":"姜正新：联通3G已在56个城市实现21兆网速",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-15 03:46:00",
+		"enddate":"2012-09-15 03:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-15\/03467620602.shtml\">read more<\/a>",
+		"title":"任正非：创新破局三论",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-21 01:15:00",
+		"enddate":"2012-09-21 01:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-21\/01157639815.shtml\">read more<\/a>",
+		"title":"爱施德旗下安派易讯展示全系列NFC终端(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-14 17:21:00",
+		"enddate":"2012-09-14 17:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-14\/17217619442.shtml\">read more<\/a>",
+		"title":"广西柳州移动用户遭莫名扣费 营运公司称话费被盗",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_19_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji19_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji19_type",
+	"size_importance":"true"
+}]

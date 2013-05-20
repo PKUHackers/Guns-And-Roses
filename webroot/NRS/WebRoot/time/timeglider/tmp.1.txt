@@ -1,0 +1,4 @@
+TG_Org.js:									span_selector_class = "timeglider-event-spanning";
+TG_OrgList.js:				span_selector_class = "timeglider-event-spanning";
+TG_TimelineView.js:		$(CONTAINER + " .timeglider-event-spanning").each(
+TG_TimelineViewListTest.js:		$(CONTAINER + " .timeglider-event-spanning").each(

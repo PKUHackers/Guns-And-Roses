@@ -1,0 +1,324 @@
+[
+{
+	"title":"美俄卫星相撞",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-02-12 12:47:00",
+		"enddate":"2009-02-12 12:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-12\/124717201519.shtml\">read more<\/a>",
+		"title":"俄罗斯称尚无法证实美俄卫星相撞一事",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-12 12:36:00",
+		"enddate":"2009-02-12 12:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2009-02-12\/12252817117.shtml\">read more<\/a>",
+		"title":"专家建议各国加强失效卫星监测合作力度",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-13 07:43:00",
+		"enddate":"2009-02-13 07:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-13\/074317206776.shtml\">read more<\/a>",
+		"title":"俄媒体称相撞的俄卫星用于秘密军事目的",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-12 15:09:00",
+		"enddate":"2009-02-12 15:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-12\/150917202172.shtml\">read more<\/a>",
+		"title":"美专家称撞星事件迟早会发生",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-14 11:52:00",
+		"enddate":"2009-02-14 11:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-14\/115217214863.shtml\">read more<\/a>",
+		"title":"俄美卫星残骸将在宇宙轨道遗留千年",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-12 10:33:00",
+		"enddate":"2009-02-12 10:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-12\/103317200965.shtml\">read more<\/a>",
+		"title":"美国商用卫星与俄罗斯报废军用卫星相撞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-12 13:14:00",
+		"enddate":"2009-02-12 13:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-12\/131417201725.shtml\">read more<\/a>",
+		"title":"专家点评:大卫星相撞碎片可能危及其他航天器",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-13 10:27:00",
+		"enddate":"2009-02-13 10:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-13\/102715157702s.shtml\">read more<\/a>",
+		"title":"联合国太空碎片专家下周开会 讨论预防未来撞击",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-12 13:53:00",
+		"enddate":"2009-02-12 13:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-12\/135317201796.shtml\">read more<\/a>",
+		"title":"美俄卫星相撞可能影响中国巴西合作卫星运行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-13 01:29:00",
+		"enddate":"2009-02-13 01:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-02-13\/012917203859.shtml\">read more<\/a>",
+		"title":"中科院已开始对俄美卫星碎片进行搜索捕获",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-12 10:48:00",
+		"enddate":"2009-02-12 10:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-12\/104817201021.shtml\">read more<\/a>",
+		"title":"美方称卫星太空相撞祸起俄卫星失控(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-12 12:40:00",
+		"enddate":"2009-02-12 12:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2009-02-12\/11432816977.shtml\">read more<\/a>",
+		"title":"航天专家解读卫星相撞：或为故意事件",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-13 16:35:00",
+		"enddate":"2009-02-13 16:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-13\/163515158665s.shtml\">read more<\/a>",
+		"title":"美国称卫星碎片需要几个月固定位置",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-12 17:20:00",
+		"enddate":"2009-02-12 17:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/d\/2009-02-12\/15262817652.shtml\">read more<\/a>",
+		"title":"实录：航天专家庞之浩解读美俄卫星相撞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-12 12:45:00",
+		"enddate":"2009-02-12 12:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-12\/124517201411.shtml\">read more<\/a>",
+		"title":"纽约时报：数十块卫星碎片可能威胁航天员安全",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-13 01:31:00",
+		"enddate":"2009-02-13 01:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-13\/013117203867.shtml\">read more<\/a>",
+		"title":"俄美卫星碎片可能影响我国太阳同步轨道卫星",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-12 15:27:00",
+		"enddate":"2009-02-12 15:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-12\/152717202340.shtml\">read more<\/a>",
+		"title":"俄航天署称卫星相撞碎片尚未威胁国际空间站",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-14 00:57:00",
+		"enddate":"2009-02-14 00:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-14\/005717211359.shtml\">read more<\/a>",
+		"title":"五角大楼承认美计算失误致卫星撞车",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-12 22:26:00",
+		"enddate":"2009-02-12 22:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-12\/222617203446.shtml\">read more<\/a>",
+		"title":"欧航局称美俄卫星相撞可能威胁哈勃望远镜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-12 18:42:00",
+		"enddate":"2009-02-12 18:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-02-12\/184217203013.shtml\">read more<\/a>",
+		"title":"专家称俄美卫星碎片可能影响我国卫星",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji1_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji1_type",
+	"size_importance":"true"
+}]

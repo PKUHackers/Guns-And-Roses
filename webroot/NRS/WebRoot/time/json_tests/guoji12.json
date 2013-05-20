@@ -1,0 +1,324 @@
+[
+{
+	"title":"奥巴马就职",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-01-28 03:24:00",
+		"enddate":"2009-01-28 03:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-01-28\/032417117117.shtml\">read more<\/a>",
+		"title":"奥巴马接受专访称美国不是穆斯林的敌人(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-23 04:07:00",
+		"enddate":"2009-01-23 04:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-01-23\/040717100302.shtml\">read more<\/a>",
+		"title":"奥巴马两女儿各有6名保镖随身跟随(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-25 04:55:00",
+		"enddate":"2009-01-25 04:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-01-25\/045515084888s.shtml\">read more<\/a>",
+		"title":"奥巴马游说共和党支持经济刺激计划",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-22 14:02:00",
+		"enddate":"2009-01-22 14:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-01-22\/140217097525.shtml\">read more<\/a>",
+		"title":"美国候任财长盖特纳为漏税行为道歉",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-23 02:13:00",
+		"enddate":"2009-01-23 02:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-01-23\/021317099344.shtml\">read more<\/a>",
+		"title":"三大通讯社拒绝使用白宫提供奥巴马照片",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-22 02:32:00",
+		"enddate":"2009-01-22 02:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-01-22\/023217092336.shtml\">read more<\/a>",
+		"title":"杨洁篪：中方愿坚持从长远角度处理与美关系",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-25 02:49:00",
+		"enddate":"2009-02-25 02:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2009-02-25\/024915213767s.shtml\">read more<\/a>",
+		"title":"奥巴马在白宫宴请全美50名州长(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-24 15:47:00",
+		"enddate":"2009-01-24 15:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-01-24\/154717110066.shtml\">read more<\/a>",
+		"title":"媒体分析奥巴马经济工作进展 三方面齐头并进",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-22 09:29:00",
+		"enddate":"2009-01-22 09:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-01-22\/092915073665s.shtml\">read more<\/a>",
+		"title":"全球热切关注奥巴马就职 多国政要发贺电表欢迎",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-24 03:36:00",
+		"enddate":"2009-01-24 03:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-01-24\/033617107369.shtml\">read more<\/a>",
+		"title":"奥巴马与英国加拿大和沙特领导人通电话",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-07 23:11:00",
+		"enddate":"2009-02-07 23:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-07\/231115126610s.shtml\">read more<\/a>",
+		"title":"耶鲁女教授在奥巴马就职典礼上献诗遭批评",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-25 00:30:00",
+		"enddate":"2009-02-25 00:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-25\/003017280187.shtml\">read more<\/a>",
+		"title":"奥巴马在白宫会见日本首相麻生太郎",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-23 02:49:00",
+		"enddate":"2009-01-23 02:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-01-23\/024917099700.shtml\">read more<\/a>",
+		"title":"美国参议院金融委员会通过盖特纳财长提名",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-28 01:56:00",
+		"enddate":"2009-01-28 01:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-01-28\/015617117025.shtml\">read more<\/a>",
+		"title":"奥巴马称将致力于修复同伊斯兰世界关系",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-29 01:43:00",
+		"enddate":"2009-01-29 01:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-01-29\/014315089398s.shtml\">read more<\/a>",
+		"title":"专家解析奥巴马外交政策和中美关系走向",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-22 05:50:00",
+		"enddate":"2009-01-22 05:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-01-22\/055017093953.shtml\">read more<\/a>",
+		"title":"美国参议院批准希拉里担任国务卿提名",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-22 05:49:00",
+		"enddate":"2009-01-22 05:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-01-22\/054917093940.shtml\">read more<\/a>",
+		"title":"奥巴马上任首日优先处理经济和国家安全问题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-02-05 07:17:00",
+		"enddate":"2009-02-05 07:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-02-05\/071715114351s.shtml\">read more<\/a>",
+		"title":"媒体公布美国历届总统提名官员未获任命名单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-03-13 02:37:00",
+		"enddate":"2009-03-13 02:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-03-13\/023715300419s.shtml\">read more<\/a>",
+		"title":"美国政府55亿专项拨款遭指责",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-01-23 06:45:00",
+		"enddate":"2009-01-23 06:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2009-01-23\/064515077540s.shtml\">read more<\/a>",
+		"title":"希拉里就任国务卿执掌美国国务院",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_12_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji12_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji12_type",
+	"size_importance":"true"
+}]

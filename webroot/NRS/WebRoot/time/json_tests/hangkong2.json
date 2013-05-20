@@ -1,0 +1,324 @@
+[
+{
+	"title":"空客A380交付中国南方航空",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-09-21 14:39:00",
+		"enddate":"2011-09-21 14:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-09-21\/1439666413.html\">read more<\/a>",
+		"title":"2011年空客将向中国航空公司交付110多架飞机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-21 14:50:00",
+		"enddate":"2011-09-21 14:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-09-21\/1450666418.html\">read more<\/a>",
+		"title":"空客中国工程师参与空客最新机型设计工作",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-16 03:33:00",
+		"enddate":"2011-10-16 03:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-10-16\/0333669537.html\">read more<\/a>",
+		"title":"国内首架空客A380票价与普通机型相当",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-21 14:45:00",
+		"enddate":"2011-09-21 14:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-09-21\/1445666417.html\">read more<\/a>",
+		"title":"哈飞空客复合材料制造中心新厂房投入运营",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-15 04:54:00",
+		"enddate":"2011-10-15 04:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-10-15\/0454669484.html\">read more<\/a>",
+		"title":"南航首架A380飞机今日抵京 将于17日正式首航",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-17 18:38:00",
+		"enddate":"2011-10-17 18:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2011-10-17\/18386576.html\">read more<\/a>",
+		"title":"中国首架A380飞机首航 南航提供优质服务",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-10 17:35:00",
+		"enddate":"2011-10-10 17:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2011-10-10\/17356490.html\">read more<\/a>",
+		"title":"南航首架A380将于10月17日首航",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-10 18:53:00",
+		"enddate":"2011-10-10 18:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2011-10-10\/18536495.html\">read more<\/a>",
+		"title":"国庆黄金周南航6000人次青年志愿者服务旅客",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-19 09:48:00",
+		"enddate":"2011-10-19 09:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2011-10-19\/09486593.html\">read more<\/a>",
+		"title":"南航A380航班迎来首批千名购票旅客 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-16 01:59:00",
+		"enddate":"2011-10-16 01:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-10-16\/0159669535.html\">read more<\/a>",
+		"title":"中国首架A380抵京交付南航 明天首飞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-21 14:43:00",
+		"enddate":"2011-09-21 14:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-09-21\/1443666416.html\">read more<\/a>",
+		"title":"空客天津总装线已完成总装A320系列飞机60架",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-19 16:03:00",
+		"enddate":"2011-10-19 16:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2011-10-19\/16036609.html\">read more<\/a>",
+		"title":"南航A380机票热销豪华头等舱已售罄",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-15 10:36:00",
+		"enddate":"2011-10-15 10:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-10-15\/1036669505.html\">read more<\/a>",
+		"title":"我国首架空客A380飞机抵达首都机场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-21 14:51:00",
+		"enddate":"2011-09-21 14:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-09-21\/1451666419.html\">read more<\/a>",
+		"title":"空中客车公司扩大在华原材料供应商网络",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-22 10:36:00",
+		"enddate":"2011-09-22 10:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-09-22\/1036666580.html\">read more<\/a>",
+		"title":"中国首架A380将于10月15日加盟南航",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-17 18:36:00",
+		"enddate":"2011-10-17 18:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2011-10-17\/18366575.html\">read more<\/a>",
+		"title":"中国首架A380飞机成功首航",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-21 14:40:00",
+		"enddate":"2011-09-21 14:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-09-21\/1440666414.html\">read more<\/a>",
+		"title":"空中客车在中国现役飞机数量超过710架",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-17 18:41:00",
+		"enddate":"2011-10-17 18:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-10-17\/1841669723.html\">read more<\/a>",
+		"title":"我国首架A380首航提前15分钟飞抵广州",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-21 14:37:00",
+		"enddate":"2011-09-21 14:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-09-21\/1437666412.html\">read more<\/a>",
+		"title":"空客今年在中国已获得88架新订单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-30 06:13:00",
+		"enddate":"2011-10-30 06:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-10-30\/0613671482.html\">read more<\/a>",
+		"title":"国内首架空客A380因故障停飞 重飞尚无时间表",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_2_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"hangkong_type"},
+		"ypix":"0",
+		"id":"hangkong2_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"hangkong2_type",
+	"size_importance":"true"
+}]

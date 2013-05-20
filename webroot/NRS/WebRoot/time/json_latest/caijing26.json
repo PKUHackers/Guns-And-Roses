@@ -1,0 +1,249 @@
+[
+{
+	"title":"2011第四届中国最受尊敬银行评选",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-12-06 15:20:00",
+		"enddate":"2011-12-06 15:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20111206\/152010943654.shtml\">read more<\/a>",
+		"title":"理财周报主编夏日：现在时代就是零售银行时代",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_26_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-06 16:13:00",
+		"enddate":"2011-12-06 16:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20111206\/161310944081.shtml\">read more<\/a>",
+		"title":"郭田勇：银行中间业务刚起步实际占比10%左右",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_26_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 14:49:00",
+		"enddate":"2011-12-07 14:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20111207\/144910950986.shtml\">read more<\/a>",
+		"title":"2011年最佳房贷银行榜单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_26_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 14:12:00",
+		"enddate":"2011-12-07 14:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20111207\/141210950758.shtml\">read more<\/a>",
+		"title":"2011年中国最具发展潜力零售银行榜单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_26_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 14:28:00",
+		"enddate":"2011-12-07 14:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20111207\/142810950868.shtml\">read more<\/a>",
+		"title":"2011年中国最佳银行理财产品榜单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_26_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-06 17:38:00",
+		"enddate":"2011-12-06 17:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20111206\/173810944566.shtml\">read more<\/a>",
+		"title":"转型问答：弯道战略的方向与方法",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_26_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 14:20:00",
+		"enddate":"2011-12-07 14:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20111207\/142010950812.shtml\">read more<\/a>",
+		"title":"2011年中国最佳银行财富管理品牌榜单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_26_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 13:50:00",
+		"enddate":"2011-12-07 13:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20111207\/135010950589.shtml\">read more<\/a>",
+		"title":"2011年中国最受尊敬银行榜单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_26_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 15:43:00",
+		"enddate":"2011-12-07 15:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20111207\/154310951348.shtml\">read more<\/a>",
+		"title":"中国最受尊敬银行暨最佳零售银行评选榜单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_26_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 14:54:00",
+		"enddate":"2011-12-07 14:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20111207\/145410951007.shtml\">read more<\/a>",
+		"title":"2011年中国最佳城市商业银行榜单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_26_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 14:36:00",
+		"enddate":"2011-12-07 14:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20111207\/143610950908.shtml\">read more<\/a>",
+		"title":"2011年最佳私人银行榜单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_26_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-07 15:00:00",
+		"enddate":"2011-12-07 15:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20111207\/150010951049.shtml\">read more<\/a>",
+		"title":"2011最佳小微企业金融服务品牌榜单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_26_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-06 15:12:00",
+		"enddate":"2011-12-06 15:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20111206\/151210943579.shtml\">read more<\/a>",
+		"title":"理财周报执行主编罗周致辞",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_26_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-06 18:38:00",
+		"enddate":"2011-12-06 18:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20111206\/183810944887.shtml\">read more<\/a>",
+		"title":"2011中国零售银行峰会在京举行 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_26_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-06 15:28:00",
+		"enddate":"2011-12-06 15:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20111206\/152810943702.shtml\">read more<\/a>",
+		"title":"杨再平：零售银行服务有进步但做的还不够",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_26_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing26_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing26_type",
+	"size_importance":"true"
+}]

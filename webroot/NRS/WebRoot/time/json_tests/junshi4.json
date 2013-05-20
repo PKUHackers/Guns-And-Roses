@@ -1,0 +1,324 @@
+[
+{
+	"title":"2010年中国国防白皮书",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-03-31 23:07:00",
+		"enddate":"2011-03-31 23:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-03-31\/2307640451.html\">read more<\/a>",
+		"title":"军事专家：中国始终坚持防御性国防政策",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-31 10:07:00",
+		"enddate":"2011-03-31 10:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-03-31\/1007640295.html\">read more<\/a>",
+		"title":"白皮书称中国海军注重增强战略威慑与反击能力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-01 15:48:00",
+		"enddate":"2011-04-01 15:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-01\/1548640576.html\">read more<\/a>",
+		"title":"我国新版国防白皮书增加武装力量运用内容",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-31 11:19:00",
+		"enddate":"2011-03-31 11:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-03-31\/1119640342.html\">read more<\/a>",
+		"title":"总后勤部军官称军队加薪问题正在研究当中",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-01 15:54:00",
+		"enddate":"2011-04-01 15:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-01\/1554640577.html\">read more<\/a>",
+		"title":"中国一贯主张全面禁止与彻底销毁核武",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-31 11:03:00",
+		"enddate":"2011-03-31 11:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-03-31\/1103640333.html\">read more<\/a>",
+		"title":"中国军队已建立5万人规模国家级应急力量",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-08 08:06:00",
+		"enddate":"2011-04-08 08:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-08\/0806641627.html\">read more<\/a>",
+		"title":"国防白皮书透露我国治军新思维 研判局势更谨慎",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-31 10:35:00",
+		"enddate":"2011-03-31 10:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-03-31\/1035640317.html\">read more<\/a>",
+		"title":"中国军队将在2020年前基本实现机械化信息化",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-31 10:17:00",
+		"enddate":"2011-03-31 10:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-03-31\/1017640305.html\">read more<\/a>",
+		"title":"中国安全环境总体有利 挑战更加多元和复杂",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-01 04:20:00",
+		"enddate":"2011-04-01 04:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-01\/0420640484.html\">read more<\/a>",
+		"title":"专家称我军须重视和平时期武装力量多样化运用",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-06 09:58:00",
+		"enddate":"2011-04-06 09:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-06\/0958641215.html\">read more<\/a>",
+		"title":"印度称中国国防用光纤通信网电缆长度快速增加",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-31 11:50:00",
+		"enddate":"2011-03-31 11:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-03-31\/1150640358.html\">read more<\/a>",
+		"title":"军方称中国军队正为履行国际义务作出更大努力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-31 10:12:00",
+		"enddate":"2011-03-31 10:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-03-31\/1012640302.html\">read more<\/a>",
+		"title":"中国国防白皮书披露新时期国防目标和任务",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-31 10:50:00",
+		"enddate":"2011-03-31 10:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-03-31\/1050640327.html\">read more<\/a>",
+		"title":"中国军方回应美国CNN记者中国建首艘航母问题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-31 11:22:00",
+		"enddate":"2011-03-31 11:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-03-31\/101922214879.shtml\">read more<\/a>",
+		"title":"2010年中国国防白皮书发表(全文)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-31 11:43:00",
+		"enddate":"2011-03-31 11:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-03-31\/1143640355.html\">read more<\/a>",
+		"title":"总装备部军官称中国绝不超出国力发展武器装备",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-31 11:38:00",
+		"enddate":"2011-03-31 11:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-03-31\/1138640353.html\">read more<\/a>",
+		"title":"国防部：中国奉行防御性国防政策永远不会改变",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-31 10:04:00",
+		"enddate":"2011-03-31 10:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-03-31\/1004640294.html\">read more<\/a>",
+		"title":"中国政府今日发表2010年中国的国防白皮书",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-31 10:15:00",
+		"enddate":"2011-03-31 10:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-03-31\/1015640304.html\">read more<\/a>",
+		"title":"国防白皮书首次介绍解放军现代化建设发展历程",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-03-31 13:42:00",
+		"enddate":"2011-03-31 13:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-03-31\/1342640379.html\">read more<\/a>",
+		"title":"中国主张和平解决国际争端反对任意使用武力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_4_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi4_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi4_type",
+	"size_importance":"true"
+}]

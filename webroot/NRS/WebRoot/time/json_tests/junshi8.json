@@ -1,0 +1,324 @@
+[
+{
+	"title":"2011大足航空节",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-04-18 17:28:00",
+		"enddate":"2011-04-18 17:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-18\/1728643137.html\">read more<\/a>",
+		"title":"大足航空节票务信息",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-24 17:24:00",
+		"enddate":"2011-04-24 17:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-24\/1724644030.html\">read more<\/a>",
+		"title":"航空节首批飞行员抵达重庆",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-30 17:09:00",
+		"enddate":"2011-04-30 17:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-04-30\/1709645006.html\">read more<\/a>",
+		"title":"2011大足航空节今日开幕 特技飞行七大看点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-08 13:04:00",
+		"enddate":"2011-04-08 13:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-04-08\/1304641680.html\">read more<\/a>",
+		"title":"大足航空节飞行大师上演空中对决",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-20 17:55:00",
+		"enddate":"2011-04-20 17:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-04-20\/1755643511.html\">read more<\/a>",
+		"title":"激情成就梦想 飞行大师邀您共舞蓝天",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-08 13:05:00",
+		"enddate":"2011-04-08 13:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-04-08\/1305641681.html\">read more<\/a>",
+		"title":"2010大足龙水湖航空体育节回顾",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-08 12:57:00",
+		"enddate":"2011-04-08 12:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-04-08\/1257641678.html\">read more<\/a>",
+		"title":"第二届大足国际航空体育旅游节活动及票务情况",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-02 19:50:00",
+		"enddate":"2011-05-02 19:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-05-02\/1950645247.html\">read more<\/a>",
+		"title":"霍普金斯夺得大足航空节飞行大师赛冠军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-15 18:25:00",
+		"enddate":"2011-04-15 18:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-15\/1825642797.html\">read more<\/a>",
+		"title":"价值11200元世界特技飞行大赛门票 等你来拿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-15 18:21:00",
+		"enddate":"2011-04-15 18:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-15\/1821642795.html\">read more<\/a>",
+		"title":"“斗牛士”：保证观众都会被迷住",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-08 12:07:00",
+		"enddate":"2011-04-08 12:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-04-08\/1207641674.html\">read more<\/a>",
+		"title":"世界特技飞行大师赛概况",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-20 18:15:00",
+		"enddate":"2011-04-20 18:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-20\/1815643514.html\">read more<\/a>",
+		"title":"南非无极特技飞行队到达重庆",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-15 18:13:00",
+		"enddate":"2011-04-15 18:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-15\/1813642793.html\">read more<\/a>",
+		"title":"天空女王出征大足：把最美丽的飞行献给观众",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-01 21:19:00",
+		"enddate":"2011-05-01 21:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-05-01\/2119645144.html\">read more<\/a>",
+		"title":"首届世界特技飞行大师赛重庆举行 三国队伍角逐",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-28 15:39:00",
+		"enddate":"2011-04-28 15:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-28\/1539644692.html\">read more<\/a>",
+		"title":"记者体验特技飞行：大呼过瘾嫌返航太快",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-15 18:23:00",
+		"enddate":"2011-04-15 18:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-15\/1823642796.html\">read more<\/a>",
+		"title":"大足：龙水湖特技表演飞机 抵达重庆海关",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-05-01 21:20:00",
+		"enddate":"2011-05-01 21:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2011-05-01\/2120645145.html\">read more<\/a>",
+		"title":"世界顶级飞行员在重庆上演特技飞行秀",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-15 18:19:00",
+		"enddate":"2011-04-15 18:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-15\/1819642794.html\">read more<\/a>",
+		"title":"世界特技飞行大师齐聚大足刮刮乐邀你共赏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-20 17:58:00",
+		"enddate":"2011-04-20 17:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-20\/1758643512.html\">read more<\/a>",
+		"title":"大师亮剑巅峰对决 龙水湖上演空中大戏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-25 13:58:00",
+		"enddate":"2011-04-25 13:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2011-04-25\/1358644125.html\">read more<\/a>",
+		"title":"大师邀“航空发烧友”到大足看空中绝活",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_8_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi8_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi8_type",
+	"size_importance":"true"
+}]

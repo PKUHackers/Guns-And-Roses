@@ -1,0 +1,96 @@
+[
+{
+	"title":"科技",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-01-12 07:27:00",
+		"enddate":"2011-12-15 11:05:00",
+		"description":"好奇号登陆火星",
+		"title":"好奇号登陆火星",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/keji0.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"keji0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-10 07:53:00",
+		"enddate":"2012-10-12 07:59:00",
+		"description":"全球移动互联网大会硅谷站",
+		"title":"全球移动互联网大会硅谷站",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/keji1.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"keji1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-17 09:34:00",
+		"enddate":"2012-10-08 16:12:00",
+		"description":"宽带工程中国行",
+		"title":"宽带工程中国行",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/keji2.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"keji2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-13 13:29:00",
+		"enddate":"2012-09-27 01:45:00",
+		"description":"摩托罗拉移动中国裁员风波",
+		"title":"摩托罗拉移动中国裁员风波",
+		"importance":"35",
+		"downTimeline":{"url":"json_tests\/keji3.json"},
+		"date_limit":"da",
+		"low_threshold":"5",
+		"id":"keji3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"click_callback":"timeglider.eventActions.downTimeline",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"type"},
+		"ypix":"0",
+		"id":"keji_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji_type",
+	"size_importance":"true"
+}]

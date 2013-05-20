@@ -1,0 +1,234 @@
+[
+{
+	"title":"上海国际游艇展",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2010-03-24 13:40:00",
+		"enddate":"2010-03-24 13:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/news\/2010-03-24\/134059038.shtml\">read more<\/a>",
+		"title":"2010中国(上海)国际游艇展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_11_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-03-29 17:47:00",
+		"enddate":"2010-03-29 17:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2010-03-29\/174759338.shtml\">read more<\/a>",
+		"title":"坚实里程碑 发展新纪元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_11_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-03-29 17:50:00",
+		"enddate":"2010-03-29 17:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2010-03-29\/175059339.shtml\">read more<\/a>",
+		"title":"2010中国(上海)国际游艇展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_11_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-03-29 17:53:00",
+		"enddate":"2010-03-29 17:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2010-03-29\/175359340.shtml\">read more<\/a>",
+		"title":"2010中国(上海)国际游艇展参展通告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_11_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-03-29 17:59:00",
+		"enddate":"2010-03-29 17:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2010-03-29\/175959341.shtml\">read more<\/a>",
+		"title":"上海游艇展献船艇盛宴",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_11_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-03-29 18:04:00",
+		"enddate":"2010-03-29 18:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2010-03-29\/180459342.shtml\">read more<\/a>",
+		"title":"中国(上海)国际游艇展十五周年庆系列活动",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_11_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-03-29 18:07:00",
+		"enddate":"2010-03-29 18:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2010-03-29\/180759343.shtml\">read more<\/a>",
+		"title":"中国(上海)国际游艇展学术论坛告示",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_11_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-03-29 18:10:00",
+		"enddate":"2010-03-29 18:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2010-03-29\/181059344.shtml\">read more<\/a>",
+		"title":"国际游艇展主题讲座之探秘游艇设计传播",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_11_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-03-29 18:19:00",
+		"enddate":"2010-03-29 18:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2010-03-29\/181959345.shtml\">read more<\/a>",
+		"title":"游艇展水上展区 客户媒体见面会顺利举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_11_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-04-09 20:10:00",
+		"enddate":"2010-04-09 20:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2010-04-09\/201059975.shtml\">read more<\/a>",
+		"title":"游艇展开幕第一单 国产游艇天价成交",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_11_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-04-09 20:16:00",
+		"enddate":"2010-04-09 20:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2010-04-09\/201659976.shtml\">read more<\/a>",
+		"title":"游艇展起航 世界三大游艇制造巨头再齐集",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_11_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-04-09 20:55:00",
+		"enddate":"2010-04-09 20:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2010-04-09\/205559977.shtml\">read more<\/a>",
+		"title":"游艇展第一天 潜水爱好者欲“拼购”游艇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_11_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-04-12 12:07:00",
+		"enddate":"2010-04-12 12:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2010-04-12\/120760040.shtml\">read more<\/a>",
+		"title":"法拉帝集团新班底亮相于国际游艇展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_11_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-04-15 16:26:00",
+		"enddate":"2010-04-15 16:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/style.sina.com.cn\/travel\/trans\/2010-04-15\/162660282.shtml\">read more<\/a>",
+		"title":"第十五届上海游艇展圆满落幕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shangpin_11_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shangpin_type"},
+		"ypix":"0",
+		"id":"shangpin11_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shangpin11_type",
+	"size_importance":"true"
+}]

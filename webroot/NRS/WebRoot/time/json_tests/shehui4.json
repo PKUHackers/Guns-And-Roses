@@ -1,0 +1,234 @@
+[
+{
+	"title":"深圳联防队员涉嫌强奸女子",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-11-09 06:07:00",
+		"enddate":"2011-11-09 06:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-11-09\/060723436676.shtml\">read more<\/a>",
+		"title":"妻子被联防员毒打强奸丈夫躲隔壁一小时后才报警",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_4_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-10 05:17:00",
+		"enddate":"2011-11-10 05:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-11-10\/051723442609.shtml\">read more<\/a>",
+		"title":"深圳警方认定联防队员蓄谋强奸 受害人搬家",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_4_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-10 17:15:00",
+		"enddate":"2011-11-10 17:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-11-10\/171523446683.shtml\">read more<\/a>",
+		"title":"深圳联防队员入室强奸续 嫌犯有抢劫前科",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_4_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-11 03:26:00",
+		"enddate":"2011-11-11 03:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-11-11\/032623448036.shtml\">read more<\/a>",
+		"title":"深圳联防队员强奸案嫌疑人被批准逮捕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_4_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-12 06:26:00",
+		"enddate":"2011-11-12 06:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-11-12\/062623454936.shtml\">read more<\/a>",
+		"title":"媒体强迫式采访联防队员强奸案受害人遭质疑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_4_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-17 15:46:00",
+		"enddate":"2011-11-17 15:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-11-17\/154623482564.shtml\">read more<\/a>",
+		"title":"联防员强奸案受害人丈夫:若再有一次会杀掉嫌犯",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_4_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-17 15:46:00",
+		"enddate":"2011-11-17 15:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2011-11-17\/154623482566.shtml\">read more<\/a>",
+		"title":"联防员强奸案受害人丈夫:盼孩子长大不再受欺负",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_4_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 15:00:00",
+		"enddate":"2011-11-08 15:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2011-11-08\/150023433764.shtml\">read more<\/a>",
+		"title":"妻子遭联防队员毒打强奸 丈夫躲隔壁忍辱1小时",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_4_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-09 07:43:00",
+		"enddate":"2011-11-09 07:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2011-11-09\/074323437290.shtml\">read more<\/a>",
+		"title":"深圳联防队员涉嫌强奸女子续：5名相关人员停职",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_4_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-09 08:45:00",
+		"enddate":"2011-11-09 08:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2011-11-09\/084523438052.shtml\">read more<\/a>",
+		"title":"深圳宝安区通报联防队员强奸案情 5人员停职调查",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_4_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 06:26:00",
+		"enddate":"2011-11-08 06:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2011-11-08\/062623430871.shtml\">read more<\/a>",
+		"title":"女子遭联防队员毒打强奸 丈夫躲隔壁未敢做声",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_4_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-09 08:04:00",
+		"enddate":"2011-11-09 08:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2011-11-09\/080423437360.shtml\">read more<\/a>",
+		"title":"联防队员涉嫌强奸女子 受害人称此前曾遭其强奸",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_4_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-14 15:57:00",
+		"enddate":"2011-11-14 15:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2011-11-14\/155723463786.shtml\">read more<\/a>",
+		"title":"媒体报道联防队员强奸民工妻子案件细节",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_4_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-17 13:51:00",
+		"enddate":"2011-11-17 13:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2011-11-17\/135123481795.shtml\">read more<\/a>",
+		"title":"深圳联防队员强奸案嫌疑人称被陷害 欲状告媒体",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_4_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shehui_type"},
+		"ypix":"0",
+		"id":"shehui4_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shehui4_type",
+	"size_importance":"true"
+}]

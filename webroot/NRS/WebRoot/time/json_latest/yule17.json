@@ -1,0 +1,249 @@
+[
+{
+	"title":"第三届乐视影视盛典",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-10 07:00:00",
+		"enddate":"2012-10-10 07:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-10\/07003760064.shtml\">read more<\/a>",
+		"title":"陈楚河出席乐视盛典 获港台最受欢迎男演员",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_17_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 16:51:00",
+		"enddate":"2012-10-10 16:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-10\/16513760740.shtml\">read more<\/a>",
+		"title":"荣蓉红裙亮相乐视影视盛典红毯",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_17_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 14:36:00",
+		"enddate":"2012-10-11 14:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-11\/14363761489.shtml\">read more<\/a>",
+		"title":"贾乃亮出席乐视影视盛典笑称厕所看育儿书",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_17_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-20 12:59:00",
+		"enddate":"2012-09-20 12:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-20\/12593747160.shtml\">read more<\/a>",
+		"title":"贺刚陈楚河入围乐视影视盛典 赴校园揽人气",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_17_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 12:01:00",
+		"enddate":"2012-10-10 12:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/m\/c\/2012-10-10\/12013760379.shtml\">read more<\/a>",
+		"title":"郭涛凭《黄金大劫案》斩获最具实力男演员",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_17_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 12:20:00",
+		"enddate":"2012-10-10 12:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/h\/2012-10-10\/12203760400.shtml\">read more<\/a>",
+		"title":"陈志朋乐视盛典劲歌热舞high翻全场(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_17_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 14:50:00",
+		"enddate":"2012-10-10 14:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-10\/14503760558.shtml\">read more<\/a>",
+		"title":"钟汉良乐视盛典夺双奖 人气高获粉丝力挺",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_17_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 16:37:00",
+		"enddate":"2012-10-10 16:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-10\/16373760719.shtml\">read more<\/a>",
+		"title":"张俪乐视盛典捧得年度电视剧飞跃演员奖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_17_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 19:49:00",
+		"enddate":"2012-10-10 19:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-10\/19493760866.shtml\">read more<\/a>",
+		"title":"乐视盛典变澄清会 钟汉良陈妍希韩庚喊冤",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_17_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 14:31:00",
+		"enddate":"2012-10-11 14:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-11\/14313761478.shtml\">read more<\/a>",
+		"title":"李晨亮相乐视盛典自称幸福粉碎分手传闻",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_17_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 13:55:00",
+		"enddate":"2012-10-11 13:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-11\/13553761430.shtml\">read more<\/a>",
+		"title":"第三届乐视盛典举行 颁奖礼变澄清会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_17_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 14:46:00",
+		"enddate":"2012-10-11 14:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-11\/14463761509.shtml\">read more<\/a>",
+		"title":"明星大聚会不是我夸你就是你夸我",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_17_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-09 19:39:00",
+		"enddate":"2012-10-09 19:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/2012-10-09\/19393759889.shtml\">read more<\/a>",
+		"title":"第三届乐视影视盛典活动简介",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_17_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 08:58:00",
+		"enddate":"2012-10-10 08:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-10\/08583760133.shtml\">read more<\/a>",
+		"title":"乐视影视盛典吸引百余明星到场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_17_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 00:39:00",
+		"enddate":"2012-10-10 00:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-10-10\/00393759972.shtml\">read more<\/a>",
+		"title":"钟汉良回应争议：颁奖礼都有自己规则",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_17_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule17_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule17_type",
+	"size_importance":"true"
+}]

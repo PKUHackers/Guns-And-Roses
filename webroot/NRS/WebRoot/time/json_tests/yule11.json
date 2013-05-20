@@ -1,0 +1,324 @@
+[
+{
+	"title":"电视剧《新白发魔女传》",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-17 10:33:00",
+		"enddate":"2012-09-17 10:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-17\/10333743697.shtml\">read more<\/a>",
+		"title":"《新白发魔女传》引质疑 边拍边播乃假象？",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 16:07:00",
+		"enddate":"2012-09-17 16:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-17\/16073744156.shtml\">read more<\/a>",
+		"title":"郭柯彤出演《白发魔女》爆料吴奇隆恶搞王",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 12:23:00",
+		"enddate":"2012-09-18 12:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-18\/12233744892.shtml\">read more<\/a>",
+		"title":"《新白发魔女》首播 吴奇隆事业第二春",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 15:38:00",
+		"enddate":"2012-09-18 15:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/h\/2012-09-18\/15383745081.shtml\">read more<\/a>",
+		"title":"吴奇隆回应吻戏质疑：是换气不是接吻",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 07:19:00",
+		"enddate":"2012-09-17 07:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-17\/07193743506.shtml\">read more<\/a>",
+		"title":"《新白发魔女传》热播盘点旧魔女",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-14 17:31:00",
+		"enddate":"2012-09-14 17:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-14\/17313742220.shtml\">read more<\/a>",
+		"title":"盘点影视作品中的白发魔女",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-19 09:39:00",
+		"enddate":"2012-09-19 09:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-19\/09393745693.shtml\">read more<\/a>",
+		"title":"微博秀：吴奇隆白衣古装照潇洒风流",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 11:23:00",
+		"enddate":"2012-09-18 11:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-18\/11233744807.shtml\">read more<\/a>",
+		"title":"《新白发魔女传》首播 特效配音有瑕疵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 17:06:00",
+		"enddate":"2012-09-18 17:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-18\/17063745263.shtml\">read more<\/a>",
+		"title":"《新白发魔女传》首轮周播 马苏笑谈吻戏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 11:43:00",
+		"enddate":"2012-09-18 11:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-18\/11433744839.shtml\">read more<\/a>",
+		"title":"《新白发魔女传》剧情紧凑配音有瑕疵(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 07:19:00",
+		"enddate":"2012-09-17 07:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-17\/07193743512.shtml\">read more<\/a>",
+		"title":"《白发魔女》故事情节不拖沓 特效假遭吐槽",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 07:19:00",
+		"enddate":"2012-09-18 07:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-18\/07193744536.shtml\">read more<\/a>",
+		"title":"吴奇隆不认《新白发》制作糙 没心思考虑收视",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 15:54:00",
+		"enddate":"2012-09-18 15:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-18\/15543745117.shtml\">read more<\/a>",
+		"title":"《新白发魔女传》卓凡剧中狠辣获热议",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 10:42:00",
+		"enddate":"2012-09-17 10:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-17\/10423743711.shtml\">read more<\/a>",
+		"title":"《新白发魔女传》吴奇隆：收视破3就裸",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-14 16:27:00",
+		"enddate":"2012-09-14 16:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-14\/16273742138.shtml\">read more<\/a>",
+		"title":"《新白发魔女传》卓凡成反派逆袭吴奇隆",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 15:59:00",
+		"enddate":"2012-09-18 15:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-18\/15593745127.shtml\">read more<\/a>",
+		"title":"《新白发魔女传》郭珍霓吐槽幕后笑料",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 11:50:00",
+		"enddate":"2012-09-17 11:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-17\/11503743854.shtml\">read more<\/a>",
+		"title":"《新白发》吴奇隆马苏郭珍霓打戏拼命",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-15 09:05:00",
+		"enddate":"2012-09-15 09:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-15\/09053742560.shtml\">read more<\/a>",
+		"title":"《新白发》进校园人气高 吴奇隆不知卖千万",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-19 10:52:00",
+		"enddate":"2012-09-19 10:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-19\/10523745846.shtml\">read more<\/a>",
+		"title":"《新白发魔女》台词欢乐多 特效如网游练级",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-15 05:34:00",
+		"enddate":"2012-09-15 05:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/v\/m\/2012-09-15\/05343742502.shtml\">read more<\/a>",
+		"title":"吴奇隆遭90后调侃：四爷变“老爹”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_11_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule11_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule11_type",
+	"size_importance":"true"
+}]

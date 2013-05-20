@@ -1,0 +1,324 @@
+[
+{
+	"title":"国际航协第68届年度大会",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-06-11 10:29:00",
+		"enddate":"2012-06-11 10:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-06-11\/102920219.html\">read more<\/a>",
+		"title":"王昌顺当选第68届国际航协年会主席",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-09 11:18:00",
+		"enddate":"2012-03-09 11:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-03-09\/111814063.html\">read more<\/a>",
+		"title":"国际航协称1月国际航空客运需求增长5.7%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-11 13:09:00",
+		"enddate":"2012-06-11 13:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-06-11\/130920247.html\">read more<\/a>",
+		"title":"国际航协宣布三方面航空业重要进展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-11 19:26:00",
+		"enddate":"2012-06-11 19:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-06-11\/192620332.html\">read more<\/a>",
+		"title":"南航董事长司献民当选国际航协理事会理事",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-14 10:02:00",
+		"enddate":"2012-06-14 10:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-06-14\/100220606.html\">read more<\/a>",
+		"title":"东航位列世界航空运输企业客运量第五名",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-11 21:14:00",
+		"enddate":"2012-06-11 21:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-06-11\/211420335.html\">read more<\/a>",
+		"title":"英国航空CEO威利・沃尔什：奥运并未带来机遇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-12 12:15:00",
+		"enddate":"2012-06-12 12:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-06-12\/121520404.html\">read more<\/a>",
+		"title":"民航局局长李家祥：正在研究推进机场收费改革",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-26 11:10:00",
+		"enddate":"2012-04-26 11:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-04-26\/111016936.html\">read more<\/a>",
+		"title":"国际航协：航空公司一季度商业信心指数回升",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-21 09:47:00",
+		"enddate":"2012-03-21 09:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-03-21\/094714749.html\">read more<\/a>",
+		"title":"国内航企2月经历航空淡季及油价攀升亏损5.4亿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-11 19:38:00",
+		"enddate":"2012-06-11 19:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-06-11\/193820333.html\">read more<\/a>",
+		"title":"国际航协第68届年会在京召开 国航成东道主",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-13 11:39:00",
+		"enddate":"2012-06-13 11:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-06-13\/113920539.html\">read more<\/a>",
+		"title":"东航董事长:希望十二五末负债率降至70%以下",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-11 14:56:00",
+		"enddate":"2012-06-11 14:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-06-11\/145620267.html\">read more<\/a>",
+		"title":"国际航协预测2012年航空业将盈利30亿美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-12 09:56:00",
+		"enddate":"2012-06-12 09:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-06-12\/095620379.html\">read more<\/a>",
+		"title":"航空业全球性碳排放交易计划有望明年推出",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-11 15:08:00",
+		"enddate":"2012-06-11 15:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-06-11\/150820270.html\">read more<\/a>",
+		"title":"斯里兰卡航空宣布加入寰宇一家航空联盟",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-10 10:28:00",
+		"enddate":"2012-04-10 10:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-04-10\/102816049.html\">read more<\/a>",
+		"title":"国际航协称3月航油价格近历史最高水平",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-11 11:14:00",
+		"enddate":"2012-06-11 11:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-06-11\/111420222.html\">read more<\/a>",
+		"title":"IATA理事长：航空业维系5700万个工作岗位",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-07 11:05:00",
+		"enddate":"2012-03-07 11:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-03-07\/110513889.html\">read more<\/a>",
+		"title":"外航联手中资航企深入中国市场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-31 09:57:00",
+		"enddate":"2012-05-31 09:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-05-31\/095719398.html\">read more<\/a>",
+		"title":"国际航协：国际航线3月两舱客运量增8.6%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-21 09:29:00",
+		"enddate":"2012-03-21 09:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-03-21\/092914744.html\">read more<\/a>",
+		"title":"国际航协下调今年航空业盈利预期至30亿美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-13 10:07:00",
+		"enddate":"2012-06-13 10:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sky.news.sina.com.cn\/2012-06-13\/100720521.html\">read more<\/a>",
+		"title":"空客今年交付我国飞机将再次超过百架",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"hangkong_4_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"hangkong_type"},
+		"ypix":"0",
+		"id":"hangkong4_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"hangkong4_type",
+	"size_importance":"true"
+}]

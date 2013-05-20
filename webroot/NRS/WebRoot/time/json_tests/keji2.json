@@ -1,0 +1,204 @@
+[
+{
+	"title":"第一届黑龙江省现代信息服务业创新发展高层论坛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-12-26 15:35:00",
+		"enddate":"2011-12-26 15:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-12-26\/15356564355.shtml\">read more<\/a>",
+		"title":"分析：民企发展亟须建立信息服务平台",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-17 09:40:00",
+		"enddate":"2012-04-17 09:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2012-04-17\/09406969383.shtml\">read more<\/a>",
+		"title":"深圳拟为互联网信息服务安全立法",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-31 09:05:00",
+		"enddate":"2011-12-31 09:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2011-12-31\/09056589961.shtml\">read more<\/a>",
+		"title":"上海营业税改革政策难惠众 信息服务类反增1%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-07 14:56:00",
+		"enddate":"2012-02-07 14:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-02-07\/14566692576.shtml\">read more<\/a>",
+		"title":"上海信息服务业连续6年保持20%以上增长",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-26 10:47:00",
+		"enddate":"2011-12-26 10:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2011-12-26\/10476563578.shtml\">read more<\/a>",
+		"title":"信息服务业受益扩内需新政 酝酿十二五新增长点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-05 14:12:00",
+		"enddate":"2012-01-05 14:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-01-05\/14126604633.shtml\">read more<\/a>",
+		"title":"短信风光不再：互联网信息服务挤压利润空间",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-29 10:39:00",
+		"enddate":"2012-01-29 10:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-01-29\/10396664997.shtml\">read more<\/a>",
+		"title":"中国电信北方信息服务基地落户青岛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 18:16:00",
+		"enddate":"2012-02-22 18:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-02-22\/18166755971.shtml\">read more<\/a>",
+		"title":"社交信息服务致全球短信营收下滑139亿美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-23 15:51:00",
+		"enddate":"2012-05-23 15:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-05-23\/15517154017.shtml\">read more<\/a>",
+		"title":"首届黑龙江现代信息服务业创新高层论坛召开",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-23 17:59:00",
+		"enddate":"2012-05-23 17:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-05-23\/17597155628.shtml\">read more<\/a>",
+		"title":"黑龙江省长王宪魁：发展信息服务业成重点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-23 18:05:00",
+		"enddate":"2012-05-23 18:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-05-23\/18057155633.shtml\">read more<\/a>",
+		"title":"魏茂洪：信息服务业成最活跃行业",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-30 18:16:00",
+		"enddate":"2012-05-30 18:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-05-30\/18167192209.shtml\">read more<\/a>",
+		"title":"图文：神州数码思特奇CEO吴飞舟",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji2_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji2_type",
+	"size_importance":"true"
+}]

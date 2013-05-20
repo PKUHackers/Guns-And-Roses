@@ -1,0 +1,324 @@
+[
+{
+	"title":"初三生及家长备战中考全攻略",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-13 10:48:00",
+		"enddate":"2012-09-13 10:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2012-09-13\/1048355414.shtml\">read more<\/a>",
+		"title":"2013中考生必读：中考语文作文写作六要素",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-30 10:18:00",
+		"enddate":"2012-03-30 10:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2012-03-30\/1018332940.shtml\">read more<\/a>",
+		"title":"2012吉林中考范围：校车安全问题或入考题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-24 15:35:00",
+		"enddate":"2012-02-24 15:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2012-02-24\/1535328657.shtml\">read more<\/a>",
+		"title":"语文加油站：中考试卷中常出现的八种修辞手法",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-09 10:31:00",
+		"enddate":"2011-12-09 10:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2011-12-09\/1031320348.shtml\">read more<\/a>",
+		"title":"备考指导：中考语文六大得分技巧",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-12-22 11:23:00",
+		"enddate":"2011-12-22 11:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2011-12-22\/1123321736.shtml\">read more<\/a>",
+		"title":"兰州名师指点：如何备战2012年各科中考",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 10:15:00",
+		"enddate":"2012-09-17 10:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2012-09-17\/1015355954.shtml\">read more<\/a>",
+		"title":"中考语文常见语病：语序不当",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-28 14:41:00",
+		"enddate":"2011-09-28 14:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2011-09-28\/1441314157.shtml\">read more<\/a>",
+		"title":"中考语文复习必需掌握的五点方法",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-20 10:44:00",
+		"enddate":"2012-08-20 10:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2012-08-20\/1044352685.shtml\">read more<\/a>",
+		"title":"初三文言文复习资料：中考文言虚词复习 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-01-21 10:30:00",
+		"enddate":"2012-01-21 10:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2012-01-21\/1030324720.shtml\">read more<\/a>",
+		"title":"2012年寒假应当熟记的中考语文文学常识",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-25 10:25:00",
+		"enddate":"2012-05-25 10:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2012-05-25\/1025339534.shtml\">read more<\/a>",
+		"title":"2012年中考复习全攻略之语文篇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-17 14:04:00",
+		"enddate":"2011-08-17 14:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2011-08-17\/1404309960.shtml\">read more<\/a>",
+		"title":"复习指导：中考语文解题技巧归纳汇总",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-28 13:56:00",
+		"enddate":"2012-08-28 13:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2012-08-28\/1356353471.shtml\">read more<\/a>",
+		"title":"中考语文各地真题分类讲解",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-19 09:56:00",
+		"enddate":"2011-10-19 09:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2011-10-19\/0956315801.shtml\">read more<\/a>",
+		"title":"名师指点：学好语文 树立“语文思维”是关键",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-17 10:19:00",
+		"enddate":"2012-09-17 10:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2012-09-17\/1019355965.shtml\">read more<\/a>",
+		"title":"中考语文常见语病：成分不当",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-10 15:18:00",
+		"enddate":"2012-02-10 15:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2012-02-10\/1518326557.shtml\">read more<\/a>",
+		"title":"2012年中考语文复习六大得分技巧",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-18 10:26:00",
+		"enddate":"2012-04-18 10:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2012-04-18\/1026334835.shtml\">read more<\/a>",
+		"title":"沈阳中考考试说明发布 一线老师支招中考复习",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-09-15 14:23:00",
+		"enddate":"2011-09-15 14:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2011-09-15\/1423312804.shtml\">read more<\/a>",
+		"title":"中考语文课外文言文阅读解题指导",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-20 10:48:00",
+		"enddate":"2012-08-20 10:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2012-08-20\/1048352687.shtml\">read more<\/a>",
+		"title":"2013年中考语文必背古诗词50篇",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-16 11:11:00",
+		"enddate":"2012-03-16 11:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2012-03-16\/1111331435.shtml\">read more<\/a>",
+		"title":"泉州中考考试说明出台 语文阅读占比重最大",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-08-12 10:36:00",
+		"enddate":"2011-08-12 10:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/edu.sina.com.cn\/zhongkao\/2011-08-12\/1036309536.shtml\">read more<\/a>",
+		"title":"中考语文试卷考题死板命题难 折射教改之不易",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"jiaoyu_1_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"jiaoyu_type"},
+		"ypix":"0",
+		"id":"jiaoyu1_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"jiaoyu1_type",
+	"size_importance":"true"
+}]

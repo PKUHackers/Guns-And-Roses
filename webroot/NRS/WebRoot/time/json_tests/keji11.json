@@ -1,0 +1,249 @@
+[
+{
+	"title":"拉手网赴美国纳斯达克上市",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2011-09-09 05:39:00",
+		"enddate":"2011-09-09 05:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-09-09\/05396043398.shtml\">read more<\/a>",
+		"title":"传拉手网启动赴美IPO 已经敲定至少一家承销商",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_11_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-29 06:34:00",
+		"enddate":"2011-10-29 06:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-10-29\/06346248064.shtml\">read more<\/a>",
+		"title":"拉手网提交IPO招股书拟融资1亿美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_11_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-29 08:48:00",
+		"enddate":"2011-10-29 08:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-10-29\/08486248364.shtml\">read more<\/a>",
+		"title":"拉手网财务数据曝光：今年上半年亏6054万美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_11_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-29 08:51:00",
+		"enddate":"2011-10-29 08:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-10-29\/08516248372.shtml\">read more<\/a>",
+		"title":"拉手网高管持股比例曝光 CEO吴波占22.6%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_11_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-29 08:58:00",
+		"enddate":"2011-10-29 08:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-10-29\/08586248381.shtml\">read more<\/a>",
+		"title":"拉手网招股书：累积亏损已达7340万美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_11_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-29 09:52:00",
+		"enddate":"2011-10-29 09:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-10-29\/09526248433.shtml\">read more<\/a>",
+		"title":"拉手网组织架构曝光：采取VIE协议控制方式",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_11_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-29 10:51:00",
+		"enddate":"2011-10-29 10:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-10-29\/10516248505.shtml\">read more<\/a>",
+		"title":"招股书显示拉手网未获“拉手”注册商标",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_11_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-29 12:35:00",
+		"enddate":"2011-10-29 12:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-10-29\/12356248589.shtml\">read more<\/a>",
+		"title":"拉手网招股书披露与商家分成模式",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_11_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-10-31 01:15:00",
+		"enddate":"2011-10-31 01:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-10-31\/01156250777.shtml\">read more<\/a>",
+		"title":"上半年净亏3.9亿人民币 拉手网“流血”上市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_11_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-08 07:11:00",
+		"enddate":"2011-11-08 07:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-11-08\/07116288986.shtml\">read more<\/a>",
+		"title":"拉手网IPO区间价13至15美元 最多融资8000万",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_11_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-09 09:40:00",
+		"enddate":"2011-11-09 09:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-11-09\/09406295657.shtml\">read more<\/a>",
+		"title":"消息称拉手网将于11月14日挂牌交易",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_11_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-10 02:12:00",
+		"enddate":"2011-11-10 02:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-11-10\/02126299029.shtml\">read more<\/a>",
+		"title":"拉手网赴美IPO路演实录：将注重长期盈利能力",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_11_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-10 11:51:00",
+		"enddate":"2011-11-10 11:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-11-10\/11516301832.shtml\">read more<\/a>",
+		"title":"消息称拉手网取消IPO 投资方金沙江不置可否",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_11_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-10 16:08:00",
+		"enddate":"2011-11-10 16:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-11-10\/16086302766.shtml\">read more<\/a>",
+		"title":"传拉手网暂停IPO路演 将向SEC解释账目问题",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_11_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-11-11 09:21:00",
+		"enddate":"2011-11-11 09:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/i\/2011-11-11\/09216306701.shtml\">read more<\/a>",
+		"title":"消息称拉手网遭举报延误上市 竞争同行倍感纠结",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_11_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji11_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji11_type",
+	"size_importance":"true"
+}]

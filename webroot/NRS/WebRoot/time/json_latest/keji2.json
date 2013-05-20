@@ -1,0 +1,249 @@
+[
+{
+	"title":"宽带工程中国行",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-25 23:47:00",
+		"enddate":"2012-09-25 23:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/m\/2012-09-25\/23477655453.shtml\">read more<\/a>",
+		"title":"ITU全球互联网报告：中国固网宽带排名第53位",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 15:53:00",
+		"enddate":"2012-10-08 15:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-10-08\/15537681086.shtml\">read more<\/a>",
+		"title":"宽带上网手册",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 10:36:00",
+		"enddate":"2012-09-29 10:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-29\/10367670027.shtml\">read more<\/a>",
+		"title":"四川电信绵阳北川灾后已全部实施宽带覆盖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 15:56:00",
+		"enddate":"2012-10-08 15:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-10-08\/15567681095.shtml\">read more<\/a>",
+		"title":"工信部关于实施宽带普及提速工程的意见",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 09:40:00",
+		"enddate":"2012-09-24 09:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-24\/09407649739.shtml\">read more<\/a>",
+		"title":"宽带中国遇最后100米入户难题：倒逼装维改革",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-18 17:28:00",
+		"enddate":"2012-09-18 17:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/h\/2012-09-18\/17287630148.shtml\">read more<\/a>",
+		"title":"宽带提速乃十二五信息通信业主要任务",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 16:07:00",
+		"enddate":"2012-10-08 16:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-10-08\/16077681121.shtml\">read more<\/a>",
+		"title":"工信部张峰：群策群力加快宽带中国建设",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 15:41:00",
+		"enddate":"2012-10-08 15:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-10-08\/15417681068.shtml\">read more<\/a>",
+		"title":"工信部部长苗圩:十二五宽带接入用户超2.5亿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-24 00:58:00",
+		"enddate":"2012-09-24 00:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-24\/00587647459.shtml\">read more<\/a>",
+		"title":"电信设备巨头齐声呼吁中国加快上4G和宽带",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-28 11:06:00",
+		"enddate":"2012-09-28 11:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-28\/11067667216.shtml\">read more<\/a>",
+		"title":"中电信完成四川地震灾区重建：农村4M宽带达80%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-19 02:19:00",
+		"enddate":"2012-09-19 02:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-19\/02197631328.shtml\">read more<\/a>",
+		"title":"宽带科技发展“十二五”规划发布",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 05:19:00",
+		"enddate":"2012-09-26 05:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-26\/05197656967.shtml\">read more<\/a>",
+		"title":"广东电信力推光进铜退 启动“宽带智能提速”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-19 14:55:00",
+		"enddate":"2012-09-19 14:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-19\/14557634134.shtml\">read more<\/a>",
+		"title":"破解宽带最后一公里难题 专家建议明确监管职能",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-08 16:10:00",
+		"enddate":"2012-10-08 16:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-10-08\/16107681129.shtml\">read more<\/a>",
+		"title":"工信部张峰：中国宽带通信网络发展情况介绍",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 11:59:00",
+		"enddate":"2012-09-27 11:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-27\/11597663055.shtml\">read more<\/a>",
+		"title":"民企加速入局最后一公里 宽带竞争聚焦差异体验",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_2_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji2_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji2_type",
+	"size_importance":"true"
+}]

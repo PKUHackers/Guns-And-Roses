@@ -1,0 +1,234 @@
+[
+{
+	"title":"微软发布Surface平板电脑",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-06-19 07:25:00",
+		"enddate":"2012-06-19 07:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/2012-06-19\/07257285372.shtml\">read more<\/a>",
+		"title":"微软发布Surface平板电脑：搭载Win8系统",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-20 09:02:00",
+		"enddate":"2012-06-20 09:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/it\/pad\/2012-06-20\/09027291341.shtml\">read more<\/a>",
+		"title":"Surface平板或助推微软股价突破40美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-20 05:26:00",
+		"enddate":"2012-06-20 05:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/mobile\/n\/2012-06-20\/05262173330.shtml\">read more<\/a>",
+		"title":"微软新一代Surface 与Windows 8同步上市",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-19 17:44:00",
+		"enddate":"2012-06-19 17:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/2012-06-19\/17442173041.shtml\">read more<\/a>",
+		"title":"不争馒头争口气 微软发布Surface平板",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-19 10:09:00",
+		"enddate":"2012-06-19 10:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2012-06-19\/10092172144.shtml\">read more<\/a>",
+		"title":"微软Surface发布！将有RT与PRO双版本",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-19 10:46:00",
+		"enddate":"2012-06-19 10:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2012-06-19\/10462172204.shtml\">read more<\/a>",
+		"title":"剑指苹果iPad 微软Surface平板电脑美图速评",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-19 12:32:00",
+		"enddate":"2012-06-19 12:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2012-06-19\/12327287115.shtml\">read more<\/a>",
+		"title":"微软Surface和新iPad参数对比:接口丰富",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-20 02:09:00",
+		"enddate":"2012-06-20 02:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2012-06-20\/02092173027.shtml\">read more<\/a>",
+		"title":"致微软Surface：漫话被iPad打败的众平板",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-20 05:30:00",
+		"enddate":"2012-06-20 05:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2012-06-20\/05302173379.shtml\">read more<\/a>",
+		"title":"ARM版Surface或将会采用Tegra 3处理器",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-20 05:30:00",
+		"enddate":"2012-06-20 05:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2012-06-20\/05302173380.shtml\">read more<\/a>",
+		"title":"微软也有好做工 Surface平板上手评测",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-20 06:00:00",
+		"enddate":"2012-06-20 06:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/n\/pad\/2012-06-20\/06002173422.shtml\">read more<\/a>",
+		"title":"复制Xbox奇迹 简析微软为何推Surface平板",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-19 14:02:00",
+		"enddate":"2012-06-19 14:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/s\/2012-06-19\/14027287251.shtml\">read more<\/a>",
+		"title":"鲍尔默表示Surface是为Windows 8铺垫",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-20 08:26:00",
+		"enddate":"2012-06-20 08:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/s\/2012-06-20\/08267291063.shtml\">read more<\/a>",
+		"title":"剑指苹果 全面解析微软Win8平板Surface",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-20 10:27:00",
+		"enddate":"2012-06-20 10:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/s\/2012-06-20\/10277291747.shtml\">read more<\/a>",
+		"title":"微软平板Surface的Win8界面现Store新图标",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_0_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji0_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji0_type",
+	"size_importance":"true"
+}]

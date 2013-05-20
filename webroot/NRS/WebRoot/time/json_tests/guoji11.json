@@ -1,0 +1,324 @@
+[
+{
+	"title":"美国墨西哥湾原油泄漏",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2010-09-24 10:18:00",
+		"enddate":"2010-09-24 10:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-09-24\/101821161476.shtml\">read more<\/a>",
+		"title":"据估计约有440万桶原油流入墨西哥湾",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-20 08:39:00",
+		"enddate":"2010-09-20 08:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-09-20\/083921139051.shtml\">read more<\/a>",
+		"title":"美国政府承认墨西哥湾漏油已彻底封堵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-24 09:14:00",
+		"enddate":"2010-07-24 09:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-07-24\/091420748568.shtml\">read more<\/a>",
+		"title":"墨西哥湾清理漏油船只因风暴逼近被迫疏散",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-18 03:45:00",
+		"enddate":"2010-09-18 03:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-09-18\/034521126226.shtml\">read more<\/a>",
+		"title":"墨西哥湾泄漏油井18日可望彻底封堵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-05 08:38:00",
+		"enddate":"2010-08-05 08:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-08-05\/083820831022.shtml\">read more<\/a>",
+		"title":"美国官员称墨西哥湾漏油影响将持续多年",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-30 20:04:00",
+		"enddate":"2010-07-30 20:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-07-30\/200420794320.shtml\">read more<\/a>",
+		"title":"墨西哥湾漏油油井永久封堵最快明天进行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-05 11:02:00",
+		"enddate":"2010-09-05 11:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-09-05\/110221041983.shtml\">read more<\/a>",
+		"title":"英石油称墨西哥湾漏油钻井不再威胁环境",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-06 07:05:00",
+		"enddate":"2010-08-06 07:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-08-06\/070520838345.shtml\">read more<\/a>",
+		"title":"英国石油公司完成水泥封堵漏油油井工程",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-02 10:36:00",
+		"enddate":"2010-08-02 10:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-08-02\/103620806655.shtml\">read more<\/a>",
+		"title":"墨西哥湾泄漏油井将进行永久性封堵",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-15 11:36:00",
+		"enddate":"2010-08-15 11:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2010-08-15\/113620901340.shtml\">read more<\/a>",
+		"title":"奥巴马在墨西哥湾游泳 称湾区海滩清洁安全(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2011-04-21 08:33:00",
+		"enddate":"2011-04-21 08:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2011-04-21\/083322331861.shtml\">read more<\/a>",
+		"title":"美国民众纪念墨西哥湾原油泄漏事件一周年",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-04 20:27:00",
+		"enddate":"2010-08-04 20:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-08-04\/202720827018.shtml\">read more<\/a>",
+		"title":"英国石油公司称墨西哥湾漏油封堵初步成功",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-25 07:14:00",
+		"enddate":"2010-08-25 07:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-08-25\/071420969885.shtml\">read more<\/a>",
+		"title":"美科学家称微生物新物种正吞食墨西哥湾漏油",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-27 13:34:00",
+		"enddate":"2010-07-27 13:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-07-27\/133420767204.shtml\">read more<\/a>",
+		"title":"传英国石油公司总裁离职后将赴俄任要职",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-09 01:47:00",
+		"enddate":"2010-09-09 01:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-09-09\/014718086043s.shtml\">read more<\/a>",
+		"title":"英国石油公司发表调查报告转移漏油责任",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-04 06:48:00",
+		"enddate":"2010-08-04 06:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/p\/2010-08-04\/064820821243.shtml\">read more<\/a>",
+		"title":"英国石油公司开始静灭法封堵漏油油井(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-06 17:43:00",
+		"enddate":"2010-08-06 17:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-08-06\/174320842886.shtml\">read more<\/a>",
+		"title":"墨西哥湾湿地仍充斥大量漏油 清理结果遭质疑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-07-28 15:06:00",
+		"enddate":"2010-07-28 15:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/green\/news\/roll\/2010-07-28\/150620776159.shtml\">read more<\/a>",
+		"title":"媒体称墨西哥湾海面浮油加速分解并消失",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-03 10:41:00",
+		"enddate":"2010-11-03 10:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-11-03\/104121406487.shtml\">read more<\/a>",
+		"title":"英国石油公司称漏油事件支出或达400亿美元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-02 16:15:00",
+		"enddate":"2010-09-02 16:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2010-09-02\/161521025599.shtml\">read more<\/a>",
+		"title":"墨西哥湾泄漏油井控油罩将被移除",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_11_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji11_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji11_type",
+	"size_importance":"true"
+}]

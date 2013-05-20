@@ -1,0 +1,309 @@
+[
+{
+	"title":"大道喜剧院360看喜剧",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-02-22 09:25:00",
+		"enddate":"2012-02-22 09:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-02-22\/09253561070.shtml\">read more<\/a>",
+		"title":"陈佩斯经典喜剧回归京城 《阳台》登大剧院(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 09:30:00",
+		"enddate":"2012-02-22 09:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-02-22\/09303561072.shtml\">read more<\/a>",
+		"title":"陈佩斯受国家大剧院邀请带来经典话剧《阳台》",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 14:12:00",
+		"enddate":"2012-02-22 14:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-02-22\/14123561521.shtml\">read more<\/a>",
+		"title":"《阳台》29日起登陆国家大剧院 陈佩斯精心备战",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-22 17:00:00",
+		"enddate":"2012-02-22 17:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-02-22\/17003561774.shtml\">read more<\/a>",
+		"title":"陈佩斯打造青春版《阳台》将登国家大剧院",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-02-28 17:39:00",
+		"enddate":"2012-02-28 17:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-02-28\/17393567785.shtml\">read more<\/a>",
+		"title":"陈佩斯经典喜剧《阳台》将登国家大剧院(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-02 20:15:00",
+		"enddate":"2012-03-02 20:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-03-02\/20153571343.shtml\">read more<\/a>",
+		"title":"《阳台》被点名进大剧院 陈佩斯想有“根据地”",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-05 09:41:00",
+		"enddate":"2012-03-05 09:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-03-05\/09413572206.shtml\">read more<\/a>",
+		"title":"喜剧《阳台》落幕 陈佩斯越转身越幕后(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-25 19:14:00",
+		"enddate":"2012-07-25 19:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-07-25\/19143694799.shtml\">read more<\/a>",
+		"title":"陈佩斯喜剧院揭幕 青春《阳台》将演(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-30 15:05:00",
+		"enddate":"2012-07-30 15:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-07-30\/15053698321.shtml\">read more<\/a>",
+		"title":"大道喜剧班毕业上演《阳台》 陈佩斯当绿叶",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-30 15:45:00",
+		"enddate":"2012-07-30 15:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-07-30\/15453698386.shtml\">read more<\/a>",
+		"title":"话剧新人黄飞登《阳台》 演陈佩斯经典角色",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-03 22:44:00",
+		"enddate":"2012-08-03 22:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-08-03\/22443702802.shtml\">read more<\/a>",
+		"title":"陈佩斯为青春版《阳台》鸣锣开道(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-06 19:08:00",
+		"enddate":"2012-08-06 19:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-08-06\/19083704462.shtml\">read more<\/a>",
+		"title":"话剧新人黄飞领衔青春版《阳台》开锣",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-15 17:04:00",
+		"enddate":"2012-08-15 17:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-08-15\/17043712495.shtml\">read more<\/a>",
+		"title":"草根相声落地大道喜剧院预热《阳台》(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-17 17:36:00",
+		"enddate":"2012-08-17 17:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-08-17\/17363714884.shtml\">read more<\/a>",
+		"title":"陈佩斯青春版《阳台》加演 继续低票价",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-21 17:27:00",
+		"enddate":"2012-08-21 17:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-08-21\/17273717861.shtml\">read more<\/a>",
+		"title":"资料介绍：青春版《阳台》-编剧导演陈佩斯",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-26 08:27:00",
+		"enddate":"2012-08-26 08:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-08-26\/08273722049.shtml\">read more<\/a>",
+		"title":"陈佩斯开“谐谑道场”与观众聊剧本(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-29 17:44:00",
+		"enddate":"2012-08-29 17:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-08-29\/17443725538.shtml\">read more<\/a>",
+		"title":"“人人瓦舍”展演活动广发征集令",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-04 12:17:00",
+		"enddate":"2012-09-04 12:17:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-04\/12173731158.shtml\">read more<\/a>",
+		"title":"陈佩斯青春版《阳台》加演24场 笑果启发多",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-11 17:18:00",
+		"enddate":"2012-09-11 17:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/ent.sina.com.cn\/j\/2012-09-11\/17183738593.shtml\">read more<\/a>",
+		"title":"陈佩斯策划朗读原创剧本 人未到意见不缺席",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"yule_3_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"yule_type"},
+		"ypix":"0",
+		"id":"yule3_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"yule3_type",
+	"size_importance":"true"
+}]

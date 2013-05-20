@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012WMA中国武术职业联赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-03-27 14:12:00",
+		"enddate":"2012-03-27 14:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-03-27\/14125999089.shtml\">read more<\/a>",
+		"title":"WMA中国武术职业联赛精英选手招募(附报名表)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-03-27 14:13:00",
+		"enddate":"2012-03-27 14:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-03-27\/14135999090.shtml\">read more<\/a>",
+		"title":"WMA中国武术职业联赛俱乐部热募中",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 17:08:00",
+		"enddate":"2012-05-03 17:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-03\/17086047657.shtml\">read more<\/a>",
+		"title":"中国武术职业联赛俱乐部巡礼之泸州飞龙俱乐部",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-03 18:23:00",
+		"enddate":"2012-05-03 18:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-03\/18236047731.shtml\">read more<\/a>",
+		"title":"WMA明星赛入围2011中国电视榜 获选最给力竞技节目",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-08 08:20:00",
+		"enddate":"2012-05-08 08:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-08\/08206053001.shtml\">read more<\/a>",
+		"title":"11/12季WMA中国武术职业联赛第二阶段在京开幕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-08 11:14:00",
+		"enddate":"2012-05-08 11:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-08\/11146053305.shtml\">read more<\/a>",
+		"title":"中国武术职业联赛明晚开战 青岛队夺标呼声最高",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-08 13:58:00",
+		"enddate":"2012-05-08 13:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-08\/13586053546.shtml\">read more<\/a>",
+		"title":"新赛季WMA第二阶段重燃战火 未来一周决出总冠军",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 09:37:00",
+		"enddate":"2012-05-09 09:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-09\/09376054297.shtml\">read more<\/a>",
+		"title":"WMA接连呈现一边倒 广州永侠挑战山西汾酒鑫度失败",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 09:40:00",
+		"enddate":"2012-05-09 09:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-09\/09406054304.shtml\">read more<\/a>",
+		"title":"两届MVP元彪爆冷不敌相文广 青岛响虎获胜不意外",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-09 22:18:00",
+		"enddate":"2012-05-09 22:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-09\/22186055147.shtml\">read more<\/a>",
+		"title":"WMA武术职业联赛：MVP爆冷负 山西五局全胜横扫",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-10 08:21:00",
+		"enddate":"2012-05-10 08:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-10\/08216055405.shtml\">read more<\/a>",
+		"title":"MVP元彪爆冷不敌相文广 青岛响虎获胜意料之中",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-10 08:22:00",
+		"enddate":"2012-05-10 08:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-10\/08226055401.shtml\">read more<\/a>",
+		"title":"WMA接连一边倒 广州永侠挑战山西汾酒鑫度失败",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-13 15:53:00",
+		"enddate":"2012-05-13 15:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-13\/15536059804.shtml\">read more<\/a>",
+		"title":"WMA再次上演以小打大 广州永侠最终无缘半决赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-13 15:55:00",
+		"enddate":"2012-05-13 15:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-13\/15556059806.shtml\">read more<\/a>",
+		"title":"WMA上演巅峰对决 叶炳祥发威青岛响虎险胜北京威熊",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-13 15:59:00",
+		"enddate":"2012-05-13 15:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-13\/15596059809.shtml\">read more<\/a>",
+		"title":"WMA半决赛对阵出炉 鑫度轻取飞龙进4强将战北京威熊",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-13 16:01:00",
+		"enddate":"2012-05-13 16:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-13\/16016059816.shtml\">read more<\/a>",
+		"title":"WMA四强半决赛生死较量 响虎鑫度艰难会师总决赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-14 19:23:00",
+		"enddate":"2012-05-14 19:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-14\/19236061592.shtml\">read more<\/a>",
+		"title":"WMA2012总决赛巴特尔王冠齐发威 山西3比1青岛夺冠",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-14 21:16:00",
+		"enddate":"2012-05-14 21:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-14\/21166061621.shtml\">read more<\/a>",
+		"title":"WMA武职联赛第三年不断改进 规则遇瓶颈仍需突破",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-14 22:07:00",
+		"enddate":"2012-05-14 22:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-14\/22076061642.shtml\">read more<\/a>",
+		"title":"山西首夺WMA中国武术职业联赛冠军 青岛三连冠梦碎",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-05-15 11:27:00",
+		"enddate":"2012-05-15 11:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/o\/2012-05-15\/11276062307.shtml\">read more<\/a>",
+		"title":"2012WMA综述：一家独大不再 赛事运作更趋市场化",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_4_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu4_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu4_type",
+	"size_importance":"true"
+}]

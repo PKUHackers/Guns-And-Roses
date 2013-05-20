@@ -1,0 +1,324 @@
+[
+{
+	"title":"2012美国大师赛",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-04-07 16:10:00",
+		"enddate":"2012-04-07 16:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-07\/16106013451.shtml\">read more<\/a>",
+		"title":"大师赛63人晋级历史第2多 白老虎吃双柏忌7人受益",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-09 03:47:00",
+		"enddate":"2012-04-09 03:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-09\/03476015049.shtml\">read more<\/a>",
+		"title":"乌修仁射信天翁攀上领先 南非人再创披绿夹克机会",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-05 23:12:00",
+		"enddate":"2012-04-05 23:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-05\/23126011316.shtml\">read more<\/a>",
+		"title":"唐纳德戴小麦式假发 嘲讽美国媒体不关注世界第一",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-09 03:26:00",
+		"enddate":"2012-04-09 03:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-09\/03266015040.shtml\">read more<\/a>",
+		"title":"美国大师赛第二洞乌修仁射下信天翁 飞上榜首位置",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-07 06:56:00",
+		"enddate":"2012-04-07 06:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-07\/06566012811.shtml\">read more<\/a>",
+		"title":"维斯特伍德最后一洞吞双柏忌 失去领先心态仍积极",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-09 05:22:00",
+		"enddate":"2012-04-09 05:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-09\/05226015123.shtml\">read more<\/a>",
+		"title":"唐纳德68杆平生涯最低杆 失望中略微看到一点积极",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-09 04:41:00",
+		"enddate":"2012-04-09 04:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-09\/04416015103.shtml\">read more<\/a>",
+		"title":"斯科特决赛交66杆 两柏忌遮漫天小鸟一杆进洞之光",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-06 10:12:00",
+		"enddate":"2012-04-06 10:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-06\/10126011858.shtml\">read more<\/a>",
+		"title":"麦克罗伊开局就吞双柏忌 最后两洞抓鸟恢复自信",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-08 11:03:00",
+		"enddate":"2012-04-08 11:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-08\/11036014320.shtml\">read more<\/a>",
+		"title":"大师赛第2轮收视率增长14% 美国410万人电视观赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-06 07:35:00",
+		"enddate":"2012-04-06 07:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-06\/07356011650.shtml\">read more<\/a>",
+		"title":"大师赛首轮维斯特伍德67杆领先 伍兹小麦未破70杆",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-06 03:51:00",
+		"enddate":"2012-04-06 03:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-06\/03516011515.shtml\">read more<\/a>",
+		"title":"斯滕森最后一洞崩盘打出8杆 大师赛首轮仅交71杆",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-06 07:44:00",
+		"enddate":"2012-04-06 07:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-06\/07446011665.shtml\">read more<\/a>",
+		"title":"工作人员录成绩错把五当三 唐纳德险被取消资格",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-05 23:06:00",
+		"enddate":"2012-04-05 23:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-05\/23066011300.shtml\">read more<\/a>",
+		"title":"美专家:麦克罗伊还难称伟大 与四巨星相比战绩暗淡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-06 04:44:00",
+		"enddate":"2012-04-06 04:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-06\/04446011533.shtml\">read more<\/a>",
+		"title":"狗吞美国大师赛门票悲喜剧：虽非实名制仍可入场",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-08 06:01:00",
+		"enddate":"2012-04-08 06:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-08\/06016014028.shtml\">read more<\/a>",
+		"title":"美国业余锦标赛冠军顺利晋级 下周一准备转职业",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-11 08:25:00",
+		"enddate":"2012-04-11 08:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-11\/08256017817.shtml\">read more<\/a>",
+		"title":"米克尔森一洞崩溃输掉大师赛 倒霉小球成球迷珍藏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-07 08:08:00",
+		"enddate":"2012-04-07 08:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-07\/08086012836.shtml\">read more<\/a>",
+		"title":"美国大师赛卡波斯杜夫纳领先 小麦崛起伍兹挣扎",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-08 07:40:00",
+		"enddate":"2012-04-08 07:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-08\/07406014063.shtml\">read more<\/a>",
+		"title":"美国大师赛米克尔森落后汉森1杆 争第四件绿茄克",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-08 07:04:00",
+		"enddate":"2012-04-08 07:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-08\/07046014052.shtml\">read more<\/a>",
+		"title":"伍德兰德手腕受伤第三轮85杆 宣布退出美国大师赛",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-04-09 04:04:00",
+		"enddate":"2012-04-09 04:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/golf\/2012-04-09\/04046015057.shtml\">read more<\/a>",
+		"title":"大师赛最后一轮伍兹74杆 或遇职业生涯最差名次",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_6_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu6_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu6_type",
+	"size_importance":"true"
+}]

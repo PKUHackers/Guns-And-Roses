@@ -1,0 +1,264 @@
+[
+{
+	"title":"烟台银行高管窝案",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-06-08 01:36:00",
+		"enddate":"2012-06-08 01:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120608\/013612255468.shtml\">read more<\/a>",
+		"title":"支行行长潜逃案未了解 烟台银行管理层地震",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 04:33:00",
+		"enddate":"2012-06-08 04:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120608\/043312256666.shtml\">read more<\/a>",
+		"title":"烟台银行高管层再发集体变动",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-08 07:03:00",
+		"enddate":"2012-06-08 07:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120608\/070312257934.shtml\">read more<\/a>",
+		"title":"华电四次转让烟台银行股权无果",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-11 15:09:00",
+		"enddate":"2012-06-11 15:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120611\/150912280087.shtml\">read more<\/a>",
+		"title":"烟台银行罢免董事长新进展 传庄永辉被批捕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-12 01:48:00",
+		"enddate":"2012-06-12 01:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120612\/014812284463.shtml\">read more<\/a>",
+		"title":"烟台银行高层陷窝案 急聘风险官防阻风险",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-12 01:57:00",
+		"enddate":"2012-06-12 01:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120612\/015712284531.shtml\">read more<\/a>",
+		"title":"烟台银行罢免董事长另有隐情",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-15 01:40:00",
+		"enddate":"2012-06-15 01:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120615\/014012317770.shtml\">read more<\/a>",
+		"title":"烟台银行多名高管被双规 省审计厅已进驻核查",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-18 09:36:00",
+		"enddate":"2012-06-18 09:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120618\/093612338522.shtml\">read more<\/a>",
+		"title":"烟台银行案38人被带走 内部低调大洗牌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-18 10:11:00",
+		"enddate":"2012-06-18 10:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120618\/101112339005.shtml\">read more<\/a>",
+		"title":"烟台银行重案第7天 华电接盘者隐现",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-19 01:22:00",
+		"enddate":"2012-06-19 01:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120619\/012212344811.shtml\">read more<\/a>",
+		"title":"烟台银行新任高管临危受命欲重塑声誉",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-25 10:06:00",
+		"enddate":"2012-06-25 10:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120625\/100612390166.shtml\">read more<\/a>",
+		"title":"德州扒鸡集团或被烟台银行董事长庄永辉利用",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-26 03:19:00",
+		"enddate":"2012-06-26 03:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120626\/031912396921.shtml\">read more<\/a>",
+		"title":"烟台银行新任董事长和行长亮相",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-27 00:24:00",
+		"enddate":"2012-06-27 00:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120627\/002412406974.shtml\">read more<\/a>",
+		"title":"烟台银行改组董事会 华电低价转股引发争议",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-02 08:29:00",
+		"enddate":"2012-07-02 08:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120702\/082912452279.shtml\">read more<\/a>",
+		"title":"烟台银行1.5亿股股权交易内幕：神秘商人浮现",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-07-13 10:16:00",
+		"enddate":"2012-07-13 10:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/bank\/bank_hydt\/20120713\/101612559294.shtml\">read more<\/a>",
+		"title":"烟台银行迷案漩涡：内部人控制引发窝案",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-06-26 04:22:00",
+		"enddate":"2012-06-26 04:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20120626\/042212397512.shtml\">read more<\/a>",
+		"title":"烟台银行股东大会罢免前董事长庄永辉等高管",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_19_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing19_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing19_type",
+	"size_importance":"true"
+}]

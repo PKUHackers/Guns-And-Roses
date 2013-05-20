@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012福布斯中国富豪榜",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-15 08:23:00",
+		"enddate":"2012-10-15 08:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/leadership\/crz\/20121015\/082313366799.shtml\">read more<\/a>",
+		"title":"2012福布斯中国富豪榜前100富豪资产缩水7%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 10:53:00",
+		"enddate":"2012-10-12 10:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20121012\/105313351273.shtml\">read more<\/a>",
+		"title":"2012年福布斯中国富豪榜前101-200名榜单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-13 03:00:00",
+		"enddate":"2012-10-13 03:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20121013\/030013358074.shtml\">read more<\/a>",
+		"title":"福布斯中国富豪榜出炉：前百位富豪财富缩水7%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 17:23:00",
+		"enddate":"2012-10-15 17:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/leadership\/crz\/20121015\/172313372779.shtml\">read more<\/a>",
+		"title":"新生代企业家进入政府视野 宗庆后之女身价100多亿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 10:46:00",
+		"enddate":"2012-10-12 10:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/leadership\/crz\/20121012\/104613351238.shtml\">read more<\/a>",
+		"title":"福布斯：2012中国最受瞩目10对富豪夫妻",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 10:43:00",
+		"enddate":"2012-10-12 10:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/leadership\/crz\/20121012\/104313351249.shtml\">read more<\/a>",
+		"title":"盘点持续十年登榜福布斯中国富豪（组图）",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 10:04:00",
+		"enddate":"2012-10-12 10:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/leadership\/crz\/20121012\/100413350576.shtml\">read more<\/a>",
+		"title":"宗庆后100亿美元身家再次问鼎中国首富",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 10:41:00",
+		"enddate":"2012-10-12 10:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20121012\/104113351137.shtml\">read more<\/a>",
+		"title":"2012年福布斯中国富豪榜单1-100名",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 10:38:00",
+		"enddate":"2012-10-12 10:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/leadership\/crz\/20121012\/103813351125.shtml\">read more<\/a>",
+		"title":"23位女性登上2012福布斯中国富豪榜 吴亚军居首",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 11:07:00",
+		"enddate":"2012-10-12 11:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20121012\/110713351715.shtml\">read more<\/a>",
+		"title":"聚焦福布斯中国富豪 互联网大佬排名集体上升",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 10:50:00",
+		"enddate":"2012-10-12 10:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/leadership\/crz\/20121012\/105013351395.shtml\">read more<\/a>",
+		"title":"吴亚军夫妇成中国最富有夫妻 财富达390亿元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 10:36:00",
+		"enddate":"2012-10-12 10:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20121012\/103613351728.shtml\">read more<\/a>",
+		"title":"2012福布斯中国富豪榜发布 宗庆后重登首富宝座",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 11:14:00",
+		"enddate":"2012-10-12 11:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/leadership\/crz\/20121012\/111413351771.shtml\">read more<\/a>",
+		"title":"福布斯中国富豪榜科技行业领军者财富增减参半",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 07:58:00",
+		"enddate":"2012-10-15 07:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20121015\/075813366220.shtml\">read more<\/a>",
+		"title":"2012福布斯前百位富豪总资产较去年缩水7%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 07:28:00",
+		"enddate":"2012-10-15 07:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/20121015\/072813366302.shtml\">read more<\/a>",
+		"title":"福布斯中国富豪榜发布 前百强资产较去年缩水7%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_11_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing11_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing11_type",
+	"size_importance":"true"
+}]

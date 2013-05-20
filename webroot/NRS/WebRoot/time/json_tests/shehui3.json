@@ -1,0 +1,324 @@
+[
+{
+	"title":"公安局政委女儿冒名顶替事件",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-05-20 11:56:00",
+		"enddate":"2009-05-20 11:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/sd\/2009-05-20\/115617854124_2.shtml\">read more<\/a>",
+		"title":"罗彩霞曾被游说更改身份证号码",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-07 04:01:00",
+		"enddate":"2009-05-07 04:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-05-07\/040117760208.shtml\">read more<\/a>",
+		"title":"公安局政委女儿顶替上学续：被指花3万打通关系",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-06 05:37:00",
+		"enddate":"2009-05-06 05:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-05-06\/053717752610.shtml\">read more<\/a>",
+		"title":"公安局政委女儿冒名顶替上学事件造假过程存疑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-08 06:37:00",
+		"enddate":"2009-05-08 06:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-05-08\/063717769844.shtml\">read more<\/a>",
+		"title":"官员女儿冒名读大学路线图：迁移证公章系伪造",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-13 09:49:00",
+		"enddate":"2009-05-13 09:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-05-13\/094917804898.shtml\">read more<\/a>",
+		"title":"贵州师大教师称代领通知书不知有冒名行为",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-08 16:39:00",
+		"enddate":"2009-05-08 16:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-05-08\/163917774579.shtml\">read more<\/a>",
+		"title":"湖南全面彻查公安局政委女儿冒名上学事件",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-10 01:25:00",
+		"enddate":"2009-05-10 01:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-05-10\/012517780786.shtml\">read more<\/a>",
+		"title":"公安局政委女儿顶替上学续:冒名者毕业证被注销",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-21 14:12:00",
+		"enddate":"2009-05-21 14:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-05-21\/141217862407.shtml\">read more<\/a>",
+		"title":"官员女儿冒名读书案最快7月在天津开庭",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-09 05:00:00",
+		"enddate":"2009-05-09 05:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-05-09\/050017777206.shtml\">read more<\/a>",
+		"title":"贵州师大教授领走被顶替者通知书",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-12 04:16:00",
+		"enddate":"2009-05-12 04:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-05-12\/041617792987.shtml\">read more<\/a>",
+		"title":"教育部谈冒名上学案：严查违纪违规单位和人员",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-13 14:00:00",
+		"enddate":"2009-05-13 14:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-05-13\/140017806356.shtml\">read more<\/a>",
+		"title":"官员女儿顶替上学:贵州师大院长违规代领通知书",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-09 04:23:00",
+		"enddate":"2009-05-09 04:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-05-09\/042317776881.shtml\">read more<\/a>",
+		"title":"湖南公安厅介入公安局政委女儿顶替上大学事件",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-08 06:40:00",
+		"enddate":"2009-05-08 06:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-05-08\/064017769986.shtml\">read more<\/a>",
+		"title":"公安局政委女儿顶替上学续:录取通知被教授领走",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-07 07:21:00",
+		"enddate":"2009-05-07 07:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-05-07\/072117762296_2.shtml\">read more<\/a>",
+		"title":"王佳俊冒名顶替读大学路线图",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-05 06:25:00",
+		"enddate":"2009-05-05 06:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/p\/2009-05-05\/062517745519.shtml\">read more<\/a>",
+		"title":"公安局政委女儿冒名顶替上大学(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-15 07:02:00",
+		"enddate":"2009-05-15 07:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-05-15\/070217819265.shtml\">read more<\/a>",
+		"title":"贵州师大称对罗彩霞入学信息核查存在疏漏",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-07 07:21:00",
+		"enddate":"2009-05-07 07:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-05-07\/072117762284.shtml\">read more<\/a>",
+		"title":"王佳俊的父亲王峥嵘：会给社会一个交代",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-11 06:11:00",
+		"enddate":"2009-05-11 06:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-05-11\/061115602684s.shtml\">read more<\/a>",
+		"title":"罗彩霞档案在当地招办主任家",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-18 11:21:00",
+		"enddate":"2009-05-18 11:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-05-18\/112117837754.shtml\">read more<\/a>",
+		"title":"官员女儿冒名上学反受同情 疑有网络枪手操盘",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-05-20 13:59:00",
+		"enddate":"2009-05-20 13:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-05-20\/135917854447.shtml\">read more<\/a>",
+		"title":"官员女儿冒名上学续：法官赴湖南贵州送起诉书",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_3_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shehui_type"},
+		"ypix":"0",
+		"id":"shehui3_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shehui3_type",
+	"size_importance":"true"
+}]

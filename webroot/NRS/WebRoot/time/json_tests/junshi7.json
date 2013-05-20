@@ -1,0 +1,324 @@
+[
+{
+	"title":"第八届珠海航展",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2010-11-16 13:20:00",
+		"enddate":"2010-11-16 13:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-16\/1320619275.html\">read more<\/a>",
+		"title":"歼十表演密集编队特技 未进行6机表演(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-22 06:44:00",
+		"enddate":"2010-11-22 06:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-22\/0644620180.html\">read more<\/a>",
+		"title":"巴基斯坦空军基地司令：歼10机动动作令人震撼",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-16 11:39:00",
+		"enddate":"2010-11-16 11:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-16\/1139619263.html\">read more<\/a>",
+		"title":"中国长城公司采购8星20箭用于对外航天服务",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-16 14:09:00",
+		"enddate":"2010-11-16 14:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-16\/1409619289.html\">read more<\/a>",
+		"title":"中国明年为巴基斯坦等国进行3次卫星商业发射",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-16 10:14:00",
+		"enddate":"2010-11-16 10:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-16\/1014619248.html\">read more<\/a>",
+		"title":"国产反航母导弹亮相 制导炸弹创零误差记录",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-24 10:23:00",
+		"enddate":"2010-11-24 10:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-24\/1023620552.html\">read more<\/a>",
+		"title":"评论称我国民众对航空业关注不足不利行业发展",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-16 10:03:00",
+		"enddate":"2010-11-16 10:03:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-16\/1003619245.html\">read more<\/a>",
+		"title":"六家航空企业今日将签约购买国产C919客机(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-23 08:59:00",
+		"enddate":"2010-11-23 08:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-11-23\/0859620363.html\">read more<\/a>",
+		"title":"空域开放成珠海航展热议话题 通航企业跃跃欲试",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-24 11:43:00",
+		"enddate":"2010-11-24 11:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-24\/1143620566.html\">read more<\/a>",
+		"title":"国产L-15猎鹰出口竞争力超过韩国金鹰高教机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-17 12:40:00",
+		"enddate":"2010-11-17 12:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-17\/1240619491.html\">read more<\/a>",
+		"title":"中国未来20年对支线客机需求量将达950架",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-21 20:22:00",
+		"enddate":"2010-11-21 20:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/s\/2010-11-21\/2022620142.html\">read more<\/a>",
+		"title":"珠海航展成交254架各种型号飞机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-19 10:19:00",
+		"enddate":"2010-11-19 10:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-19\/1019619848.html\">read more<\/a>",
+		"title":"国产WJ-600无人机挂载2枚导弹具备隐形能力(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-16 23:28:00",
+		"enddate":"2010-11-16 23:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-16\/2328619397.html\">read more<\/a>",
+		"title":"第八届珠海航展开幕 航天科技集团签160亿大单",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-18 00:40:00",
+		"enddate":"2010-11-18 00:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-18\/0040619568.html\">read more<\/a>",
+		"title":"KJ200总师：KJ200动力系统达世界先进水平",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-17 07:08:00",
+		"enddate":"2010-11-17 07:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-17\/0708619438.html\">read more<\/a>",
+		"title":"郭伯雄会见参观珠海航展15国军事代表团",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-16 14:43:00",
+		"enddate":"2010-11-16 14:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-16\/1443619298.html\">read more<\/a>",
+		"title":"空客高管称有信心面对与中国C919客机竞争(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-23 17:18:00",
+		"enddate":"2010-11-23 17:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-23\/1718620466.html\">read more<\/a>",
+		"title":"陈虎：歼10小速度低空平飞性能好利于实战(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-20 09:48:00",
+		"enddate":"2010-11-20 09:48:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-20\/0948620000.html\">read more<\/a>",
+		"title":"媒体称中国无人机研制技术力图赶超美国以色列",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-17 10:52:00",
+		"enddate":"2010-11-17 10:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-17\/1052619473.html\">read more<\/a>",
+		"title":"空客今年在中国获69架新订单 西藏航空购A319",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-11-21 15:46:00",
+		"enddate":"2010-11-21 15:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/mil.news.sina.com.cn\/2010-11-21\/1546620140.html\">read more<\/a>",
+		"title":"八一飞行队队长揭秘歼十和枭龙表演动作不同",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"junshi_7_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"junshi_type"},
+		"ypix":"0",
+		"id":"junshi7_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"junshi7_type",
+	"size_importance":"true"
+}]

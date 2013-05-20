@@ -1,0 +1,324 @@
+[
+{
+	"title":"大学生救人3人溺亡",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2009-10-27 14:16:00",
+		"enddate":"2009-10-27 14:16:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-10-27\/141618918699.shtml\">read more<\/a>",
+		"title":"大学生救人3人溺亡续：救人者名单披露",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-27 16:54:00",
+		"enddate":"2009-11-27 16:54:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-11-27\/165419142153.shtml\">read more<\/a>",
+		"title":"湖北救落水少年者被授全国见义勇为英雄群体",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-13 04:01:00",
+		"enddate":"2009-11-13 04:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-11-13\/040119036479.shtml\">read more<\/a>",
+		"title":"长江大学英雄集体首场报告会举行",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-30 01:22:00",
+		"enddate":"2009-10-30 01:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-30\/012218936752.shtml\">read more<\/a>",
+		"title":"三名舍己救人大学生家人各获50万元奖励",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-07 01:30:00",
+		"enddate":"2009-11-07 01:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-11-07\/013016567612s.shtml\">read more<\/a>",
+		"title":"大学生救人溺亡调查：捞尸者数钱照被曝光(图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-01 00:00:00",
+		"enddate":"2009-11-01 00:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-11-01\/000018949198.shtml\">read more<\/a>",
+		"title":"谭晶用歌声向救人牺牲大学生致敬",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-09 06:45:00",
+		"enddate":"2009-11-09 06:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-11-09\/064519004976.shtml\">read more<\/a>",
+		"title":"大学生救人溺亡事件打捞公司退还3.6万元打捞费",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-06 02:08:00",
+		"enddate":"2009-11-06 02:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-11-06\/020818985008.shtml\">read more<\/a>",
+		"title":"湖北荆州市调查打捞大学生英雄遗体全过程",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-26 22:32:00",
+		"enddate":"2009-10-26 22:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/p\/2009-10-26\/223218912290.shtml\">read more<\/a>",
+		"title":"市民自发到江边哀悼救人溺亡大学生",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-29 04:35:00",
+		"enddate":"2009-10-29 04:35:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-29\/043518930204.shtml\">read more<\/a>",
+		"title":"18名救人大学生被授予湖北省道德模范特别奖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-06 15:56:00",
+		"enddate":"2009-11-06 15:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-11-06\/155618992139.shtml\">read more<\/a>",
+		"title":"大学生结梯救人事迹将搬上银幕",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-11 05:05:00",
+		"enddate":"2009-11-11 05:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-11-11\/050519020066.shtml\">read more<\/a>",
+		"title":"湖北省政府追认3位救人大学生为烈士",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-02 02:10:00",
+		"enddate":"2009-11-02 02:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-11-02\/021018953063.shtml\">read more<\/a>",
+		"title":"长江大学救人英雄集体先进事迹座谈会召开",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-06 21:07:00",
+		"enddate":"2009-11-06 21:07:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-11-06\/210718993010.shtml\">read more<\/a>",
+		"title":"长江大学英雄群体代表将进京作报告",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-28 11:06:00",
+		"enddate":"2009-10-28 11:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-28\/110618925831.shtml\">read more<\/a>",
+		"title":"大学生舍己救人再次引发价值观之争",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-27 04:15:00",
+		"enddate":"2009-10-27 04:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/p\/2009-10-27\/041518913788.shtml\">read more<\/a>",
+		"title":"大学生救人3人溺亡续：救人者称仍将帮助求援者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-06 18:56:00",
+		"enddate":"2009-11-06 18:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-11-06\/185618992762.shtml\">read more<\/a>",
+		"title":"长江大学救人大学生代表：道德不能以数字衡量",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-30 02:18:00",
+		"enddate":"2009-10-30 02:18:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-10-30\/021818936907.shtml\">read more<\/a>",
+		"title":"湖北3位舍己救人大学生家庭各获奖励50万元",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-10-28 10:30:00",
+		"enddate":"2009-10-28 10:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2009-10-28\/103018925550.shtml\">read more<\/a>",
+		"title":"3大学生救人溺亡续：被追授见义勇为荣誉称号",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2009-11-01 03:01:00",
+		"enddate":"2009-11-01 03:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2009-11-01\/030118949428.shtml\">read more<\/a>",
+		"title":"3名学生救人溺亡事件渔夫见死不救说法不实",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_1_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shehui_type"},
+		"ypix":"0",
+		"id":"shehui1_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shehui1_type",
+	"size_importance":"true"
+}]

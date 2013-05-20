@@ -1,0 +1,324 @@
+[
+{
+	"title":"健康元被曝采购1.45亿地沟油制药",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-06 01:34:00",
+		"enddate":"2012-09-06 01:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/consume\/puguangtai\/20120906\/013413057206.shtml\">read more<\/a>",
+		"title":"健康元股东会避谈地沟油 高层集体缄口",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-05 03:25:00",
+		"enddate":"2012-09-05 03:25:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/consume\/puguangtai\/20120905\/032513046886.shtml\">read more<\/a>",
+		"title":"地沟油链条起底：从惠康流向60多家企业",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 06:39:00",
+		"enddate":"2012-08-31 06:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/consume\/puguangtai\/20120831\/063913008468.shtml\">read more<\/a>",
+		"title":"焦作市食药监否认健康元由其监管",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 05:34:00",
+		"enddate":"2012-08-31 05:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20120831\/053413008088.shtml\">read more<\/a>",
+		"title":"地沟油潜伏：健康元双面受困",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-05 01:42:00",
+		"enddate":"2012-09-05 01:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/consume\/puguangtai\/20120905\/014213046034.shtml\">read more<\/a>",
+		"title":"地沟油事件冲击波：7-ACA货源紧张",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 11:27:00",
+		"enddate":"2012-08-31 11:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/consume\/puguangtai\/20120831\/112713012138.shtml\">read more<\/a>",
+		"title":"健康元澄清采购地沟油 称不定期抽检均合格",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 16:42:00",
+		"enddate":"2012-08-31 16:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20120831\/164213014620.shtml\">read more<\/a>",
+		"title":"健康元复牌跌停 30只基金踩雷浮亏千万",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 10:20:00",
+		"enddate":"2012-08-31 10:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20120831\/102013011226.shtml\">read more<\/a>",
+		"title":"健康元被曝买地沟油制造原料 或已流向下游药企",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 15:02:00",
+		"enddate":"2012-08-31 15:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20120831\/150213013695.shtml\">read more<\/a>",
+		"title":"健康元称买地沟油分厂系化工厂 一个跌停打不住",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 13:31:00",
+		"enddate":"2012-08-30 13:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20120830\/133113000912.shtml\">read more<\/a>",
+		"title":"健康元回应地沟油事件：没办法检测地沟油",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 13:12:00",
+		"enddate":"2012-08-30 13:12:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20120830\/131213000933.shtml\">read more<\/a>",
+		"title":"健康元公告：媒体报道需澄清 临时停牌一天",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 07:37:00",
+		"enddate":"2012-08-31 07:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/consume\/puguangtai\/20120831\/073713009007.shtml\">read more<\/a>",
+		"title":"健康元称产品质量好于同行业",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-05 01:29:00",
+		"enddate":"2012-09-05 01:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/consume\/puguangtai\/20120905\/012913045895.shtml\">read more<\/a>",
+		"title":"药监局调查组进驻健康元 地沟油事件有初步结论",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-04 12:50:00",
+		"enddate":"2012-09-04 12:50:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/consume\/puguangtai\/20120904\/125013041084.shtml\">read more<\/a>",
+		"title":"地沟油产业链揭秘：原料低廉利润最高达300%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-04 17:21:00",
+		"enddate":"2012-09-04 17:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/consume\/puguangtai\/20120904\/172113043497.shtml\">read more<\/a>",
+		"title":"健康元地沟油制药再发酵 自称未检出不合格",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 17:51:00",
+		"enddate":"2012-08-30 17:51:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20120830\/175113003337.shtml\">read more<\/a>",
+		"title":"健康元公告称不知掺地沟油 若质量问题愿担责",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-31 06:39:00",
+		"enddate":"2012-08-31 06:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/consume\/puguangtai\/20120831\/063913008466.shtml\">read more<\/a>",
+		"title":"健康元回应称对地沟油不知清 也是受害者",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-05 23:06:00",
+		"enddate":"2012-09-05 23:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/cyxw\/20120905\/230613056474.shtml\">read more<\/a>",
+		"title":"健康元陷地沟油制药门 老板朱保国叫屈遭质疑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-03 09:21:00",
+		"enddate":"2012-09-03 09:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/consume\/20120903\/092113027474.shtml\">read more<\/a>",
+		"title":"药学专家称地沟油不影响药品质量 呼吁不必恐慌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-06 10:53:00",
+		"enddate":"2012-09-06 10:53:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/consume\/puguangtai\/20120906\/105313063358.shtml\">read more<\/a>",
+		"title":"7种方法难让地沟油现形 工商部门称无奈不敢检测",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_2_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing2_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing2_type",
+	"size_importance":"true"
+}]

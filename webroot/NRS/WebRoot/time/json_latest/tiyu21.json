@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012年足协杯",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-09-27 02:01:00",
+		"enddate":"2012-09-27 02:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-09-27\/02016240558.shtml\">read more<\/a>",
+		"title":"里皮用最小代价晋级决赛 人和若冠将创多项纪录",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_21_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-29 15:56:00",
+		"enddate":"2012-09-29 15:56:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/c\/2012-09-29\/15566243509.shtml\">read more<\/a>",
+		"title":"足协杯夺冠奖3千万 贵州有望刷新中国足球奖金纪录",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_21_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 11:28:00",
+		"enddate":"2012-09-27 11:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-09-27\/11286241184.shtml\">read more<\/a>",
+		"title":"人和将士赢球后微博“卖萌” 球迷：太激动无需低调",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_21_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 21:38:00",
+		"enddate":"2012-09-26 21:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-09-26\/21386240451.shtml\">read more<\/a>",
+		"title":"辽足高层压阵未能翻盘 马林无奈实力不济踢不赢正常",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_21_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 09:37:00",
+		"enddate":"2012-09-27 09:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-09-27\/09376240898.shtml\">read more<\/a>",
+		"title":"战术保守鲁能足协杯折戟 亚冠梦碎撕掉最后遮羞布",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_21_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 13:57:00",
+		"enddate":"2012-09-26 13:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-09-26\/13576240086.shtml\">read more<\/a>",
+		"title":"里皮：疲劳不是问题 手中有足够球员应付足协杯",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_21_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 14:49:00",
+		"enddate":"2012-09-27 14:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-09-27\/14496241365.shtml\">read more<\/a>",
+		"title":"足协杯宏运尽遣主力仍遭淘汰 辽媒：专心保级吧",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_21_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 14:40:00",
+		"enddate":"2012-09-27 14:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-09-27\/14406241356.shtml\">read more<\/a>",
+		"title":"主力上阵恒大不弃鸡肋 淘汰辽宁与贵州争冠足协杯",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_21_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 11:24:00",
+		"enddate":"2012-09-27 11:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-09-27\/11246241173.shtml\">read more<\/a>",
+		"title":"里皮称若郑智孔卡同在场可打343：这是机动和自由的",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_21_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 17:15:00",
+		"enddate":"2012-10-11 17:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-10-11\/17156254865.shtml\">read more<\/a>",
+		"title":"媒曝足协杯决赛首战定11月11日 冠军队足协仅发50万",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_21_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 22:27:00",
+		"enddate":"2012-09-26 22:27:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-09-26\/22276240501.shtml\">read more<\/a>",
+		"title":"恒大又丢俩！里皮信任的铁卫冒顶！伊蒂哈德偷着笑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_21_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 08:06:00",
+		"enddate":"2012-09-27 08:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-09-27\/08066240738.shtml\">read more<\/a>",
+		"title":"“土帅”PK高洪波完胜吴金贵 鲁能亚冠梦再成空",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_21_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 17:40:00",
+		"enddate":"2012-09-26 17:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-09-26\/17406240300.shtml\">read more<\/a>",
+		"title":"董平生怒批鲁能一把好牌又打臭 评贵州队使诈装熊",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_21_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 09:43:00",
+		"enddate":"2012-09-27 09:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-09-27\/09436240926.shtml\">read more<\/a>",
+		"title":"执教鲁能第二场被喊下课 吴金贵：理解球迷的做法",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_21_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 06:38:00",
+		"enddate":"2012-09-27 06:38:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/sports.sina.com.cn\/j\/2012-09-27\/06386240659.shtml\">read more<\/a>",
+		"title":"足协尴尬规则令足协杯亚军贬值 亚冠席位属于联赛第4",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"tiyu_21_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"tiyu_type"},
+		"ypix":"0",
+		"id":"tiyu21_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"tiyu21_type",
+	"size_importance":"true"
+}]

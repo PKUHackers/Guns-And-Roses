@@ -1,0 +1,249 @@
+[
+{
+	"title":"2012诺贝尔奖",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-10 18:34:00",
+		"enddate":"2012-10-10 18:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-10\/183425330896.shtml\">read more<\/a>",
+		"title":"2位美国科学家获2012年诺贝尔化学奖(简介)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 07:19:00",
+		"enddate":"2012-10-17 07:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-17\/071925374509.shtml\">read more<\/a>",
+		"title":"日本内阁拟凑钱给诺奖得主买洗衣机",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 02:39:00",
+		"enddate":"2012-10-11 02:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-11\/023925332416.shtml\">read more<\/a>",
+		"title":"诺贝尔化学奖获得者4月受聘为清华客座教授",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-13 15:32:00",
+		"enddate":"2012-10-13 15:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-10-13\/153225351740.shtml\">read more<\/a>",
+		"title":"国民党副主席蒋孝严:希望莫言到台湾文化交流",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 19:02:00",
+		"enddate":"2012-10-11 19:02:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-10-11\/190225339385.shtml\">read more<\/a>",
+		"title":"我国作家莫言获得诺贝尔文学奖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 14:10:00",
+		"enddate":"2012-10-11 14:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-10-11\/141025337827.shtml\">read more<\/a>",
+		"title":"网传莫言已飞往瑞典 签约公司称不知其行踪",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 20:05:00",
+		"enddate":"2012-10-11 20:05:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-10-11\/200525339576.shtml\">read more<\/a>",
+		"title":"莫言回应获奖：不能代表什么将继续努力创作",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-13 15:22:00",
+		"enddate":"2012-10-13 15:22:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-10-13\/152225351742.shtml\">read more<\/a>",
+		"title":"山东邮政推出莫言获诺贝尔文学奖纪念邮戳",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 19:04:00",
+		"enddate":"2012-10-11 19:04:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-10-11\/190425339396.shtml\">read more<\/a>",
+		"title":"莫言获诺贝尔文学奖 写作风格以大胆著称",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 02:59:00",
+		"enddate":"2012-10-16 02:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-16\/025925364296.shtml\">read more<\/a>",
+		"title":"美国诺贝尔经济学奖获得者曾是空军在中国服役",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 14:41:00",
+		"enddate":"2012-10-12 14:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2012-10-12\/144125345997.shtml\">read more<\/a>",
+		"title":"莫言：生活中可以是孙子 写小说时胆大包天",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-11 18:19:00",
+		"enddate":"2012-10-11 18:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-10-11\/181925339247.shtml\">read more<\/a>",
+		"title":"媒体称莫言对今晚诺贝尔奖结果非常低调",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 17:01:00",
+		"enddate":"2012-10-12 17:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-12\/170125346934.shtml\">read more<\/a>",
+		"title":"欧洲联盟获2012年度诺贝尔和平奖",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-10 05:30:00",
+		"enddate":"2012-10-10 05:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/w\/2012-10-10\/053025325827.shtml\">read more<\/a>",
+		"title":"诺贝尔医学奖得主曾被老师骂：笨到不该学科学",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 15:41:00",
+		"enddate":"2012-10-12 15:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2012-10-12\/154125346385.shtml\">read more<\/a>",
+		"title":"外交部：对莫言获得诺贝尔文学奖表示祝贺",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"guoji_1_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"guoji_type"},
+		"ypix":"0",
+		"id":"guoji1_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"guoji1_type",
+	"size_importance":"true"
+}]

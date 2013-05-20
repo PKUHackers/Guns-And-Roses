@@ -1,0 +1,249 @@
+[
+{
+	"title":"人民币汇率近期持续升值",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-15 19:26:00",
+		"enddate":"2012-10-15 19:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20121015\/192613373359.shtml\">read more<\/a>",
+		"title":"人民币即期汇价连续三日创汇改新高",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 18:40:00",
+		"enddate":"2012-10-12 18:40:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20121012\/184013355455.shtml\">read more<\/a>",
+		"title":"贬值预期消散 人民币兑美元周五大涨",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 02:30:00",
+		"enddate":"2012-10-17 02:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/hgjj\/20121017\/023013388464.shtml\">read more<\/a>",
+		"title":"人民币对美元汇率创4个月新高",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 18:32:00",
+		"enddate":"2012-10-16 18:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20121016\/183213385609.shtml\">read more<\/a>",
+		"title":"人民币即期汇价刷新收盘新高",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-13 01:15:00",
+		"enddate":"2012-10-13 01:15:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20121013\/011513356951.shtml\">read more<\/a>",
+		"title":"人民币即期汇率与中间价联袂创新高",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 02:44:00",
+		"enddate":"2012-10-16 02:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20121016\/024413376010.shtml\">read more<\/a>",
+		"title":"人民币中间价创三个月新高 外汇掉期交易汹涌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 09:37:00",
+		"enddate":"2012-10-18 09:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20121018\/093713405023.shtml\">read more<\/a>",
+		"title":"人民币中间价实现六连升 ",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 10:19:00",
+		"enddate":"2012-10-18 10:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/jrxw\/20121018\/101913405942.shtml\">read more<\/a>",
+		"title":"人民币对美元汇率中间价连续6日上涨再创新高",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 13:41:00",
+		"enddate":"2012-10-15 13:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20121015\/134113370190.shtml\">read more<\/a>",
+		"title":"人民币兑美元汇率破6.26 午盘走平",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 02:46:00",
+		"enddate":"2012-10-17 02:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20121017\/024613388618.shtml\">read more<\/a>",
+		"title":"9月人民币实际有效汇率贬值0.68%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-18 03:41:00",
+		"enddate":"2012-10-18 03:41:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20121018\/034113401621.shtml\">read more<\/a>",
+		"title":"人民币中间价五连升 收盘再创新高",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 08:47:00",
+		"enddate":"2012-10-15 08:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/world\/ggjj\/20121015\/084713366882.shtml\">read more<\/a>",
+		"title":"美推迟发布汇率报告 奥巴马力图让人民币绕开大选",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 13:47:00",
+		"enddate":"2012-10-17 13:47:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/money\/forex\/20121017\/134713395148.shtml\">read more<\/a>",
+		"title":"人民币兑美元汇率触及6.2530新高",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-12 19:08:00",
+		"enddate":"2012-10-12 19:08:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20121012\/190813355546.shtml\">read more<\/a>",
+		"title":"人民币汇率19年来首破6.27 专家:反映软着陆预期",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 14:28:00",
+		"enddate":"2012-10-16 14:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/china\/jrxw\/20121016\/142813383272.shtml\">read more<\/a>",
+		"title":"人民币对美元中间价连涨4交易日 创逾3个月新高",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_15_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing15_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing15_type",
+	"size_importance":"true"
+}]

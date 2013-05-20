@@ -1,0 +1,249 @@
+[
+{
+	"title":"美邦服饰财务造假疑云",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-10-15 20:33:00",
+		"enddate":"2012-10-15 20:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20121015\/203313374221.shtml\">read more<\/a>",
+		"title":"美邦服饰：公司“大量压货”及“财务造假”系不实传闻",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_20_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 20:52:00",
+		"enddate":"2012-10-15 20:52:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20121015\/205213373813.shtml\">read more<\/a>",
+		"title":"直面质疑 美邦服饰澄清财务造假",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_20_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 10:36:00",
+		"enddate":"2012-10-15 10:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20121015\/103613369557.shtml\">read more<\/a>",
+		"title":"美邦服饰被传做账 早盘临时停牌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_20_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 22:09:00",
+		"enddate":"2012-10-15 22:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20121015\/220913374200.shtml\">read more<\/a>",
+		"title":"美邦服饰澄清财务造假 称核心团队稳定",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_20_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 07:09:00",
+		"enddate":"2012-10-17 07:09:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20121017\/070913390635.shtml\">read more<\/a>",
+		"title":"快时尚美特斯邦威遭遇库存门",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_20_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 07:33:00",
+		"enddate":"2012-10-17 07:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20121017\/073313390903.shtml\">read more<\/a>",
+		"title":"华安博时等多基金踩雷美邦服饰 一日亏逾7000万",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_20_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 05:28:00",
+		"enddate":"2012-10-15 05:28:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20121015\/052813365139.shtml\">read more<\/a>",
+		"title":"美特斯邦威做账8亿库存有术 40核心人员因恐惧出走",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_20_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 03:19:00",
+		"enddate":"2012-10-16 03:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20121016\/031913376215.shtml\">read more<\/a>",
+		"title":"美邦服饰4000字长文否认财务造假",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_20_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 07:59:00",
+		"enddate":"2012-10-16 07:59:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20121016\/075913378564.shtml\">read more<\/a>",
+		"title":"美邦服饰澄清：严重不实",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_20_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 08:19:00",
+		"enddate":"2012-10-17 08:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20121017\/081913391487.shtml\">read more<\/a>",
+		"title":"美特斯邦威发长文自证清白 投资者不买账",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_20_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 02:26:00",
+		"enddate":"2012-10-16 02:26:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20121016\/022613375654.shtml\">read more<\/a>",
+		"title":"美邦服饰否认财务造假及粉饰报表 今日复牌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_20_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 10:21:00",
+		"enddate":"2012-10-16 10:21:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/t\/20121016\/102113381004.shtml\">read more<\/a>",
+		"title":"美邦服饰否认财务造假 今日复牌大跌7.37%",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_20_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-15 07:37:00",
+		"enddate":"2012-10-15 07:37:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/roll\/20121015\/073713366060.shtml\">read more<\/a>",
+		"title":"美特斯邦威被曝虚假销售掩盖8亿库存",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_20_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-17 07:58:00",
+		"enddate":"2012-10-17 07:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/stock\/s\/20121017\/075813391165.shtml\">read more<\/a>",
+		"title":"美邦服饰深陷做账门 澄清公告难解疑点",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_20_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-10-16 01:44:00",
+		"enddate":"2012-10-16 01:44:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/finance.sina.com.cn\/chanjing\/gsnews\/20121016\/014413376838.shtml\">read more<\/a>",
+		"title":"美特斯邦威否认财务造假掩盖8亿库存",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"caijing_20_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"caijing_type"},
+		"ypix":"0",
+		"id":"caijing20_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"caijing20_type",
+	"size_importance":"true"
+}]

@@ -1,0 +1,324 @@
+[
+{
+	"title":"养生大师李一涉嫌造假",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2010-08-25 01:00:00",
+		"enddate":"2010-08-25 01:00:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/sd\/2010-08-25\/010020967038.shtml\">read more<\/a>",
+		"title":"媒体调查称李一入道经历坎坷 经商曾一败涂地",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-19 01:36:00",
+		"enddate":"2010-08-19 01:36:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2010-08-19\/013620927011.shtml\">read more<\/a>",
+		"title":"国家宗教局局长称个别宗教人士道德沦丧",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-17 06:24:00",
+		"enddate":"2010-08-17 06:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2010-08-17\/062417975011s.shtml\">read more<\/a>",
+		"title":"一张“画皮” “养生大师”李一受质疑",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-22 01:14:00",
+		"enddate":"2010-08-22 01:14:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2010-08-22\/011418001465s.shtml\">read more<\/a>",
+		"title":"方舟子揭露李一电疗真相：穿塑料鞋可通220伏电",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-20 09:32:00",
+		"enddate":"2010-08-20 09:32:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2010-08-20\/093220939114.shtml\">read more<\/a>",
+		"title":"国家宗教局澄清李一问题相关报道",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-16 15:10:00",
+		"enddate":"2010-08-16 15:10:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/sd\/2010-08-16\/151020908219.shtml\">read more<\/a>",
+		"title":"李一生平有多种版本 宣扬辟谷可以防癌",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-24 02:42:00",
+		"enddate":"2010-08-24 02:42:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2010-08-24\/024220959468.shtml\">read more<\/a>",
+		"title":"北京大学哲学系教授汤一介卷入李一事件",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-17 03:58:00",
+		"enddate":"2010-08-17 03:58:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/o\/2010-08-17\/035817974025s.shtml\">read more<\/a>",
+		"title":"“养生大师”李一虚实探究",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-29 02:30:00",
+		"enddate":"2010-08-29 02:30:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2010-08-29\/023020994738.shtml\">read more<\/a>",
+		"title":"李一辞中国道协副会长职务 称欲静心反思过去",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-20 17:46:00",
+		"enddate":"2010-08-20 17:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2010-08-20\/174620941916.shtml\">read more<\/a>",
+		"title":"中国道教协会：保持教职人员队伍纯洁性",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-17 06:49:00",
+		"enddate":"2010-08-17 06:49:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/2010-08-17\/064920912438.shtml\">read more<\/a>",
+		"title":"养生大师李一涉嫌强奸被调查 养生班暂停报名",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-09-01 01:43:00",
+		"enddate":"2010-09-01 01:43:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/sd\/2010-09-01\/014321011942.shtml\">read more<\/a>",
+		"title":"媒体剖析李一成名路:结识名流借道家外衣牟利",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-26 07:01:00",
+		"enddate":"2010-08-26 07:01:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2010-08-26\/070120977353.shtml\">read more<\/a>",
+		"title":"厦门邪教成员被证实曾拜李一为师",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-21 06:34:00",
+		"enddate":"2010-08-21 06:34:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2010-08-21\/063420944587.shtml\">read more<\/a>",
+		"title":"多名明星被指在李一事件中推波助澜(组图)",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-19 04:11:00",
+		"enddate":"2010-08-19 04:11:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2010-08-19\/041120927762.shtml\">read more<\/a>",
+		"title":"李一养生班全部暂停 官方称继续调查不袒护",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-17 02:13:00",
+		"enddate":"2010-08-17 02:13:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/s\/sd\/2010-08-17\/021320910525.shtml\">read more<\/a>",
+		"title":"“养生大师”李一“神通”技能遭疑 养生班暂停",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_15",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-13 17:55:00",
+		"enddate":"2010-08-13 17:55:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/sd\/2010-08-13\/175520893087.shtml\">read more<\/a>",
+		"title":"受访者称道长李一与女弟子有染 利用男色敛财",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_16",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-17 23:33:00",
+		"enddate":"2010-08-17 23:33:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2010-08-17\/233320918209.shtml\">read more<\/a>",
+		"title":"重庆北碚区通报李一事件调查进程:强奸举报失实",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_17",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-29 02:20:00",
+		"enddate":"2010-08-29 02:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2010-08-29\/022020994726.shtml\">read more<\/a>",
+		"title":"重庆北碚区称未发现李一非法行医证据",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_18",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2010-08-17 06:19:00",
+		"enddate":"2010-08-17 06:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/news.sina.com.cn\/c\/2010-08-17\/061917974987s.shtml\">read more<\/a>",
+		"title":"“养生大师”李一身陷舆论漩涡",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"shehui_9_19",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"shehui_type"},
+		"ypix":"0",
+		"id":"shehui9_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"shehui9_type",
+	"size_importance":"true"
+}]

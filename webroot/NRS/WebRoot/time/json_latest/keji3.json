@@ -1,0 +1,249 @@
+[
+{
+	"title":"摩托罗拉移动中国裁员风波",
+	"color":"white",
+	"focus_date":"2012-10-01 00:00",
+	"initial_zoom":"33",
+	"events":[
+	{
+		"startdate":"2012-08-13 13:29:00",
+		"enddate":"2012-08-13 13:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-08-13\/13297497556.shtml\">read more<\/a>",
+		"title":"摩托罗拉移动全球裁员20% 关闭1/3办事处",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_0",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-27 01:45:00",
+		"enddate":"2012-09-27 01:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-27\/01457660088.shtml\">read more<\/a>",
+		"title":"摩托罗拉南京取消最后通牒 延长到11月20日解约",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_1",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-28 10:29:00",
+		"enddate":"2012-08-28 10:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-08-28\/10297554128.shtml\">read more<\/a>",
+		"title":"南京社保部门称摩托罗拉南京裁人未获批准",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_2",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-13 02:29:00",
+		"enddate":"2012-09-13 02:29:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-13\/02297612072.shtml\">read more<\/a>",
+		"title":"联想南京争抢摩托罗拉被裁员工 预计招聘100人",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_3",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-21 02:24:00",
+		"enddate":"2012-08-21 02:24:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-08-21\/02247526026.shtml\">read more<\/a>",
+		"title":"摩托罗拉发裁员通牒：北京员工中午12点前签字",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_4",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-22 02:19:00",
+		"enddate":"2012-08-22 02:19:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-08-22\/02197530777.shtml\">read more<\/a>",
+		"title":"摩托北京被裁员工或达600人：大部分员工签协议",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_5",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-11 14:57:00",
+		"enddate":"2012-09-11 14:57:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-11\/14577605765.shtml\">read more<\/a>",
+		"title":"南摩数位员工已签字离职 18人可到年底再离职",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_6",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-22 01:45:00",
+		"enddate":"2012-08-22 01:45:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-08-22\/01457530515.shtml\">read more<\/a>",
+		"title":"摩托罗拉移动内部邮件曝光：7个裁员补偿细则",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_7",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-09-26 09:23:00",
+		"enddate":"2012-09-26 09:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-09-26\/09237658201.shtml\">read more<\/a>",
+		"title":"摩托罗拉南京裁员可节后签约 工资发到10月30日",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_8",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-17 01:20:00",
+		"enddate":"2012-08-17 01:20:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-08-17\/01207514335.shtml\">read more<\/a>",
+		"title":"摩托罗拉上海公司接裁员通知 手机市场前途未卜",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_9",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 02:23:00",
+		"enddate":"2012-08-30 02:23:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-08-30\/02237562101.shtml\">read more<\/a>",
+		"title":"摩托罗拉北京HR撤离 南京员工抱团坚持上班",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_10",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-14 17:46:00",
+		"enddate":"2012-08-14 17:46:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-08-14\/17467503499.shtml\">read more<\/a>",
+		"title":"摩托罗拉在华裁员初定：销售市场部门是重灾区",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_11",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-30 03:06:00",
+		"enddate":"2012-08-30 03:06:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-08-30\/03067562260.shtml\">read more<\/a>",
+		"title":"摩托罗拉澄清南京裁员备案问题：受理有过程",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_12",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-21 02:39:00",
+		"enddate":"2012-08-21 02:39:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-08-21\/02397526342.shtml\">read more<\/a>",
+		"title":"摩托罗拉中国裁员让步：每人约增三四万元赔偿",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_13",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2012-08-28 00:31:00",
+		"enddate":"2012-08-28 00:31:00",
+		"description":"<a target=_blank href=\"\/NRS\/IndexAction.do?method=ShowContent&id=http:\/\/tech.sina.com.cn\/t\/2012-08-28\/00317551429.shtml\">read more<\/a>",
+		"title":"摩托罗拉回应孕妇裁员传言:在名单中也不受影响",
+		"importance":"25",
+		"low_threshold":"5",
+		"id":"keji_3_14",
+		"ypix":"0",
+		"event_type":"event",
+		"high_threshold":"75",
+		"slug":"",
+		"icon":"triangle_green.png"
+	},
+
+	{
+		"startdate":"2014-01-01",
+		"enddate":"2014-01-01",
+		"event_type":"event",
+		"title":"返回",
+		"importance":"35",
+		"date_limit":"da",
+		"parentTimeline":{"id":"keji_type"},
+		"ypix":"0",
+		"id":"keji3_back",
+		"click_callback":"timeglider.eventActions.upTimeline",
+		"slug":"",
+		"icon":"process\/check_COLOR.png"
+	}],
+	"id":"keji3_type",
+	"size_importance":"true"
+}]
